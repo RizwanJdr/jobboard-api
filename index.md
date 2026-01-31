@@ -1,8 +1,6 @@
 ---
-layout: default
-title: Job Board
+layout: home
+title: Latest Math Jobs
 ---
-
-# 📢 Latest Math Jobs
 
 {% include_relative JOBS.md %}
