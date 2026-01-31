@@ -1,1 +1,886 @@
-
+{
+  "updated": "2026-01-31T12:19:03.276696+00:00",
+  "count": 110,
+  "jobs": [
+    {
+      "title": "Lecturer Position in PYP-PDS, College of Sciences and Humanities",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179332075",
+      "description": "Prince Sultan University (Riyadh, Saudi Arabia)",
+      "source": "HigherEdJobs",
+      "location": "Saudi Arabia",
+      "score": 5
+    },
+    {
+      "title": "Assistant Clinical Professor in Counseling, Graduate School of Education",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179344456",
+      "description": "Fordham University (New York City, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "Assistant/Associate Professor of Applied Behavior Analysis",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179338391",
+      "description": "National Louis University (Chicago, IL)",
+      "source": "HigherEdJobs",
+      "location": "Chicago",
+      "score": 4
+    },
+    {
+      "title": "Instructional Professor of Psychology in MAPSS (Open Rank)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179338568",
+      "description": "University of Chicago (Chicago, IL)",
+      "source": "HigherEdJobs",
+      "location": "Chicago",
+      "score": 4
+    },
+    {
+      "title": "Professor, Catholic Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352340",
+      "description": "University of Chicago Divinity School (Chicago, IL)",
+      "source": "HigherEdJobs",
+      "location": "Chicago",
+      "score": 4
+    },
+    {
+      "title": "Research Associate (Part-Time)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352310",
+      "description": "New York University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "Visiting Assistant Professor of Religion - East Asian Religions",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179346454",
+      "description": "Oberlin College & Conservatory (Oberlin, OH)",
+      "source": "HigherEdJobs",
+      "location": "Berlin",
+      "score": 4
+    },
+    {
+      "title": "Postdoctoral Fellowship",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352267",
+      "description": "Suffolk University (Boston, MA)",
+      "source": "HigherEdJobs",
+      "location": "Boston",
+      "score": 3
+    },
+    {
+      "title": "814900 - Assistant/Associate/Professor Psychiatrist (343)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179330474",
+      "description": "East Tennessee State University (Johnson City, TN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Adjunct Faculty Pool - Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179343075",
+      "description": "Richard Bland College (Petersburg, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Adjunct Instructor - Applied Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179341604",
+      "description": "Oregon Institute of Technology (Klamath Falls, OR)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Adjunct Professor - Christianity",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179253655",
+      "description": "Houston Christian University (Houston, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Adjunct Professor- Community Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179331786",
+      "description": "Pacific Oaks College and Children's School (Pasadena, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Affiliate Professor of Biblical Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179349144",
+      "description": "Eastern University (St. Davids, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Clinical Professor - Clinical Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179331837",
+      "description": "Auburn University (Auburn, AL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor - Department of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179332490",
+      "description": "Clemson University (Clemson, SC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179333695",
+      "description": "Tulsa Community College (Tulsa, OK)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor - Tenure Track",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179333076",
+      "description": "University of Wisconsin - Madison (Madison, WI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179346189",
+      "description": "Landmark College (Putney, VT)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor in Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179345654",
+      "description": "Temple University, Japan Campus (Kyoto, Japan)",
+      "source": "HigherEdJobs",
+      "location": "Japan",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Developmental Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179330665",
+      "description": "SUNY Oneonta (Oneonta, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Homiletics and Director of Assessment or Grants",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179340750",
+      "description": "Capital University (Columbus, OH)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Latine Theology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179348957",
+      "description": "Molloy University (Rockville Centre, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Lutheran Theology and History and Director of Assessment or Grants",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179340721",
+      "description": "Capital University (Columbus, OH)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychological Sciences",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179331167",
+      "description": "University of Wisconsin - River Falls (River Falls, WI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179351407",
+      "description": "California State University, Bakersfield (Bakersfield, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychology - Tenure-Track or Teaching Professor Track",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179343596",
+      "description": "Elizabethtown College (Elizabethtown, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychology - Two positions, specializations open",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179339264",
+      "description": "Kentucky Wesleyan College (Owensboro, KY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychology, AGF",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179345753",
+      "description": "University of Virginia (Charlottesville, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychology, Full Time, Tenure Track",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179320643",
+      "description": "Valley City State University (Valley City, ND)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Theology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179351603",
+      "description": "St. Bonaventure University (St. Bonaventure, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Applied Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179348442",
+      "description": "Mercer University (Macon, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Clinical or Counseling Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179345859",
+      "description": "St. Lawrence University (Canton, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Department of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179336554",
+      "description": "University of Montana (Missoula, MT)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179349810",
+      "description": "Upper Iowa University (Fayette, IA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Undergraduate Psychology (F00079)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179334007",
+      "description": "Mercy University (Dobbs Ferry, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor- Applied Behavioral Analysis (ABA) Doctoral Program",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179335259",
+      "description": "Bay Path University (Longmeadow, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor-Jewish-Christian Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179340636",
+      "description": "Seton Hall University (South Orange, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor/Chair Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179336500",
+      "description": "Lasell University (Newton, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant or Associate Professor - School of Psychology and Counseling",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179339043",
+      "description": "Regent University (Virginia Beach, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate Professor - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179341745",
+      "description": "Tennessee State University (Nashville, TN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate Professor of Clinical/Counseling Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179345819",
+      "description": "Texas A&M University Corpus Christi (Corpus Christi, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate Professor, Applied Behavior Analysis",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179349512",
+      "description": "Rollins College (Winter Park, FL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate Professor, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352355",
+      "description": "Piedmont University (Demorest, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate Teaching Professor, Psycology Campus Immersion",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179350437",
+      "description": "Arizona State University - West Campus (Phoenix, AZ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate Tenure-Track Professor, Clinical Psychology Doctoral Program",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179338511",
+      "description": "Long Island University (Brookville, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate/Professor - Outpatient Geriatric Psychiatrist",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179351566",
+      "description": "University of Vermont (Burlington, VT)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Associate/Full Professor of Psychology or Communication and Chair of the Department of Psychology Communication",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179344733",
+      "description": "Texas A&M International University (Laredo, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Clinical Assistant Professor of Clinical Practice",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179345777",
+      "description": "University of Rhode Island (Kingston, RI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Clinical Associate Professor Program Director, Clinical Psychology PsyD Program (2856)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179350549",
+      "description": "Idaho State University (Pocatello, ID)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Clinical Instructor/Clinical Assistant Professor/Clinical Associate Professor/Clinical Professor/Teaching Assistant Professor/Teaching Associate Professor/Teaching Professor/Research Assistant Professor/Research Associate Professor/Research Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179331275",
+      "description": "East Carolina University (Greenville, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Director of the Child Study Center and Adjunct Assistant Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352581",
+      "description": "Wellesley College (Wellesley, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Endowed Chair, Associate/Full Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179344108",
+      "description": "Washington State University (Pullman, WA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "FTTT - Assistant Professor - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179351923",
+      "description": "Salisbury University (Salisbury, MD)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Full-Time Lecturer - Western Religion",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179331822",
+      "description": "Central Washington University (Ellensburg, WA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Interventional Psychiatrist, Clinical Assistant/Associate Professor, Psychiatry, Adult Outpatient (OPD)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179341319",
+      "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179332489",
+      "description": "Clemson University (Clemson, SC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer - Psychology - Direct Support Professional (2 Positions)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179348149",
+      "description": "Farmingdale State College (Farmingdale, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer in Asian Religions",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179347483",
+      "description": "Princeton University (Princeton, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Princeton",
+      "score": 2
+    },
+    {
+      "title": "Lecturer in Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179339402",
+      "description": "Bryant University (Smithfield, RI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer in the Core Curriculum",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179342836",
+      "description": "Seton Hall University (South Orange, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Neuropsychologist Adjoint Associate Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179348242",
+      "description": "University of Colorado Anschutz Medical Campus (Aurora, CO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Post Doc Research Associate",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179338797",
+      "description": "Purdue University (West Lafayette, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Post-Doctoral Fellow / Senior Research Assistant (Holding Functional Title of Psychology Assistant) in Department of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352338",
+      "description": "University of Hong Kong (Hong Kong, Hong Kong)",
+      "source": "HigherEdJobs",
+      "location": "Hong Kong",
+      "score": 2
+    },
+    {
+      "title": "Post-doctoral Fellow / Senior Research Assistant",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179349210",
+      "description": "University of Hong Kong (Hong Kong, Hong Kong)",
+      "source": "HigherEdJobs",
+      "location": "Hong Kong",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Associate",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179345180",
+      "description": "Rutgers, The State University of New Jersey (Piscataway, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Fellow",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179350166",
+      "description": "Harvard University (Cambridge, MA)",
+      "source": "HigherEdJobs",
+      "location": "Cambridge",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Fellow - Child Adolescent Division/Department of Psychiatry",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179342634",
+      "description": "Virginia Commonwealth University (Richmond, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Fellow- PhD Child",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179349872",
+      "description": "Augusta University (Augusta, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Fellow-PHD DBT",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179349859",
+      "description": "Augusta University (Augusta, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Fellow: Evolution of Social Behavior",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179348523",
+      "description": "Indiana University Bloomington (Bloomington, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Research Associate I, Psychology (Genetically Informed Studies of Social Connectedness)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179333069",
+      "description": "The University of Arizona (Tucson, AZ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Research Associate, Thriving Youth in a Digital Environment (TYDE), University of Virginia",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179338299",
+      "description": "University of Virginia (Charlottesville, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Researcher - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179343920",
+      "description": "Syracuse University (Syracuse, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Scholar - Numata Center for Buddhist Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179336544",
+      "description": "University of California Berkeley (Berkeley, CA)",
+      "source": "HigherEdJobs",
+      "location": "Berkeley",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Scholar, Departments of Psychology and Biobehavioral Health, The Pennsylvania State University",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179349589",
+      "description": "Penn State (University Park, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral-Pediatrics Behavioral Health (6736)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179349374",
+      "description": "University of Tennessee Health Science Center (Memphis, TN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Predoctoral or Postdoctoral Fellow in Religious Studies Judaic Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179341363",
+      "description": "Hobart and William Smith Colleges (Geneva, NY)",
+      "source": "HigherEdJobs",
+      "location": "Geneva",
+      "score": 2
+    },
+    {
+      "title": "Professor Clinical/Professional Assistant",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179348905",
+      "description": "Purdue University (West Lafayette, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Professor of Practice",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179350202",
+      "description": "The Citadel (Charleston, SC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Professor of Psychology (Open Rank, Tenure Track)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179344340",
+      "description": "Ouachita Baptist University (Arkadelphia, AR)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Professor/Associate Professor in Developmental Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179330830",
+      "description": "University of Hong Kong (Hong Kong, Hong Kong)",
+      "source": "HigherEdJobs",
+      "location": "Hong Kong",
+      "score": 2
+    },
+    {
+      "title": "Program Coordinator and Assistant Professor of Psychology, Online B.S. Psychology Program",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352121",
+      "description": "Biola University (La Mirada, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychiatrist, Clinical Assistant/Associate Professor, Psychiatry, Comprehensive Psychiatric Emergency Program (CPEP) - Full Time",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179335384",
+      "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychologist, Clinical Assistant/Associate Professor, Psychiatry, Addiction",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179343921",
+      "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychology Assistant Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179343889",
+      "description": "Los Rios Community College District (Sacramento, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychology, Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352533",
+      "description": "San Jacinto College (Houston, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Research Assistant Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179329599",
+      "description": "University of Michigan (Ann Arbor, MI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Research Associate",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179329349",
+      "description": "Brown University (Providence, RI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Research Associate in Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179350877",
+      "description": "University of Virginia (Charlottesville, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Research Fellow",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179339473",
+      "description": "University of Michigan (Ann Arbor, MI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Research Fellow in Indigenous Community Wellbeing",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179342648",
+      "description": "Harvard University (Cambridge, MA)",
+      "source": "HigherEdJobs",
+      "location": "Cambridge",
+      "score": 2
+    },
+    {
+      "title": "Research Specialist (Evaluation Research Analyst)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352084",
+      "description": "Rutgers, The State University of New Jersey (New Brunswick, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Semester Lecturer",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179341980",
+      "description": "Santa Clara University (Santa Clara, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Tenure-Track Assistant Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179349805",
+      "description": "Franklin College (Franklin, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Theology/ Assistant Teaching Professor With New Horizons Program",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179351378",
+      "description": "University of Notre Dame (Notre Dame, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179342920",
+      "description": "Indiana University Bloomington (Bloomington, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor - Religious Studies (Fall 2026)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179344851",
+      "description": "Albion College (Albion, MI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor and PRODiG+ Fellow of Clinical, Counseling, or Applied Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179350764",
+      "description": "SUNY Oneonta (Oneonta, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor in Health Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179339053",
+      "description": "Gettysburg College (Gettysburg, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor in Human Cognition",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179342419",
+      "description": "Gettysburg College (Gettysburg, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor in Psychology (841)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179338992",
+      "description": "Davidson College (Davidson, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor in Psychology, Socio-Cultural Focus",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352583",
+      "description": "Wheaton College (Norton, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor of Classics and Religious Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179344007",
+      "description": "Hamilton College (Clinton, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor of Cognitive and Behavioral Science",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179345346",
+      "description": "Washington and Lee University (Lexington, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179348752",
+      "description": "Stetson University (Deland, FL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor of Religion",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179334679",
+      "description": "Middlebury College (Middlebury, VT)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor of Theology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179350384",
+      "description": "Assumption University (Worcester, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor or Visiting Instructor in Animal Behavior, Franklin Marshall College",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179347516",
+      "description": "Franklin & Marshall College (Lancaster, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Professor of Practical Theology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179338983",
+      "description": "Indiana Wesleyan University (Marion, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    }
+  ]
+}
