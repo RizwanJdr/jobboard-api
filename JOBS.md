@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-02 07:55 UTC  
-**Total Positions:** 108
+**Last Updated:** 2026-02-03 07:48 UTC  
+**Total Positions:** 110
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 1 |
-| ★★★★☆ | 6 |
+| ★★★★☆ | 7 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 100 |
+| ★★☆☆☆ | 101 |
 
 ---
 
@@ -21,7 +21,7 @@
 - **[Lecturer Position in PYP-PDS, College of Sciences and Humanities](https://www.higheredjobs.com/details.cfm?JobCode=179332075)**  
   📍 Saudi Arabia | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (6)
+## ★★★★☆ Large Muslim Communities (7)
 
 - **[Assistant Clinical Professor in Counseling, Graduate School of Educati](https://www.higheredjobs.com/details.cfm?JobCode=179344456)**  
   📍 New York | 🔗 HigherEdJobs
@@ -38,6 +38,9 @@
 - **[Research Associate (Part-Time)](https://www.higheredjobs.com/details.cfm?JobCode=179352310)**  
   📍 New York | 🔗 HigherEdJobs
 
+- **[Researcher V - t232927](https://www.higheredjobs.com/details.cfm?JobCode=179347228)**  
+  📍 Birmingham | 🔗 HigherEdJobs
+
 - **[Visiting Assistant Professor of Religion - East Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179346454)**  
   📍 Berlin | 🔗 HigherEdJobs
 
@@ -46,7 +49,10 @@
 - **[Postdoctoral Fellowship](https://www.higheredjobs.com/details.cfm?JobCode=179352267)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (100)
+## ★★☆☆☆ Other Locations (101)
+
+- **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
+  📍 Princeton | 🔗 HigherEdJobs
 
 - **[814900 - Assistant/Associate/Professor Psychiatrist (343)](https://www.higheredjobs.com/details.cfm?JobCode=179330474)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -135,10 +141,7 @@
 - **[Assistant Professor- Applied Behavioral Analysis (ABA) Doctoral Progra](https://www.higheredjobs.com/details.cfm?JobCode=179335259)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor-Jewish-Christian Studies](https://www.higheredjobs.com/details.cfm?JobCode=179340636)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 70 more positions*
+*...and 71 more positions*
 
 ---
 

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-02T07:54:32.496479+00:00",
-  "count": 108,
+  "updated": "2026-02-03T07:47:16.762055+00:00",
+  "count": 110,
   "jobs": [
     {
       "title": "Lecturer Position in PYP-PDS, College of Sciences and Humanities",
@@ -51,6 +51,14 @@
       "score": 4
     },
     {
+      "title": "Researcher V - t232927",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179347228",
+      "description": "University of Alabama at Birmingham (Birmingham, AL)",
+      "source": "HigherEdJobs",
+      "location": "Birmingham",
+      "score": 4
+    },
+    {
       "title": "Visiting Assistant Professor of Religion - East Asian Religions",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179346454",
       "description": "Oberlin College & Conservatory (Oberlin, OH)",
@@ -65,6 +73,14 @@
       "source": "HigherEdJobs",
       "location": "Boston",
       "score": 3
+    },
+    {
+      "title": "**Revised** Lecturer in Asian Religions",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179347483",
+      "description": "Princeton University (Princeton, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Princeton",
+      "score": 2
     },
     {
       "title": "814900 - Assistant/Associate/Professor Psychiatrist (343)",
@@ -467,14 +483,6 @@
       "score": 2
     },
     {
-      "title": "Lecturer in Asian Religions",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179347483",
-      "description": "Princeton University (Princeton, NJ)",
-      "source": "HigherEdJobs",
-      "location": "Princeton",
-      "score": 2
-    },
-    {
       "title": "Lecturer in Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179339402",
       "description": "Bryant University (Smithfield, RI)",
@@ -532,10 +540,10 @@
     },
     {
       "title": "Postdoctoral Fellow",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179350166",
-      "description": "Harvard University (Cambridge, MA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179353128",
+      "description": "Penn State (University Park, PA)",
       "source": "HigherEdJobs",
-      "location": "Cambridge",
+      "location": "Unknown",
       "score": 2
     },
     {
@@ -734,6 +742,14 @@
       "title": "Semester Lecturer",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179341980",
       "description": "Santa Clara University (Santa Clara, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Senior Research Scientist - Social and Behavioral Sciences",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352806",
+      "description": "Virginia Commonwealth University (Richmond, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
