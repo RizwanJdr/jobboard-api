@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-03T07:47:16.762055+00:00",
-  "count": 110,
+  "updated": "2026-02-04T07:48:57.700120+00:00",
+  "count": 115,
   "jobs": [
     {
       "title": "Lecturer Position in PYP-PDS, College of Sciences and Humanities",
@@ -9,6 +9,22 @@
       "source": "HigherEdJobs",
       "location": "Saudi Arabia",
       "score": 5
+    },
+    {
+      "title": "Lecturer/ Assistant/ Associate Professor, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179353178",
+      "description": "Prince Mohammad Bin Fahd University (Al Khobar, Saudi Arabia)",
+      "source": "HigherEdJobs",
+      "location": "Saudi Arabia",
+      "score": 5
+    },
+    {
+      "title": "Assistant / Associate / Professor and Executive Director, Mann Institute (12 Mo, TT)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179354004",
+      "description": "Samford University (Birmingham, AL)",
+      "source": "HigherEdJobs",
+      "location": "Birmingham",
+      "score": 4
     },
     {
       "title": "Assistant Clinical Professor in Counseling, Graduate School of Education",
@@ -21,6 +37,14 @@
     {
       "title": "Assistant/Associate Professor of Applied Behavior Analysis",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179338391",
+      "description": "National Louis University (Chicago, IL)",
+      "source": "HigherEdJobs",
+      "location": "Chicago",
+      "score": 4
+    },
+    {
+      "title": "Assistant/Associate Professor of Clinical Psychology (ISPP)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179354328",
       "description": "National Louis University (Chicago, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
@@ -51,14 +75,6 @@
       "score": 4
     },
     {
-      "title": "Researcher V - t232927",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179347228",
-      "description": "University of Alabama at Birmingham (Birmingham, AL)",
-      "source": "HigherEdJobs",
-      "location": "Birmingham",
-      "score": 4
-    },
-    {
       "title": "Visiting Assistant Professor of Religion - East Asian Religions",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179346454",
       "description": "Oberlin College & Conservatory (Oberlin, OH)",
@@ -80,14 +96,6 @@
       "description": "Princeton University (Princeton, NJ)",
       "source": "HigherEdJobs",
       "location": "Princeton",
-      "score": 2
-    },
-    {
-      "title": "814900 - Assistant/Associate/Professor Psychiatrist (343)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179330474",
-      "description": "East Tennessee State University (Johnson City, TN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
       "score": 2
     },
     {
@@ -126,6 +134,14 @@
       "title": "Affiliate Professor of Biblical Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179349144",
       "description": "Eastern University (St. Davids, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Art Therapy Assistant/Associate Professor and Department Chair",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179267727",
+      "description": "Dominican University of California (San Rafael, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -220,8 +236,8 @@
     },
     {
       "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179351407",
-      "description": "California State University, Bakersfield (Bakersfield, CA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179348544",
+      "description": "Purdue University Fort Wayne (Fort Wayne, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -259,9 +275,17 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor of Theology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179351603",
-      "description": "St. Bonaventure University (St. Bonaventure, NY)",
+      "title": "Assistant Professor of Theology (Historical/Systematic)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179353885",
+      "description": "Marquette University (Milwaukee, WI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Theology (New Testament)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179353884",
+      "description": "Marquette University (Milwaukee, WI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -579,6 +603,22 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Fellowship in Comparative Cognition",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179353755",
+      "description": "Villanova University (Villanova, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Fellowship in the American Jews-Israel Relationship",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179353596",
+      "description": "Tulane University (New Orleans, LA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Research Associate I, Psychology (Genetically Informed Studies of Social Connectedness)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179333069",
       "description": "The University of Arizona (Tucson, AZ)",
@@ -860,8 +900,8 @@
     },
     {
       "title": "Visiting Assistant Professor of Theology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179350384",
-      "description": "Assumption University (Worcester, MA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179351603",
+      "description": "St. Bonaventure University (St. Bonaventure, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
