@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-04 07:49 UTC  
-**Total Positions:** 115
+**Last Updated:** 2026-02-05 07:53 UTC  
+**Total Positions:** 122
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 2 |
-| ★★★★☆ | 8 |
-| ★★★☆☆ | 1 |
-| ★★☆☆☆ | 104 |
+| ★★★★☆ | 10 |
+| ★★★☆☆ | 2 |
+| ★★☆☆☆ | 108 |
 
 ---
 
@@ -24,7 +24,7 @@
 - **[Lecturer/ Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179353178)**  
   📍 Saudi Arabia | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (8)
+## ★★★★☆ Large Muslim Communities (10)
 
 - **[Assistant / Associate / Professor and Executive Director, Mann Institu](https://www.higheredjobs.com/details.cfm?JobCode=179354004)**  
   📍 Birmingham | 🔗 HigherEdJobs
@@ -38,6 +38,9 @@
 - **[Assistant/Associate Professor of Clinical Psychology (ISPP)](https://www.higheredjobs.com/details.cfm?JobCode=179354328)**  
   📍 Chicago | 🔗 HigherEdJobs
 
+- **[Assistant/Associate Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179354896)**  
+  📍 Chicago | 🔗 HigherEdJobs
+
 - **[Instructional Professor of Psychology in MAPSS (Open Rank)](https://www.higheredjobs.com/details.cfm?JobCode=179338568)**  
   📍 Chicago | 🔗 HigherEdJobs
 
@@ -47,15 +50,21 @@
 - **[Research Associate (Part-Time)](https://www.higheredjobs.com/details.cfm?JobCode=179352310)**  
   📍 New York | 🔗 HigherEdJobs
 
+- **[Researcher V - t232927](https://www.higheredjobs.com/details.cfm?JobCode=179347228)**  
+  📍 Birmingham | 🔗 HigherEdJobs
+
 - **[Visiting Assistant Professor of Religion - East Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179346454)**  
   📍 Berlin | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (1)
+## ★★★☆☆ Moderate Communities (2)
+
+- **[Assistant Professor- Applied Behavioral Analysis (ABA) Doctoral Progra](https://www.higheredjobs.com/details.cfm?JobCode=179335259)**  
+  📍 Boston | 🔗 HigherEdJobs
 
 - **[Postdoctoral Fellowship](https://www.higheredjobs.com/details.cfm?JobCode=179352267)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (104)
+## ★★☆☆☆ Other Locations (108)
 
 - **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -90,13 +99,16 @@
 - **[Assistant Professor - Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179333076)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor Clinical Track- Part Time (Psychiatry and Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179355677)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179346189)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179345654)**  
   📍 Japan | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Developmental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179330665)**  
+- **[Assistant Professor of Africana Studies and Religion](https://www.higheredjobs.com/details.cfm?JobCode=179355007)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Homiletics and Director of Assessment or Grants](https://www.higheredjobs.com/details.cfm?JobCode=179340750)**  
@@ -141,13 +153,10 @@
 - **[Assistant Professor, Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179336554)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179349810)**  
+- **[Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179354483)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Undergraduate Psychology (F00079)](https://www.higheredjobs.com/details.cfm?JobCode=179334007)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 74 more positions*
+*...and 78 more positions*
 
 ---
 
