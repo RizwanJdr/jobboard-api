@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-05T07:52:54.664304+00:00",
-  "count": 122,
+  "updated": "2026-02-06T07:50:57.459778+00:00",
+  "count": 127,
   "jobs": [
     {
       "title": "Lecturer Position in PYP-PDS, College of Sciences and Humanities",
@@ -83,14 +83,6 @@
       "score": 4
     },
     {
-      "title": "Researcher V - t232927",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179347228",
-      "description": "University of Alabama at Birmingham (Birmingham, AL)",
-      "source": "HigherEdJobs",
-      "location": "Birmingham",
-      "score": 4
-    },
-    {
       "title": "Visiting Assistant Professor of Religion - East Asian Religions",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179346454",
       "description": "Oberlin College & Conservatory (Oberlin, OH)",
@@ -120,6 +112,14 @@
       "description": "Princeton University (Princeton, NJ)",
       "source": "HigherEdJobs",
       "location": "Princeton",
+      "score": 2
+    },
+    {
+      "title": "Academic Clinician, Assistant Professor Outpatient PsychiatryCHOP",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179356347",
+      "description": "University of Pennsylvania (Philadelphia, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     },
     {
@@ -179,6 +179,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor (Clinical)/ Associate Professor (Clinical)- Rehabilitation Psychologist",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179356290",
+      "description": "University of Utah (Salt Lake City, UT)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor - Department of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179332490",
       "description": "Clemson University (Clemson, SC)",
@@ -203,6 +211,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor 9 Mo",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179356596",
+      "description": "Henderson State University (Arkadelphia, AR)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor Clinical Track- Part Time (Psychiatry and Behavioral Sciences)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179355677",
       "description": "Tulane University (New Orleans, LA)",
@@ -220,10 +236,18 @@
     },
     {
       "title": "Assistant Professor in Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179345654",
-      "description": "Temple University, Japan Campus (Kyoto, Japan)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179356170",
+      "description": "Bellarmine University (Louisville, KY)",
       "source": "HigherEdJobs",
-      "location": "Japan",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Addiction Studies and Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179356533",
+      "description": "Minot State University (Minot, ND)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     },
     {
@@ -627,6 +651,22 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Fellow in Clinical Psychology, Suicide Research",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179356032",
+      "description": "Harvard University (Cambridge, MA)",
+      "source": "HigherEdJobs",
+      "location": "Cambridge",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Fellow in Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179356026",
+      "description": "Harvard University (Cambridge, MA)",
+      "source": "HigherEdJobs",
+      "location": "Cambridge",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Fellow- PhD Child",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179349872",
       "description": "Augusta University (Augusta, GA)",
@@ -812,7 +852,7 @@
     },
     {
       "title": "Research Fellow",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179339473",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179356580",
       "description": "University of Michigan (Ann Arbor, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
