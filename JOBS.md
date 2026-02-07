@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-06 07:51 UTC  
-**Total Positions:** 127
+**Last Updated:** 2026-02-07 07:37 UTC  
+**Total Positions:** 128
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 2 |
 | ★★★★☆ | 9 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 114 |
+| ★★☆☆☆ | 115 |
 
 ---
 
@@ -61,7 +61,7 @@
 - **[Postdoctoral Fellowship](https://www.higheredjobs.com/details.cfm?JobCode=179352267)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (114)
+## ★★☆☆☆ Other Locations (115)
 
 - **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -76,6 +76,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor - Christianity](https://www.higheredjobs.com/details.cfm?JobCode=179253655)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179357795)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor- Community Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179331786)**  
@@ -97,6 +100,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179333695)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor - Psychology, Department of Psychology Counseling ](https://www.higheredjobs.com/details.cfm?JobCode=179358010)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179333076)**  
@@ -129,9 +135,6 @@
 - **[Assistant Professor of Lutheran Theology and History and Director of A](https://www.higheredjobs.com/details.cfm?JobCode=179340721)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychological Sciences](https://www.higheredjobs.com/details.cfm?JobCode=179331167)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179348544)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -150,10 +153,7 @@
 - **[Assistant Professor of Theology (Historical/Systematic)](https://www.higheredjobs.com/details.cfm?JobCode=179353885)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Theology (New Testament)](https://www.higheredjobs.com/details.cfm?JobCode=179353884)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 84 more positions*
+*...and 85 more positions*
 
 ---
 

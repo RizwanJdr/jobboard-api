@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-06T07:50:57.459778+00:00",
-  "count": 127,
+  "updated": "2026-02-07T07:36:49.470728+00:00",
+  "count": 128,
   "jobs": [
     {
       "title": "Lecturer Position in PYP-PDS, College of Sciences and Humanities",
@@ -147,6 +147,14 @@
       "score": 2
     },
     {
+      "title": "Adjunct Professor, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179357795",
+      "description": "Temple College (Temple, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Adjunct Professor- Community Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179331786",
       "description": "Pacific Oaks College and Children's School (Pasadena, CA)",
@@ -198,6 +206,14 @@
       "title": "Assistant Professor - Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179333695",
       "description": "Tulsa Community College (Tulsa, OK)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor - Psychology, Department of Psychology Counseling (#1499)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179358010",
+      "description": "Marywood University (Scranton, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -278,14 +294,6 @@
       "title": "Assistant Professor of Lutheran Theology and History and Director of Assessment or Grants",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179340721",
       "description": "Capital University (Columbus, OH)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor of Psychological Sciences",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179331167",
-      "description": "University of Wisconsin - River Falls (River Falls, WI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -379,9 +387,25 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor, Psychology (Non-Tenure Track)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179358186",
+      "description": "La Salle University (Philadelphia, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor, Psychology (Tenure Eligible)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179355472",
       "description": "McLennan Community College (Waco, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Psychology (Tenure Track)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179358187",
+      "description": "La Salle University (Philadelphia, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -475,6 +499,14 @@
       "score": 2
     },
     {
+      "title": "Associate Professor, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179357046",
+      "description": "Horry-Georgetown Technical College (Conway, SC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Associate/Full Professor of Psychology or Communication and Chair of the Department of Psychology Communication",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179344733",
       "description": "Texas A&M International University (Laredo, TX)",
@@ -494,14 +526,6 @@
       "title": "Clinical Associate Professor Program Director, Clinical Psychology PsyD Program (2856)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179350549",
       "description": "Idaho State University (Pocatello, ID)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Clinical Instructor/Clinical Assistant Professor/Clinical Associate Professor/Clinical Professor/Teaching Assistant Professor/Teaching Associate Professor/Teaching Professor/Research Assistant Professor/Research Associate Professor/Research Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179331275",
-      "description": "East Carolina University (Greenville, NC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -548,8 +572,8 @@
     },
     {
       "title": "Lecturer",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179332489",
-      "description": "Clemson University (Clemson, SC)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179357964",
+      "description": "Rutgers, The State University of New Jersey (New Brunswick, NJ)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -636,10 +660,10 @@
     },
     {
       "title": "Postdoctoral Fellow",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179353128",
-      "description": "Penn State (University Park, PA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179357571",
+      "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
-      "location": "Unknown",
+      "location": "Cambridge",
       "score": 2
     },
     {
@@ -787,22 +811,6 @@
       "score": 2
     },
     {
-      "title": "Professor/Associate Professor in Developmental Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179330830",
-      "description": "University of Hong Kong (Hong Kong, Hong Kong)",
-      "source": "HigherEdJobs",
-      "location": "Hong Kong",
-      "score": 2
-    },
-    {
-      "title": "Program Coordinator and Assistant Professor of Psychology, Online B.S. Psychology Program",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352121",
-      "description": "Biola University (La Mirada, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Psychiatrist, Clinical Assistant/Associate Professor, Psychiatry, Comprehensive Psychiatric Emergency Program (CPEP) - Full Time",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179335384",
       "description": "Stony Brook University (Stony Brook, NY)",
@@ -875,6 +883,14 @@
       "score": 2
     },
     {
+      "title": "Sanskrit South Asian Religions Lecturer",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179357572",
+      "description": "Harvard University (Cambridge, MA)",
+      "source": "HigherEdJobs",
+      "location": "Cambridge",
+      "score": 2
+    },
+    {
       "title": "Semester Lecturer",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179341980",
       "description": "Santa Clara University (Santa Clara, CA)",
@@ -902,14 +918,6 @@
       "title": "Theology/ Assistant Teaching Professor With New Horizons Program",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179351378",
       "description": "University of Notre Dame (Notre Dame, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Visiting Assistant Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179342920",
-      "description": "Indiana University Bloomington (Bloomington, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
