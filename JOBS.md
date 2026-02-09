@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-08 07:42 UTC  
-**Total Positions:** 132
+**Last Updated:** 2026-02-09 08:00 UTC  
+**Total Positions:** 130
 
 ---
 
@@ -9,17 +9,14 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★★ | 2 |
+| ★★★★★ | 1 |
 | ★★★★☆ | 9 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 119 |
+| ★★☆☆☆ | 118 |
 
 ---
 
-## ★★★★★ Muslim-Majority Regions (2)
-
-- **[Lecturer Position in PYP-PDS, College of Sciences and Humanities](https://www.higheredjobs.com/details.cfm?JobCode=179332075)**  
-  📍 Saudi Arabia | 🔗 HigherEdJobs
+## ★★★★★ Muslim-Majority Regions (1)
 
 - **[Lecturer/ Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179353178)**  
   📍 Saudi Arabia | 🔗 HigherEdJobs
@@ -61,7 +58,7 @@
 - **[Postdoctoral Fellowship](https://www.higheredjobs.com/details.cfm?JobCode=179352267)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (119)
+## ★★☆☆☆ Other Locations (118)
 
 - **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -85,9 +82,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (Clinical)/ Associate Professor (Clinical)- Rehabi](https://www.higheredjobs.com/details.cfm?JobCode=179356290)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179332490)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179333695)**  
@@ -153,7 +147,10 @@
 - **[Assistant Professor – School Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179358969)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 89 more positions*
+- **[Assistant Professor, Applied Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179348442)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 88 more positions*
 
 ---
 
