@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-09 08:00 UTC  
-**Total Positions:** 130
+**Last Updated:** 2026-02-10 08:02 UTC  
+**Total Positions:** 124
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 9 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 118 |
+| ★★☆☆☆ | 112 |
 
 ---
 
@@ -58,7 +58,7 @@
 - **[Postdoctoral Fellowship](https://www.higheredjobs.com/details.cfm?JobCode=179352267)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (118)
+## ★★☆☆☆ Other Locations (112)
 
 - **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -84,13 +84,7 @@
 - **[Assistant Professor (Clinical)/ Associate Professor (Clinical)- Rehabi](https://www.higheredjobs.com/details.cfm?JobCode=179356290)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179333695)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor - Psychology, Department of Psychology Counseling ](https://www.higheredjobs.com/details.cfm?JobCode=179358010)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor - Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179333076)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor 9 Mo](https://www.higheredjobs.com/details.cfm?JobCode=179356596)**  
@@ -135,9 +129,6 @@
 - **[Assistant Professor of Psychology, AGF](https://www.higheredjobs.com/details.cfm?JobCode=179345753)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology, Full Time, Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179320643)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor of Theology (Historical/Systematic)](https://www.higheredjobs.com/details.cfm?JobCode=179353885)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -150,7 +141,16 @@
 - **[Assistant Professor, Applied Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179348442)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 88 more positions*
+- **[Assistant Professor, Clinical or Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179345859)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179358240)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor, Psychology (Non-Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179358186)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 82 more positions*
 
 ---
 
