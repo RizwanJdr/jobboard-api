@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-10 08:02 UTC  
-**Total Positions:** 124
+**Last Updated:** 2026-02-11 07:58 UTC  
+**Total Positions:** 129
 
 ---
 
@@ -11,8 +11,8 @@
 |-----------------------|-------|
 | ★★★★★ | 1 |
 | ★★★★☆ | 9 |
-| ★★★☆☆ | 2 |
-| ★★☆☆☆ | 112 |
+| ★★★☆☆ | 1 |
+| ★★☆☆☆ | 118 |
 
 ---
 
@@ -50,15 +50,12 @@
 - **[Visiting Assistant Professor of Religion - East Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179346454)**  
   📍 Berlin | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (2)
-
-- **[Assistant Professor- Applied Behavioral Analysis (ABA) Doctoral Progra](https://www.higheredjobs.com/details.cfm?JobCode=179335259)**  
-  📍 Boston | 🔗 HigherEdJobs
+## ★★★☆☆ Moderate Communities (1)
 
 - **[Postdoctoral Fellowship](https://www.higheredjobs.com/details.cfm?JobCode=179352267)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (112)
+## ★★☆☆☆ Other Locations (118)
 
 - **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -129,6 +126,9 @@
 - **[Assistant Professor of Psychology, AGF](https://www.higheredjobs.com/details.cfm?JobCode=179345753)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor of Psychology: Doctoral Program](https://www.higheredjobs.com/details.cfm?JobCode=179342929)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor of Theology (Historical/Systematic)](https://www.higheredjobs.com/details.cfm?JobCode=179353885)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -147,10 +147,7 @@
 - **[Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179358240)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Psychology (Non-Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179358186)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 82 more positions*
+*...and 88 more positions*
 
 ---
 

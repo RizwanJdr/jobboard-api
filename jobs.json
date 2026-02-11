@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-10T08:01:18.863204+00:00",
-  "count": 124,
+  "updated": "2026-02-11T07:57:53.904757+00:00",
+  "count": 129,
   "jobs": [
     {
       "title": "Lecturer/ Assistant/ Associate Professor, Psychology",
@@ -81,14 +81,6 @@
       "source": "HigherEdJobs",
       "location": "Berlin",
       "score": 4
-    },
-    {
-      "title": "Assistant Professor- Applied Behavioral Analysis (ABA) Doctoral Program",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179335259",
-      "description": "Bay Path University (Boston, MA)",
-      "source": "HigherEdJobs",
-      "location": "Boston",
-      "score": 3
     },
     {
       "title": "Postdoctoral Fellowship",
@@ -283,6 +275,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor of Psychology: Doctoral Program",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179342929",
+      "description": "Holy Family University (Philadelphia, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor of Theology (Historical/Systematic)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179353885",
       "description": "Marquette University (Milwaukee, WI)",
@@ -382,6 +382,14 @@
       "title": "Assistant or Associate Professor - School of Psychology and Counseling",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179339043",
       "description": "Regent University (Virginia Beach, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant or Associate Professor of Counseling/Clinical Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179360305",
+      "description": "Bemidji State University (Bemidji, MN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -507,6 +515,14 @@
       "score": 2
     },
     {
+      "title": "Harwood Visiting Assistant Professor/Instructor of Judaic Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179360892",
+      "description": "Franklin & Marshall College (Lancaster, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Instructor/Assistant Professor, Clinical/Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179359735",
       "description": "Murray State University (Murray, KY)",
@@ -566,6 +582,22 @@
       "title": "Lecturer in the Core Curriculum",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179342836",
       "description": "Seton Hall University (South Orange, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer/Adjunct Assistant Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179360851",
+      "description": "Fayetteville State University (Fayetteville, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Mellon Postdoctoral Fellow in Religious Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179360121",
+      "description": "Wellesley College (Wellesley, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -683,6 +715,14 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Fellowship in the American Jews-Israel Relationship",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179353596",
+      "description": "Tulane University (New Orleans, LA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Research Associate, Thriving Youth in a Digital Environment (TYDE), University of Virginia",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179338299",
       "description": "University of Virginia (Charlottesville, VA)",
@@ -702,6 +742,14 @@
       "title": "Postdoctoral Researcher in the Behavior, Culture, and Inequality Lab",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179358837",
       "description": "University of Michigan (Ann Arbor, MI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Scholar",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179360050",
+      "description": "University of Kentucky (Lexington, KY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -950,14 +998,6 @@
       "title": "Visiting Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179348752",
       "description": "Stetson University (Deland, FL)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Visiting Assistant Professor of Religion",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179334679",
-      "description": "Middlebury College (Middlebury, VT)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
