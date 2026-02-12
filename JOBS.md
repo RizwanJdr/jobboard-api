@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-11 07:58 UTC  
-**Total Positions:** 129
+**Last Updated:** 2026-02-12 07:57 UTC  
+**Total Positions:** 134
 
 ---
 
@@ -10,18 +10,18 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 1 |
-| ★★★★☆ | 9 |
+| ★★★★☆ | 10 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 118 |
+| ★★☆☆☆ | 122 |
 
 ---
 
 ## ★★★★★ Muslim-Majority Regions (1)
 
-- **[Lecturer/ Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179353178)**  
+- **[Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179353178)**  
   📍 Saudi Arabia | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (9)
+## ★★★★☆ Large Muslim Communities (10)
 
 - **[Assistant / Associate / Professor and Executive Director, Mann Institu](https://www.higheredjobs.com/details.cfm?JobCode=179354004)**  
   📍 Birmingham | 🔗 HigherEdJobs
@@ -41,6 +41,9 @@
 - **[Instructional Professor of Psychology in MAPSS (Open Rank)](https://www.higheredjobs.com/details.cfm?JobCode=179338568)**  
   📍 Chicago | 🔗 HigherEdJobs
 
+- **[Lecturer/ Doc Sch Lecturer - Religion, School of Arts & Sciences](https://www.higheredjobs.com/details.cfm?JobCode=179361599)**  
+  📍 New York | 🔗 HigherEdJobs
+
 - **[Professor, Catholic Studies](https://www.higheredjobs.com/details.cfm?JobCode=179352340)**  
   📍 Chicago | 🔗 HigherEdJobs
 
@@ -55,7 +58,7 @@
 - **[Postdoctoral Fellowship](https://www.higheredjobs.com/details.cfm?JobCode=179352267)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (118)
+## ★★☆☆☆ Other Locations (122)
 
 - **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -147,7 +150,7 @@
 - **[Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179358240)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 88 more positions*
+*...and 92 more positions*
 
 ---
 

@@ -1,9 +1,9 @@
 {
-  "updated": "2026-02-11T07:57:53.904757+00:00",
-  "count": 129,
+  "updated": "2026-02-12T07:56:29.590379+00:00",
+  "count": 134,
   "jobs": [
     {
-      "title": "Lecturer/ Assistant/ Associate Professor, Psychology",
+      "title": "Assistant/ Associate Professor, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179353178",
       "description": "Prince Mohammad Bin Fahd University (Al Khobar, Saudi Arabia)",
       "source": "HigherEdJobs",
@@ -56,6 +56,14 @@
       "description": "University of Chicago (Chicago, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
+      "score": 4
+    },
+    {
+      "title": "Lecturer/ Doc Sch Lecturer - Religion, School of Arts & Sciences",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179361599",
+      "description": "Hunter College (New York City, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
       "score": 4
     },
     {
@@ -403,6 +411,14 @@
       "score": 2
     },
     {
+      "title": "Assistant/Associate Professor 10 Months, Department of Psychology, Fall 2026 *Multiple Positions*",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179361351",
+      "description": "Kean University (Union, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant/Associate Professor of Christian Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179358571",
       "description": "Louisiana Christian University (Pineville, LA)",
@@ -414,6 +430,14 @@
       "title": "Assistant/Associate Professor of Clinical/Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179345819",
       "description": "Texas A&M University Corpus Christi (Corpus Christi, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179361661",
+      "description": "Cedarville University (Cedarville, OH)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -867,6 +891,14 @@
       "score": 2
     },
     {
+      "title": "Research Professor of Community Engaged Research",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179361111",
+      "description": "Penn State (University Park, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Research Scientist - School of Education and Human Development",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179358593",
       "description": "University of Virginia (Charlottesville, VA)",
@@ -1022,6 +1054,14 @@
       "title": "Visiting Assistant Professor, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179359111",
       "description": "Augustana University (Sioux Falls, SD)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Lecturer of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179361237",
+      "description": "Lander University (Greenwood, SC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
