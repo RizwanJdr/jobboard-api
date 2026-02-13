@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-12 07:57 UTC  
-**Total Positions:** 134
+**Last Updated:** 2026-02-13 07:54 UTC  
+**Total Positions:** 137
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 10 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 122 |
+| ★★☆☆☆ | 125 |
 
 ---
 
@@ -58,7 +58,7 @@
 - **[Postdoctoral Fellowship](https://www.higheredjobs.com/details.cfm?JobCode=179352267)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (122)
+## ★★☆☆☆ Other Locations (125)
 
 - **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -105,7 +105,7 @@
 - **[Assistant Professor of Addiction Studies and Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179356533)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Africana Studies and Religion](https://www.higheredjobs.com/details.cfm?JobCode=179355007)**  
+- **[Assistant Professor of Christian Ministry/ Director of MACM](https://www.higheredjobs.com/details.cfm?JobCode=179362106)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Homiletics and Director of Assessment or Grants](https://www.higheredjobs.com/details.cfm?JobCode=179340750)**  
@@ -150,7 +150,7 @@
 - **[Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179358240)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 92 more positions*
+*...and 95 more positions*
 
 ---
 
