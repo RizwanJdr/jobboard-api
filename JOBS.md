@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-14 07:39 UTC  
-**Total Positions:** 134
+**Last Updated:** 2026-02-15 07:41 UTC  
+**Total Positions:** 132
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 10 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 122 |
+| ★★☆☆☆ | 120 |
 
 ---
 
@@ -28,9 +28,6 @@
 
 - **[Assistant Clinical Professor in Counseling, Graduate School of Educati](https://www.higheredjobs.com/details.cfm?JobCode=179344456)**  
   📍 New York | 🔗 HigherEdJobs
-
-- **[Assistant/Associate Professor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179338391)**  
-  📍 Chicago | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Clinical Psychology (ISPP)](https://www.higheredjobs.com/details.cfm?JobCode=179354328)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -53,12 +50,15 @@
 - **[Visiting Assistant Professor of Religion - East Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179346454)**  
   📍 Berlin | 🔗 HigherEdJobs
 
+- **[Visiting Lecturer in Hebrew Bible](https://www.higheredjobs.com/details.cfm?JobCode=179364257)**  
+  📍 New York | 🔗 HigherEdJobs
+
 ## ★★★☆☆ Moderate Communities (1)
 
 - **[Postdoctoral Fellowship](https://www.higheredjobs.com/details.cfm?JobCode=179352267)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (122)
+## ★★☆☆☆ Other Locations (120)
 
 - **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -94,6 +94,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179346189)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor for Athletic Counseling/Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179364078)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Experimental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179358261)**  
@@ -147,10 +150,7 @@
 - **[Assistant Professor, Clinical or Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179345859)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179358240)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 92 more positions*
+*...and 90 more positions*
 
 ---
 

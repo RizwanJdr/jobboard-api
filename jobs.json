@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-14T07:38:51.315702+00:00",
-  "count": 134,
+  "updated": "2026-02-15T07:40:57.696065+00:00",
+  "count": 132,
   "jobs": [
     {
       "title": "Assistant/ Associate Professor, Psychology",
@@ -24,14 +24,6 @@
       "description": "Fordham University (New York City, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
-      "score": 4
-    },
-    {
-      "title": "Assistant/Associate Professor of Applied Behavior Analysis",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179338391",
-      "description": "National Louis University (Chicago, IL)",
-      "source": "HigherEdJobs",
-      "location": "Chicago",
       "score": 4
     },
     {
@@ -88,6 +80,14 @@
       "description": "Oberlin College & Conservatory (Oberlin, OH)",
       "source": "HigherEdJobs",
       "location": "Berlin",
+      "score": 4
+    },
+    {
+      "title": "Visiting Lecturer in Hebrew Bible",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179364257",
+      "description": "New York University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
       "score": 4
     },
     {
@@ -190,6 +190,14 @@
       "title": "Assistant Professor Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179346189",
       "description": "Landmark College (Putney, VT)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor for Athletic Counseling/Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179364078",
+      "description": "Springfield College (Springfield, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -395,6 +403,22 @@
       "score": 2
     },
     {
+      "title": "Assistant/Associate Professor - Practical Theology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179364212",
+      "description": "Anderson University (Anderson, SC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate Professor - Preaching",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179364218",
+      "description": "Anderson University (Anderson, SC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant/Associate Professor - Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179341745",
       "description": "Tennessee State University (Nashville, TN)",
@@ -454,14 +478,6 @@
       "title": "Assistant/Associate Teaching Professor, Psycology Campus Immersion",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179350437",
       "description": "Arizona State University - West Campus (Phoenix, AZ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant/Associate Tenure-Track Professor, Clinical Psychology Doctoral Program",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179338511",
-      "description": "Long Island University (Brookville, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -542,14 +558,6 @@
       "title": "Instructor/Assistant Professor, Clinical/Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179359735",
       "description": "Murray State University (Murray, KY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Interventional Psychiatrist, Clinical Assistant/Associate Professor, Psychiatry, Adult Outpatient (OPD)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179341319",
-      "description": "Stony Brook University (Stony Brook, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -739,14 +747,6 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Research Associate, Thriving Youth in a Digital Environment (TYDE), University of Virginia",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179338299",
-      "description": "University of Virginia (Charlottesville, VA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Postdoctoral Researcher",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179362978",
       "description": "Indiana University Bloomington (Bloomington, IN)",
@@ -894,22 +894,6 @@
       "title": "Research Specialist (Evaluation Research Analyst)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352084",
       "description": "Rutgers, The State University of New Jersey (New Brunswick, NJ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Sanskrit South Asian Religions Lecturer",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179357572",
-      "description": "Harvard University (Cambridge, MA)",
-      "source": "HigherEdJobs",
-      "location": "Cambridge",
-      "score": 2
-    },
-    {
-      "title": "Semester Lecturer",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179341980",
-      "description": "Santa Clara University (Santa Clara, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
