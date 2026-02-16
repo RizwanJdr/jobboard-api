@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-15 07:41 UTC  
-**Total Positions:** 132
+**Last Updated:** 2026-02-16 07:58 UTC  
+**Total Positions:** 125
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 1 |
-| ★★★★☆ | 10 |
+| ★★★★☆ | 9 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 120 |
+| ★★☆☆☆ | 114 |
 
 ---
 
@@ -21,7 +21,7 @@
 - **[Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179353178)**  
   📍 Saudi Arabia | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (10)
+## ★★★★☆ Large Muslim Communities (9)
 
 - **[Assistant / Associate / Professor and Executive Director, Mann Institu](https://www.higheredjobs.com/details.cfm?JobCode=179354004)**  
   📍 Birmingham | 🔗 HigherEdJobs
@@ -33,9 +33,6 @@
   📍 Chicago | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179354896)**  
-  📍 Chicago | 🔗 HigherEdJobs
-
-- **[Instructional Professor of Psychology in MAPSS (Open Rank)](https://www.higheredjobs.com/details.cfm?JobCode=179338568)**  
   📍 Chicago | 🔗 HigherEdJobs
 
 - **[Lecturer/ Doc Sch Lecturer - Religion, School of Arts & Sciences](https://www.higheredjobs.com/details.cfm?JobCode=179361599)**  
@@ -55,10 +52,10 @@
 
 ## ★★★☆☆ Moderate Communities (1)
 
-- **[Postdoctoral Fellowship](https://www.higheredjobs.com/details.cfm?JobCode=179352267)**  
+- **[Part Time Lecturer - Applied Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179365081)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (120)
+## ★★☆☆☆ Other Locations (114)
 
 - **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -126,9 +123,6 @@
 - **[Assistant Professor of Psychology - Tenure-Track or Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179343596)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology - Two positions, specializations ope](https://www.higheredjobs.com/details.cfm?JobCode=179339264)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor of Psychology, AGF](https://www.higheredjobs.com/details.cfm?JobCode=179345753)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -150,7 +144,10 @@
 - **[Assistant Professor, Clinical or Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179345859)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 90 more positions*
+- **[Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179358240)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 84 more positions*
 
 ---
 
