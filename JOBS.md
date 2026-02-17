@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-16 07:58 UTC  
-**Total Positions:** 125
+**Last Updated:** 2026-02-17 07:55 UTC  
+**Total Positions:** 123
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 9 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 114 |
+| ★★☆☆☆ | 112 |
 
 ---
 
@@ -55,7 +55,7 @@
 - **[Part Time Lecturer - Applied Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179365081)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (114)
+## ★★☆☆☆ Other Locations (112)
 
 - **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -79,6 +79,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (Clinical)/ Associate Professor (Clinical)- Rehabi](https://www.higheredjobs.com/details.cfm?JobCode=179356290)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179365301)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Psychology, Department of Psychology Counseling ](https://www.higheredjobs.com/details.cfm?JobCode=179358010)**  
@@ -108,13 +111,7 @@
 - **[Assistant Professor of Christian Ministry/ Director of MACM](https://www.higheredjobs.com/details.cfm?JobCode=179362106)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Homiletics and Director of Assessment or Grants](https://www.higheredjobs.com/details.cfm?JobCode=179340750)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor of Latine Theology](https://www.higheredjobs.com/details.cfm?JobCode=179348957)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Lutheran Theology and History and Director of A](https://www.higheredjobs.com/details.cfm?JobCode=179340721)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179348544)**  
@@ -147,7 +144,10 @@
 - **[Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179358240)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 84 more positions*
+- **[Assistant Professor, Psychology (Non-Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179358186)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 82 more positions*
 
 ---
 
