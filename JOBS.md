@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-20 07:52 UTC  
-**Total Positions:** 137
+**Last Updated:** 2026-02-21 07:38 UTC  
+**Total Positions:** 140
 
 ---
 
@@ -11,8 +11,8 @@
 |-----------------------|-------|
 | ★★★★★ | 1 |
 | ★★★★☆ | 9 |
-| ★★★☆☆ | 1 |
-| ★★☆☆☆ | 126 |
+| ★★★☆☆ | 2 |
+| ★★☆☆☆ | 128 |
 
 ---
 
@@ -50,12 +50,15 @@
 - **[Visiting Lecturer in Hebrew Bible](https://www.higheredjobs.com/details.cfm?JobCode=179364257)**  
   📍 New York | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (1)
+## ★★★☆☆ Moderate Communities (2)
+
+- **[Clinical Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179370057)**  
+  📍 Los Angeles | 🔗 HigherEdJobs
 
 - **[Part Time Lecturer - Applied Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179365081)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (126)
+## ★★☆☆☆ Other Locations (128)
 
 - **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -88,6 +91,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor 9 Mo](https://www.higheredjobs.com/details.cfm?JobCode=179356596)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor Clinical Track- Part Time (Psychiatry and Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179355677)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179346189)**  
@@ -144,10 +150,7 @@
 - **[Assistant Professor – School Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179358969)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor – Theology](https://www.higheredjobs.com/details.cfm?JobCode=179367631)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 96 more positions*
+*...and 98 more positions*
 
 ---
 

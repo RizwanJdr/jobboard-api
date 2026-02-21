@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-20T07:51:15.086394+00:00",
-  "count": 137,
+  "updated": "2026-02-21T07:37:31.113459+00:00",
+  "count": 140,
   "jobs": [
     {
       "title": "Assistant/ Associate Professor, Psychology",
@@ -81,6 +81,14 @@
       "source": "HigherEdJobs",
       "location": "New York",
       "score": 4
+    },
+    {
+      "title": "Clinical Assistant Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179370057",
+      "description": "Loyola Marymount University (Los Angeles, CA)",
+      "source": "HigherEdJobs",
+      "location": "Los Angeles",
+      "score": 3
     },
     {
       "title": "Part Time Lecturer - Applied Psychology",
@@ -174,6 +182,14 @@
       "title": "Assistant Professor 9 Mo",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179356596",
       "description": "Henderson State University (Arkadelphia, AR)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor Clinical Track- Part Time (Psychiatry and Behavioral Sciences)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179355677",
+      "description": "Tulane University (New Orleans, LA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -692,7 +708,7 @@
     },
     {
       "title": "Postdoctoral Fellow in Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179362192",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179356026",
       "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
       "location": "Cambridge",
@@ -811,6 +827,14 @@
       "score": 2
     },
     {
+      "title": "Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179369854",
+      "description": "West Texas A&M University (Canyon, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Professor of Psychology (Open Rank, Tenure Track)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179344340",
       "description": "Ouachita Baptist University (Arkadelphia, AR)",
@@ -827,8 +851,8 @@
       "score": 2
     },
     {
-      "title": "Psychologist, Clinical Assistant/Associate Professor, Psychiatry, Addiction",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179343921",
+      "title": "Psychologist, Clinical Assistant/Associate Professor, Neurology, Outpatient",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179369013",
       "description": "Stony Brook University (Stony Brook, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -995,14 +1019,6 @@
       "score": 2
     },
     {
-      "title": "Visiting Assistant Professor in Human Cognition",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179342419",
-      "description": "Gettysburg College (Gettysburg, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Visiting Assistant Professor in Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179359860",
       "description": "Mount Holyoke College (South Hadley, MA)",
@@ -1094,6 +1110,14 @@
       "title": "Visiting Lecturer of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179361237",
       "description": "Lander University (Greenwood, SC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Professor of Religion",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179370019",
+      "description": "Wesleyan University (Middletown, CT)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
