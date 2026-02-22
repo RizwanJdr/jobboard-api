@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-21T07:37:31.113459+00:00",
-  "count": 140,
+  "updated": "2026-02-22T07:39:34.391249+00:00",
+  "count": 136,
   "jobs": [
     {
       "title": "Assistant/ Associate Professor, Psychology",
@@ -24,6 +24,14 @@
       "description": "Fordham University (New York City, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "Assistant Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179370994",
+      "description": "Colby-Sawyer College (New London, NH)",
+      "source": "HigherEdJobs",
+      "location": "London",
       "score": 4
     },
     {
@@ -83,7 +91,7 @@
       "score": 4
     },
     {
-      "title": "Clinical Assistant Professor of Psychology",
+      "title": "Open Area Search: Clinical Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179370057",
       "description": "Loyola Marymount University (Los Angeles, CA)",
       "source": "HigherEdJobs",
@@ -110,14 +118,6 @@
       "title": "Academic Clinician, Assistant Professor Outpatient PsychiatryCHOP",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179356347",
       "description": "University of Pennsylvania (Philadelphia, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Adjunct Faculty Pool - Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179343075",
-      "description": "Richard Bland College (Petersburg, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -267,14 +267,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179367098",
-      "description": "Champlain College (Burlington, VT)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor of Psychology - Tenure-Track or Teaching Professor Track",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179343596",
       "description": "Elizabethtown College (Elizabethtown, PA)",
@@ -294,14 +286,6 @@
       "title": "Assistant Professor of Psychology, Provisional Faculty",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179367899",
       "description": "Community College of Denver (Auraria Campus, CO)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor of Psychology: Doctoral Program",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179342929",
-      "description": "Holy Family University (Philadelphia, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -627,9 +611,9 @@
       "score": 2
     },
     {
-      "title": "Lecturer in the Core Curriculum",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179342836",
-      "description": "Seton Hall University (South Orange, NJ)",
+      "title": "Lecturer of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179370345",
+      "description": "Binghamton University (Binghamton, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -675,6 +659,14 @@
       "score": 2
     },
     {
+      "title": "Postdoc Research Associate (BRIGHTS Center)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179370439",
+      "description": "Baylor University (Waco, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Associate",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179365831",
       "description": "University of Colorado Boulder (Boulder, CO)",
@@ -686,14 +678,6 @@
       "title": "Postdoctoral Fellow",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179362826",
       "description": "University of Idaho (Moscow, ID)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Postdoctoral Fellow - Child Adolescent Division/Department of Psychiatry",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179342634",
-      "description": "Virginia Commonwealth University (Richmond, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -899,14 +883,6 @@
       "score": 2
     },
     {
-      "title": "Research Fellow in Indigenous Community Wellbeing",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179342648",
-      "description": "Harvard University (Cambridge, MA)",
-      "source": "HigherEdJobs",
-      "location": "Cambridge",
-      "score": 2
-    },
-    {
       "title": "Research Professor of Community Engaged Research",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179361111",
       "description": "Penn State (University Park, PA)",
@@ -918,14 +894,6 @@
       "title": "Research Scientist - School of Education and Human Development",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179358593",
       "description": "University of Virginia (Charlottesville, VA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Research Specialist (Evaluation Research Analyst)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179352084",
-      "description": "Rutgers, The State University of New Jersey (New Brunswick, NJ)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
