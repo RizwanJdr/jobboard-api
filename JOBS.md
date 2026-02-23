@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-22 07:40 UTC  
-**Total Positions:** 136
+**Last Updated:** 2026-02-23 07:59 UTC  
+**Total Positions:** 131
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 1 |
-| ★★★★☆ | 10 |
+| ★★★★☆ | 9 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 123 |
+| ★★☆☆☆ | 119 |
 
 ---
 
@@ -21,13 +21,10 @@
 - **[Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179353178)**  
   📍 Saudi Arabia | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (10)
+## ★★★★☆ Large Muslim Communities (9)
 
 - **[Assistant / Associate / Professor and Executive Director, Mann Institu](https://www.higheredjobs.com/details.cfm?JobCode=179354004)**  
   📍 Birmingham | 🔗 HigherEdJobs
-
-- **[Assistant Clinical Professor in Counseling, Graduate School of Educati](https://www.higheredjobs.com/details.cfm?JobCode=179344456)**  
-  📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179370994)**  
   📍 London | 🔗 HigherEdJobs
@@ -61,7 +58,7 @@
 - **[Part Time Lecturer - Applied Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179365081)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (123)
+## ★★☆☆☆ Other Locations (119)
 
 - **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -123,9 +120,6 @@
 - **[Assistant Professor of Practice Program Director in Applied Data Analy](https://www.higheredjobs.com/details.cfm?JobCode=179365537)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology - Tenure-Track or Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179343596)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor of Psychology, AGF](https://www.higheredjobs.com/details.cfm?JobCode=179345753)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -153,7 +147,10 @@
 - **[Assistant Professor, Clinical or Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179345859)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 93 more positions*
+- **[Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179358240)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 89 more positions*
 
 ---
 
