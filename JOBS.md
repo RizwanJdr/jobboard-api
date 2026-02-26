@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-02-25 07:57 UTC  
-**Total Positions:** 128
+**Last Updated:** 2026-02-26 07:55 UTC  
+**Total Positions:** 131
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 8 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 117 |
+| ★★☆☆☆ | 120 |
 
 ---
 
@@ -55,7 +55,7 @@
 - **[Part Time Lecturer - Applied Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179365081)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (117)
+## ★★☆☆☆ Other Locations (120)
 
 - **[**Revised** Lecturer in Asian Religions](https://www.higheredjobs.com/details.cfm?JobCode=179347483)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -108,6 +108,9 @@
 - **[Assistant Professor of Latine Theology](https://www.higheredjobs.com/details.cfm?JobCode=179348957)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor of Philosophy and Theology](https://www.higheredjobs.com/details.cfm?JobCode=179373683)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor of Practice Program Director in Applied Data Analy](https://www.higheredjobs.com/details.cfm?JobCode=179365537)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -144,10 +147,7 @@
 - **[Assistant Professor, Psychology (Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179358187)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor- Academic Clinician, Pediatric Behavioral Health (](https://www.higheredjobs.com/details.cfm?JobCode=179372886)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 87 more positions*
+*...and 90 more positions*
 
 ---
 
