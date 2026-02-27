@@ -1,6 +1,6 @@
 {
-  "updated": "2026-02-26T07:54:18.307837+00:00",
-  "count": 131,
+  "updated": "2026-02-27T07:50:27.303371+00:00",
+  "count": 135,
   "jobs": [
     {
       "title": "Assistant/ Associate Professor, Psychology",
@@ -30,14 +30,6 @@
       "title": "Assistant/Associate Professor of Clinical Psychology (ISPP)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179354328",
       "description": "National Louis University (Chicago, IL)",
-      "source": "HigherEdJobs",
-      "location": "Chicago",
-      "score": 4
-    },
-    {
-      "title": "Assistant/Associate Professor of Theology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179354896",
-      "description": "Concordia University Chicago (River Forest, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
       "score": 4
@@ -339,6 +331,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Research Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179374472",
+      "description": "Penn State (University Park, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Teaching Professor in Comparative Theology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179365417",
       "description": "Loyola University Maryland (Baltimore, MD)",
@@ -358,6 +358,22 @@
       "title": "Assistant or Associate Professor of Counseling/Clinical Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179360305",
       "description": "Bemidji State University (Bemidji, MN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant or Associate Professor of Psychology (53759)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179374352",
+      "description": "Claflin University (Orangeburg, SC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant or Associate Professor of Psychology (Forensic Psychology) (53763)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179374364",
+      "description": "Claflin University (Orangeburg, SC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -571,6 +587,14 @@
       "score": 2
     },
     {
+      "title": "Lecturer/Senior Lecturer in Clinical Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179374770",
+      "description": "The University of the West Indies (Kingston, Jamaica)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Mellon Postdoctoral Fellow in Religious Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179360121",
       "description": "Wellesley College (Wellesley, MA)",
@@ -581,6 +605,14 @@
     {
       "title": "Neuropsychologist Adjoint Associate Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179348242",
+      "description": "University of Colorado Anschutz Medical Campus (Aurora, CO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Open Rank Senior Instructor, Assistant Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179374817",
       "description": "University of Colorado Anschutz Medical Campus (Aurora, CO)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -636,10 +668,10 @@
     },
     {
       "title": "Postdoctoral Fellow",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179362826",
-      "description": "University of Idaho (Moscow, ID)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179374682",
+      "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
-      "location": "Unknown",
+      "location": "Cambridge",
       "score": 2
     },
     {
