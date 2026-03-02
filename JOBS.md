@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-03-01 07:37 UTC  
-**Total Positions:** 131
+**Last Updated:** 2026-03-02 07:52 UTC  
+**Total Positions:** 109
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 2 |
-| ★★★★☆ | 7 |
+| ★★★★☆ | 5 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 119 |
+| ★★☆☆☆ | 99 |
 
 ---
 
@@ -24,7 +24,7 @@
 - **[Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179353178)**  
   📍 Saudi Arabia | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (7)
+## ★★★★☆ Large Muslim Communities (5)
 
 - **[Assistant / Associate / Professor and Executive Director, Mann Institu](https://www.higheredjobs.com/details.cfm?JobCode=179354004)**  
   📍 Birmingham | 🔗 HigherEdJobs
@@ -36,12 +36,6 @@
   📍 Chicago | 🔗 HigherEdJobs
 
 - **[Lecturer/ Doc Sch Lecturer - Religion, School of Arts & Sciences](https://www.higheredjobs.com/details.cfm?JobCode=179361599)**  
-  📍 New York | 🔗 HigherEdJobs
-
-- **[Professor, Catholic Studies](https://www.higheredjobs.com/details.cfm?JobCode=179352340)**  
-  📍 Chicago | 🔗 HigherEdJobs
-
-- **[Research Associate (Part-Time)](https://www.higheredjobs.com/details.cfm?JobCode=179352310)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Visiting Lecturer in Hebrew Bible](https://www.higheredjobs.com/details.cfm?JobCode=179364257)**  
@@ -58,7 +52,7 @@
 - **[Part Time Lecturer - Applied Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179365081)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (119)
+## ★★☆☆☆ Other Locations (99)
 
 - **[Academic Clinician, Assistant Professor Outpatient PsychiatryCHOP](https://www.higheredjobs.com/details.cfm?JobCode=179356347)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -150,7 +144,7 @@
 - **[Assistant or Associate Professor of Counseling/Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179360305)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 89 more positions*
+*...and 69 more positions*
 
 ---
 
