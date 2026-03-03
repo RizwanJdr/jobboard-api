@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-03-02 07:52 UTC  
-**Total Positions:** 109
+**Last Updated:** 2026-03-03 07:47 UTC  
+**Total Positions:** 111
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 2 |
-| ★★★★☆ | 5 |
+| ★★★★☆ | 6 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 99 |
+| ★★☆☆☆ | 100 |
 
 ---
 
@@ -24,10 +24,13 @@
 - **[Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179353178)**  
   📍 Saudi Arabia | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (5)
+## ★★★★☆ Large Muslim Communities (6)
 
 - **[Assistant / Associate / Professor and Executive Director, Mann Institu](https://www.higheredjobs.com/details.cfm?JobCode=179354004)**  
   📍 Birmingham | 🔗 HigherEdJobs
+
+- **[Assistant Professor for Human Services](https://www.higheredjobs.com/details.cfm?JobCode=179377236)**  
+  📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179370994)**  
   📍 London | 🔗 HigherEdJobs
@@ -52,7 +55,7 @@
 - **[Part Time Lecturer - Applied Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179365081)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (99)
+## ★★☆☆☆ Other Locations (100)
 
 - **[Academic Clinician, Assistant Professor Outpatient PsychiatryCHOP](https://www.higheredjobs.com/details.cfm?JobCode=179356347)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -144,7 +147,7 @@
 - **[Assistant or Associate Professor of Counseling/Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179360305)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 69 more positions*
+*...and 70 more positions*
 
 ---
 

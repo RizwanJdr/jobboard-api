@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-02T07:51:42.193530+00:00",
-  "count": 109,
+  "updated": "2026-03-03T07:46:03.281220+00:00",
+  "count": 111,
   "jobs": [
     {
       "title": "Assistant Professor, Psychology",
@@ -24,6 +24,14 @@
       "description": "Samford University (Birmingham, AL)",
       "source": "HigherEdJobs",
       "location": "Birmingham",
+      "score": 4
+    },
+    {
+      "title": "Assistant Professor for Human Services",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179377236",
+      "description": "Metropolitan College of New York (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
       "score": 4
     },
     {
@@ -390,6 +398,14 @@
       "title": "Assistant/Associate Professor, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179373520",
       "description": "Alcorn State University (Lorman, MS)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate Professor, Psychology/Neuroscience",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179377411",
+      "description": "University of North Texas System (Dallas, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
