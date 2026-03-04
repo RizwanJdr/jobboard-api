@@ -1,53 +1,13 @@
 {
-  "updated": "2026-03-03T07:46:03.281220+00:00",
-  "count": 111,
+  "updated": "2026-03-04T07:41:00.472272+00:00",
+  "count": 106,
   "jobs": [
-    {
-      "title": "Assistant Professor, Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179354401",
-      "description": "Prince Mohammad Bin Fahd University (Al-Khobar, Saudi Arabia)",
-      "source": "HigherEdJobs",
-      "location": "Saudi Arabia",
-      "score": 5
-    },
-    {
-      "title": "Assistant/ Associate Professor, Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179353178",
-      "description": "Prince Mohammad Bin Fahd University (Al Khobar, Saudi Arabia)",
-      "source": "HigherEdJobs",
-      "location": "Saudi Arabia",
-      "score": 5
-    },
-    {
-      "title": "Assistant / Associate / Professor and Executive Director, Mann Institute (12 Mo, TT)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179354004",
-      "description": "Samford University (Birmingham, AL)",
-      "source": "HigherEdJobs",
-      "location": "Birmingham",
-      "score": 4
-    },
     {
       "title": "Assistant Professor for Human Services",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179377236",
       "description": "Metropolitan College of New York (New York, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
-      "score": 4
-    },
-    {
-      "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179370994",
-      "description": "Colby-Sawyer College (New London, NH)",
-      "source": "HigherEdJobs",
-      "location": "London",
-      "score": 4
-    },
-    {
-      "title": "Assistant/Associate Professor of Clinical Psychology (ISPP)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179354328",
-      "description": "National Louis University (Chicago, IL)",
-      "source": "HigherEdJobs",
-      "location": "Chicago",
       "score": 4
     },
     {
@@ -94,14 +54,6 @@
       "title": "Academic Clinician, Assistant Professor Outpatient PsychiatryCHOP",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179356347",
       "description": "University of Pennsylvania (Philadelphia, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Art Therapy Assistant/Associate Professor and Department Chair",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179267727",
-      "description": "Dominican University of California (San Rafael, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -235,6 +187,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179378149",
+      "description": "University of North Georgia (Oakwood, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor of Psychology, Provisional Faculty",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179367899",
       "description": "Community College of Denver (Auraria Campus, CO)",
@@ -262,6 +222,14 @@
       "title": "Assistant Professor – Theology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179367631",
       "description": "Neumann University (Aston, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179377442",
+      "description": "Black Hills State University (Spearfish, SD)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -483,6 +451,14 @@
       "score": 2
     },
     {
+      "title": "Full-Time Lecturer in the Department of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179378693",
+      "description": "University of Hong Kong (Hong Kong, Hong Kong)",
+      "source": "HigherEdJobs",
+      "location": "Hong Kong",
+      "score": 2
+    },
+    {
       "title": "Harwood Visiting Assistant Professor/Instructor of Judaic Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179360892",
       "description": "Franklin & Marshall College (Lancaster, PA)",
@@ -531,6 +507,14 @@
       "score": 2
     },
     {
+      "title": "Lecturer in Psychological Science",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179378338",
+      "description": "University of North Georgia (Watkinsville, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Lecturer in Psychology-SPS (Spring 2026)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179355525",
       "description": "University of The Incarnate Word (San Antonio, TX)",
@@ -566,14 +550,6 @@
       "title": "Mellon Postdoctoral Fellow in Religious Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179360121",
       "description": "Wellesley College (Wellesley, MA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Open Rank Senior Instructor, Assistant Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179374817",
-      "description": "University of Colorado Anschutz Medical Campus (Aurora, CO)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -643,30 +619,6 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Fellowship in Comparative Cognition",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179353755",
-      "description": "Villanova University (Villanova, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Postdoctoral Fellowship in the American Jews-Israel Relationship",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179353596",
-      "description": "Tulane University (New Orleans, LA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Postdoctoral Research Associate I, Department of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179372689",
-      "description": "The University of Arizona (Tucson, AZ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Postdoctoral Research Associate Parents, Adolescents, and Siblings Study",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179372484",
       "description": "University of Notre Dame (Notre Dame, IN)",
@@ -694,6 +646,14 @@
       "title": "Postdoctoral Scholar",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179360050",
       "description": "University of Kentucky (Lexington, KY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Professor of Practice or Clinical Assistant/Associate Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179378773",
+      "description": "Indiana University Indianapolis (Indianapolis, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
