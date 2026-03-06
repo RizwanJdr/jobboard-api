@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-03-05 07:47 UTC  
-**Total Positions:** 102
+**Last Updated:** 2026-03-06 07:42 UTC  
+**Total Positions:** 101
 
 ---
 
@@ -10,8 +10,8 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★☆ | 5 |
-| ★★★☆☆ | 3 |
-| ★★☆☆☆ | 94 |
+| ★★★☆☆ | 4 |
+| ★★☆☆☆ | 92 |
 
 ---
 
@@ -32,7 +32,10 @@
 - **[Visiting Lecturer in Hebrew Bible](https://www.higheredjobs.com/details.cfm?JobCode=179364257)**  
   📍 New York | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (3)
+## ★★★☆☆ Moderate Communities (4)
+
+- **[Assistant Professor of Practice BAS Online Practicum Director](https://www.higheredjobs.com/details.cfm?JobCode=179380086)**  
+  📍 Boston | 🔗 HigherEdJobs
 
 - **[Full-Time Tenure Track Director of Research Position, Clinical Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179376589)**  
   📍 Los Angeles | 🔗 HigherEdJobs
@@ -43,9 +46,9 @@
 - **[Part Time Lecturer - Applied Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179365081)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (94)
+## ★★☆☆☆ Other Locations (92)
 
-- **[Academic Clinician, Assistant Professor Outpatient PsychiatryCHOP](https://www.higheredjobs.com/details.cfm?JobCode=179356347)**  
+- **[Adjunct - Mathematics](https://www.higheredjobs.com/details.cfm?JobCode=179380238)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant / Associate Professor/ Full Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179379610)**  
@@ -53,9 +56,6 @@
 
 - **[Assistant Lecturer/Lecturer in Experiential Learning (Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179376616)**  
   📍 Hong Kong | 🔗 HigherEdJobs
-
-- **[Assistant Professor (Clinical)/ Associate Professor (Clinical)- Rehabi](https://www.higheredjobs.com/details.cfm?JobCode=179356290)**  
-  📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Psychiatry and Behavioral Sciences (Neuropsychol](https://www.higheredjobs.com/details.cfm?JobCode=179376199)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -66,22 +66,13 @@
 - **[Assistant Professor - Psychology, Department of Psychology Counseling ](https://www.higheredjobs.com/details.cfm?JobCode=179358010)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor 9 Mo](https://www.higheredjobs.com/details.cfm?JobCode=179356596)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor for Athletic Counseling/Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179364078)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Experimental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179358261)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179356170)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor in Residence, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179368491)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Addiction Studies and Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179356533)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Christian Ministry/ Director of MACM](https://www.higheredjobs.com/details.cfm?JobCode=179362106)**  
@@ -117,6 +108,9 @@
 - **[Assistant Professor, Psychology (Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179358187)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor, Theology and Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179380133)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor- Academic Clinician, Pediatric Behavioral Health (](https://www.higheredjobs.com/details.cfm?JobCode=179372886)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -135,7 +129,16 @@
 - **[Assistant or Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179379392)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 64 more positions*
+- **[Assistant or Associate Professor of Psychology (53759)](https://www.higheredjobs.com/details.cfm?JobCode=179374352)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant or Associate Professor of Psychology (Forensic Psychology) (](https://www.higheredjobs.com/details.cfm?JobCode=179374364)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant/Associate Professor](https://www.higheredjobs.com/details.cfm?JobCode=179376840)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 62 more positions*
 
 ---
 
