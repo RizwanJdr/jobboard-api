@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-03-09 07:53 UTC  
-**Total Positions:** 112
+**Last Updated:** 2026-03-10 07:46 UTC  
+**Total Positions:** 109
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 7 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 100 |
+| ★★☆☆☆ | 97 |
 
 ---
 
@@ -58,7 +58,7 @@
 - **[Part Time Lecturer - Applied Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179365081)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (100)
+## ★★☆☆☆ Other Locations (97)
 
 - **[Adjunct - Mathematics](https://www.higheredjobs.com/details.cfm?JobCode=179380238)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -150,7 +150,7 @@
 - **[Assistant, Associate, or Full Professor, University Medical Line or Cl](https://www.higheredjobs.com/details.cfm?JobCode=179382337)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 70 more positions*
+*...and 67 more positions*
 
 ---
 
