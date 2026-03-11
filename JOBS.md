@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-03-10 07:46 UTC  
-**Total Positions:** 109
+**Last Updated:** 2026-03-11 07:49 UTC  
+**Total Positions:** 108
 
 ---
 
@@ -10,7 +10,7 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 1 |
-| ★★★★☆ | 7 |
+| ★★★★☆ | 6 |
 | ★★★☆☆ | 4 |
 | ★★☆☆☆ | 97 |
 
@@ -21,7 +21,7 @@
 - **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179381264)**  
   📍 UAE | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (7)
+## ★★★★☆ Large Muslim Communities (6)
 
 - **[Assistant Professor for Human Services](https://www.higheredjobs.com/details.cfm?JobCode=179377236)**  
   📍 New York | 🔗 HigherEdJobs
@@ -34,9 +34,6 @@
 
 - **[Lecturer/ Doc Sch Lecturer - Religion, School of Arts & Sciences](https://www.higheredjobs.com/details.cfm?JobCode=179361599)**  
   📍 New York | 🔗 HigherEdJobs
-
-- **[Researcher Senior Lead - t233945](https://www.higheredjobs.com/details.cfm?JobCode=179383120)**  
-  📍 Birmingham | 🔗 HigherEdJobs
 
 - **[Tenure-Track Psychology Professor in Social Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179378968)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -60,7 +57,7 @@
 
 ## ★★☆☆☆ Other Locations (97)
 
-- **[Adjunct - Mathematics](https://www.higheredjobs.com/details.cfm?JobCode=179380238)**  
+- **[Adjunct Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179385085)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[American Religion Postdoctoral Scholar](https://www.higheredjobs.com/details.cfm?JobCode=179382174)**  
