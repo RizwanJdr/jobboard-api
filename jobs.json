@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-13T07:49:29.123214+00:00",
-  "count": 112,
+  "updated": "2026-03-14T07:38:57.560741+00:00",
+  "count": 116,
   "jobs": [
     {
       "title": "Assistant Professor in Psychology",
@@ -43,6 +43,14 @@
       "score": 4
     },
     {
+      "title": "Researcher Senior Lead - t233945",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179383120",
+      "description": "University of Alabama at Birmingham (Birmingham, AL)",
+      "source": "HigherEdJobs",
+      "location": "Birmingham",
+      "score": 4
+    },
+    {
       "title": "Tenure-Track Psychology Professor in Social Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179378968",
       "description": "Saint Xavier University (Chicago, IL)",
@@ -75,7 +83,15 @@
       "score": 3
     },
     {
-      "title": "Open Area Search: Clinical Assistant Professor of Psychology",
+      "title": "Instructor of Applied Behavior Analysis",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179389034",
+      "description": "Florida Institute of Technology (Melbourne, FL)",
+      "source": "HigherEdJobs",
+      "location": "Melbourne",
+      "score": 3
+    },
+    {
+      "title": "Non-Tenure Track Position: Clinical Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179370057",
       "description": "Loyola Marymount University (Los Angeles, CA)",
       "source": "HigherEdJobs",
@@ -118,6 +134,14 @@
       "title": "American Religion Postdoctoral Scholar",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179382174",
       "description": "Indiana University Bloomington (Bloomington, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Applied Behavioral Organizational Science - Associate Professor Director, Doctor of Psychology (PsyD) Program",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179388935",
+      "description": "Sacred Heart University (Fairfield, CT)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -715,6 +739,14 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Scholar",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179388406",
+      "description": "University of Kentucky (Lexington, KY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Scholar, Cognitive Neuroscience of Creativity Lab, Department of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179379809",
       "description": "Penn State (University Park, PA)",
@@ -750,14 +782,6 @@
       "title": "R-084746 Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179368706",
       "description": "West Texas A&M University (Canyon, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Research Assistant Professor - Research Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179383202",
-      "description": "University of Michigan (Ann Arbor, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -816,6 +840,14 @@
       "description": "University of Hong Kong (Hong Kong, Hong Kong)",
       "source": "HigherEdJobs",
       "location": "Hong Kong",
+      "score": 2
+    },
+    {
+      "title": "Tenure-Track Assistant Professor - COLS | Psychology - Clinical/Counseling Psychology (EXTENDED)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179388378",
+      "description": "University of Wisconsin - Whitewater (Whitewater, WI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     },
     {
