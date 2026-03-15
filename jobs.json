@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-14T07:38:57.560741+00:00",
-  "count": 116,
+  "updated": "2026-03-15T07:49:20.351761+00:00",
+  "count": 114,
   "jobs": [
     {
       "title": "Assistant Professor in Psychology",
@@ -56,14 +56,6 @@
       "description": "Saint Xavier University (Chicago, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
-      "score": 4
-    },
-    {
-      "title": "Visiting Lecturer in Hebrew Bible",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179364257",
-      "description": "New York University (New York, NY)",
-      "source": "HigherEdJobs",
-      "location": "New York",
       "score": 4
     },
     {
@@ -179,14 +171,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor for Athletic Counseling/Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179364078",
-      "description": "Springfield College (Springfield, MA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor in Residence, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179368491",
       "description": "Bradley University (Peoria, IL)",
@@ -248,14 +232,6 @@
       "description": "Embry-Riddle Aeronautical University (Online/Remote, FL)",
       "source": "HigherEdJobs",
       "location": "USA",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor – School Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179358969",
-      "description": "Alverno College (Milwaukee, WI)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
       "score": 2
     },
     {
@@ -374,22 +350,6 @@
       "title": "Assistant/Associate Professor (Psychology)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179385087",
       "description": "Prairie View A&M University (Prairie View, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant/Associate Professor - Practical Theology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179364212",
-      "description": "Anderson University (Anderson, SC)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant/Associate Professor - Preaching",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179364218",
-      "description": "Anderson University (Anderson, SC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -531,6 +491,14 @@
       "score": 2
     },
     {
+      "title": "Graduate Program Director and Associate Professor of Practice - Department of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179390168",
+      "description": "Clark University (Worcester, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Institute for the Study of Contemporary Antisemitism (ISCA) / Borns Jewish Studies Program - Visiting Research Fellow",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179375741",
       "description": "Indiana University Bloomington (Bloomington, IN)",
@@ -542,6 +510,14 @@
       "title": "Instructor/Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179387821",
       "description": "Rhode Island College (Providence, RI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Instructor/Lecturer - Department of Religion",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179389831",
+      "description": "University of Illinois at Urbana-Champaign (Urbana, IL)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -723,14 +699,6 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Research Scholar - Human Cognitive Neuroscience (Multiple Openings)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179364727",
-      "description": "The University of Iowa (Iowa City, IA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Postdoctoral Researcher",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179385660",
       "description": "Indiana University Bloomington (Bloomington, IN)",
@@ -899,6 +867,14 @@
       "score": 2
     },
     {
+      "title": "Visiting Assistant Professor, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179390051",
+      "description": "The College of Idaho (Caldwell, ID)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Visiting Assistant Teaching Professor in Philosophy and Religion",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179381151",
       "description": "Worcester Polytechnic Institute (Worcester, MA)",
@@ -926,6 +902,14 @@
       "title": "Visiting Professor of Theology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179371951",
       "description": "St. Catherine University (St Paul, MN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Research Scientist, FRC",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179389806",
+      "description": "University of Illinois at Urbana-Champaign (Urbana, IL)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
