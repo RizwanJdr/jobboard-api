@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-03-16 08:11 UTC  
-**Total Positions:** 113
+**Last Updated:** 2026-03-17 07:58 UTC  
+**Total Positions:** 109
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 2 |
-| ★★★★☆ | 5 |
+| ★★★★☆ | 4 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 102 |
+| ★★☆☆☆ | 99 |
 
 ---
 
@@ -24,7 +24,7 @@
 - **[Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179386980)**  
   📍 Saudi Arabia | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (5)
+## ★★★★☆ Large Muslim Communities (4)
 
 - **[Assistant Professor for Human Services](https://www.higheredjobs.com/details.cfm?JobCode=179377236)**  
   📍 New York | 🔗 HigherEdJobs
@@ -34,9 +34,6 @@
 
 - **[Clinical Assistant Professor in Applied Behavior Analysis, Non-Tenure ](https://www.higheredjobs.com/details.cfm?JobCode=179374370)**  
   📍 Chicago | 🔗 HigherEdJobs
-
-- **[Researcher Senior Lead - t233945](https://www.higheredjobs.com/details.cfm?JobCode=179383120)**  
-  📍 Birmingham | 🔗 HigherEdJobs
 
 - **[Tenure-Track Psychology Professor in Social Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179378968)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -55,7 +52,7 @@
 - **[Non-Tenure Track Position: Clinical Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179370057)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (102)
+## ★★☆☆☆ Other Locations (99)
 
 - **[Adjunct Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179385085)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -126,7 +123,7 @@
 - **[Assistant Professor- Academic Clinician, Pediatric Behavioral Health (](https://www.higheredjobs.com/details.cfm?JobCode=179372886)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Research Professor](https://www.higheredjobs.com/details.cfm?JobCode=179387029)**  
+- **[Assistant Research Professor](https://www.higheredjobs.com/details.cfm?JobCode=179374472)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Teaching Professor in Comparative Theology](https://www.higheredjobs.com/details.cfm?JobCode=179365417)**  
@@ -147,7 +144,7 @@
 - **[Assistant, Associate, or Full Professor, University Medical Line or Cl](https://www.higheredjobs.com/details.cfm?JobCode=179382337)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 72 more positions*
+*...and 69 more positions*
 
 ---
 
