@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T07:56:52.709666+00:00",
+  "updated": "2026-03-19T07:51:19.581955+00:00",
   "count": 106,
   "jobs": [
     {
@@ -43,14 +43,6 @@
       "score": 4
     },
     {
-      "title": "Researcher Senior Lead - t233945",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179383120",
-      "description": "University of Alabama at Birmingham (Birmingham, AL)",
-      "source": "HigherEdJobs",
-      "location": "Birmingham",
-      "score": 4
-    },
-    {
       "title": "Tenure-Track Psychology Professor in Social Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179378968",
       "description": "Saint Xavier University (Chicago, IL)",
@@ -88,6 +80,14 @@
       "description": "Loyola Marymount University (Los Angeles, CA)",
       "source": "HigherEdJobs",
       "location": "Los Angeles",
+      "score": 3
+    },
+    {
+      "title": "Postdoctoral Fellow (Boston, MA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392045",
+      "description": "Bryn Mawr College (Bryn Mawr, PA)",
+      "source": "HigherEdJobs",
+      "location": "Boston",
       "score": 3
     },
     {
@@ -163,6 +163,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor of Christian Ministries",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392149",
+      "description": "Lindsey Wilson University (Columbia, KY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor of Clinical Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179387842",
       "description": "Hofstra University (Hempstead, NY)",
@@ -195,27 +203,11 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor of Theology (Tenure Track)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179367314",
-      "description": "Newman University (Wichita, KS)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor of the Practice in Human Factors (Remote - United States)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179381841",
       "description": "Embry-Riddle Aeronautical University (Online/Remote, FL)",
       "source": "HigherEdJobs",
       "location": "USA",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor – Theology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179367631",
-      "description": "Neumann University (Aston, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
       "score": 2
     },
     {
@@ -387,9 +379,9 @@
       "score": 2
     },
     {
-      "title": "Associate/Full Professor in Physical Activity and Brain/Mental Health",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179366777",
-      "description": "Indiana University Indianapolis (Indianapolis, IN)",
+      "title": "Clinical Assistant Professor, Applied Behavior Analysis",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392416",
+      "description": "Mary Lou Fulton College for Teaching and Learning Innovation (Tempe, AZ)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -414,14 +406,6 @@
       "title": "Clinical Instructor - Clinical Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179391027",
       "description": "University of Michigan (Ann Arbor, MI)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Clinical Psychologist - Assistant Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179367564",
-      "description": "University of Virginia (Charlottesville, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -499,6 +483,14 @@
       "score": 2
     },
     {
+      "title": "Lecturer Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392210",
+      "description": "Georgia Southern University (Statesboro, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Lecturer in Psychological Science",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179378338",
       "description": "University of North Georgia (Watkinsville, GA)",
@@ -547,15 +539,7 @@
       "score": 2
     },
     {
-      "title": "Lecturer/Senior Lecturer in Clinical Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179374770",
-      "description": "The University of the West Indies (Kingston, Jamaica)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Limited Term Adjunct Lecturer - Personal and Family Financial Planning",
+      "title": "Limited Term Adjunct Lecturer - Marriage & Family Therapy",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179390391",
       "description": "The University of Arizona (Tucson, AZ)",
       "source": "HigherEdJobs",
@@ -630,6 +614,14 @@
       "title": "Postdoctoral Associate",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179382487",
       "description": "Virginia Tech (Blacksburg, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Associate in Psychology (# 372761)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392075",
+      "description": "University of Minnesota (Twin Cities, MN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -734,6 +726,14 @@
       "title": "Professor of Psychology (Fall 2026)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179391846",
       "description": "Arizona Western College (Yuma, AZ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Professor of Psychology (Residential only)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392362",
+      "description": "Houston Christian University (Houston, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
