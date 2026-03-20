@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-03-19 07:52 UTC  
-**Total Positions:** 106
+**Last Updated:** 2026-03-20 07:50 UTC  
+**Total Positions:** 105
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 2 |
-| ★★★★☆ | 4 |
+| ★★★★☆ | 5 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 95 |
+| ★★☆☆☆ | 93 |
 
 ---
 
@@ -24,7 +24,7 @@
 - **[Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179386980)**  
   📍 Saudi Arabia | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (4)
+## ★★★★☆ Large Muslim Communities (5)
 
 - **[Assistant Professor for Human Services](https://www.higheredjobs.com/details.cfm?JobCode=179377236)**  
   📍 New York | 🔗 HigherEdJobs
@@ -34,6 +34,9 @@
 
 - **[Clinical Assistant Professor in Applied Behavior Analysis, Non-Tenure ](https://www.higheredjobs.com/details.cfm?JobCode=179374370)**  
   📍 Chicago | 🔗 HigherEdJobs
+
+- **[Researcher Senior Lead - t233945](https://www.higheredjobs.com/details.cfm?JobCode=179383120)**  
+  📍 Birmingham | 🔗 HigherEdJobs
 
 - **[Tenure-Track Psychology Professor in Social Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179378968)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -55,7 +58,7 @@
 - **[Postdoctoral Fellow (Boston, MA)](https://www.higheredjobs.com/details.cfm?JobCode=179392045)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (95)
+## ★★☆☆☆ Other Locations (93)
 
 - **[Adjunct Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179385085)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -75,28 +78,31 @@
 - **[Assistant / Associate Professor/ Full Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179379610)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Clinical Professor](https://www.higheredjobs.com/details.cfm?JobCode=179393009)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Full Time Lecturer (Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179392853)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Lecturer/Lecturer in Experiential Learning (Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179376616)**  
   📍 Hong Kong | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Psychiatry and Behavioral Sciences (Neuropsychol](https://www.higheredjobs.com/details.cfm?JobCode=179376199)**  
+- **[Assistant Professor (Psychology/PsyD Program) - 9 month appointment](https://www.higheredjobs.com/details.cfm?JobCode=179393299)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in Residence, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179368491)**  
+- **[Assistant Professor - Psychiatry and Behavioral Sciences (Neuropsychol](https://www.higheredjobs.com/details.cfm?JobCode=179376199)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Christian Ministries](https://www.higheredjobs.com/details.cfm?JobCode=179392149)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179387842)**  
+- **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179393624)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Philosophy and Theology](https://www.higheredjobs.com/details.cfm?JobCode=179373683)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179390182)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Psychology, Provisional Faculty](https://www.higheredjobs.com/details.cfm?JobCode=179367899)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of the Practice in Human Factors (Remote - United ](https://www.higheredjobs.com/details.cfm?JobCode=179381841)**  
@@ -144,10 +150,7 @@
 - **[Assistant/Associate Professor in the School of Professional Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179381594)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179391462)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 65 more positions*
+*...and 63 more positions*
 
 ---
 
