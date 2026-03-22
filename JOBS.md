@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-03-21 07:38 UTC  
-**Total Positions:** 106
+**Last Updated:** 2026-03-22 07:41 UTC  
+**Total Positions:** 107
 
 ---
 
@@ -10,7 +10,7 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 2 |
-| ★★★★☆ | 4 |
+| ★★★★☆ | 5 |
 | ★★★☆☆ | 5 |
 | ★★☆☆☆ | 95 |
 
@@ -24,7 +24,10 @@
 - **[Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179386980)**  
   📍 Saudi Arabia | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (4)
+## ★★★★☆ Large Muslim Communities (5)
+
+- **[Assistant Professor (Open Specialization), Department of Psychology (9](https://www.higheredjobs.com/details.cfm?JobCode=179396119)**  
+  📍 Birmingham | 🔗 HigherEdJobs
 
 - **[Assistant Professor for Human Services](https://www.higheredjobs.com/details.cfm?JobCode=179377236)**  
   📍 New York | 🔗 HigherEdJobs
@@ -56,9 +59,6 @@
   📍 Los Angeles | 🔗 HigherEdJobs
 
 ## ★★☆☆☆ Other Locations (95)
-
-- **[26-27 AY Temporary Faculty Pool (Lecturer) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179395082)**  
-  📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179385085)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -145,6 +145,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor (Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179385087)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant/Associate Professor in the School of Professional Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179381594)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 *...and 65 more positions*
