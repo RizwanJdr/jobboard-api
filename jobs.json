@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T07:57:14.244950+00:00",
+  "updated": "2026-03-26T08:04:54.309720+00:00",
   "count": 106,
   "jobs": [
     {
@@ -105,6 +105,14 @@
       "source": "HigherEdJobs",
       "location": "Los Angeles",
       "score": 3
+    },
+    {
+      "title": "10-Month Assistant/Associate Professor of Clinical Psychology, FSPP",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179398049",
+      "description": "National Louis University (Tampa, FL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
     },
     {
       "title": "Adjunct Assistant Professor",
@@ -214,14 +222,6 @@
       "title": "Assistant Professor of Clinical Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179393895",
       "description": "University of Evansville (Evansville, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor of Philosophy and Theology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179373683",
-      "description": "Aquinas College (Grand Rapids, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -363,14 +363,6 @@
       "score": 2
     },
     {
-      "title": "Assistant/Associate Professor, Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179373520",
-      "description": "Alcorn State University (Lorman, MS)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant/Associate Professor, Psychology/Neuroscience",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179377411",
       "description": "University of North Texas System (Dallas, TX)",
@@ -382,14 +374,6 @@
       "title": "Assistant/Associate Professor- Educational Innovation Institute",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179383240",
       "description": "Augusta University (Augusta, GA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant/Associate/Full Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179373838",
-      "description": "Grove City College (Grove City, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -547,6 +531,22 @@
       "score": 2
     },
     {
+      "title": "Lecturer in Religious Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397985",
+      "description": "University of The Incarnate Word (San Antonio, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer of Religious Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397764",
+      "description": "Stetson University (Deland, FL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Lecturer or Assistant Teaching Professor in Religious Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179383641",
       "description": "North Carolina State University (Raleigh, NC)",
@@ -566,14 +566,6 @@
       "title": "Limited Term Adjunct Lecturer - Marriage & Family Therapy",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179390391",
       "description": "The University of Arizona (Tucson, AZ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Part-Time Lecturer Psychological Brain Sciences (Pool Ad) - R108291",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179373752",
-      "description": "University of Louisville (Louisville, KY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -612,7 +604,7 @@
     },
     {
       "title": "Postdoctoral Associate",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179382487",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397962",
       "description": "Virginia Tech (Blacksburg, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -758,6 +750,14 @@
       "title": "Teaching Assistant Professor - General Psychology - 261100",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179380214",
       "description": "Western Carolina University (Cullowhee, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Teaching Professor, Psychological Sciences",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397874",
+      "description": "University of San Diego (San Diego, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
