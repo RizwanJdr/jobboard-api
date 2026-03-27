@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T08:04:54.309720+00:00",
+  "updated": "2026-03-27T08:02:02.778233+00:00",
   "count": 106,
   "jobs": [
     {
@@ -48,6 +48,14 @@
       "description": "Loyola University Chicago (Chicago, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
+      "score": 4
+    },
+    {
+      "title": "Senior Research Scientist (Prof Haidt)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179398889",
+      "description": "New York University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
       "score": 4
     },
     {
@@ -115,6 +123,14 @@
       "score": 2
     },
     {
+      "title": "26-27 AY Temporary Faculty Pool (Lecturer) - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179395082",
+      "description": "California State University, Fresno (Fresno, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Adjunct Assistant Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179385085",
       "description": "Long Island University (Brookville, NY)",
@@ -147,7 +163,7 @@
       "score": 2
     },
     {
-      "title": "Applied Behavioral Organizational Science - Associate Professor Director, Doctor of Psychology (PsyD) Program",
+      "title": "Applied Behavioral & Organizational Science - Associate Professor & Director, Doctorate of Clinical Psychology (PsyD) Program",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179388935",
       "description": "Sacred Heart University (Fairfield, CT)",
       "source": "HigherEdJobs",
@@ -211,6 +227,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor in Clinical Forensic Psychology--Fall 2026",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179398436",
+      "description": "Fairleigh Dickinson University (Teaneck, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor of Christian Ministries",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392149",
       "description": "Lindsey Wilson University (Columbia, KY)",
@@ -228,8 +252,8 @@
     },
     {
       "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179390182",
-      "description": "Rogers State University (Claremore, OK)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179398577",
+      "description": "Dickinson State University (Dickinson, ND)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -283,14 +307,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Research Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179374472",
-      "description": "Penn State (University Park, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Teaching Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179382111",
       "description": "St. Norbert College (De Pere, WI)",
@@ -302,22 +318,6 @@
       "title": "Assistant or Associate Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179379392",
       "description": "Midwestern State University (Wichita Falls, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant or Associate Professor of Psychology (53759)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179374352",
-      "description": "Claflin University (Orangeburg, SC)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant or Associate Professor of Psychology (Forensic Psychology) (53763)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179374364",
-      "description": "Claflin University (Orangeburg, SC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -366,6 +366,14 @@
       "title": "Assistant/Associate Professor, Psychology/Neuroscience",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179377411",
       "description": "University of North Texas System (Dallas, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate Professor, School of Psychology (Hybrid)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179398407",
+      "description": "Notre Dame de Namur University (Belmont, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -616,14 +624,6 @@
       "description": "University of Minnesota (Twin Cities, MN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Postdoctoral Fellow",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179374682",
-      "description": "Harvard University (Cambridge, MA)",
-      "source": "HigherEdJobs",
-      "location": "Cambridge",
       "score": 2
     },
     {
