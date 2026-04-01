@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-03-31 08:13 UTC  
-**Total Positions:** 115
+**Last Updated:** 2026-04-01 08:19 UTC  
+**Total Positions:** 119
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 2 |
-| ★★★★☆ | 6 |
+| ★★★★☆ | 7 |
 | ★★★☆☆ | 6 |
-| ★★☆☆☆ | 101 |
+| ★★☆☆☆ | 104 |
 
 ---
 
@@ -24,7 +24,7 @@
 - **[Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179386980)**  
   📍 Saudi Arabia | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (6)
+## ★★★★☆ Large Muslim Communities (7)
 
 - **[Assistant Professor (Open Specialization), Department of Psychology (9](https://www.higheredjobs.com/details.cfm?JobCode=179396119)**  
   📍 Birmingham | 🔗 HigherEdJobs
@@ -37,6 +37,9 @@
 
 - **[Clinical Assistant Professor in Applied Behavior Analysis, Non-Tenure ](https://www.higheredjobs.com/details.cfm?JobCode=179374370)**  
   📍 Chicago | 🔗 HigherEdJobs
+
+- **[Postdoctoral Clinical Psychology Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179402809)**  
+  📍 New York | 🔗 HigherEdJobs
 
 - **[Senior Research Scientist (Prof Haidt)](https://www.higheredjobs.com/details.cfm?JobCode=179398889)**  
   📍 New York | 🔗 HigherEdJobs
@@ -64,7 +67,7 @@
 - **[Visiting Non-Tenure Track Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179394742)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (101)
+## ★★☆☆☆ Other Locations (104)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179398049)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -135,6 +138,9 @@
 - **[Assistant Professor, Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179383084)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor, Clinical or Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179403415)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor, Doctor of Clinical Psychology program (tenure tra](https://www.higheredjobs.com/details.cfm?JobCode=179386737)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -153,10 +159,7 @@
 - **[Assistant or Associate Professor of Graduate Psychology/Director of Cl](https://www.higheredjobs.com/details.cfm?JobCode=179401755)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant or Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179379392)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 71 more positions*
+*...and 74 more positions*
 
 ---
 

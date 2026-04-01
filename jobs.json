@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-31T08:11:59.916623+00:00",
-  "count": 115,
+  "updated": "2026-04-01T08:18:05.535557+00:00",
+  "count": 119,
   "jobs": [
     {
       "title": "Assistant Professor in Psychology",
@@ -48,6 +48,14 @@
       "description": "Loyola University Chicago (Chicago, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
+      "score": 4
+    },
+    {
+      "title": "Postdoctoral Clinical Psychology Fellow",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179402809",
+      "description": "The New School (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
       "score": 4
     },
     {
@@ -294,6 +302,14 @@
       "title": "Assistant Professor, Applied Behavior Analysis",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179383084",
       "description": "Lenoir-Rhyne University (Hickory, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Clinical or Counseling Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179403415",
+      "description": "St. Lawrence University (Canton, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -635,6 +651,14 @@
       "score": 2
     },
     {
+      "title": "Part-Time Ph.D. Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179402833",
+      "description": "East Texas Baptist University (Marshall, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Post Doc Research Assistant",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179385537",
       "description": "Purdue University (West Lafayette, IN)",
@@ -747,6 +771,14 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Scholar - Center for Healthy Aging",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179403404",
+      "description": "Penn State (University Park, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Scholar, Cognitive Neuroscience of Creativity Lab, Department of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179379809",
       "description": "Penn State (University Park, PA)",
@@ -787,6 +819,14 @@
       "score": 2
     },
     {
+      "title": "Psychology Assistant/Associate Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179403396",
+      "description": "Tuskegee University (Tuskegee, AL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Psychology Lecturer",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179399850",
       "description": "University of Wisconsin-Platteville (Platteville, WI)",
@@ -816,14 +856,6 @@
       "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
       "location": "Cambridge",
-      "score": 2
-    },
-    {
-      "title": "Senior Clinical Lecturer, Program Director (77873)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179385604",
-      "description": "Iona University (Bronxville, NY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
       "score": 2
     },
     {
