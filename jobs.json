@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-01T08:18:05.535557+00:00",
-  "count": 119,
+  "updated": "2026-04-02T08:10:18.069116+00:00",
+  "count": 123,
   "jobs": [
     {
       "title": "Assistant Professor in Psychology",
@@ -73,6 +73,14 @@
       "source": "HigherEdJobs",
       "location": "Chicago",
       "score": 4
+    },
+    {
+      "title": "2026-27 AY Lecturer Pool - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179404612",
+      "description": "California State University, Los Angeles (Los Angeles, CA)",
+      "source": "HigherEdJobs",
+      "location": "Los Angeles",
+      "score": 3
     },
     {
       "title": "Assistant Professor of Practice BAS Online Practicum Director",
@@ -195,14 +203,6 @@
       "score": 2
     },
     {
-      "title": "Applied Behavioral & Organizational Science - Associate Professor & Director, Doctorate of Clinical Psychology (PsyD) Program",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179388935",
-      "description": "Sacred Heart University (Fairfield, CT)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant / Associate Professor/ Full Professor of Clinical Psychology/Behavioral Sciences",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179379610",
       "description": "Xavier University School of Medicine (Oranjestad, Aruba)",
@@ -243,6 +243,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor Of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179404360",
+      "description": "Fayetteville State University (Fayetteville, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor in Clinical Forensic Psychology--Fall 2026",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179398436",
       "description": "Fairleigh Dickinson University (Teaneck, NJ)",
@@ -267,9 +275,9 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179398577",
-      "description": "Dickinson State University (Dickinson, ND)",
+      "title": "Assistant Professor of Religious Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179404311",
+      "description": "The University of Findlay (Findlay, OH)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -510,6 +518,14 @@
       "title": "Clinical Instructor-Clinical Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179395584",
       "description": "University of Michigan (Ann Arbor, MI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "College Lecturer II - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179404571",
+      "description": "Ocean County College (Toms River, NJ)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -787,6 +803,14 @@
       "score": 2
     },
     {
+      "title": "Professor and Chair, Department of Psychiatry and Behavioral Sciences - R108431",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179404800",
+      "description": "University of Louisville (Louisville, KY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Professor of Practice or Clinical Assistant/Associate Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179378773",
       "description": "Indiana University Indianapolis (Indianapolis, IN)",
@@ -870,6 +894,14 @@
       "title": "Teaching Professor, Psychological Sciences",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397874",
       "description": "University of San Diego (San Diego, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Tenure-Track Applied Behavioral & Organizational Science - Associate Professor & Director, Doctorate of Clinical Psychology (PsyD) Program",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179388935",
+      "description": "Sacred Heart University (Fairfield, CT)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
