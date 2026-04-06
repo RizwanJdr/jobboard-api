@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-05 07:58 UTC  
-**Total Positions:** 124
+**Last Updated:** 2026-04-06 08:25 UTC  
+**Total Positions:** 122
 
 ---
 
@@ -11,8 +11,8 @@
 |-----------------------|-------|
 | ★★★★★ | 2 |
 | ★★★★☆ | 4 |
-| ★★★☆☆ | 6 |
-| ★★☆☆☆ | 112 |
+| ★★★☆☆ | 5 |
+| ★★☆☆☆ | 111 |
 
 ---
 
@@ -38,13 +38,10 @@
 - **[Senior Research Scientist (Prof Haidt)](https://www.higheredjobs.com/details.cfm?JobCode=179398889)**  
   📍 New York | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (6)
+## ★★★☆☆ Moderate Communities (5)
 
 - **[2026-27 AY Lecturer Pool - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179404612)**  
   📍 Los Angeles | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Practice BAS Online Practicum Director](https://www.higheredjobs.com/details.cfm?JobCode=179380086)**  
-  📍 Boston | 🔗 HigherEdJobs
 
 - **[Instructor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179389034)**  
   📍 Melbourne | 🔗 HigherEdJobs
@@ -58,7 +55,7 @@
 - **[Visiting Non-Tenure Track Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179394742)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (112)
+## ★★☆☆☆ Other Locations (111)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179398049)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -126,6 +123,9 @@
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179393895)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor of Psychology, 9 Month (Term)](https://www.higheredjobs.com/details.cfm?JobCode=179408720)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179404311)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -147,10 +147,7 @@
 - **[Assistant Professor, Doctor of Clinical Psychology program (tenure tra](https://www.higheredjobs.com/details.cfm?JobCode=179386737)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, MA/PhD Program in Depth Psychology, with Speciali](https://www.higheredjobs.com/details.cfm?JobCode=179382422)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 82 more positions*
+*...and 81 more positions*
 
 ---
 

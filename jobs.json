@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-05T07:57:16.578768+00:00",
-  "count": 124,
+  "updated": "2026-04-06T08:24:28.077512+00:00",
+  "count": 122,
   "jobs": [
     {
       "title": "Assistant Professor in Psychology",
@@ -56,14 +56,6 @@
       "description": "California State University, Los Angeles (Los Angeles, CA)",
       "source": "HigherEdJobs",
       "location": "Los Angeles",
-      "score": 3
-    },
-    {
-      "title": "Assistant Professor of Practice BAS Online Practicum Director",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179380086",
-      "description": "Simmons University (Boston, MA)",
-      "source": "HigherEdJobs",
-      "location": "Boston",
       "score": 3
     },
     {
@@ -270,6 +262,14 @@
       "title": "Assistant Professor of Clinical Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179393895",
       "description": "University of Evansville (Evansville, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychology, 9 Month (Term)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179408720",
+      "description": "Jackson State Community College (Jackson, TN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -659,14 +659,6 @@
       "score": 2
     },
     {
-      "title": "Part-Time Lecturer in Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179380174",
-      "description": "Penn State Shenango (Sharon, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Part-Time Ph.D. Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179402833",
       "description": "East Texas Baptist University (Marshall, TX)",
@@ -880,14 +872,6 @@
       "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
       "location": "Cambridge",
-      "score": 2
-    },
-    {
-      "title": "Teaching Assistant Professor - General Psychology - 261100",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179380214",
-      "description": "Western Carolina University (Cullowhee, NC)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
       "score": 2
     },
     {
