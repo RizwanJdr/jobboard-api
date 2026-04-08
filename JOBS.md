@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-07 08:17 UTC  
-**Total Positions:** 111
+**Last Updated:** 2026-04-08 08:16 UTC  
+**Total Positions:** 115
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 3 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 102 |
+| ★★☆☆☆ | 106 |
 
 ---
 
@@ -49,7 +49,7 @@
 - **[Visiting Non-Tenure Track Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179394742)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (102)
+## ★★☆☆☆ Other Locations (106)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179398049)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -99,6 +99,9 @@
 - **[Assistant Professor (Psychology/PsyD Program) - 9 month appointment](https://www.higheredjobs.com/details.cfm?JobCode=179393299)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor - Professor](https://www.higheredjobs.com/details.cfm?JobCode=179408218)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179396929)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -126,9 +129,6 @@
 - **[Assistant Professor or Instructor - Department of Psychology (# 372921](https://www.higheredjobs.com/details.cfm?JobCode=179401091)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179383084)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor, Clinical or Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179403415)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -141,7 +141,7 @@
 - **[Assistant Professor/Chair Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179406145)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 72 more positions*
+*...and 76 more positions*
 
 ---
 
