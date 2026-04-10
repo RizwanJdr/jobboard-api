@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-09T08:22:19.773516+00:00",
-  "count": 114,
+  "updated": "2026-04-10T08:23:14.147485+00:00",
+  "count": 121,
   "jobs": [
     {
       "title": "Assistant/ Associate Professor, Psychology",
@@ -8,6 +8,14 @@
       "description": "Prince Mohammad Bin Fahd University (Al Khobar, Saudi Arabia)",
       "source": "HigherEdJobs",
       "location": "Saudi Arabia",
+      "score": 5
+    },
+    {
+      "title": "Research Scientist in the Center for Brain and Health - Dr. Bas Rokers and Dr. Kartik Sreenivasan",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405975",
+      "description": "New York University Abu Dhabi (Abu Dhabi, United Arab Emirates)",
+      "source": "HigherEdJobs",
+      "location": "UAE",
       "score": 5
     },
     {
@@ -203,6 +211,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor - ABA",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179411881",
+      "description": "Oregon Institute of Technology (Klamath Falls, OR)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor - Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179408218",
       "description": "University of Michigan (Ann Arbor, MI)",
@@ -230,6 +246,14 @@
       "title": "Assistant Professor in Clinical Forensic Psychology--Fall 2026",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179398436",
       "description": "Fairleigh Dickinson University (Teaneck, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of APCE",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179411653",
+      "description": "University of Northern Colorado (Greeley, CO)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -315,6 +339,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Teaching Professor, Theology Religious Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179411084",
+      "description": "Villanova University (Villanova, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant or Associate Professor of Graduate Psychology/Director of Clinical Training for PsyD",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179401755",
       "description": "Northwest University (Kirkland, WA)",
@@ -395,6 +427,14 @@
       "score": 2
     },
     {
+      "title": "Associate Professor, Academic Clinician, Division of Integrated Behavioral Health- Cancer Center- CHOP",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179411049",
+      "description": "University of Pennsylvania (Philadelphia, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Clinical Assistant Professor of Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405159",
       "description": "Purdue University (West Lafayette, IN)",
@@ -438,6 +478,14 @@
       "title": "Clinical Associate Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179401652",
       "description": "University of Southern Indiana (Evansville, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Clinical Instructor-Clinical Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179395584",
+      "description": "University of Michigan (Ann Arbor, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -708,8 +756,8 @@
     },
     {
       "title": "Postdoctoral Researcher",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179396487",
-      "description": "University of Kansas (Lawrence, KS)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179385660",
+      "description": "Indiana University Bloomington (Bloomington, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -742,6 +790,14 @@
       "title": "Professor of Psychology (Fall 2026)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179391846",
       "description": "Arizona Western College (Yuma, AZ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Professor of Psychology (Residential only)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392362",
+      "description": "Houston Christian University (Houston, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2

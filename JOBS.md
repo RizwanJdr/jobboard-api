@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-09 08:23 UTC  
-**Total Positions:** 114
+**Last Updated:** 2026-04-10 08:24 UTC  
+**Total Positions:** 121
 
 ---
 
@@ -9,17 +9,20 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★★ | 1 |
+| ★★★★★ | 2 |
 | ★★★★☆ | 3 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 105 |
+| ★★☆☆☆ | 111 |
 
 ---
 
-## ★★★★★ Muslim-Majority Regions (1)
+## ★★★★★ Muslim-Majority Regions (2)
 
 - **[Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179386980)**  
   📍 Saudi Arabia | 🔗 HigherEdJobs
+
+- **[Research Scientist in the Center for Brain and Health - Dr. Bas Rokers](https://www.higheredjobs.com/details.cfm?JobCode=179405975)**  
+  📍 UAE | 🔗 HigherEdJobs
 
 ## ★★★★☆ Large Muslim Communities (3)
 
@@ -49,7 +52,7 @@
 - **[Visiting Non-Tenure Track Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179394742)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (105)
+## ★★☆☆☆ Other Locations (111)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179398049)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -99,6 +102,9 @@
 - **[Assistant Professor (Psychology/PsyD Program) - 9 month appointment](https://www.higheredjobs.com/details.cfm?JobCode=179393299)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor - ABA](https://www.higheredjobs.com/details.cfm?JobCode=179411881)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor - Professor](https://www.higheredjobs.com/details.cfm?JobCode=179408218)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -109,6 +115,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Clinical Forensic Psychology--Fall 2026](https://www.higheredjobs.com/details.cfm?JobCode=179398436)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of APCE](https://www.higheredjobs.com/details.cfm?JobCode=179411653)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Christian Ministries](https://www.higheredjobs.com/details.cfm?JobCode=179392149)**  
@@ -135,13 +144,7 @@
 - **[Assistant Professor, Doctor of Clinical Psychology program (tenure tra](https://www.higheredjobs.com/details.cfm?JobCode=179386737)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Theology](https://www.higheredjobs.com/details.cfm?JobCode=179397394)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor/Chair Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179406145)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 75 more positions*
+*...and 81 more positions*
 
 ---
 
