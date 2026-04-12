@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-11 07:55 UTC  
-**Total Positions:** 122
+**Last Updated:** 2026-04-12 08:06 UTC  
+**Total Positions:** 119
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 2 |
 | ★★★★☆ | 3 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 112 |
+| ★★☆☆☆ | 109 |
 
 ---
 
@@ -52,12 +52,15 @@
 - **[Visiting Non-Tenure Track Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179394742)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (112)
+## ★★☆☆☆ Other Locations (109)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179398049)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[121990-Professor (810)](https://www.higheredjobs.com/details.cfm?JobCode=179405529)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[2026-2027 Lecturer - Psychology (Continuous Recruitment) (# 373198)](https://www.higheredjobs.com/details.cfm?JobCode=179413419)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[2026/2027 Adjunct Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179407800)**  
@@ -96,19 +99,16 @@
 - **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179406875)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor (# 373218)](https://www.higheredjobs.com/details.cfm?JobCode=179414258)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor (Psychology/PsyD Program) - 9 month appointment](https://www.higheredjobs.com/details.cfm?JobCode=179393299)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - ABA](https://www.higheredjobs.com/details.cfm?JobCode=179411881)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Professor](https://www.higheredjobs.com/details.cfm?JobCode=179408218)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179396929)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor Of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179404360)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Clinical Forensic Psychology--Fall 2026](https://www.higheredjobs.com/details.cfm?JobCode=179398436)**  
@@ -121,6 +121,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179393895)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179414007)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology, 9 Month (Term)](https://www.higheredjobs.com/details.cfm?JobCode=179408720)**  
@@ -141,10 +144,7 @@
 - **[Assistant Professor, Doctor of Clinical Psychology program (tenure tra](https://www.higheredjobs.com/details.cfm?JobCode=179386737)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Theology](https://www.higheredjobs.com/details.cfm?JobCode=179397394)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 82 more positions*
+*...and 79 more positions*
 
 ---
 
