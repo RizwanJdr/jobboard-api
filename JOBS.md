@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-12 08:06 UTC  
-**Total Positions:** 119
+**Last Updated:** 2026-04-13 09:05 UTC  
+**Total Positions:** 109
 
 ---
 
@@ -9,22 +9,19 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★★ | 2 |
-| ★★★★☆ | 3 |
+| ★★★★★ | 1 |
+| ★★★★☆ | 4 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 109 |
+| ★★☆☆☆ | 99 |
 
 ---
 
-## ★★★★★ Muslim-Majority Regions (2)
-
-- **[Assistant/ Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179386980)**  
-  📍 Saudi Arabia | 🔗 HigherEdJobs
+## ★★★★★ Muslim-Majority Regions (1)
 
 - **[Research Scientist in the Center for Brain and Health - Dr. Bas Rokers](https://www.higheredjobs.com/details.cfm?JobCode=179405975)**  
   📍 UAE | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (3)
+## ★★★★☆ Large Muslim Communities (4)
 
 - **[Assistant Professor (Open Specialization), Department of Psychology (9](https://www.higheredjobs.com/details.cfm?JobCode=179396119)**  
   📍 Birmingham | 🔗 HigherEdJobs
@@ -34,6 +31,9 @@
 
 - **[Senior Research Scientist (Prof Haidt)](https://www.higheredjobs.com/details.cfm?JobCode=179398889)**  
   📍 New York | 🔗 HigherEdJobs
+
+- **[Social Sciences, Mathematics, Statistics, Overseas Collegiate Faculty,](https://www.higheredjobs.com/details.cfm?JobCode=179414479)**  
+  📍 UK | 🔗 HigherEdJobs
 
 ## ★★★☆☆ Moderate Communities (5)
 
@@ -52,7 +52,7 @@
 - **[Visiting Non-Tenure Track Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179394742)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (109)
+## ★★☆☆☆ Other Locations (99)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179398049)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -81,13 +81,10 @@
 - **[Adjunct Lecturer in Humanities](https://www.higheredjobs.com/details.cfm?JobCode=179405482)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179387290)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Adjunct Professors and Mentors — Integrative Psych Institute](https://www.higheredjobs.com/details.cfm?JobCode=179400799)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Advanced Neurotrauma Rehabilitation Research Postdoctoral Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179387066)**  
+- **[American Religion Postdoctoral Scholar](https://www.higheredjobs.com/details.cfm?JobCode=179414866)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Director Counseling Practicum Clinic and Assistant Clinical ](https://www.higheredjobs.com/details.cfm?JobCode=179406923)**  
@@ -141,10 +138,13 @@
 - **[Assistant Professor, Clinical or Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179403415)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Doctor of Clinical Psychology program (tenure tra](https://www.higheredjobs.com/details.cfm?JobCode=179386737)**  
+- **[Assistant Professor, Psychology & Counseling. Program Director, Clinic](https://www.higheredjobs.com/details.cfm?JobCode=179414208)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 79 more positions*
+- **[Assistant Professor, Theology](https://www.higheredjobs.com/details.cfm?JobCode=179397394)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 69 more positions*
 
 ---
 

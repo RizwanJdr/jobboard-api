@@ -1,15 +1,7 @@
 {
-  "updated": "2026-04-12T08:05:20.892320+00:00",
-  "count": 119,
+  "updated": "2026-04-13T09:04:35.123550+00:00",
+  "count": 109,
   "jobs": [
-    {
-      "title": "Assistant/ Associate Professor, Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179386980",
-      "description": "Prince Mohammad Bin Fahd University (Al Khobar, Saudi Arabia)",
-      "source": "HigherEdJobs",
-      "location": "Saudi Arabia",
-      "score": 5
-    },
     {
       "title": "Research Scientist in the Center for Brain and Health - Dr. Bas Rokers and Dr. Kartik Sreenivasan",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405975",
@@ -40,6 +32,14 @@
       "description": "New York University (New York, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "Social Sciences, Mathematics, Statistics, Overseas Collegiate Faculty, United Kingdom",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179414479",
+      "description": "University of Maryland Global Campus (Lakenheath, United Kingdom)",
+      "source": "HigherEdJobs",
+      "location": "UK",
       "score": 4
     },
     {
@@ -155,14 +155,6 @@
       "score": 2
     },
     {
-      "title": "Adjunct Professor, Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179387290",
-      "description": "Mount St. Joseph University (Cincinnati, OH)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Adjunct Professors and Mentors — Integrative Psych Institute",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179400799",
       "description": "Integrative Psych Institute (Phoenix, AZ)",
@@ -171,9 +163,9 @@
       "score": 2
     },
     {
-      "title": "Advanced Neurotrauma Rehabilitation Research Postdoctoral Fellow",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179387066",
-      "description": "Virginia Commonwealth University (Richmond, VA)",
+      "title": "American Religion Postdoctoral Scholar",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179414866",
+      "description": "Indiana University Bloomington (Bloomington, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -315,14 +307,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor, Doctor of Clinical Psychology program (tenure track)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179386737",
-      "description": "Immaculata University (Immaculata, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor, Psychology & Counseling. Program Director, Clinical Mental Health Counseling Program",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179414208",
       "description": "Nichols College (Dudley, MA)",
@@ -443,14 +427,6 @@
       "score": 2
     },
     {
-      "title": "Assistant/Associate/Professor of Psychiatry",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179387148",
-      "description": "Indiana University - School of Medicine (Indianapolis, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Associate Professor, Academic Clinician, Division of Integrated Behavioral Health- Cancer Center- CHOP",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179411049",
       "description": "University of Pennsylvania (Philadelphia, PA)",
@@ -486,14 +462,6 @@
       "title": "Clinical Assistant, Associate, or Full Professor in Applied Behavior Analysis",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179400872",
       "description": "University of Mississippi (University, MS)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Clinical Assistant/Associate Professor and Program Director, MA in Clinical Psychology and Counseling Practice (CPCP)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179387545",
-      "description": "Roosevelt University (Schaumburg, IL)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -547,14 +515,6 @@
       "score": 2
     },
     {
-      "title": "Instructor/Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179387821",
-      "description": "Rhode Island College (Providence, RI)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Instructor/Lecturer - Department of Religion",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179389831",
       "description": "University of Illinois at Urbana-Champaign (Urbana, IL)",
@@ -590,14 +550,6 @@
       "title": "Lecturer in Graduate Program in Pastoral Ministries",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179409306",
       "description": "Santa Clara University (Santa Clara, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Lecturer in Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179386738",
-      "description": "Binghamton University (Binghamton, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -667,14 +619,6 @@
       "score": 2
     },
     {
-      "title": "Post-Doctoral Research Fellowship, Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179387492",
-      "description": "Wake Forest University (Winston Salem, NC)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Postdoctoral Associate",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397962",
       "description": "Virginia Tech (Blacksburg, VA)",
@@ -707,14 +651,6 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Fellow in Pediatrics",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179387198",
-      "description": "Indiana University - School of Medicine (Indianapolis, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Postdoctoral Fellow in the Study of Contemporary Antisemitism",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179396249",
       "description": "University of Pennsylvania (Philadelphia, PA)",
@@ -739,11 +675,11 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Scholar",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179388406",
-      "description": "University of Kentucky (Lexington, KY)",
+      "title": "Postdoctoral Researcher in Artificial Intelligence and Religion",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179414830",
+      "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
-      "location": "Unknown",
+      "location": "Cambridge",
       "score": 2
     },
     {
@@ -870,22 +806,6 @@
       "title": "Teaching Professor, Psychological Sciences",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397874",
       "description": "University of San Diego (San Diego, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Tenure-Track Applied Behavioral & Organizational Science - Associate Professor & Director, Doctorate of Clinical Psychology (PsyD) Program",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179388935",
-      "description": "Sacred Heart University (Fairfield, CT)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Tenure-Track Assistant Professor - COLS | Psychology - Clinical/Counseling Psychology (EXTENDED)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179388378",
-      "description": "University of Wisconsin - Whitewater (Whitewater, WI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
