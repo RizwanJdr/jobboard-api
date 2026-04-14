@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-13T09:04:35.123550+00:00",
-  "count": 109,
+  "updated": "2026-04-14T08:46:38.456833+00:00",
+  "count": 107,
   "jobs": [
     {
       "title": "Research Scientist in the Center for Brain and Health - Dr. Bas Rokers and Dr. Kartik Sreenivasan",
@@ -16,6 +16,14 @@
       "description": "Samford University (Birmingham, AL)",
       "source": "HigherEdJobs",
       "location": "Birmingham",
+      "score": 4
+    },
+    {
+      "title": "Assistant/Associate Professor of Applied Behavior Analysis",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179415694",
+      "description": "National Louis University (Chicago, IL)",
+      "source": "HigherEdJobs",
+      "location": "Chicago",
       "score": 4
     },
     {
@@ -48,14 +56,6 @@
       "description": "California State University, Los Angeles (Los Angeles, CA)",
       "source": "HigherEdJobs",
       "location": "Los Angeles",
-      "score": 3
-    },
-    {
-      "title": "Instructor of Applied Behavior Analysis",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179389034",
-      "description": "Florida Institute of Technology (Melbourne, FL)",
-      "source": "HigherEdJobs",
-      "location": "Melbourne",
       "score": 3
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "title": "American Religion Postdoctoral Scholar",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179414866",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179415840",
       "description": "Indiana University Bloomington (Bloomington, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -238,6 +238,14 @@
       "title": "Assistant Professor of APCE",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179411653",
       "description": "University of Northern Colorado (Greeley, CO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Catholic Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179414955",
+      "description": "Saint Louis University (St. Louis, MO)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -499,25 +507,9 @@
       "score": 2
     },
     {
-      "title": "Graduate Program Director and Associate Professor of Practice - Department of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179390168",
-      "description": "Clark University (Worcester, MA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "In-Person Adjunct Assistant Professor, Addictions Counseling",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179409821",
       "description": "Ocean County College (Toms River, NJ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Instructor/Lecturer - Department of Religion",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179389831",
-      "description": "University of Illinois at Urbana-Champaign (Urbana, IL)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -691,6 +683,14 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Scholar - Judaic Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179415122",
+      "description": "Tufts University (Somerville, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Professor and Chair, Department of Psychiatry and Behavioral Sciences - R108431",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179404800",
       "description": "University of Louisville (Louisville, KY)",
@@ -750,14 +750,6 @@
       "title": "Psychology Lecturer - Summer 2026",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179401729",
       "description": "Rutgers, The State University of New Jersey (New Brunswick, NJ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Psychology Postdoctoral Fellow",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179408283",
-      "description": "Virginia Commonwealth University (Richmond, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -862,14 +854,6 @@
       "title": "Visiting Professor in Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179403295",
       "description": "Indiana Wesleyan University (Marion, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Visiting Research Scientist, FRC",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179389806",
-      "description": "University of Illinois at Urbana-Champaign (Urbana, IL)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
