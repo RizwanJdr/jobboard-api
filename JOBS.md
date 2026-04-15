@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-14 08:47 UTC  
-**Total Positions:** 107
+**Last Updated:** 2026-04-15 08:48 UTC  
+**Total Positions:** 114
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 5 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 97 |
+| ★★☆☆☆ | 104 |
 
 ---
 
@@ -52,7 +52,7 @@
 - **[Visiting Non-Tenure Track Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179394742)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (97)
+## ★★☆☆☆ Other Locations (104)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179398049)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -81,10 +81,13 @@
 - **[Adjunct Lecturer in Humanities](https://www.higheredjobs.com/details.cfm?JobCode=179405482)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Adjunct Professor (Residential) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=177903902)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Adjunct Professors and Mentors — Integrative Psych Institute](https://www.higheredjobs.com/details.cfm?JobCode=179400799)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[American Religion Postdoctoral Scholar](https://www.higheredjobs.com/details.cfm?JobCode=179415840)**  
+- **[American Religion Postdoctoral Scholar](https://www.higheredjobs.com/details.cfm?JobCode=179416652)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Director Counseling Practicum Clinic and Assistant Clinical ](https://www.higheredjobs.com/details.cfm?JobCode=179406923)**  
@@ -114,13 +117,13 @@
 - **[Assistant Professor of APCE](https://www.higheredjobs.com/details.cfm?JobCode=179411653)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Catholic Studies](https://www.higheredjobs.com/details.cfm?JobCode=179414955)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor of Christian Ministries](https://www.higheredjobs.com/details.cfm?JobCode=179392149)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179393895)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Instruction - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179417139)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179414007)**  
@@ -141,10 +144,7 @@
 - **[Assistant Professor, Clinical or Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179403415)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Psychology & Counseling. Program Director, Clinic](https://www.higheredjobs.com/details.cfm?JobCode=179414208)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 67 more positions*
+*...and 74 more positions*
 
 ---
 
