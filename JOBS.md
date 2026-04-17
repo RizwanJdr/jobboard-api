@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-16 08:49 UTC  
-**Total Positions:** 117
+**Last Updated:** 2026-04-17 08:48 UTC  
+**Total Positions:** 120
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 5 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 107 |
+| ★★☆☆☆ | 110 |
 
 ---
 
@@ -52,7 +52,7 @@
 - **[Visiting Non-Tenure Track Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179394742)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (107)
+## ★★☆☆☆ Other Locations (110)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179398049)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -82,6 +82,9 @@
   📍 Cambridge | 🔗 HigherEdJobs
 
 - **[Adjunct Lecturer in Humanities](https://www.higheredjobs.com/details.cfm?JobCode=179405482)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Professor (Residential) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=177903902)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professors and Mentors — Integrative Psych Institute](https://www.higheredjobs.com/details.cfm?JobCode=179400799)**  
@@ -141,10 +144,7 @@
 - **[Assistant Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179401846)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor or Instructor - Department of Psychology (# 372921](https://www.higheredjobs.com/details.cfm?JobCode=179401091)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 77 more positions*
+*...and 80 more positions*
 
 ---
 
