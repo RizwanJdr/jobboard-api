@@ -1,6 +1,6 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-17 08:48 UTC  
+**Last Updated:** 2026-04-18 08:02 UTC  
 **Total Positions:** 120
 
 ---
