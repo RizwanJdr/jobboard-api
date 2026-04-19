@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-18T08:01:37.836124+00:00",
-  "count": 120,
+  "updated": "2026-04-19T08:09:17.134373+00:00",
+  "count": 114,
   "jobs": [
     {
       "title": "Research Scientist in the Center for Brain and Health - Dr. Bas Rokers and Dr. Kartik Sreenivasan",
@@ -56,14 +56,6 @@
       "description": "California State University, Los Angeles (Los Angeles, CA)",
       "source": "HigherEdJobs",
       "location": "Los Angeles",
-      "score": 3
-    },
-    {
-      "title": "Postdoctoral Fellow (Boston, MA)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392045",
-      "description": "Bryn Mawr College (Bryn Mawr, PA)",
-      "source": "HigherEdJobs",
-      "location": "Boston",
       "score": 3
     },
     {
@@ -179,14 +171,6 @@
       "score": 2
     },
     {
-      "title": "American Religion Postdoctoral Scholar",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179416652",
-      "description": "Indiana University Bloomington (Bloomington, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Director Counseling Practicum Clinic and Assistant Clinical Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179406923",
       "description": "Ball State University (Muncie, IN)",
@@ -259,14 +243,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor of Christian Ministries",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392149",
-      "description": "Lindsey Wilson University (Columbia, KY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor of Clinical Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179393895",
       "description": "University of Evansville (Evansville, IN)",
@@ -284,8 +260,8 @@
     },
     {
       "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179414007",
-      "description": "Texas A&M University - Texarkana (Texarkana, TX)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179419484",
+      "description": "Springfield College (Springfield, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -491,14 +467,6 @@
       "score": 2
     },
     {
-      "title": "Clinical Assistant Professor, Applied Behavior Analysis",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392416",
-      "description": "Mary Lou Fulton College for Teaching and Learning Innovation (Tempe, AZ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Clinical Assistant, Associate, or Full Professor in Applied Behavior Analysis",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179400872",
       "description": "University of Mississippi (University, MS)",
@@ -555,14 +523,6 @@
       "score": 2
     },
     {
-      "title": "Lecturer Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392210",
-      "description": "Georgia Southern University (Statesboro, GA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Lecturer in Child Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417803",
       "description": "Santa Clara University (Santa Clara, CA)",
@@ -590,6 +550,14 @@
       "title": "Lecturer of Religious Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397764",
       "description": "Stetson University (Deland, FL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer or Teaching Assistant Professor of Psychology (4 Positions)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179419890",
+      "description": "Appalachian State University (Boone, NC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -675,22 +643,6 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Associate in Psychology (# 372761)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392075",
-      "description": "University of Minnesota (Twin Cities, MN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Postdoctoral Fellow (Oklahoma City, OK)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179391844",
-      "description": "Bryn Mawr College (Bryn Mawr, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Postdoctoral Fellow / Research Assistant I in the Department of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179401531",
       "description": "University of Hong Kong (Hong Kong, Hong Kong)",
@@ -739,6 +691,14 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Researcher in Artificial Intelligence and Religion",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179419312",
+      "description": "Harvard University (Cambridge, MA)",
+      "source": "HigherEdJobs",
+      "location": "Cambridge",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Resident",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417388",
       "description": "Texas State University (San Marcos, TX)",
@@ -771,19 +731,11 @@
       "score": 2
     },
     {
-      "title": "Professor of Psychology (Fall 2026)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179391846",
-      "description": "Arizona Western College (Yuma, AZ)",
+      "title": "Professorship in Religion, Business Ethics, and the Economic Order",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179419311",
+      "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Professor of Psychology (Residential only)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179392362",
-      "description": "Houston Christian University (Houston, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
+      "location": "Cambridge",
       "score": 2
     },
     {
