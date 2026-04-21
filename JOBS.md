@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-20 09:11 UTC  
-**Total Positions:** 105
+**Last Updated:** 2026-04-21 08:56 UTC  
+**Total Positions:** 101
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 1 |
-| ★★★★☆ | 5 |
+| ★★★★☆ | 4 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 97 |
+| ★★☆☆☆ | 94 |
 
 ---
 
@@ -21,10 +21,7 @@
 - **[Research Scientist in the Center for Brain and Health - Dr. Bas Rokers](https://www.higheredjobs.com/details.cfm?JobCode=179405975)**  
   📍 UAE | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (5)
-
-- **[Assistant Professor (Open Specialization), Department of Psychology (9](https://www.higheredjobs.com/details.cfm?JobCode=179396119)**  
-  📍 Birmingham | 🔗 HigherEdJobs
+## ★★★★☆ Large Muslim Communities (4)
 
 - **[Assistant/Associate Professor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179415694)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -46,7 +43,7 @@
 - **[Senior Researcher - Organizational Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179397023)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (97)
+## ★★☆☆☆ Other Locations (94)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179398049)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -58,9 +55,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[2026/2027 Adjunct Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179407800)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[26-27 AY Temporary Faculty Pool (Lecturer) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179395082)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[501560-Postdoctoral Fellow (Research) (817)](https://www.higheredjobs.com/details.cfm?JobCode=179405530)**  
@@ -91,6 +85,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179417993)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor - Psychology and Counseling - Applied Behavior Ana](https://www.higheredjobs.com/details.cfm?JobCode=179420292)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Clinical Forensic Psychology--Fall 2026](https://www.higheredjobs.com/details.cfm?JobCode=179398436)**  
@@ -138,7 +135,7 @@
 - **[Assistant Teaching Professor (NTT)](https://www.higheredjobs.com/details.cfm?JobCode=179412572)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 67 more positions*
+*...and 64 more positions*
 
 ---
 
