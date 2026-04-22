@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-21 08:56 UTC  
-**Total Positions:** 101
+**Last Updated:** 2026-04-22 08:51 UTC  
+**Total Positions:** 105
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 4 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 94 |
+| ★★☆☆☆ | 98 |
 
 ---
 
@@ -43,7 +43,7 @@
 - **[Senior Researcher - Organizational Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179397023)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (94)
+## ★★☆☆☆ Other Locations (98)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179398049)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -72,6 +72,9 @@
 - **[Adjunct Professors and Mentors — Integrative Psych Institute](https://www.higheredjobs.com/details.cfm?JobCode=179400799)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Applied Behavioral Organizational Science - Assistant Teaching Profess](https://www.higheredjobs.com/details.cfm?JobCode=179421860)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Director Counseling Practicum Clinic and Assistant Clinical ](https://www.higheredjobs.com/details.cfm?JobCode=179406923)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -96,10 +99,13 @@
 - **[Assistant Professor of APCE](https://www.higheredjobs.com/details.cfm?JobCode=179411653)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor of Behavioral Forensics (Psychology Law)](https://www.higheredjobs.com/details.cfm?JobCode=179422679)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor of Instruction - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179417139)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179419484)**  
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179421892)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology, 9 Month (Term)](https://www.higheredjobs.com/details.cfm?JobCode=179408720)**  
@@ -129,13 +135,7 @@
 - **[Assistant Professor, Theology](https://www.higheredjobs.com/details.cfm?JobCode=179397394)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor/Chair Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179406145)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Teaching Professor (NTT)](https://www.higheredjobs.com/details.cfm?JobCode=179412572)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 64 more positions*
+*...and 68 more positions*
 
 ---
 
