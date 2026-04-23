@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-22 08:51 UTC  
-**Total Positions:** 105
+**Last Updated:** 2026-04-23 08:57 UTC  
+**Total Positions:** 114
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 1 |
-| ★★★★☆ | 4 |
+| ★★★★☆ | 5 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 98 |
+| ★★☆☆☆ | 106 |
 
 ---
 
@@ -21,10 +21,13 @@
 - **[Research Scientist in the Center for Brain and Health - Dr. Bas Rokers](https://www.higheredjobs.com/details.cfm?JobCode=179405975)**  
   📍 UAE | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (4)
+## ★★★★☆ Large Muslim Communities (5)
 
 - **[Assistant/Associate Professor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179415694)**  
   📍 Chicago | 🔗 HigherEdJobs
+
+- **[Postdoctoral Associate (Hartley Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179423099)**  
+  📍 New York | 🔗 HigherEdJobs
 
 - **[Postdoctoral Clinical Psychology Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179402809)**  
   📍 New York | 🔗 HigherEdJobs
@@ -43,7 +46,7 @@
 - **[Senior Researcher - Organizational Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179397023)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (98)
+## ★★☆☆☆ Other Locations (106)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179398049)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -78,7 +81,7 @@
 - **[Assistant Director Counseling Practicum Clinic and Assistant Clinical ](https://www.higheredjobs.com/details.cfm?JobCode=179406923)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179406875)**  
+- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179423258)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (# 373218)](https://www.higheredjobs.com/details.cfm?JobCode=179414258)**  
@@ -135,7 +138,7 @@
 - **[Assistant Professor, Theology](https://www.higheredjobs.com/details.cfm?JobCode=179397394)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 68 more positions*
+*...and 76 more positions*
 
 ---
 

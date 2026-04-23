@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22T08:50:50.556420+00:00",
-  "count": 105,
+  "updated": "2026-04-23T08:56:59.015815+00:00",
+  "count": 114,
   "jobs": [
     {
       "title": "Research Scientist in the Center for Brain and Health - Dr. Bas Rokers and Dr. Kartik Sreenivasan",
@@ -16,6 +16,14 @@
       "description": "National Louis University (Chicago, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
+      "score": 4
+    },
+    {
+      "title": "Postdoctoral Associate (Hartley Lab)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423099",
+      "description": "New York University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
       "score": 4
     },
     {
@@ -148,7 +156,7 @@
     },
     {
       "title": "Assistant Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179406875",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423258",
       "description": "University of Colorado Anschutz Medical Campus (Aurora, CO)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -307,6 +315,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Teaching Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179424086",
+      "description": "University of Colorado Boulder (Boulder, CO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Teaching Professor (NTT)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179412572",
       "description": "Rutgers, The State University of New Jersey (New Brunswick, NJ)",
@@ -326,6 +342,14 @@
       "title": "Assistant or Associate Professor of Graduate Psychology/Director of Clinical Training for PsyD",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179401755",
       "description": "Northwest University (Kirkland, WA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant or Associate Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179422708",
+      "description": "Heritage University (Toppenish, WA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -414,14 +438,6 @@
       "title": "Clinical Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179410407",
       "description": "University of Evansville (Evansville, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Clinical Assistant, Associate, or Full Professor in Applied Behavior Analysis",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179400872",
-      "description": "University of Mississippi (University, MS)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -571,6 +587,14 @@
       "score": 2
     },
     {
+      "title": "Philosophy and Religious Studies (Philosophy), Full-Time Lecturer, Faculty",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423251",
+      "description": "Middle Tennessee State University (Murfreesboro, TN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Philosophy and Religious Studies: Lecturer in Philosophy (80%)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179420920",
       "description": "University of Wisconsin - Eau Claire (Eau Claire, WI)",
@@ -611,6 +635,14 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Fellow-NIH (Psychological Science)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423165",
+      "description": "University of Texas Rio Grande Valley (Edinburg, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Fellowship in Developmental Psychopathology and Epigenomics",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179418265",
       "description": "University of Pennsylvania (Philadelphia, PA)",
@@ -643,8 +675,16 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Research Fellow in Buddhist Ministry",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179424005",
+      "description": "Harvard University (Cambridge, MA)",
+      "source": "HigherEdJobs",
+      "location": "Cambridge",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Researcher in Artificial Intelligence and Religion",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179419312",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423894",
       "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
       "location": "Cambridge",
@@ -694,6 +734,14 @@
       "title": "Psychiatrist, Clinical Assistant/Associate Professor, Psychiatry, Comprehensive Psychiatric Emergency Program (CPEP) - Overnight Full Time",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179415991",
       "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychiatry Assistant Professor (Tenure Track)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423707",
+      "description": "University of Wisconsin - Madison (Madison, WI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -779,9 +827,25 @@
       "score": 2
     },
     {
+      "title": "Senior Research Scientist",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423397",
+      "description": "Chapman University (Orange, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Teaching Professor, Psychological Sciences",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397874",
       "description": "University of San Diego (San Diego, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Tenure-Track: Assistant Professor (TAMSCI)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423919",
+      "description": "Texas A&M University (College Station, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -796,8 +860,8 @@
     },
     {
       "title": "Visiting Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417209",
-      "description": "Willamette University (Salem, OR)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423701",
+      "description": "Wilkes University (Wilkes-Barre, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -814,6 +878,14 @@
       "title": "Visiting Assistant Professor, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179410551",
       "description": "Butler University (Indianapolis, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor, Religious Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423641",
+      "description": "Skidmore College (Saratoga Springs, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
