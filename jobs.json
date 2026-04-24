@@ -1,15 +1,7 @@
 {
-  "updated": "2026-04-23T08:56:59.015815+00:00",
-  "count": 114,
+  "updated": "2026-04-24T09:03:37.636151+00:00",
+  "count": 116,
   "jobs": [
-    {
-      "title": "Research Scientist in the Center for Brain and Health - Dr. Bas Rokers and Dr. Kartik Sreenivasan",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405975",
-      "description": "New York University Abu Dhabi (Abu Dhabi, United Arab Emirates)",
-      "source": "HigherEdJobs",
-      "location": "UAE",
-      "score": 5
-    },
     {
       "title": "Assistant/Associate Professor of Applied Behavior Analysis",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179415694",
@@ -56,14 +48,6 @@
       "description": "California State University, Los Angeles (Los Angeles, CA)",
       "source": "HigherEdJobs",
       "location": "Los Angeles",
-      "score": 3
-    },
-    {
-      "title": "Senior Researcher - Organizational Behavior",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397023",
-      "description": "Harvard University (Boston, MA)",
-      "source": "HigherEdJobs",
-      "location": "Boston",
       "score": 3
     },
     {
@@ -131,17 +115,25 @@
       "score": 2
     },
     {
-      "title": "Adjunct Professors and Mentors — Integrative Psych Institute",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179400799",
-      "description": "Integrative Psych Institute (Phoenix, AZ)",
+      "title": "Adjunct Professor of Religious Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179424388",
+      "description": "William & Mary (Williamsburg, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
     },
     {
-      "title": "Applied Behavioral Organizational Science - Assistant Teaching Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179421860",
-      "description": "Sacred Heart University (Fairfield, CT)",
+      "title": "Adjunct Professor, School of Theology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425305",
+      "description": "Virginia Union University (Richmond, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Adjunct Professors and Mentors — Integrative Psych Institute",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179400799",
+      "description": "Integrative Psych Institute (Phoenix, AZ)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -299,14 +291,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor, Theology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397394",
-      "description": "Saint Mary's University of Minnesota (Winona, MN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor/Chair Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179406145",
       "description": "Lasell University (Newton, MA)",
@@ -427,6 +411,14 @@
       "score": 2
     },
     {
+      "title": "Associate Professor, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425110",
+      "description": "Seminole State College (Sanford, FL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Clinical Assistant Professor of Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405159",
       "description": "Purdue University (West Lafayette, IN)",
@@ -438,6 +430,14 @@
       "title": "Clinical Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179410407",
       "description": "University of Evansville (Evansville, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Faith and AI Postdoctoral Fellowship",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425291",
+      "description": "University of Notre Dame (Notre Dame, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -493,6 +493,14 @@
     {
       "title": "Lecturer in Child Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417803",
+      "description": "Santa Clara University (Santa Clara, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer in Counseling Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425251",
       "description": "Santa Clara University (Santa Clara, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -598,14 +606,6 @@
       "title": "Philosophy and Religious Studies: Lecturer in Philosophy (80%)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179420920",
       "description": "University of Wisconsin - Eau Claire (Eau Claire, WI)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Postdoc Research Associate - IowaS Integrated Data System For Decision-Making",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179418886",
-      "description": "Iowa State University (Ames, IA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -723,14 +723,6 @@
       "score": 2
     },
     {
-      "title": "Professorship in Religion, Business Ethics, and the Economic Order",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179419311",
-      "description": "Harvard University (Cambridge, MA)",
-      "source": "HigherEdJobs",
-      "location": "Cambridge",
-      "score": 2
-    },
-    {
       "title": "Psychiatrist, Clinical Assistant/Associate Professor, Psychiatry, Comprehensive Psychiatric Emergency Program (CPEP) - Overnight Full Time",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179415991",
       "description": "Stony Brook University (Stony Brook, NY)",
@@ -782,6 +774,14 @@
       "title": "Psychology Professor, Full-Time Tenure-Track",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179402759",
       "description": "Hartnell Community College (Salinas, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychology, Assistant Professor, Beeville",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425039",
+      "description": "Coastal Bend College (Beeville, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -843,6 +843,14 @@
       "score": 2
     },
     {
+      "title": "Teaching and Research Postdoctoral Fellow - Grefenstette Center for Ethics",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179424379",
+      "description": "Duquesne University (Pittsburgh, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Tenure-Track: Assistant Professor (TAMSCI)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423919",
       "description": "Texas A&M University (College Station, TX)",
@@ -870,6 +878,14 @@
       "title": "Visiting Assistant Professor of Religious Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179413794",
       "description": "Wofford College (Spartanburg, SC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor or Visiting Instructor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425120",
+      "description": "College of Charleston (Charleston, SC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2

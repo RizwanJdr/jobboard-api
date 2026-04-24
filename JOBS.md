@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-23 08:57 UTC  
-**Total Positions:** 114
+**Last Updated:** 2026-04-24 09:04 UTC  
+**Total Positions:** 116
 
 ---
 
@@ -9,17 +9,11 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★★ | 1 |
 | ★★★★☆ | 5 |
-| ★★★☆☆ | 2 |
-| ★★☆☆☆ | 106 |
+| ★★★☆☆ | 1 |
+| ★★☆☆☆ | 110 |
 
 ---
-
-## ★★★★★ Muslim-Majority Regions (1)
-
-- **[Research Scientist in the Center for Brain and Health - Dr. Bas Rokers](https://www.higheredjobs.com/details.cfm?JobCode=179405975)**  
-  📍 UAE | 🔗 HigherEdJobs
 
 ## ★★★★☆ Large Muslim Communities (5)
 
@@ -38,15 +32,12 @@
 - **[Social Sciences, Mathematics, Statistics, Overseas Collegiate Faculty,](https://www.higheredjobs.com/details.cfm?JobCode=179414479)**  
   📍 UK | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (2)
+## ★★★☆☆ Moderate Communities (1)
 
 - **[2026-27 AY Lecturer Pool - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179404612)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-- **[Senior Researcher - Organizational Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179397023)**  
-  📍 Boston | 🔗 HigherEdJobs
-
-## ★★☆☆☆ Other Locations (106)
+## ★★☆☆☆ Other Locations (110)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179398049)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -72,10 +63,13 @@
 - **[Adjunct Professor (Residential) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=177903902)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct Professors and Mentors — Integrative Psych Institute](https://www.higheredjobs.com/details.cfm?JobCode=179400799)**  
+- **[Adjunct Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179424388)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Applied Behavioral Organizational Science - Assistant Teaching Profess](https://www.higheredjobs.com/details.cfm?JobCode=179421860)**  
+- **[Adjunct Professor, School of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179425305)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Professors and Mentors — Integrative Psych Institute](https://www.higheredjobs.com/details.cfm?JobCode=179400799)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Director Counseling Practicum Clinic and Assistant Clinical ](https://www.higheredjobs.com/details.cfm?JobCode=179406923)**  
@@ -135,10 +129,7 @@
 - **[Assistant Professor, Psychology & Counseling. Program Director, Clinic](https://www.higheredjobs.com/details.cfm?JobCode=179414208)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Theology](https://www.higheredjobs.com/details.cfm?JobCode=179397394)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 76 more positions*
+*...and 80 more positions*
 
 ---
 
