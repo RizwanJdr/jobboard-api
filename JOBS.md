@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-25 08:08 UTC  
-**Total Positions:** 116
+**Last Updated:** 2026-04-26 08:19 UTC  
+**Total Positions:** 117
 
 ---
 
@@ -9,11 +9,17 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
+| ★★★★★ | 1 |
 | ★★★★☆ | 5 |
 | ★★★☆☆ | 1 |
 | ★★☆☆☆ | 110 |
 
 ---
+
+## ★★★★★ Muslim-Majority Regions (1)
+
+- **[Research Scientist in the Center for Brain and Health - Dr. Bas Rokers](https://www.higheredjobs.com/details.cfm?JobCode=179405975)**  
+  📍 UAE | 🔗 HigherEdJobs
 
 ## ★★★★☆ Large Muslim Communities (5)
 
@@ -39,9 +45,6 @@
 
 ## ★★☆☆☆ Other Locations (110)
 
-- **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179398049)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[121990-Professor (810)](https://www.higheredjobs.com/details.cfm?JobCode=179405529)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -54,13 +57,13 @@
 - **[501560-Postdoctoral Fellow (Research) (817)](https://www.higheredjobs.com/details.cfm?JobCode=179405530)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179425790)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Adjunct Faculty - Quantitative and Qualitative Research Methods, Summe](https://www.higheredjobs.com/details.cfm?JobCode=179418238)**  
   📍 Cambridge | 🔗 HigherEdJobs
 
 - **[Adjunct Lecturer in Humanities](https://www.higheredjobs.com/details.cfm?JobCode=179405482)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Professor (Residential) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=177903902)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179424388)**  
@@ -102,7 +105,7 @@
 - **[Assistant Professor of Instruction - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179417139)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179421892)**  
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179426367)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology, 9 Month (Term)](https://www.higheredjobs.com/details.cfm?JobCode=179408720)**  
@@ -127,6 +130,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor, Psychology & Counseling. Program Director, Clinic](https://www.higheredjobs.com/details.cfm?JobCode=179414208)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor/Chair Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179406145)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 *...and 80 more positions*

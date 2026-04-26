@@ -1,7 +1,15 @@
 {
-  "updated": "2026-04-25T08:07:37.630372+00:00",
-  "count": 116,
+  "updated": "2026-04-26T08:18:20.254592+00:00",
+  "count": 117,
   "jobs": [
+    {
+      "title": "Research Scientist in the Center for Brain and Health - Dr. Bas Rokers and Dr. Kartik Sreenivasan",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405975",
+      "description": "New York University Abu Dhabi (Abu Dhabi, United Arab Emirates)",
+      "source": "HigherEdJobs",
+      "location": "UAE",
+      "score": 5
+    },
     {
       "title": "Assistant/Associate Professor of Applied Behavior Analysis",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179415694",
@@ -51,14 +59,6 @@
       "score": 3
     },
     {
-      "title": "10-Month Assistant/Associate Professor of Clinical Psychology, FSPP",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179398049",
-      "description": "National Louis University (Tampa, FL)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "121990-Professor (810)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405529",
       "description": "East Tennessee State University (Johnson City, TN)",
@@ -91,6 +91,14 @@
       "score": 2
     },
     {
+      "title": "Academic Professional Track (Non-Tenure): Clinical Assistant Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425790",
+      "description": "Texas A&M University (College Station, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Adjunct Faculty - Quantitative and Qualitative Research Methods, Summer Semester 2026, Fully in-person, on-campus",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179418238",
       "description": "Lesley University (Cambridge, MA)",
@@ -102,14 +110,6 @@
       "title": "Adjunct Lecturer in Humanities",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405482",
       "description": "Regis College (Weston, MA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Adjunct Professor (Residential) - Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=177903902",
-      "description": "Houston Christian University (Houston, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -220,8 +220,8 @@
     },
     {
       "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179421892",
-      "description": "Rivier University (Nashua, NH)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179426367",
+      "description": "Eastern Oregon University (La Grande, OR)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -443,6 +443,22 @@
       "score": 2
     },
     {
+      "title": "Full-Time Lecturer AY - Child Development (26/27)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425870",
+      "description": "Cal Poly, San Luis Obispo (San Luis Obispo, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Full-Time Lecturer AY - Multicultural Psychology (26/27)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425868",
+      "description": "Cal Poly, San Luis Obispo (San Luis Obispo, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Instructor or Assistant Professor of Religion and University Chaplain",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417212",
       "description": "Lindenwood University (St. Charles, MO)",
@@ -502,22 +518,6 @@
       "title": "Lecturer in Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425251",
       "description": "Santa Clara University (Santa Clara, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Lecturer in Religious Studies",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397985",
-      "description": "University of The Incarnate Word (San Antonio, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Lecturer of Religious Studies",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397764",
-      "description": "Stetson University (Deland, FL)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -606,14 +606,6 @@
       "title": "Philosophy and Religious Studies: Lecturer in Philosophy (80%)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179420920",
       "description": "University of Wisconsin - Eau Claire (Eau Claire, WI)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Postdoctoral Associate",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397962",
-      "description": "Virginia Tech (Blacksburg, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -835,19 +827,19 @@
       "score": 2
     },
     {
-      "title": "Teaching Professor, Psychological Sciences",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179397874",
-      "description": "University of San Diego (San Diego, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Teaching and Research Postdoctoral Fellow - Grefenstette Center for Ethics",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179424379",
       "description": "Duquesne University (Pittsburgh, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Tenure Track Assistant Professor in Human Factors (Remote - United States)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179426102",
+      "description": "Embry-Riddle Aeronautical University (Online/Remote, FL)",
+      "source": "HigherEdJobs",
+      "location": "USA",
       "score": 2
     },
     {
@@ -859,9 +851,25 @@
       "score": 2
     },
     {
+      "title": "University Lecturer, Psychology and Counseling",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179426300",
+      "description": "Governors State University (University Park, IL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Vice Chair for Research, Department of Psychiatry",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417064",
       "description": "University at Buffalo (Buffalo, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor in Religious Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425979",
+      "description": "Hendrix College (Conway, AR)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
