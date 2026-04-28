@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-27 09:25 UTC  
-**Total Positions:** 114
+**Last Updated:** 2026-04-28 09:28 UTC  
+**Total Positions:** 112
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 1 |
-| ★★★★☆ | 4 |
+| ★★★★☆ | 3 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 108 |
+| ★★☆☆☆ | 107 |
 
 ---
 
@@ -21,13 +21,10 @@
 - **[Research Scientist in the Center for Brain and Health - Dr. Bas Rokers](https://www.higheredjobs.com/details.cfm?JobCode=179405975)**  
   📍 UAE | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (4)
+## ★★★★☆ Large Muslim Communities (3)
 
 - **[Assistant/Associate Professor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179415694)**  
   📍 Chicago | 🔗 HigherEdJobs
-
-- **[Postdoctoral Associate (Hartley Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179423099)**  
-  📍 New York | 🔗 HigherEdJobs
 
 - **[Postdoctoral Clinical Psychology Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179402809)**  
   📍 New York | 🔗 HigherEdJobs
@@ -40,7 +37,7 @@
 - **[2026-27 AY Lecturer Pool - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179404612)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (108)
+## ★★☆☆☆ Other Locations (107)
 
 - **[121990-Professor (810)](https://www.higheredjobs.com/details.cfm?JobCode=179405529)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -63,22 +60,16 @@
 - **[Adjunct Lecturer in Humanities](https://www.higheredjobs.com/details.cfm?JobCode=179405482)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct Professor (Residential) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=177903902)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Adjunct Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179424388)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor, School of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179425305)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct Professors and Mentors — Integrative Psych Institute](https://www.higheredjobs.com/details.cfm?JobCode=179400799)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Director Counseling Practicum Clinic and Assistant Clinical ](https://www.higheredjobs.com/details.cfm?JobCode=179406923)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179423258)**  
+- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179427382)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (# 373218)](https://www.higheredjobs.com/details.cfm?JobCode=179414258)**  
@@ -114,13 +105,7 @@
 - **[Assistant Professor of Religious Studies, AGF](https://www.higheredjobs.com/details.cfm?JobCode=179417947)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179401846)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor on the Academic Clinician Track in Cognitive Behav](https://www.higheredjobs.com/details.cfm?JobCode=179418354)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor or Instructor - Department of Psychology (# 372921](https://www.higheredjobs.com/details.cfm?JobCode=179401091)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor, Clinical or Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179403415)**  
@@ -129,10 +114,22 @@
 - **[Assistant Professor, Psychology & Counseling. Program Director, Clinic](https://www.higheredjobs.com/details.cfm?JobCode=179414208)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor-Psychiatry](https://www.higheredjobs.com/details.cfm?JobCode=179413489)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor/Chair Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179406145)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 78 more positions*
+- **[Assistant Research Professor of Pediatrics](https://www.higheredjobs.com/details.cfm?JobCode=179426839)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179424086)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Teaching Professor (NTT)](https://www.higheredjobs.com/details.cfm?JobCode=179412572)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 77 more positions*
 
 ---
 
