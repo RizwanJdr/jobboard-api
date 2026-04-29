@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-28T09:27:49.845023+00:00",
-  "count": 112,
+  "updated": "2026-04-29T09:15:09.191071+00:00",
+  "count": 114,
   "jobs": [
     {
       "title": "Research Scientist in the Center for Brain and Health - Dr. Bas Rokers and Dr. Kartik Sreenivasan",
@@ -94,6 +94,14 @@
       "title": "Adjunct Lecturer in Humanities",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405482",
       "description": "Regis College (Weston, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Adjunct Professor (Residential) - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=177903902",
+      "description": "Houston Christian University (Houston, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -238,6 +246,14 @@
       "title": "Assistant Professor, Psychology & Counseling. Program Director, Clinical Mental Health Counseling Program",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179414208",
       "description": "Nichols College (Dudley, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Quantitative Science Program",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179428931",
+      "description": "Brown University (Providence, RI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -587,6 +603,14 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Associate",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179428049",
+      "description": "Virginia Tech (Blacksburg, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Associate Researcher- Taylor Lab",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179421961",
       "description": "Rutgers, The State University of New Jersey (Piscataway, NJ)",
@@ -723,14 +747,6 @@
       "score": 2
     },
     {
-      "title": "Psychology Professor, Full-Time Tenure-Track",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179402759",
-      "description": "Hartnell Community College (Salinas, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Psychology, Assistant Professor, Beeville",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425039",
       "description": "Coastal Bend College (Beeville, TX)",
@@ -795,11 +811,11 @@
       "score": 2
     },
     {
-      "title": "Tenure Track Assistant Professor in Human Factors (Remote - United States)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179426102",
-      "description": "Embry-Riddle Aeronautical University (Online/Remote, FL)",
+      "title": "Tenure-Track Assistant Professor, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179428255",
+      "description": "Morehouse College (Atlanta, GA)",
       "source": "HigherEdJobs",
-      "location": "USA",
+      "location": "Unknown",
       "score": 2
     },
     {

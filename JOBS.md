@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-28 09:28 UTC  
-**Total Positions:** 112
+**Last Updated:** 2026-04-29 09:16 UTC  
+**Total Positions:** 114
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 3 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 107 |
+| ★★☆☆☆ | 109 |
 
 ---
 
@@ -37,7 +37,7 @@
 - **[2026-27 AY Lecturer Pool - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179404612)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (107)
+## ★★☆☆☆ Other Locations (109)
 
 - **[121990-Professor (810)](https://www.higheredjobs.com/details.cfm?JobCode=179405529)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -58,6 +58,9 @@
   📍 Cambridge | 🔗 HigherEdJobs
 
 - **[Adjunct Lecturer in Humanities](https://www.higheredjobs.com/details.cfm?JobCode=179405482)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Professor (Residential) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=177903902)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179424388)**  
@@ -114,6 +117,9 @@
 - **[Assistant Professor, Psychology & Counseling. Program Director, Clinic](https://www.higheredjobs.com/details.cfm?JobCode=179414208)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor, Quantitative Science Program](https://www.higheredjobs.com/details.cfm?JobCode=179428931)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor-Psychiatry](https://www.higheredjobs.com/details.cfm?JobCode=179413489)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -123,13 +129,7 @@
 - **[Assistant Research Professor of Pediatrics](https://www.higheredjobs.com/details.cfm?JobCode=179426839)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179424086)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Teaching Professor (NTT)](https://www.higheredjobs.com/details.cfm?JobCode=179412572)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 77 more positions*
+*...and 79 more positions*
 
 ---
 
