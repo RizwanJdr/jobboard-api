@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-29 09:16 UTC  
-**Total Positions:** 114
+**Last Updated:** 2026-04-30 09:21 UTC  
+**Total Positions:** 115
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 3 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 109 |
+| ★★☆☆☆ | 110 |
 
 ---
 
@@ -37,7 +37,7 @@
 - **[2026-27 AY Lecturer Pool - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179404612)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (109)
+## ★★☆☆☆ Other Locations (110)
 
 - **[121990-Professor (810)](https://www.higheredjobs.com/details.cfm?JobCode=179405529)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -46,9 +46,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[2026/2027 Adjunct Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179407800)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[501560-Postdoctoral Fellow (Research) (817)](https://www.higheredjobs.com/details.cfm?JobCode=179405530)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179425790)**  
@@ -96,7 +93,7 @@
 - **[Assistant Professor of Instruction - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179417139)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179426367)**  
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179429373)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology, 9 Month (Term)](https://www.higheredjobs.com/details.cfm?JobCode=179408720)**  
@@ -129,7 +126,10 @@
 - **[Assistant Research Professor of Pediatrics](https://www.higheredjobs.com/details.cfm?JobCode=179426839)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 79 more positions*
+- **[Assistant Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179424086)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 80 more positions*
 
 ---
 
