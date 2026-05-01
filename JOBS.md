@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-04-30 09:21 UTC  
-**Total Positions:** 115
+**Last Updated:** 2026-05-01 09:05 UTC  
+**Total Positions:** 110
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 1 |
-| ★★★★☆ | 3 |
+| ★★★★☆ | 2 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 110 |
+| ★★☆☆☆ | 106 |
 
 ---
 
@@ -21,23 +21,20 @@
 - **[Research Scientist in the Center for Brain and Health - Dr. Bas Rokers](https://www.higheredjobs.com/details.cfm?JobCode=179405975)**  
   📍 UAE | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (3)
+## ★★★★☆ Large Muslim Communities (2)
 
 - **[Assistant/Associate Professor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179415694)**  
   📍 Chicago | 🔗 HigherEdJobs
-
-- **[Postdoctoral Clinical Psychology Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179402809)**  
-  📍 New York | 🔗 HigherEdJobs
 
 - **[Social Sciences, Mathematics, Statistics, Overseas Collegiate Faculty,](https://www.higheredjobs.com/details.cfm?JobCode=179414479)**  
   📍 UK | 🔗 HigherEdJobs
 
 ## ★★★☆☆ Moderate Communities (1)
 
-- **[2026-27 AY Lecturer Pool - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179404612)**  
-  📍 Los Angeles | 🔗 HigherEdJobs
+- **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
+  📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (110)
+## ★★☆☆☆ Other Locations (106)
 
 - **[121990-Professor (810)](https://www.higheredjobs.com/details.cfm?JobCode=179405529)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -90,25 +87,22 @@
 - **[Assistant Professor of Behavioral Forensics (Psychology Law)](https://www.higheredjobs.com/details.cfm?JobCode=179422679)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor of Child Development](https://www.higheredjobs.com/details.cfm?JobCode=179430683)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor of Instruction - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179417139)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179429373)**  
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179431061)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology, 9 Month (Term)](https://www.higheredjobs.com/details.cfm?JobCode=179408720)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179404311)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Religious Studies, AGF](https://www.higheredjobs.com/details.cfm?JobCode=179417947)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor on the Academic Clinician Track in Cognitive Behav](https://www.higheredjobs.com/details.cfm?JobCode=179418354)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor, Clinical or Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179403415)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor, Psychology & Counseling. Program Director, Clinic](https://www.higheredjobs.com/details.cfm?JobCode=179414208)**  
@@ -129,7 +123,10 @@
 - **[Assistant Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179424086)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 80 more positions*
+- **[Assistant Teaching Professor (NTT)](https://www.higheredjobs.com/details.cfm?JobCode=179412572)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 76 more positions*
 
 ---
 
