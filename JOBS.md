@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-02 08:25 UTC  
-**Total Positions:** 110
+**Last Updated:** 2026-05-03 08:52 UTC  
+**Total Positions:** 113
 
 ---
 
@@ -9,17 +9,11 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★★ | 1 |
 | ★★★★☆ | 2 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 106 |
+| ★★☆☆☆ | 110 |
 
 ---
-
-## ★★★★★ Muslim-Majority Regions (1)
-
-- **[Research Scientist in the Center for Brain and Health - Dr. Bas Rokers](https://www.higheredjobs.com/details.cfm?JobCode=179405975)**  
-  📍 UAE | 🔗 HigherEdJobs
 
 ## ★★★★☆ Large Muslim Communities (2)
 
@@ -34,10 +28,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (106)
-
-- **[121990-Professor (810)](https://www.higheredjobs.com/details.cfm?JobCode=179405529)**  
-  📍 Unknown | 🔗 HigherEdJobs
+## ★★☆☆☆ Other Locations (110)
 
 - **[2026-2027 Lecturer - Psychology (Continuous Recruitment) (# 373198)](https://www.higheredjobs.com/details.cfm?JobCode=179413419)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -51,9 +42,6 @@
 - **[Adjunct Faculty - Quantitative and Qualitative Research Methods, Summe](https://www.higheredjobs.com/details.cfm?JobCode=179418238)**  
   📍 Cambridge | 🔗 HigherEdJobs
 
-- **[Adjunct Lecturer in Humanities](https://www.higheredjobs.com/details.cfm?JobCode=179405482)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Adjunct Professor (Residential) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=177903902)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -63,7 +51,7 @@
 - **[Adjunct Professor, School of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179425305)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Director Counseling Practicum Clinic and Assistant Clinical ](https://www.higheredjobs.com/details.cfm?JobCode=179406923)**  
+- **[Assistant / Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179432648)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179427382)**  
@@ -105,7 +93,10 @@
 - **[Assistant Professor on the Academic Clinician Track in Cognitive Behav](https://www.higheredjobs.com/details.cfm?JobCode=179418354)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Psychology & Counseling. Program Director, Clinic](https://www.higheredjobs.com/details.cfm?JobCode=179414208)**  
+- **[Assistant Professor, Department of Psychiatry Behavioral Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179431601)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor, Doctor of Clinical Psychology Program (Tenure Tra](https://www.higheredjobs.com/details.cfm?JobCode=179431719)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor, Quantitative Science Program](https://www.higheredjobs.com/details.cfm?JobCode=179428931)**  
@@ -114,19 +105,22 @@
 - **[Assistant Professor-Psychiatry](https://www.higheredjobs.com/details.cfm?JobCode=179413489)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor/Chair Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179406145)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Research Professor of Pediatrics](https://www.higheredjobs.com/details.cfm?JobCode=179426839)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179424086)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Teaching Professor (NTT)](https://www.higheredjobs.com/details.cfm?JobCode=179412572)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 76 more positions*
+- **[Assistant Teaching Professor (Non-Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179413206)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant or Associate Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179427441)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant or Associate Professor of Graduate Psychology/Director of Cl](https://www.higheredjobs.com/details.cfm?JobCode=179401755)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 80 more positions*
 
 ---
 

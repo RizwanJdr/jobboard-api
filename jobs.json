@@ -1,15 +1,7 @@
 {
-  "updated": "2026-05-02T08:24:04.132336+00:00",
-  "count": 110,
+  "updated": "2026-05-03T08:51:03.654607+00:00",
+  "count": 113,
   "jobs": [
-    {
-      "title": "Research Scientist in the Center for Brain and Health - Dr. Bas Rokers and Dr. Kartik Sreenivasan",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405975",
-      "description": "New York University Abu Dhabi (Abu Dhabi, United Arab Emirates)",
-      "source": "HigherEdJobs",
-      "location": "UAE",
-      "score": 5
-    },
     {
       "title": "Assistant/Associate Professor of Applied Behavior Analysis",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179415694",
@@ -33,14 +25,6 @@
       "source": "HigherEdJobs",
       "location": "Boston",
       "score": 3
-    },
-    {
-      "title": "121990-Professor (810)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405529",
-      "description": "East Tennessee State University (Johnson City, TN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
     },
     {
       "title": "2026-2027 Lecturer - Psychology (Continuous Recruitment) (# 373198)",
@@ -75,14 +59,6 @@
       "score": 2
     },
     {
-      "title": "Adjunct Lecturer in Humanities",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405482",
-      "description": "Regis College (Weston, MA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Adjunct Professor (Residential) - Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=177903902",
       "description": "Houston Christian University (Houston, TX)",
@@ -107,9 +83,9 @@
       "score": 2
     },
     {
-      "title": "Assistant Director Counseling Practicum Clinic and Assistant Clinical Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179406923",
-      "description": "Ball State University (Muncie, IN)",
+      "title": "Assistant / Associate Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179432648",
+      "description": "Our Lady of the Lake University (San Antonio, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -219,9 +195,17 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor, Psychology & Counseling. Program Director, Clinical Mental Health Counseling Program",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179414208",
-      "description": "Nichols College (Dudley, MA)",
+      "title": "Assistant Professor, Department of Psychiatry Behavioral Neuroscience",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431601",
+      "description": "University of Cincinnati (Cincinnati, OH)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Doctor of Clinical Psychology Program (Tenure Track)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431719",
+      "description": "Immaculata University (Immaculata, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -238,22 +222,6 @@
       "title": "Assistant Professor-Psychiatry",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179413489",
       "description": "University of South Florida (Tampa, FL)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor/Chair Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179406145",
-      "description": "Lasell University (Newton, MA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Research Professor of Pediatrics",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179426839",
-      "description": "Indiana University - School of Medicine (Indianapolis, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -363,9 +331,25 @@
       "score": 2
     },
     {
+      "title": "Assistant/Associate Professor, Psychology & Counseling. Program Director, Clinical Mental Health Counseling Program",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179414208",
+      "description": "Nichols College (Dudley, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant/Associate/Full Clinical Professor - Department of Health Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179430078",
       "description": "University of Missouri (Columbia, MO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate/Professor of Psychiatry",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179433168",
+      "description": "Indiana University - School of Medicine (Indianapolis, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -387,9 +371,9 @@
       "score": 2
     },
     {
-      "title": "Clinical Assistant Professor of Counseling Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405159",
-      "description": "Purdue University (West Lafayette, IN)",
+      "title": "Associate/Full Professor in Digital Health",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431670",
+      "description": "Indiana University Indianapolis (Indianapolis, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -435,6 +419,14 @@
       "score": 2
     },
     {
+      "title": "Instructor / Assistant Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179432592",
+      "description": "Peru State College (Peru, NE)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Instructor or Assistant Professor of Religion and University Chaplain",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417212",
       "description": "Lindenwood University (St. Charles, MO)",
@@ -475,14 +467,6 @@
       "score": 2
     },
     {
-      "title": "Lecturer Psychological Science",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405191",
-      "description": "University of North Georgia (Dahlonega, GA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Lecturer in Child Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417803",
       "description": "Santa Clara University (Santa Clara, CA)",
@@ -493,6 +477,22 @@
     {
       "title": "Lecturer in Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425251",
+      "description": "Santa Clara University (Santa Clara, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer in Psychological Science",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179432470",
+      "description": "University of North Georgia (Dahlonega, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer in Religious Studies and/or Theology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179432121",
       "description": "Santa Clara University (Santa Clara, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -515,9 +515,17 @@
       "score": 2
     },
     {
-      "title": "Lecturer--Pool, Department of Psychological Brain Sciences",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179407079",
-      "description": "University of California Santa Barbara (Santa Barbara, CA)",
+      "title": "Lecturers, Philosophy and Religion",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179432054",
+      "description": "Rutgers, The State University of New Jersey (Camden, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturers, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179433198",
+      "description": "Rutgers, The State University of New Jersey (Camden, NJ)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -531,17 +539,17 @@
       "score": 2
     },
     {
-      "title": "Open Rank Tenure Track Cognitive Psychology Faculty (Quantitative Focus)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405473",
-      "description": "Ohio University (Athens, OH)",
+      "title": "Open-Rank Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179427381",
+      "description": "Texas A&M University-Victoria (Victoria, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
     },
     {
-      "title": "Open-Rank Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179427381",
-      "description": "Texas A&M University-Victoria (Victoria, TX)",
+      "title": "Outpatient Psychiatrist, Assistant Professor, Department of Psychiatry and Behavioral Neuroscience",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431562",
+      "description": "University of Cincinnati (Cincinnati, OH)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -587,9 +595,17 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Associate",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179428049",
-      "description": "Virginia Tech (Blacksburg, VA)",
+      "title": "PostDoctoral Associate",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179432560",
+      "description": "University of Colorado Boulder (Boulder, CO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Appointee in Adolescent Behavioral Health Research",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179433109",
+      "description": "Indiana University - School of Medicine (Indianapolis, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -598,6 +614,14 @@
       "title": "Postdoctoral Associate Researcher- Taylor Lab",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179421961",
       "description": "Rutgers, The State University of New Jersey (Piscataway, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Fellow in Pediatrics",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179433092",
+      "description": "Indiana University - School of Medicine (Indianapolis, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -651,14 +675,6 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Research Fellow",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179406236",
-      "description": "Wesleyan University (Middletown, CT)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Postdoctoral Research Fellow in Buddhist Ministry",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179424005",
       "description": "Harvard University (Cambridge, MA)",
@@ -691,9 +707,17 @@
       "score": 2
     },
     {
-      "title": "Professor and Chair, Department of Psychiatry and Behavioral Sciences - R108431",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179404800",
-      "description": "University of Louisville (Louisville, KY)",
+      "title": "Professional Research Assistant",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179432559",
+      "description": "University of Colorado Boulder (Boulder, CO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Professor of Practice or Clinical Assistant/Associate Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431675",
+      "description": "Indiana University Indianapolis (Indianapolis, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -710,14 +734,6 @@
       "title": "Psychiatry Assistant Professor (Tenure Track)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423707",
       "description": "University of Wisconsin - Madison (Madison, WI)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Psychologist, Clinical Assistant/Associate Professor, Psychiatry, Addiction",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405730",
-      "description": "Stony Brook University (Stony Brook, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -795,6 +811,14 @@
       "score": 2
     },
     {
+      "title": "Tenure-Track Assistant Professor, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179428255",
+      "description": "Morehouse College (Atlanta, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Tenure-Track: Assistant Professor (TAMSCI)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423919",
       "description": "Texas A&M University (College Station, TX)",
@@ -851,14 +875,6 @@
       "score": 2
     },
     {
-      "title": "Visiting Assistant Professor, Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179405653",
-      "description": "University of Southern Mississippi, The (Hattiesburg, MS)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Visiting Assistant Professor, Religious Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423641",
       "description": "Skidmore College (Saratoga Springs, NY)",
@@ -880,6 +896,14 @@
       "description": "Miami University (Oxford, OH)",
       "source": "HigherEdJobs",
       "location": "Oxford",
+      "score": 2
+    },
+    {
+      "title": "Visiting Professor in Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431592",
+      "description": "Morehouse College (Atlanta, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     }
   ]
