@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-04 09:27 UTC  
-**Total Positions:** 103
+**Last Updated:** 2026-05-05 09:12 UTC  
+**Total Positions:** 110
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 2 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 100 |
+| ★★☆☆☆ | 107 |
 
 ---
 
@@ -28,7 +28,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (100)
+## ★★☆☆☆ Other Locations (107)
 
 - **[2026-2027 Lecturer - Psychology (Continuous Recruitment) (# 373198)](https://www.higheredjobs.com/details.cfm?JobCode=179413419)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -39,10 +39,16 @@
 - **[Adjunct Faculty - Quantitative and Qualitative Research Methods, Summe](https://www.higheredjobs.com/details.cfm?JobCode=179418238)**  
   📍 Cambridge | 🔗 HigherEdJobs
 
+- **[Adjunct Professor (Residential) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=177903902)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Adjunct Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179424388)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor, School of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179425305)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adult Psychiatrist (Forensic), Assistant Professor Rank, Clinical Trac](https://www.higheredjobs.com/details.cfm?JobCode=179433869)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant / Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179432648)**  
@@ -70,9 +76,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179431061)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Psychology, 9 Month (Term)](https://www.higheredjobs.com/details.cfm?JobCode=179408720)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Religious Studies, AGF](https://www.higheredjobs.com/details.cfm?JobCode=179417947)**  
@@ -117,10 +120,7 @@
 - **[Assistant/Associate Professor of Graduate Psychology (Part-Time)](https://www.higheredjobs.com/details.cfm?JobCode=179401752)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179422885)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 70 more positions*
+*...and 77 more positions*
 
 ---
 
