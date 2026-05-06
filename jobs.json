@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-05T09:11:22.369754+00:00",
-  "count": 110,
+  "updated": "2026-05-06T09:29:12.573988+00:00",
+  "count": 112,
   "jobs": [
     {
       "title": "Assistant/Associate Professor of Applied Behavior Analysis",
@@ -51,14 +51,6 @@
       "score": 2
     },
     {
-      "title": "Adjunct Professor (Residential) - Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=177903902",
-      "description": "Houston Christian University (Houston, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Adjunct Professor of Religious Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179424388",
       "description": "William & Mary (Williamsburg, VA)",
@@ -102,6 +94,14 @@
       "title": "Assistant Professor - ABA",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179411881",
       "description": "Oregon Institute of Technology (Klamath Falls, OR)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179434782",
+      "description": "Texas A&M University-Victoria (Victoria, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -198,6 +198,14 @@
       "title": "Assistant Professor-Psychiatry",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179413489",
       "description": "University of South Florida (Tampa, FL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor/Chair Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179434637",
+      "description": "Lasell University (Newton, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -403,14 +411,6 @@
       "score": 2
     },
     {
-      "title": "LEO Lecturer I",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179422091",
-      "description": "University of Michigan (Ann Arbor, MI)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Lecturer - Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179408989",
       "description": "University of Massachusetts - Amherst (Amherst, MA)",
@@ -539,6 +539,14 @@
       "score": 2
     },
     {
+      "title": "Philosophy and Religious Studies (Religious Studies), Full-Time Lecturer, Faculty",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179435469",
+      "description": "Middle Tennessee State University (Murfreesboro, TN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Philosophy and Religious Studies: Lecturer in Philosophy (80%)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179420920",
       "description": "University of Wisconsin - Eau Claire (Eau Claire, WI)",
@@ -627,6 +635,14 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Research Associate I",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179435858",
+      "description": "The University of Arizona (Tucson, AZ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Research Associate in Center for Community-Driven Assistive Technologies (CDAT)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179421554",
       "description": "Lehigh University (Bethlehem, PA)",
@@ -644,7 +660,7 @@
     },
     {
       "title": "Postdoctoral Researcher",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179434303",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179435863",
       "description": "University of Kansas (Lawrence, KS)",
       "source": "HigherEdJobs",
       "location": "Unknown",
