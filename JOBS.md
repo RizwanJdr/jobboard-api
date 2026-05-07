@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-06 09:30 UTC  
-**Total Positions:** 112
+**Last Updated:** 2026-05-07 09:40 UTC  
+**Total Positions:** 114
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 2 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 109 |
+| ★★☆☆☆ | 111 |
 
 ---
 
@@ -28,7 +28,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (109)
+## ★★☆☆☆ Other Locations (111)
 
 - **[2026-2027 Lecturer - Psychology (Continuous Recruitment) (# 373198)](https://www.higheredjobs.com/details.cfm?JobCode=179413419)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -38,6 +38,9 @@
 
 - **[Adjunct Faculty - Quantitative and Qualitative Research Methods, Summe](https://www.higheredjobs.com/details.cfm?JobCode=179418238)**  
   📍 Cambridge | 🔗 HigherEdJobs
+
+- **[Adjunct Professor (Residential) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=177903902)**  
+  📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179424388)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -117,10 +120,7 @@
 - **[Assistant or Associate Teaching Professor, ASU ZaiXian (AZX) Psycholog](https://www.higheredjobs.com/details.cfm?JobCode=179427389)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant/Associate Professor](https://www.higheredjobs.com/details.cfm?JobCode=179409952)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 79 more positions*
+*...and 81 more positions*
 
 ---
 

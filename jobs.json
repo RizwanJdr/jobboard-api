@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-06T09:29:12.573988+00:00",
-  "count": 112,
+  "updated": "2026-05-07T09:39:21.347726+00:00",
+  "count": 114,
   "jobs": [
     {
       "title": "Assistant/Associate Professor of Applied Behavior Analysis",
@@ -48,6 +48,14 @@
       "description": "Lesley University (Cambridge, MA)",
       "source": "HigherEdJobs",
       "location": "Cambridge",
+      "score": 2
+    },
+    {
+      "title": "Adjunct Professor (Residential) - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=177903902",
+      "description": "Houston Christian University (Houston, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     },
     {
@@ -347,6 +355,14 @@
       "score": 2
     },
     {
+      "title": "Child Adolescent Studies - Part Time Lecturer Pool",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179436161",
+      "description": "California State University, Fullerton (Fullerton, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Clinical Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179410407",
       "description": "University of Evansville (Evansville, IN)",
@@ -406,14 +422,6 @@
       "title": "Instructor or Assistant Professor of Religion and University Chaplain",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417212",
       "description": "Lindenwood University (St. Charles, MO)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Lecturer - Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179408989",
-      "description": "University of Massachusetts - Amherst (Amherst, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -510,14 +518,6 @@
       "title": "Outpatient Psychiatrist, Assistant Professor, Department of Psychiatry and Behavioral Neuroscience",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431562",
       "description": "University of Cincinnati (Cincinnati, OH)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Part-Time Lecturer Pool - Psychology Child Development (AY 26/27)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179408898",
-      "description": "Cal Poly, San Luis Obispo (San Luis Obispo, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -660,8 +660,8 @@
     },
     {
       "title": "Postdoctoral Researcher",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179435863",
-      "description": "University of Kansas (Lawrence, KS)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179436493",
+      "description": "Indiana University Bloomington (Bloomington, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -672,6 +672,14 @@
       "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
       "location": "Cambridge",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Researcher in the Behavior, Culture, and Inequality Lab (PI: Dr. Catherine Thomas)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179436350",
+      "description": "University of Michigan (Ann Arbor, MI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     },
     {
@@ -704,6 +712,14 @@
       "description": "Indiana University Indianapolis (Indianapolis, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Professorship in Religion, Business Ethics, and the Economic Order",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179436395",
+      "description": "Harvard University (Cambridge, MA)",
+      "source": "HigherEdJobs",
+      "location": "Cambridge",
       "score": 2
     },
     {
@@ -750,14 +766,6 @@
       "title": "Psychology, Full-Time Lecturer, Faculty",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179429261",
       "description": "Middle Tennessee State University (Murfreesboro, TN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Quarterly Lecturer - Graduate Program in Pastoral Ministries",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179409288",
-      "description": "Santa Clara University (Santa Clara, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -894,6 +902,14 @@
       "title": "Visiting Professor in Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431592",
       "description": "Morehouse College (Atlanta, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179436104",
+      "description": "Wesleyan University (Middletown, CT)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
