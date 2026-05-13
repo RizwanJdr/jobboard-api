@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-12T09:44:05.783719+00:00",
-  "count": 104,
+  "updated": "2026-05-13T09:48:19.909565+00:00",
+  "count": 107,
   "jobs": [
     {
       "title": "Assistant/Associate Professor of Applied Behavior Analysis",
@@ -8,14 +8,6 @@
       "description": "National Louis University (Chicago, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
-      "score": 4
-    },
-    {
-      "title": "Social Sciences, Mathematics, Statistics, Overseas Collegiate Faculty, United Kingdom",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179414479",
-      "description": "University of Maryland Global Campus (Lakenheath, United Kingdom)",
-      "source": "HigherEdJobs",
-      "location": "UK",
       "score": 4
     },
     {
@@ -94,6 +86,14 @@
       "title": "Assistant / Associate Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179432648",
       "description": "Our Lady of the Lake University (San Antonio, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Clinical Professor - School of Social Work, Psychology & Philosophy-Social Work - 12587",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179442011",
+      "description": "Texas Woman's University (Denton, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -347,6 +347,14 @@
       "score": 2
     },
     {
+      "title": "LEO Lecturer I - College of Arts, Sciences Education - Psychology Courses (Remote)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179442032",
+      "description": "University of Michigan - Flint (Flint, MI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Lecturer Department of Psychology (2026-2027)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179421676",
       "description": "University of California, San Diego (San Diego, CA)",
@@ -382,6 +390,14 @@
       "title": "Lecturer in Religious Studies and/or Theology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179432121",
       "description": "Santa Clara University (Santa Clara, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer of Psychology - 3422",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179441940",
+      "description": "The University of North Carolina at Pembroke (Pembroke, NC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -656,6 +672,14 @@
       "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
       "location": "Cambridge",
+      "score": 2
+    },
+    {
+      "title": "Psychiatrist, Clinical Assistant/Associate Professor, Psychiatry, Comprehensive Psychiatric Emergency Program (CPEP) - Overnight Full Time",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179415991",
+      "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     },
     {

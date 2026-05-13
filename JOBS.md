@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-12 09:45 UTC  
-**Total Positions:** 104
+**Last Updated:** 2026-05-13 09:49 UTC  
+**Total Positions:** 107
 
 ---
 
@@ -9,26 +9,23 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 2 |
+| ★★★★☆ | 1 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 101 |
+| ★★☆☆☆ | 105 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (2)
+## ★★★★☆ Large Muslim Communities (1)
 
 - **[Assistant/Associate Professor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179415694)**  
   📍 Chicago | 🔗 HigherEdJobs
-
-- **[Social Sciences, Mathematics, Statistics, Overseas Collegiate Faculty,](https://www.higheredjobs.com/details.cfm?JobCode=179414479)**  
-  📍 UK | 🔗 HigherEdJobs
 
 ## ★★★☆☆ Moderate Communities (1)
 
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (101)
+## ★★☆☆☆ Other Locations (105)
 
 - **[133870-Assistant Professor/Director (892)](https://www.higheredjobs.com/details.cfm?JobCode=179437838)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -55,6 +52,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant / Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179432648)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Clinical Professor - School of Social Work, Psychology & Phi](https://www.higheredjobs.com/details.cfm?JobCode=179442011)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179427382)**  
@@ -117,10 +117,7 @@
 - **[Assistant/Associate/Full Clinical Professor - Department of Health Psy](https://www.higheredjobs.com/details.cfm?JobCode=179430078)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant/Associate/Professor of Psychiatry](https://www.higheredjobs.com/details.cfm?JobCode=179433168)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 71 more positions*
+*...and 75 more positions*
 
 ---
 
