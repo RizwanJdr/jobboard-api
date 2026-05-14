@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-13 09:49 UTC  
-**Total Positions:** 107
+**Last Updated:** 2026-05-14 09:38 UTC  
+**Total Positions:** 106
 
 ---
 
@@ -9,16 +9,10 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 1 |
 | ★★★☆☆ | 1 |
 | ★★☆☆☆ | 105 |
 
 ---
-
-## ★★★★☆ Large Muslim Communities (1)
-
-- **[Assistant/Associate Professor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179415694)**  
-  📍 Chicago | 🔗 HigherEdJobs
 
 ## ★★★☆☆ Moderate Communities (1)
 
@@ -58,6 +52,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179427382)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor - Bone Marrow Transplant Clinical Psychologist](https://www.higheredjobs.com/details.cfm?JobCode=179442831)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179434782)**  
@@ -112,9 +109,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179422885)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant/Associate/Full Clinical Professor - Department of Health Psy](https://www.higheredjobs.com/details.cfm?JobCode=179430078)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 *...and 75 more positions*
