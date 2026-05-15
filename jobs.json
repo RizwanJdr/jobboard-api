@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-14T09:37:00.278677+00:00",
-  "count": 106,
+  "updated": "2026-05-15T09:49:50.554021+00:00",
+  "count": 104,
   "jobs": [
     {
       "title": "Statistics & Research, Core Faculty- Clinical Psychology Department",
@@ -38,14 +38,6 @@
       "title": "Adjunct Faculty -Psychological Statistics (Fall 2026)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179439345",
       "description": "Quinsigamond Community College (Worcester, MA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Adjunct Professor (Residential) - Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=177903902",
-      "description": "Houston Christian University (Houston, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -118,6 +110,14 @@
       "title": "Assistant Professor - Psychology and Counseling - Applied Behavior Analysis",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179420292",
       "description": "Southeast Missouri State University (Cape Girardeau, MO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor in CBT for Anxiety at the CTSA - Academic Clinician Track",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179443743",
+      "description": "University of Pennsylvania (Philadelphia, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -228,8 +228,8 @@
     },
     {
       "title": "Assistant or Associate Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179422708",
-      "description": "Heritage University (Toppenish, WA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179444606",
+      "description": "North Carolina A&T State University (Greensboro, NC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -244,8 +244,8 @@
     },
     {
       "title": "Assistant/Associate Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179422885",
-      "description": "St. Thomas University (MIAMI GARDENS, FL)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179444605",
+      "description": "North Carolina A&T State University (Greensboro, NC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -403,14 +403,6 @@
       "score": 2
     },
     {
-      "title": "Lecturer, Part-Time, Temporary A/Y 2026-2027",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179416650",
-      "description": "Baylor University (Waco, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Lecturers, Philosophy and Religion",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179432054",
       "description": "Rutgers, The State University of New Jersey (Camden, NJ)",
@@ -427,14 +419,6 @@
       "score": 2
     },
     {
-      "title": "Non-Tenure: Visiting Lecturer",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179416464",
-      "description": "Texas A&M University (College Station, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Open-Rank Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179427381",
       "description": "Texas A&M University-Victoria (Victoria, TX)",
@@ -446,14 +430,6 @@
       "title": "Outpatient Psychiatrist, Assistant Professor, Department of Psychiatry and Behavioral Neuroscience",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431562",
       "description": "University of Cincinnati (Cincinnati, OH)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Part-Time Lecturer in Psychology (Non-Tenure-Track) - Social Neuroscience",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179416786",
-      "description": "Tufts University (Medford, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -659,14 +635,6 @@
       "score": 2
     },
     {
-      "title": "Psychiatrist, Clinical Assistant/Associate Professor, Psychiatry, Comprehensive Psychiatric Emergency Program (CPEP) - Overnight Full Time",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179415991",
-      "description": "Stony Brook University (Stony Brook, NY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Psychiatry Assistant Professor (Tenure Track)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423707",
       "description": "University of Wisconsin - Madison (Madison, WI)",
@@ -747,9 +715,25 @@
       "score": 2
     },
     {
+      "title": "Research Scientist Level 1",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179444366",
+      "description": "University of Colorado Boulder (Boulder, CO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Senior Research Scientist",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423397",
       "description": "Chapman University (Orange, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Teaching Assistant/Associate Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179444604",
+      "description": "North Carolina A&T State University (Greensboro, NC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2

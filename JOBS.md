@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-14 09:38 UTC  
-**Total Positions:** 106
+**Last Updated:** 2026-05-15 09:50 UTC  
+**Total Positions:** 104
 
 ---
 
@@ -10,7 +10,7 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 105 |
+| ★★☆☆☆ | 103 |
 
 ---
 
@@ -19,7 +19,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (105)
+## ★★☆☆☆ Other Locations (103)
 
 - **[133870-Assistant Professor/Director (892)](https://www.higheredjobs.com/details.cfm?JobCode=179437838)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -31,9 +31,6 @@
   📍 Cambridge | 🔗 HigherEdJobs
 
 - **[Adjunct Faculty -Psychological Statistics (Fall 2026)](https://www.higheredjobs.com/details.cfm?JobCode=179439345)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Professor (Residential) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=177903902)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179424388)**  
@@ -61,6 +58,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Psychology and Counseling - Applied Behavior Ana](https://www.higheredjobs.com/details.cfm?JobCode=179420292)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor in CBT for Anxiety at the CTSA - Academic Clinicia](https://www.higheredjobs.com/details.cfm?JobCode=179443743)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179439545)**  
@@ -102,16 +102,16 @@
 - **[Assistant or Associate Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179427441)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant or Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179422708)**  
+- **[Assistant or Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179444606)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant or Associate Teaching Professor, ASU ZaiXian (AZX) Psycholog](https://www.higheredjobs.com/details.cfm?JobCode=179427389)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179422885)**  
+- **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179444605)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 75 more positions*
+*...and 73 more positions*
 
 ---
 
