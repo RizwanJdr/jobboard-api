@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-15T09:49:50.554021+00:00",
-  "count": 104,
+  "updated": "2026-05-16T08:51:17.324968+00:00",
+  "count": 103,
   "jobs": [
+    {
+      "title": "Associate Research Scientist Part Time Non-exempt (Ho/Sucholutsky Lab)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179445933",
+      "description": "New York University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
     {
       "title": "Statistics & Research, Core Faculty- Clinical Psychology Department",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431341",
@@ -9,6 +17,14 @@
       "source": "HigherEdJobs",
       "location": "Boston",
       "score": 3
+    },
+    {
+      "title": "(Postdoctoral) Research Scientist in Statistical Modeling of Educational Data",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179445589",
+      "description": "University of Colorado Boulder (Boulder, CO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
     },
     {
       "title": "133870-Assistant Professor/Director (892)",
@@ -35,11 +51,11 @@
       "score": 2
     },
     {
-      "title": "Adjunct Faculty -Psychological Statistics (Fall 2026)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179439345",
-      "description": "Quinsigamond Community College (Worcester, MA)",
+      "title": "Adjunct Lecturer in Religion, Social Movements, and Music",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179445280",
+      "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
-      "location": "Unknown",
+      "location": "Cambridge",
       "score": 2
     },
     {
@@ -147,25 +163,9 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor of Instruction - Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417139",
-      "description": "University of South Florida (Tampa, FL)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431061",
       "description": "Bethel University - TN (McKenzie, TN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor of Religious Studies, AGF",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417947",
-      "description": "University of Virginia (Charlottesville, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -243,6 +243,14 @@
       "score": 2
     },
     {
+      "title": "Assistant, Associate or Full Professor in Clinical Psychology - College of Education and Behavioral Sciences",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179444496",
+      "description": "Azusa Pacific University (Azusa, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant/Associate Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179444605",
       "description": "North Carolina A&T State University (Greensboro, NC)",
@@ -270,6 +278,14 @@
       "title": "Associate Professor, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179425110",
       "description": "Seminole State College (Sanford, FL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Associate/Assistant Professor of Art Therapy",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179445203",
+      "description": "George Washington University (Washington, DC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -331,14 +347,6 @@
       "score": 2
     },
     {
-      "title": "Instructor or Assistant Professor of Religion and University Chaplain",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417212",
-      "description": "Lindenwood University (St. Charles, MO)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "LEO Lecturer I - College of Arts, Sciences Education - Psychology Courses (Remote)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179442032",
       "description": "University of Michigan - Flint (Flint, MI)",
@@ -390,6 +398,14 @@
       "title": "Lecturer of Psychology - 3422",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179441940",
       "description": "The University of North Carolina at Pembroke (Pembroke, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer or Senior Lecturer in Behaviour Analysis",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179444608",
+      "description": "University of Waikato (Hamilton, New Zealand)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -563,14 +579,6 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Research Fellow in Buddhist Ministry",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179424005",
-      "description": "Harvard University (Cambridge, MA)",
-      "source": "HigherEdJobs",
-      "location": "Cambridge",
-      "score": 2
-    },
-    {
       "title": "Postdoctoral Researcher",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179436493",
       "description": "Indiana University Bloomington (Bloomington, IN)",
@@ -595,17 +603,17 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Resident",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417388",
-      "description": "Texas State University (San Marcos, TX)",
+      "title": "Postdoctoral Scholar - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179440345",
+      "description": "Tufts University (Medford, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
     },
     {
-      "title": "Postdoctoral Scholar - Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179440345",
-      "description": "Tufts University (Medford, MA)",
+      "title": "Postdoctoral Scholar, Psychology & Human Factors",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179444987",
+      "description": "Michigan Technological University (Houghton, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -691,14 +699,6 @@
       "score": 2
     },
     {
-      "title": "Quarterly Lecturer for Summer 2026 - Graduate Program in Pastoral Ministries",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179416981",
-      "description": "Santa Clara University (Santa Clara, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Religious Studies - Part-Time Lecturer Pool",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179439543",
       "description": "California State University, Fullerton (Fullerton, CA)",
@@ -766,14 +766,6 @@
       "title": "University Lecturer, Psychology and Counseling",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179426300",
       "description": "Governors State University (University Park, IL)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Vice Chair for Research, Department of Psychiatry",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179417064",
-      "description": "University at Buffalo (Buffalo, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2

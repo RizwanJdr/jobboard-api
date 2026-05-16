@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-15 09:50 UTC  
-**Total Positions:** 104
+**Last Updated:** 2026-05-16 08:52 UTC  
+**Total Positions:** 103
 
 ---
 
@@ -9,17 +9,26 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
+| ★★★★☆ | 1 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 103 |
+| ★★☆☆☆ | 101 |
 
 ---
+
+## ★★★★☆ Large Muslim Communities (1)
+
+- **[Associate Research Scientist Part Time Non-exempt (Ho/Sucholutsky Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179445933)**  
+  📍 New York | 🔗 HigherEdJobs
 
 ## ★★★☆☆ Moderate Communities (1)
 
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (103)
+## ★★☆☆☆ Other Locations (101)
+
+- **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
+  📍 Unknown | 🔗 HigherEdJobs
 
 - **[133870-Assistant Professor/Director (892)](https://www.higheredjobs.com/details.cfm?JobCode=179437838)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -30,8 +39,8 @@
 - **[Adjunct Faculty - Quantitative and Qualitative Research Methods, Summe](https://www.higheredjobs.com/details.cfm?JobCode=179418238)**  
   📍 Cambridge | 🔗 HigherEdJobs
 
-- **[Adjunct Faculty -Psychological Statistics (Fall 2026)](https://www.higheredjobs.com/details.cfm?JobCode=179439345)**  
-  📍 Unknown | 🔗 HigherEdJobs
+- **[Adjunct Lecturer in Religion, Social Movements, and Music](https://www.higheredjobs.com/details.cfm?JobCode=179445280)**  
+  📍 Cambridge | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179424388)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -72,13 +81,7 @@
 - **[Assistant Professor of Child Development](https://www.higheredjobs.com/details.cfm?JobCode=179430683)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Instruction - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179417139)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179431061)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Religious Studies, AGF](https://www.higheredjobs.com/details.cfm?JobCode=179417947)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor on the Academic Clinician Track in Cognitive Behav](https://www.higheredjobs.com/details.cfm?JobCode=179418354)**  
@@ -108,10 +111,13 @@
 - **[Assistant or Associate Teaching Professor, ASU ZaiXian (AZX) Psycholog](https://www.higheredjobs.com/details.cfm?JobCode=179427389)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant, Associate or Full Professor in Clinical Psychology - Colleg](https://www.higheredjobs.com/details.cfm?JobCode=179444496)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179444605)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 73 more positions*
+*...and 71 more positions*
 
 ---
 
