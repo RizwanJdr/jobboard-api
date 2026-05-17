@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-16 08:52 UTC  
-**Total Positions:** 103
+**Last Updated:** 2026-05-17 09:09 UTC  
+**Total Positions:** 95
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 1 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 101 |
+| ★★☆☆☆ | 93 |
 
 ---
 
@@ -25,7 +25,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (101)
+## ★★☆☆☆ Other Locations (93)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -35,9 +35,6 @@
 
 - **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179425790)**  
   📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Faculty - Quantitative and Qualitative Research Methods, Summe](https://www.higheredjobs.com/details.cfm?JobCode=179418238)**  
-  📍 Cambridge | 🔗 HigherEdJobs
 
 - **[Adjunct Lecturer in Religion, Social Movements, and Music](https://www.higheredjobs.com/details.cfm?JobCode=179445280)**  
   📍 Cambridge | 🔗 HigherEdJobs
@@ -84,9 +81,6 @@
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179431061)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor on the Academic Clinician Track in Cognitive Behav](https://www.higheredjobs.com/details.cfm?JobCode=179418354)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor, Department of Psychiatry Behavioral Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179431601)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -117,7 +111,13 @@
 - **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179444605)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 71 more positions*
+- **[Assistant/Associate/Full Clinical Professor - Department of Health Psy](https://www.higheredjobs.com/details.cfm?JobCode=179430078)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant/Associate/Professor of Psychiatry](https://www.higheredjobs.com/details.cfm?JobCode=179433168)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 63 more positions*
 
 ---
 
