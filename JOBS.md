@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-17 09:09 UTC  
-**Total Positions:** 95
+**Last Updated:** 2026-05-18 11:10 UTC  
+**Total Positions:** 96
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 1 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 93 |
+| ★★☆☆☆ | 94 |
 
 ---
 
@@ -25,7 +25,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (93)
+## ★★☆☆☆ Other Locations (94)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -81,6 +81,9 @@
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179431061)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor, Academic Clinician Track, Pediatric Health and Be](https://www.higheredjobs.com/details.cfm?JobCode=179446210)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor, Department of Psychiatry Behavioral Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179431601)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -114,10 +117,7 @@
 - **[Assistant/Associate/Full Clinical Professor - Department of Health Psy](https://www.higheredjobs.com/details.cfm?JobCode=179430078)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant/Associate/Professor of Psychiatry](https://www.higheredjobs.com/details.cfm?JobCode=179433168)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 63 more positions*
+*...and 64 more positions*
 
 ---
 
