@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-18 11:10 UTC  
-**Total Positions:** 96
+**Last Updated:** 2026-05-19 10:39 UTC  
+**Total Positions:** 98
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 1 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 94 |
+| ★★☆☆☆ | 96 |
 
 ---
 
@@ -25,7 +25,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (94)
+## ★★☆☆☆ Other Locations (96)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -64,6 +64,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Psychology and Counseling - Applied Behavior Ana](https://www.higheredjobs.com/details.cfm?JobCode=179420292)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor Adjunct, Psychology, UC Clermont College](https://www.higheredjobs.com/details.cfm?JobCode=179446416)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in CBT for Anxiety at the CTSA - Academic Clinicia](https://www.higheredjobs.com/details.cfm?JobCode=179443743)**  
@@ -111,13 +114,10 @@
 - **[Assistant, Associate or Full Professor in Clinical Psychology - Colleg](https://www.higheredjobs.com/details.cfm?JobCode=179444496)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179444605)**  
+- **[Assistant/Associate Professor of Church Ministries](https://www.higheredjobs.com/details.cfm?JobCode=179446914)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant/Associate/Full Clinical Professor - Department of Health Psy](https://www.higheredjobs.com/details.cfm?JobCode=179430078)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 64 more positions*
+*...and 66 more positions*
 
 ---
 
