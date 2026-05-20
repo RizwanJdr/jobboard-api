@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-19 10:39 UTC  
-**Total Positions:** 98
+**Last Updated:** 2026-05-20 10:27 UTC  
+**Total Positions:** 101
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 1 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 96 |
+| ★★☆☆☆ | 99 |
 
 ---
 
@@ -25,7 +25,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (96)
+## ★★☆☆☆ Other Locations (99)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -34,6 +34,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179425790)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Faculty -Psychological Statistics (Fall 2026)](https://www.higheredjobs.com/details.cfm?JobCode=179439345)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Lecturer in Religion, Social Movements, and Music](https://www.higheredjobs.com/details.cfm?JobCode=179445280)**  
@@ -114,10 +117,7 @@
 - **[Assistant, Associate or Full Professor in Clinical Psychology - Colleg](https://www.higheredjobs.com/details.cfm?JobCode=179444496)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant/Associate Professor of Church Ministries](https://www.higheredjobs.com/details.cfm?JobCode=179446914)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 66 more positions*
+*...and 69 more positions*
 
 ---
 
