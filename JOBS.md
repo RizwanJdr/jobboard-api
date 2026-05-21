@@ -1,6 +1,6 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-20 10:27 UTC  
+**Last Updated:** 2026-05-21 10:43 UTC  
 **Total Positions:** 101
 
 ---
@@ -42,6 +42,9 @@
 - **[Adjunct Lecturer in Religion, Social Movements, and Music](https://www.higheredjobs.com/details.cfm?JobCode=179445280)**  
   📍 Cambridge | 🔗 HigherEdJobs
 
+- **[Adjunct Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179449112)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Adjunct Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179424388)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -66,16 +69,13 @@
 - **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179434782)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Psychology and Counseling - Applied Behavior Ana](https://www.higheredjobs.com/details.cfm?JobCode=179420292)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor Adjunct, Psychology, UC Clermont College](https://www.higheredjobs.com/details.cfm?JobCode=179446416)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in CBT for Anxiety at the CTSA - Academic Clinicia](https://www.higheredjobs.com/details.cfm?JobCode=179443743)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179439545)**  
+- **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179448882)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Behavioral Forensics (Psychology Law)](https://www.higheredjobs.com/details.cfm?JobCode=179422679)**  

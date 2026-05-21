@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T10:26:45.657808+00:00",
+  "updated": "2026-05-21T10:42:09.593558+00:00",
   "count": 101,
   "jobs": [
     {
@@ -56,6 +56,14 @@
       "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
       "location": "Cambridge",
+      "score": 2
+    },
+    {
+      "title": "Adjunct Professor - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179449112",
+      "description": "Oklahoma State University Oklahoma City (Oklahoma City, OK)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     },
     {
@@ -123,14 +131,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor - Psychology and Counseling - Applied Behavior Analysis",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179420292",
-      "description": "Southeast Missouri State University (Cape Girardeau, MO)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor Adjunct, Psychology, UC Clermont College",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179446416",
       "description": "University of Cincinnati (Cincinnati, OH)",
@@ -148,7 +148,7 @@
     },
     {
       "title": "Assistant Professor in Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179439545",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179448882",
       "description": "Augusta University (Augusta, GA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -339,6 +339,14 @@
       "score": 2
     },
     {
+      "title": "In-Person Adjunct Assistant Professor, Addictions Counseling",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179449654",
+      "description": "Ocean County College (Toms River, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Instructor / Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179432592",
       "description": "Peru State College (Peru, NE)",
@@ -470,14 +478,6 @@
       "title": "Philosophy and Religious Studies (Religious Studies), Full-Time Lecturer, Faculty",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179435469",
       "description": "Middle Tennessee State University (Murfreesboro, TN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Philosophy and Religious Studies: Lecturer in Philosophy (80%)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179420920",
-      "description": "University of Wisconsin - Eau Claire (Eau Claire, WI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
