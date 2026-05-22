@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-21 10:43 UTC  
-**Total Positions:** 101
+**Last Updated:** 2026-05-22 10:27 UTC  
+**Total Positions:** 99
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 1 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 99 |
+| ★★☆☆☆ | 97 |
 
 ---
 
@@ -25,7 +25,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (99)
+## ★★☆☆☆ Other Locations (97)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -60,7 +60,7 @@
 - **[Assistant Clinical Professor - School of Social Work, Psychology & Phi](https://www.higheredjobs.com/details.cfm?JobCode=179442011)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179427382)**  
+- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179444031)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Bone Marrow Transplant Clinical Psychologist](https://www.higheredjobs.com/details.cfm?JobCode=179442831)**  
@@ -76,9 +76,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179448882)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Behavioral Forensics (Psychology Law)](https://www.higheredjobs.com/details.cfm?JobCode=179422679)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Child Development](https://www.higheredjobs.com/details.cfm?JobCode=179430683)**  
@@ -117,7 +114,10 @@
 - **[Assistant, Associate or Full Professor in Clinical Psychology - Colleg](https://www.higheredjobs.com/details.cfm?JobCode=179444496)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 69 more positions*
+- **[Assistant/Associate Professor of Church Ministries](https://www.higheredjobs.com/details.cfm?JobCode=179446914)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 67 more positions*
 
 ---
 
