@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-22 10:27 UTC  
-**Total Positions:** 99
+**Last Updated:** 2026-05-23 09:06 UTC  
+**Total Positions:** 93
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 1 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 97 |
+| ★★☆☆☆ | 91 |
 
 ---
 
@@ -25,7 +25,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (97)
+## ★★☆☆☆ Other Locations (91)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -69,9 +69,6 @@
 - **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179434782)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor Adjunct, Psychology, UC Clermont College](https://www.higheredjobs.com/details.cfm?JobCode=179446416)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor in CBT for Anxiety at the CTSA - Academic Clinicia](https://www.higheredjobs.com/details.cfm?JobCode=179443743)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -99,9 +96,6 @@
 - **[Assistant Professor/Chair Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179434637)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179424086)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant or Associate Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179427441)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -117,7 +111,13 @@
 - **[Assistant/Associate Professor of Church Ministries](https://www.higheredjobs.com/details.cfm?JobCode=179446914)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 67 more positions*
+- **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179451155)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant/Associate/Full Clinical Professor - Department of Health Psy](https://www.higheredjobs.com/details.cfm?JobCode=179430078)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 61 more positions*
 
 ---
 
