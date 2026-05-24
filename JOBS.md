@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-23 09:06 UTC  
-**Total Positions:** 93
+**Last Updated:** 2026-05-24 09:24 UTC  
+**Total Positions:** 86
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 1 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 91 |
+| ★★☆☆☆ | 84 |
 
 ---
 
@@ -25,7 +25,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (91)
+## ★★☆☆☆ Other Locations (84)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -43,12 +43,6 @@
   📍 Cambridge | 🔗 HigherEdJobs
 
 - **[Adjunct Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179449112)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179424388)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Professor, School of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179425305)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adult Psychiatrist (Forensic), Assistant Professor Rank, Clinical Trac](https://www.higheredjobs.com/details.cfm?JobCode=179433869)**  
@@ -117,7 +111,13 @@
 - **[Assistant/Associate/Full Clinical Professor - Department of Health Psy](https://www.higheredjobs.com/details.cfm?JobCode=179430078)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 61 more positions*
+- **[Assistant/Associate/Professor of Psychiatry](https://www.higheredjobs.com/details.cfm?JobCode=179433168)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Associate/Assistant Professor of Art Therapy](https://www.higheredjobs.com/details.cfm?JobCode=179445203)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 54 more positions*
 
 ---
 
