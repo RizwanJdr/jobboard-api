@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-24 09:24 UTC  
-**Total Positions:** 86
+**Last Updated:** 2026-05-25 11:15 UTC  
+**Total Positions:** 80
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 1 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 84 |
+| ★★☆☆☆ | 78 |
 
 ---
 
@@ -25,15 +25,12 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (84)
+## ★★☆☆☆ Other Locations (78)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[133870-Assistant Professor/Director (892)](https://www.higheredjobs.com/details.cfm?JobCode=179437838)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Academic Professional Track (Non-Tenure): Clinical Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179425790)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Faculty -Psychological Statistics (Fall 2026)](https://www.higheredjobs.com/details.cfm?JobCode=179439345)**  
@@ -96,9 +93,6 @@
 - **[Assistant or Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179444606)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant or Associate Teaching Professor, ASU ZaiXian (AZX) Psycholog](https://www.higheredjobs.com/details.cfm?JobCode=179427389)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant, Associate or Full Professor in Clinical Psychology - Colleg](https://www.higheredjobs.com/details.cfm?JobCode=179444496)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -117,7 +111,13 @@
 - **[Associate/Assistant Professor of Art Therapy](https://www.higheredjobs.com/details.cfm?JobCode=179445203)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 54 more positions*
+- **[Child Adolescent Studies - Part Time Lecturer Pool](https://www.higheredjobs.com/details.cfm?JobCode=179436161)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Clinical Assistant Professor - Psychologist](https://www.higheredjobs.com/details.cfm?JobCode=179451004)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 48 more positions*
 
 ---
 
