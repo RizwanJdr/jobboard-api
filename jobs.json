@@ -1,14 +1,22 @@
 {
-  "updated": "2026-05-25T11:14:04.566514+00:00",
-  "count": 80,
+  "updated": "2026-05-27T10:58:13.065100+00:00",
+  "count": 85,
   "jobs": [
     {
-      "title": "Associate Research Scientist Part Time Non-exempt (Ho/Sucholutsky Lab)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179445933",
-      "description": "New York University (New York, NY)",
+      "title": "Professor of Geonic Geniza Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179452902",
+      "description": "Yeshiva University (New York, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
       "score": 4
+    },
+    {
+      "title": "Instructor of Applied Behavior Analysis",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179453369",
+      "description": "Florida Institute of Technology (Melbourne, FL)",
+      "source": "HigherEdJobs",
+      "location": "Melbourne",
+      "score": 3
     },
     {
       "title": "Statistics & Research, Core Faculty- Clinical Psychology Department",
@@ -259,6 +267,22 @@
       "score": 2
     },
     {
+      "title": "Clinical Director/Clinical Assistant Professor of MAP",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179453862",
+      "description": "McNeese State University (Lake Charles, LA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Dual Credit Lecturer or Adjunct Instructor in Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179452588",
+      "description": "Sul Ross State University (Remote, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Fall 2026 Theology Adjunct Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179433401",
       "description": "St. John's University (Jamaica, NY)",
@@ -363,14 +387,6 @@
       "score": 2
     },
     {
-      "title": "Open-Rank Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179427381",
-      "description": "Texas A&M University-Victoria (Victoria, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Outpatient Psychiatrist, Assistant Professor, Department of Psychiatry and Behavioral Neuroscience",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431562",
       "description": "University of Cincinnati (Cincinnati, OH)",
@@ -406,6 +422,14 @@
       "title": "Postdoctoral Associate",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179428049",
       "description": "Virginia Tech (Blacksburg, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Fellow - Dietrich College",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179452497",
+      "description": "Carnegie Mellon University (Pittsburgh, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -595,11 +619,27 @@
       "score": 2
     },
     {
+      "title": "Tenure-Track Assistant Professor in Social Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179453172",
+      "description": "University of Hong Kong (Hong Kong, Hong Kong)",
+      "source": "HigherEdJobs",
+      "location": "Hong Kong",
+      "score": 2
+    },
+    {
       "title": "Tenure-Track Assistant Professor, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179428255",
       "description": "Morehouse College (Atlanta, GA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Tenure-Track Professor/Associate Professor/Assistant Professor in Psychological Health and AI",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179453173",
+      "description": "University of Hong Kong (Hong Kong, Hong Kong)",
+      "source": "HigherEdJobs",
+      "location": "Hong Kong",
       "score": 2
     },
     {

@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-25 11:15 UTC  
-**Total Positions:** 80
+**Last Updated:** 2026-05-27 10:59 UTC  
+**Total Positions:** 85
 
 ---
 
@@ -10,22 +10,25 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★☆ | 1 |
-| ★★★☆☆ | 1 |
-| ★★☆☆☆ | 78 |
+| ★★★☆☆ | 2 |
+| ★★☆☆☆ | 82 |
 
 ---
 
 ## ★★★★☆ Large Muslim Communities (1)
 
-- **[Associate Research Scientist Part Time Non-exempt (Ho/Sucholutsky Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179445933)**  
+- **[Professor of Geonic Geniza Studies](https://www.higheredjobs.com/details.cfm?JobCode=179452902)**  
   📍 New York | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (1)
+## ★★★☆☆ Moderate Communities (2)
+
+- **[Instructor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179453369)**  
+  📍 Melbourne | 🔗 HigherEdJobs
 
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (78)
+## ★★☆☆☆ Other Locations (82)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -117,7 +120,7 @@
 - **[Clinical Assistant Professor - Psychologist](https://www.higheredjobs.com/details.cfm?JobCode=179451004)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 48 more positions*
+*...and 52 more positions*
 
 ---
 
