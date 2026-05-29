@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-28 10:59 UTC  
-**Total Positions:** 89
+**Last Updated:** 2026-05-29 10:51 UTC  
+**Total Positions:** 86
 
 ---
 
@@ -10,8 +10,8 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★☆ | 1 |
-| ★★★☆☆ | 2 |
-| ★★☆☆☆ | 86 |
+| ★★★☆☆ | 3 |
+| ★★☆☆☆ | 82 |
 
 ---
 
@@ -20,7 +20,10 @@
 - **[Professor of Geonic Geniza Studies](https://www.higheredjobs.com/details.cfm?JobCode=179452902)**  
   📍 New York | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (2)
+## ★★★☆☆ Moderate Communities (3)
+
+- **[Behavior Analysis Visiting Faculty](https://www.higheredjobs.com/details.cfm?JobCode=179455725)**  
+  📍 Melbourne | 🔗 HigherEdJobs
 
 - **[Instructor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179453369)**  
   📍 Melbourne | 🔗 HigherEdJobs
@@ -28,7 +31,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (86)
+## ★★☆☆☆ Other Locations (82)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -78,16 +81,13 @@
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179431061)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179455788)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor, Academic Clinician Track, Pediatric Health and Be](https://www.higheredjobs.com/details.cfm?JobCode=179446210)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Department of Psychiatry Behavioral Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179431601)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor, Doctor of Clinical Psychology Program (Tenure Tra](https://www.higheredjobs.com/details.cfm?JobCode=179431719)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor, Quantitative Science Program](https://www.higheredjobs.com/details.cfm?JobCode=179428931)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor/Chair Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179434637)**  
@@ -120,7 +120,10 @@
 - **[Clinical Assistant Professor - Psychologist](https://www.higheredjobs.com/details.cfm?JobCode=179451004)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 56 more positions*
+- **[Clinical Director/Clinical Assistant Professor of MAP](https://www.higheredjobs.com/details.cfm?JobCode=179453862)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 52 more positions*
 
 ---
 
