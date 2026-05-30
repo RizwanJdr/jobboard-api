@@ -1,15 +1,7 @@
 {
-  "updated": "2026-05-29T10:50:46.482109+00:00",
-  "count": 86,
+  "updated": "2026-05-30T09:23:26.063265+00:00",
+  "count": 87,
   "jobs": [
-    {
-      "title": "Professor of Geonic Geniza Studies",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179452902",
-      "description": "Yeshiva University (New York, NY)",
-      "source": "HigherEdJobs",
-      "location": "New York",
-      "score": 4
-    },
     {
       "title": "Behavior Analysis Visiting Faculty",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179455725",
@@ -86,6 +78,14 @@
       "title": "Assistant / Associate Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179432648",
       "description": "Our Lady of the Lake University (San Antonio, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Clinical Professor (Psychology)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179457431",
+      "description": "Loyola University Maryland (Baltimore, MD)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -179,6 +179,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor, Department of Psychiatry & Behavioral Neuroscience",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431601",
+      "description": "University of Cincinnati (Cincinnati, OH)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor, Doctor of Clinical Psychology Program (Tenure Track)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431719",
       "description": "Immaculata University (Immaculata, PA)",
@@ -222,14 +230,6 @@
       "title": "Assistant/Associate Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179451155",
       "description": "North Carolina A&T State University (Greensboro, NC)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant/Associate/Full Clinical Professor - Department of Health Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179430078",
-      "description": "University of Missouri (Columbia, MO)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -411,6 +411,14 @@
       "score": 2
     },
     {
+      "title": "Outpatient Psychiatrist, Assistant Professor, Department of Psychiatry and Behavioral Neuroscience",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431562",
+      "description": "University of Cincinnati (Cincinnati, OH)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Philosophy and Religious Studies (Religious Studies), Full-Time Lecturer, Faculty",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179435469",
       "description": "Middle Tennessee State University (Murfreesboro, TN)",
@@ -555,6 +563,14 @@
       "score": 2
     },
     {
+      "title": "Psychologist, Clinical Assistant Professor, Psychiatry, Consultation Liaison Service",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179433811",
+      "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Psychologist, Clinical Assistant/Associate Professor, Psychiatry, Mind Body Clinical Research Center",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179439346",
       "description": "Stony Brook University (Stony Brook, NY)",
@@ -571,17 +587,17 @@
       "score": 2
     },
     {
-      "title": "Psychology Professor - Part-Time",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179442989",
-      "description": "Tacoma Community College (Tacoma, WA)",
+      "title": "Psychology Adjunct Lecturer",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179457238",
+      "description": "Holy Family University (Philadelphia, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
     },
     {
-      "title": "Psychology, Full-Time Lecturer, Faculty",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179429261",
-      "description": "Middle Tennessee State University (Murfreesboro, TN)",
+      "title": "Psychology Professor - Part-Time",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179442989",
+      "description": "Tacoma Community College (Tacoma, WA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -648,14 +664,6 @@
       "description": "University of Hong Kong (Hong Kong, Hong Kong)",
       "source": "HigherEdJobs",
       "location": "Hong Kong",
-      "score": 2
-    },
-    {
-      "title": "Visiting Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179430063",
-      "description": "Shepherd University (Shepherdstown, WV)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
       "score": 2
     },
     {

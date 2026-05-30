@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-29 10:51 UTC  
-**Total Positions:** 86
+**Last Updated:** 2026-05-30 09:24 UTC  
+**Total Positions:** 87
 
 ---
 
@@ -9,16 +9,10 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 1 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 82 |
+| ★★☆☆☆ | 84 |
 
 ---
-
-## ★★★★☆ Large Muslim Communities (1)
-
-- **[Professor of Geonic Geniza Studies](https://www.higheredjobs.com/details.cfm?JobCode=179452902)**  
-  📍 New York | 🔗 HigherEdJobs
 
 ## ★★★☆☆ Moderate Communities (3)
 
@@ -31,7 +25,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (82)
+## ★★☆☆☆ Other Locations (84)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -52,6 +46,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant / Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179432648)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Clinical Professor (Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179457431)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Clinical Professor - School of Social Work, Psychology & Phi](https://www.higheredjobs.com/details.cfm?JobCode=179442011)**  
@@ -87,6 +84,9 @@
 - **[Assistant Professor, Academic Clinician Track, Pediatric Health and Be](https://www.higheredjobs.com/details.cfm?JobCode=179446210)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor, Department of Psychiatry & Behavioral Neuroscienc](https://www.higheredjobs.com/details.cfm?JobCode=179431601)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor, Doctor of Clinical Psychology Program (Tenure Tra](https://www.higheredjobs.com/details.cfm?JobCode=179431719)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -105,9 +105,6 @@
 - **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179451155)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant/Associate/Full Clinical Professor - Department of Health Psy](https://www.higheredjobs.com/details.cfm?JobCode=179430078)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant/Associate/Professor of Psychiatry](https://www.higheredjobs.com/details.cfm?JobCode=179433168)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -120,10 +117,7 @@
 - **[Clinical Assistant Professor - Psychologist](https://www.higheredjobs.com/details.cfm?JobCode=179451004)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Clinical Director/Clinical Assistant Professor of MAP](https://www.higheredjobs.com/details.cfm?JobCode=179453862)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 52 more positions*
+*...and 54 more positions*
 
 ---
 
