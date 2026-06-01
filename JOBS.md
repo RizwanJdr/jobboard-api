@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-05-31 09:49 UTC  
-**Total Positions:** 87
+**Last Updated:** 2026-06-01 12:43 UTC  
+**Total Positions:** 85
 
 ---
 
@@ -10,7 +10,7 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 84 |
+| ★★☆☆☆ | 82 |
 
 ---
 
@@ -25,7 +25,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (84)
+## ★★☆☆☆ Other Locations (82)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -72,12 +72,6 @@
 - **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179448882)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Child Development](https://www.higheredjobs.com/details.cfm?JobCode=179430683)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179431061)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179455788)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -117,7 +111,13 @@
 - **[Clinical Assistant Professor - Psychologist](https://www.higheredjobs.com/details.cfm?JobCode=179451004)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 54 more positions*
+- **[Clinical Director/Clinical Assistant Professor of MAP](https://www.higheredjobs.com/details.cfm?JobCode=179453862)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Dual Credit Lecturer or Adjunct Instructor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179452588)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 52 more positions*
 
 ---
 
