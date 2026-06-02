@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-01 12:43 UTC  
-**Total Positions:** 85
+**Last Updated:** 2026-06-02 11:22 UTC  
+**Total Positions:** 77
 
 ---
 
@@ -10,7 +10,7 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 82 |
+| ★★☆☆☆ | 74 |
 
 ---
 
@@ -25,7 +25,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (82)
+## ★★☆☆☆ Other Locations (74)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -45,9 +45,6 @@
 - **[Adult Psychiatrist (Forensic), Assistant Professor Rank, Clinical Trac](https://www.higheredjobs.com/details.cfm?JobCode=179433869)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant / Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179432648)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Clinical Professor (Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179457431)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -63,25 +60,19 @@
 - **[Assistant Professor - Clinical Child Adolescent Psychologist - JR00997](https://www.higheredjobs.com/details.cfm?JobCode=179455396)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179434782)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor in CBT for Anxiety at the CTSA - Academic Clinicia](https://www.higheredjobs.com/details.cfm?JobCode=179443743)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179448882)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179459351)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179455788)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor, Academic Clinician Track, Pediatric Health and Be](https://www.higheredjobs.com/details.cfm?JobCode=179446210)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor, Department of Psychiatry & Behavioral Neuroscienc](https://www.higheredjobs.com/details.cfm?JobCode=179431601)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor, Doctor of Clinical Psychology Program (Tenure Tra](https://www.higheredjobs.com/details.cfm?JobCode=179431719)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor/Chair Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179434637)**  
@@ -97,6 +88,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179451155)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant/Associate/Full Clinical Professor Pediatric Neuropsychologis](https://www.higheredjobs.com/details.cfm?JobCode=179458544)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant/Associate/Professor of Psychiatry](https://www.higheredjobs.com/details.cfm?JobCode=179433168)**  
@@ -117,7 +111,13 @@
 - **[Dual Credit Lecturer or Adjunct Instructor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179452588)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 52 more positions*
+- **[Fall 2026 Theology Adjunct Professor](https://www.higheredjobs.com/details.cfm?JobCode=179433401)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[In-Person Adjunct Assistant Professor, Addictions Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179449654)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 44 more positions*
 
 ---
 
