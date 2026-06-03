@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-02 11:22 UTC  
-**Total Positions:** 77
+**Last Updated:** 2026-06-03 12:00 UTC  
+**Total Positions:** 74
 
 ---
 
@@ -9,10 +9,16 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
+| ★★★★☆ | 1 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 74 |
+| ★★☆☆☆ | 70 |
 
 ---
+
+## ★★★★☆ Large Muslim Communities (1)
+
+- **[Visiting Lecturer](https://www.higheredjobs.com/details.cfm?JobCode=179459856)**  
+  📍 New York | 🔗 HigherEdJobs
 
 ## ★★★☆☆ Moderate Communities (3)
 
@@ -25,7 +31,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (74)
+## ★★☆☆☆ Other Locations (70)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -93,8 +99,8 @@
 - **[Assistant/Associate/Full Clinical Professor Pediatric Neuropsychologis](https://www.higheredjobs.com/details.cfm?JobCode=179458544)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant/Associate/Professor of Psychiatry](https://www.higheredjobs.com/details.cfm?JobCode=179433168)**  
-  📍 Unknown | 🔗 HigherEdJobs
+- **[Assistant/Associate/Full Professor of Religion in Education](https://www.higheredjobs.com/details.cfm?JobCode=179459657)**  
+  📍 Japan | 🔗 HigherEdJobs
 
 - **[Associate/Assistant Professor of Art Therapy](https://www.higheredjobs.com/details.cfm?JobCode=179445203)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -117,7 +123,7 @@
 - **[In-Person Adjunct Assistant Professor, Addictions Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179449654)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 44 more positions*
+*...and 40 more positions*
 
 ---
 

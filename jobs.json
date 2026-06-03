@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-02T11:21:52.779394+00:00",
-  "count": 77,
+  "updated": "2026-06-03T11:59:06.138133+00:00",
+  "count": 74,
   "jobs": [
+    {
+      "title": "Visiting Lecturer",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179459856",
+      "description": "New York University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
     {
       "title": "Behavior Analysis Visiting Faculty",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179455725",
@@ -203,11 +211,11 @@
       "score": 2
     },
     {
-      "title": "Assistant/Associate/Professor of Psychiatry",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179433168",
-      "description": "Indiana University - School of Medicine (Indianapolis, IN)",
+      "title": "Assistant/Associate/Full Professor of Religion in Education",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179459657",
+      "description": "Doshisha University (Kyoto, Japan)",
       "source": "HigherEdJobs",
-      "location": "Unknown",
+      "location": "Japan",
       "score": 2
     },
     {
@@ -331,14 +339,6 @@
       "score": 2
     },
     {
-      "title": "Lecturers, Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179433198",
-      "description": "Rutgers, The State University of New Jersey (Camden, NJ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Multihire F0178, F0212, F0307 - Tenure-Track Assistant or Associate Professor in Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179454848",
       "description": "Norfolk State University (Norfolk, VA)",
@@ -379,25 +379,9 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Appointee in Adolescent Behavioral Health Research",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179433109",
-      "description": "Indiana University - School of Medicine (Indianapolis, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Postdoctoral Fellow - Dietrich College",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179452497",
       "description": "Carnegie Mellon University (Pittsburgh, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Postdoctoral Fellow, Language Biomarker Lab - Emory College of Arts and Sciences",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179455238",
-      "description": "Emory University (Atlanta, GA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -486,14 +470,6 @@
       "title": "Psych Postdoctoral Fellow - Psychiatry Behavioral Sciences (Advanced Clinical Psychology) - JR009961",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179447174",
       "description": "University of Kansas Medical Center (Kansas City, KS)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Psychologist, Clinical Assistant Professor, Psychiatry, Consultation & Liaison Service",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179433811",
-      "description": "Stony Brook University (Stony Brook, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
