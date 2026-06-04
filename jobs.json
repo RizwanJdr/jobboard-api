@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-03T11:59:06.138133+00:00",
-  "count": 74,
+  "updated": "2026-06-04T10:40:33.999865+00:00",
+  "count": 79,
   "jobs": [
     {
       "title": "Visiting Lecturer",
@@ -118,6 +118,14 @@
       "title": "Assistant Professor - Clinical Child Adolescent Psychologist - JR009976",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179455396",
       "description": "University of Kansas Medical Center (Wichita, KS)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor - Clinical Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179461447",
+      "description": "East Texas A&M University (Commerce, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -283,6 +291,14 @@
       "score": 2
     },
     {
+      "title": "LEO Lecturer I - College of Arts, Sciences & Education - PSY 100-03 Principles of Psychology (Onsite)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179442031",
+      "description": "University of Michigan - Flint (Flint, MI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Lecturer",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179446693",
       "description": "Spelman College (Atlanta, GA)",
@@ -291,9 +307,25 @@
       "score": 2
     },
     {
+      "title": "Lecturer - Psychological Science",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179460809",
+      "description": "University of North Georgia (Dahlonega, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Lecturer Pool - Psychology and Child and Adolescent Development AY 2026/27",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179455834",
       "description": "California State University, San Marcos (San Marcos, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer in Christian Ministry and Director of the Certificate in Ministry",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179461255",
+      "description": "Stark College & Seminary (Corpus Christi, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -528,6 +560,14 @@
       "description": "The University of Iowa (Iowa City, IA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "STAR Lab Postdoctoral Fellow",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179460976",
+      "description": "Harvard University (Cambridge, MA)",
+      "source": "HigherEdJobs",
+      "location": "Cambridge",
       "score": 2
     },
     {
