@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04T10:40:33.999865+00:00",
-  "count": 79,
+  "updated": "2026-06-05T10:51:53.461943+00:00",
+  "count": 77,
   "jobs": [
     {
       "title": "Visiting Lecturer",
@@ -24,6 +24,14 @@
       "description": "Florida Institute of Technology (Melbourne, FL)",
       "source": "HigherEdJobs",
       "location": "Melbourne",
+      "score": 3
+    },
+    {
+      "title": "Part-Time Lecturer-ABA",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179463051",
+      "description": "Northeastern University (Boston, MA)",
+      "source": "HigherEdJobs",
+      "location": "Boston",
       "score": 3
     },
     {
@@ -75,9 +83,9 @@
       "score": 2
     },
     {
-      "title": "Adult Psychiatrist (Forensic), Assistant Professor Rank, Clinical Track - FT (601)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179433869",
-      "description": "Tulane University (New Orleans, LA)",
+      "title": "Adjunct, Graduate Applied Behavior Analysis Program, Department of Teaching, Learning, Behavioral Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179462731",
+      "description": "Saint Joseph's University (Philadelphia, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -100,8 +108,8 @@
     },
     {
       "title": "Assistant Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179444031",
-      "description": "University of Colorado Anschutz Medical Campus (Aurora, CO)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179462617",
+      "description": "University of Wisconsin - Madison (Madison, WI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -148,8 +156,8 @@
     },
     {
       "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179459351",
-      "description": "Fayetteville State University (Fayetteville, NC)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179462137",
+      "description": "Texas A&M University-Victoria (Victoria, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -262,14 +270,6 @@
       "title": "Dual Credit Lecturer or Adjunct Instructor in Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179452588",
       "description": "Sul Ross State University (Remote, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Fall 2026 Theology Adjunct Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179433401",
-      "description": "St. John's University (Jamaica, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -395,14 +395,6 @@
       "score": 2
     },
     {
-      "title": "Post Doctoral Research Associate - Somneuro Lab",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179434267",
-      "description": "University of Massachusetts - Amherst (Amherst, MA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "PostDoctoral Associate",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179459435",
       "description": "University of Colorado Boulder (Boulder, CO)",
@@ -422,14 +414,6 @@
       "title": "Postdoctoral Fellow-- Remote Language Language Biomarker Lab",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179454811",
       "description": "Emory University (Atlanta, GA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Postdoctoral Research Assoc",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179437508",
-      "description": "University of New Hampshire (Durham, NH)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -515,14 +499,6 @@
       "score": 2
     },
     {
-      "title": "Psychology - Part-Time Lecturer Pool",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179434447",
-      "description": "California State University, Fullerton (Fullerton, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Psychology Adjunct Lecturer",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179457238",
       "description": "Holy Family University (Philadelphia, PA)",
@@ -542,6 +518,14 @@
       "title": "Religious Studies - Part-Time Lecturer Pool",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179439543",
       "description": "California State University, Fullerton (Fullerton, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Research Assistant to the Berman Family Chair in Jewish Studies and Hebrew Bible (# 374006)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179454607",
+      "description": "University of Minnesota (Twin Cities, MN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2

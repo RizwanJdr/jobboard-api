@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-04 10:41 UTC  
-**Total Positions:** 79
+**Last Updated:** 2026-06-05 10:52 UTC  
+**Total Positions:** 77
 
 ---
 
@@ -10,8 +10,8 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★☆ | 1 |
-| ★★★☆☆ | 3 |
-| ★★☆☆☆ | 75 |
+| ★★★☆☆ | 4 |
+| ★★☆☆☆ | 72 |
 
 ---
 
@@ -20,7 +20,7 @@
 - **[Visiting Lecturer](https://www.higheredjobs.com/details.cfm?JobCode=179459856)**  
   📍 New York | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (3)
+## ★★★☆☆ Moderate Communities (4)
 
 - **[Behavior Analysis Visiting Faculty](https://www.higheredjobs.com/details.cfm?JobCode=179455725)**  
   📍 Melbourne | 🔗 HigherEdJobs
@@ -28,10 +28,13 @@
 - **[Instructor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179453369)**  
   📍 Melbourne | 🔗 HigherEdJobs
 
+- **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
+  📍 Boston | 🔗 HigherEdJobs
+
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (75)
+## ★★☆☆☆ Other Locations (72)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -48,7 +51,7 @@
 - **[Adjunct Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179449112)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adult Psychiatrist (Forensic), Assistant Professor Rank, Clinical Trac](https://www.higheredjobs.com/details.cfm?JobCode=179433869)**  
+- **[Adjunct, Graduate Applied Behavior Analysis Program, Department of Tea](https://www.higheredjobs.com/details.cfm?JobCode=179462731)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Clinical Professor (Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179457431)**  
@@ -57,7 +60,7 @@
 - **[Assistant Clinical Professor - School of Social Work, Psychology & Phi](https://www.higheredjobs.com/details.cfm?JobCode=179442011)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179444031)**  
+- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179462617)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Bone Marrow Transplant Clinical Psychologist](https://www.higheredjobs.com/details.cfm?JobCode=179442831)**  
@@ -75,7 +78,7 @@
 - **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179448882)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179459351)**  
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179462137)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179455788)**  
@@ -120,10 +123,10 @@
 - **[Dual Credit Lecturer or Adjunct Instructor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179452588)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Fall 2026 Theology Adjunct Professor](https://www.higheredjobs.com/details.cfm?JobCode=179433401)**  
+- **[In-Person Adjunct Assistant Professor, Addictions Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179449654)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 45 more positions*
+*...and 42 more positions*
 
 ---
 
