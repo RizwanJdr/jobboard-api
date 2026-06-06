@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-05T10:51:53.461943+00:00",
-  "count": 77,
+  "updated": "2026-06-06T09:28:16.853707+00:00",
+  "count": 79,
   "jobs": [
+    {
+      "title": "Lecturer - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179463534",
+      "description": "Saint Xavier University (Chicago, IL)",
+      "source": "HigherEdJobs",
+      "location": "Chicago",
+      "score": 4
+    },
     {
       "title": "Visiting Lecturer",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179459856",
@@ -51,14 +59,6 @@
       "score": 2
     },
     {
-      "title": "133870-Assistant Professor/Director (892)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179437838",
-      "description": "East Tennessee State University (Johnson City, TN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Adjunct Faculty -Psychological Statistics (Fall 2026)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179439345",
       "description": "Quinsigamond Community College (Worcester, MA)",
@@ -78,6 +78,14 @@
       "title": "Adjunct Professor - Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179449112",
       "description": "Oklahoma State University Oklahoma City (Oklahoma City, OK)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Adjunct Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179464055",
+      "description": "Southwest Minnesota State University (Marshall, MN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -179,9 +187,9 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor/Chair Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179434637",
-      "description": "Lasell University (Newton, MA)",
+      "title": "Assistant Professor/Director (892)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179437838",
+      "description": "East Tennessee State University (Johnson City, TN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -387,11 +395,11 @@
       "score": 2
     },
     {
-      "title": "Philosophy and Religious Studies (Religious Studies), Full-Time Lecturer, Faculty",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179435469",
-      "description": "Middle Tennessee State University (Murfreesboro, TN)",
+      "title": "Post-doctoral Fellow / Senior Research Assistant (holding the functional title of Senior Psychology Assistant) in the Department of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179464930",
+      "description": "University of Hong Kong (Hong Kong, Hong Kong)",
       "source": "HigherEdJobs",
-      "location": "Unknown",
+      "location": "Hong Kong",
       "score": 2
     },
     {
@@ -428,7 +436,7 @@
     },
     {
       "title": "Postdoctoral Research Fellow in Religion, Culture, and Mental Health",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179447494",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179464671",
       "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
       "location": "Cambridge",
@@ -440,6 +448,14 @@
       "description": "Indiana University Bloomington (Bloomington, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Researcher in Artificial Intelligence and Religion",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179463882",
+      "description": "Harvard University (Cambridge, MA)",
+      "source": "HigherEdJobs",
+      "location": "Cambridge",
       "score": 2
     },
     {
@@ -523,14 +539,6 @@
       "score": 2
     },
     {
-      "title": "Research Assistant to the Berman Family Chair in Jewish Studies and Hebrew Bible (# 374006)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179454607",
-      "description": "University of Minnesota (Twin Cities, MN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Research Officer/Assistant Research Officer in the Department of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179450168",
       "description": "University of Hong Kong (Hong Kong, Hong Kong)",
@@ -539,9 +547,9 @@
       "score": 2
     },
     {
-      "title": "Research Track Faculty Scsmh",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179455841",
-      "description": "The University of Iowa (Iowa City, IA)",
+      "title": "Research Postdoctoral Psychology Fellow",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179465017",
+      "description": "Indiana University - School of Medicine (Indianapolis, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -616,6 +624,14 @@
       "description": "Wesleyan University (Middletown, CT)",
       "source": "HigherEdJobs",
       "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Professor of Storytelling Through Film or Storyteller in Residence or Filmmaker in Residence (Half-Time Position)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179463880",
+      "description": "Harvard University (Cambridge, MA)",
+      "source": "HigherEdJobs",
+      "location": "Cambridge",
       "score": 2
     }
   ]

@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-05 10:52 UTC  
-**Total Positions:** 77
+**Last Updated:** 2026-06-06 09:29 UTC  
+**Total Positions:** 79
 
 ---
 
@@ -9,13 +9,16 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 1 |
+| ★★★★☆ | 2 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 72 |
+| ★★☆☆☆ | 73 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (1)
+## ★★★★☆ Large Muslim Communities (2)
+
+- **[Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179463534)**  
+  📍 Chicago | 🔗 HigherEdJobs
 
 - **[Visiting Lecturer](https://www.higheredjobs.com/details.cfm?JobCode=179459856)**  
   📍 New York | 🔗 HigherEdJobs
@@ -34,12 +37,9 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (72)
+## ★★☆☆☆ Other Locations (73)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[133870-Assistant Professor/Director (892)](https://www.higheredjobs.com/details.cfm?JobCode=179437838)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Faculty -Psychological Statistics (Fall 2026)](https://www.higheredjobs.com/details.cfm?JobCode=179439345)**  
@@ -49,6 +49,9 @@
   📍 Cambridge | 🔗 HigherEdJobs
 
 - **[Adjunct Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179449112)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179464055)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct, Graduate Applied Behavior Analysis Program, Department of Tea](https://www.higheredjobs.com/details.cfm?JobCode=179462731)**  
@@ -87,7 +90,7 @@
 - **[Assistant Professor, Academic Clinician Track, Pediatric Health and Be](https://www.higheredjobs.com/details.cfm?JobCode=179446210)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor/Chair Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179434637)**  
+- **[Assistant Professor/Director (892)](https://www.higheredjobs.com/details.cfm?JobCode=179437838)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant or Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179444606)**  
@@ -126,7 +129,7 @@
 - **[In-Person Adjunct Assistant Professor, Addictions Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179449654)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 42 more positions*
+*...and 43 more positions*
 
 ---
 
