@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-06 09:29 UTC  
-**Total Positions:** 79
+**Last Updated:** 2026-06-07 10:08 UTC  
+**Total Positions:** 73
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 2 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 73 |
+| ★★☆☆☆ | 67 |
 
 ---
 
@@ -37,7 +37,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (73)
+## ★★☆☆☆ Other Locations (67)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -114,9 +114,6 @@
 - **[Associate/Assistant Professor of Art Therapy](https://www.higheredjobs.com/details.cfm?JobCode=179445203)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Child Adolescent Studies - Part Time Lecturer Pool](https://www.higheredjobs.com/details.cfm?JobCode=179436161)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Clinical Assistant Professor - Psychologist](https://www.higheredjobs.com/details.cfm?JobCode=179451004)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -129,7 +126,10 @@
 - **[In-Person Adjunct Assistant Professor, Addictions Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179449654)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 43 more positions*
+- **[Instructor / Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179432592)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 37 more positions*
 
 ---
 
