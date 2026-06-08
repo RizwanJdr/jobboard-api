@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-07 10:08 UTC  
-**Total Positions:** 73
+**Last Updated:** 2026-06-08 12:03 UTC  
+**Total Positions:** 70
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 2 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 67 |
+| ★★☆☆☆ | 64 |
 
 ---
 
@@ -37,7 +37,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (67)
+## ★★☆☆☆ Other Locations (64)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -90,9 +90,6 @@
 - **[Assistant Professor, Academic Clinician Track, Pediatric Health and Be](https://www.higheredjobs.com/details.cfm?JobCode=179446210)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor/Director (892)](https://www.higheredjobs.com/details.cfm?JobCode=179437838)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant or Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179444606)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -129,7 +126,10 @@
 - **[Instructor / Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179432592)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 37 more positions*
+- **[LEO Lecturer I - College of Arts, Sciences & Education - PSY 100-03 Pr](https://www.higheredjobs.com/details.cfm?JobCode=179442031)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 34 more positions*
 
 ---
 
