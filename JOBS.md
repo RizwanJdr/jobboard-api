@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-08 12:03 UTC  
-**Total Positions:** 70
+**Last Updated:** 2026-06-09 10:37 UTC  
+**Total Positions:** 72
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 2 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 64 |
+| ★★☆☆☆ | 66 |
 
 ---
 
@@ -37,7 +37,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (64)
+## ★★☆☆☆ Other Locations (66)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -129,7 +129,7 @@
 - **[LEO Lecturer I - College of Arts, Sciences & Education - PSY 100-03 Pr](https://www.higheredjobs.com/details.cfm?JobCode=179442031)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 34 more positions*
+*...and 36 more positions*
 
 ---
 
