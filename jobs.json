@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09T10:36:26.797103+00:00",
-  "count": 72,
+  "updated": "2026-06-10T10:59:21.124639+00:00",
+  "count": 71,
   "jobs": [
     {
       "title": "Lecturer - Psychology",
@@ -54,14 +54,6 @@
       "title": "(Postdoctoral) Research Scientist in Statistical Modeling of Educational Data",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179445589",
       "description": "University of Colorado Boulder (Boulder, CO)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Adjunct Faculty -Psychological Statistics (Fall 2026)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179439345",
-      "description": "Quinsigamond Community College (Worcester, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -291,14 +283,6 @@
       "score": 2
     },
     {
-      "title": "Lecturer",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179446693",
-      "description": "Spelman College (Atlanta, GA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Lecturer - Psychological Science",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179460809",
       "description": "University of North Georgia (Dahlonega, GA)",
@@ -416,6 +400,14 @@
       "description": "Emory University (Atlanta, GA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Research Fellow in Religion, Culture, and Mental Health",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179467284",
+      "description": "Harvard University (Cambridge, MA)",
+      "source": "HigherEdJobs",
+      "location": "Cambridge",
       "score": 2
     },
     {
