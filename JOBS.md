@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-10 11:00 UTC  
-**Total Positions:** 71
+**Last Updated:** 2026-06-11 11:26 UTC  
+**Total Positions:** 72
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 2 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 65 |
+| ★★☆☆☆ | 66 |
 
 ---
 
@@ -37,7 +37,7 @@
 - **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (65)
+## ★★☆☆☆ Other Locations (66)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -70,6 +70,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179461447)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor 9 Mo](https://www.higheredjobs.com/details.cfm?JobCode=179468856)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in CBT for Anxiety at the CTSA - Academic Clinicia](https://www.higheredjobs.com/details.cfm?JobCode=179443743)**  
@@ -126,10 +129,7 @@
 - **[LEO Lecturer I - College of Arts, Sciences & Education - PSY 100-03 Pr](https://www.higheredjobs.com/details.cfm?JobCode=179442031)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Lecturer - Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179460809)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 35 more positions*
+*...and 36 more positions*
 
 ---
 
