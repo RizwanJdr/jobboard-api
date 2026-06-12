@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-11T11:25:03.842103+00:00",
-  "count": 72,
+  "updated": "2026-06-12T11:04:41.359212+00:00",
+  "count": 71,
   "jobs": [
     {
       "title": "Lecturer - Psychology",
@@ -8,6 +8,22 @@
       "description": "Saint Xavier University (Chicago, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
+      "score": 4
+    },
+    {
+      "title": "Postdoctoral Associate (Civic Science Fellowship) (Van Bavel Lab)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179469966",
+      "description": "New York University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "Postdoctoral Associate (Curtis Lab)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179469807",
+      "description": "New York University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
       "score": 4
     },
     {
@@ -38,14 +54,6 @@
       "title": "Part-Time Lecturer-ABA",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179463051",
       "description": "Northeastern University (Boston, MA)",
-      "source": "HigherEdJobs",
-      "location": "Boston",
-      "score": 3
-    },
-    {
-      "title": "Statistics & Research, Core Faculty- Clinical Psychology Department",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179431341",
-      "description": "William James College (Boston, MA)",
       "source": "HigherEdJobs",
       "location": "Boston",
       "score": 3
@@ -275,14 +283,6 @@
       "score": 2
     },
     {
-      "title": "Instructor / Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179432592",
-      "description": "Peru State College (Peru, NE)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "LEO Lecturer I - College of Arts, Sciences & Education - PSY 100-03 Principles of Psychology (Onsite)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179442031",
       "description": "University of Michigan - Flint (Flint, MI)",
@@ -419,22 +419,6 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Researcher in Artificial Intelligence and Religion",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179463882",
-      "description": "Harvard University (Cambridge, MA)",
-      "source": "HigherEdJobs",
-      "location": "Cambridge",
-      "score": 2
-    },
-    {
-      "title": "Postdoctoral Scholar - Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179440345",
-      "description": "Tufts University (Medford, MA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Postdoctoral Scholar Clinical",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179451364",
       "description": "University of South Florida (Tampa, FL)",
@@ -459,6 +443,22 @@
       "score": 2
     },
     {
+      "title": "Psychological Counselor with Visiting Professor Appointment",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179469301",
+      "description": "Woosong University (Daejeon, South Korea)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychologist, Clinical Assistant/Associate Professor, Psychiatry, Child Adolescent Outpatient (OPD)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179470200",
+      "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Psychology Adjunct Lecturer",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179457238",
       "description": "Holy Family University (Philadelphia, PA)",
@@ -470,14 +470,6 @@
       "title": "Psychology Professor - Part-Time",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179442989",
       "description": "Tacoma Community College (Tacoma, WA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Religious Studies - Part-Time Lecturer Pool",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179439543",
-      "description": "California State University, Fullerton (Fullerton, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -571,11 +563,11 @@
       "score": 2
     },
     {
-      "title": "Visiting Professor of Storytelling Through Film or Storyteller in Residence or Filmmaker in Residence (Half-Time Position)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179463880",
-      "description": "Harvard University (Cambridge, MA)",
+      "title": "Visiting Professor of Theology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179469688",
+      "description": "Alvernia University (Reading, PA)",
       "source": "HigherEdJobs",
-      "location": "Cambridge",
+      "location": "Unknown",
       "score": 2
     }
   ]

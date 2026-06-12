@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-11 11:26 UTC  
-**Total Positions:** 72
+**Last Updated:** 2026-06-12 11:05 UTC  
+**Total Positions:** 71
 
 ---
 
@@ -9,21 +9,27 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 2 |
-| ★★★☆☆ | 4 |
-| ★★☆☆☆ | 66 |
+| ★★★★☆ | 4 |
+| ★★★☆☆ | 3 |
+| ★★☆☆☆ | 64 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (2)
+## ★★★★☆ Large Muslim Communities (4)
 
 - **[Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179463534)**  
   📍 Chicago | 🔗 HigherEdJobs
 
+- **[Postdoctoral Associate (Civic Science Fellowship) (Van Bavel Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179469966)**  
+  📍 New York | 🔗 HigherEdJobs
+
+- **[Postdoctoral Associate (Curtis Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179469807)**  
+  📍 New York | 🔗 HigherEdJobs
+
 - **[Visiting Lecturer](https://www.higheredjobs.com/details.cfm?JobCode=179459856)**  
   📍 New York | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (4)
+## ★★★☆☆ Moderate Communities (3)
 
 - **[Behavior Analysis Visiting Faculty](https://www.higheredjobs.com/details.cfm?JobCode=179455725)**  
   📍 Melbourne | 🔗 HigherEdJobs
@@ -34,10 +40,7 @@
 - **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
   📍 Boston | 🔗 HigherEdJobs
 
-- **[Statistics & Research, Core Faculty- Clinical Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179431341)**  
-  📍 Boston | 🔗 HigherEdJobs
-
-## ★★☆☆☆ Other Locations (66)
+## ★★☆☆☆ Other Locations (64)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -123,13 +126,13 @@
 - **[In-Person Adjunct Assistant Professor, Addictions Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179449654)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Instructor / Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179432592)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[LEO Lecturer I - College of Arts, Sciences & Education - PSY 100-03 Pr](https://www.higheredjobs.com/details.cfm?JobCode=179442031)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 36 more positions*
+- **[Lecturer - Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179460809)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 34 more positions*
 
 ---
 
