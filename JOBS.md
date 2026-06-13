@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-12 11:05 UTC  
-**Total Positions:** 71
+**Last Updated:** 2026-06-13 10:06 UTC  
+**Total Positions:** 68
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 4 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 64 |
+| ★★☆☆☆ | 61 |
 
 ---
 
@@ -40,7 +40,7 @@
 - **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (64)
+## ★★☆☆☆ Other Locations (61)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -58,9 +58,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Clinical Professor (Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179457431)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Clinical Professor - School of Social Work, Psychology & Phi](https://www.higheredjobs.com/details.cfm?JobCode=179442011)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179462617)**  
@@ -126,13 +123,16 @@
 - **[In-Person Adjunct Assistant Professor, Addictions Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179449654)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[LEO Lecturer I - College of Arts, Sciences & Education - PSY 100-03 Pr](https://www.higheredjobs.com/details.cfm?JobCode=179442031)**  
+- **[LEO Lecturer I - Fall 2026 and Winter 2027](https://www.higheredjobs.com/details.cfm?JobCode=179471044)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Lecturer - Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179460809)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 34 more positions*
+- **[Lecturer Pool - Psychology and Child and Adolescent Development AY 202](https://www.higheredjobs.com/details.cfm?JobCode=179455834)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 31 more positions*
 
 ---
 
