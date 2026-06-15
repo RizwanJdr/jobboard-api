@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-14 10:28 UTC  
-**Total Positions:** 66
+**Last Updated:** 2026-06-15 13:21 UTC  
+**Total Positions:** 62
 
 ---
 
@@ -9,21 +9,18 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 4 |
+| ★★★★☆ | 3 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 59 |
+| ★★☆☆☆ | 56 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (4)
+## ★★★★☆ Large Muslim Communities (3)
 
 - **[Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179463534)**  
   📍 Chicago | 🔗 HigherEdJobs
 
 - **[Postdoctoral Associate (Civic Science Fellowship) (Van Bavel Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179469966)**  
-  📍 New York | 🔗 HigherEdJobs
-
-- **[Postdoctoral Associate (Curtis Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179469807)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Visiting Lecturer](https://www.higheredjobs.com/details.cfm?JobCode=179459856)**  
@@ -40,7 +37,7 @@
 - **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (59)
+## ★★☆☆☆ Other Locations (56)
 
 - **[(Postdoctoral) Research Scientist in Statistical Modeling of Education](https://www.higheredjobs.com/details.cfm?JobCode=179445589)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -72,9 +69,6 @@
 - **[Assistant Professor 9 Mo](https://www.higheredjobs.com/details.cfm?JobCode=179468856)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in CBT for Anxiety at the CTSA - Academic Clinicia](https://www.higheredjobs.com/details.cfm?JobCode=179443743)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179448882)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -88,9 +82,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant or Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179444606)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant, Associate or Full Professor in Clinical Psychology - Colleg](https://www.higheredjobs.com/details.cfm?JobCode=179444496)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Church Ministries](https://www.higheredjobs.com/details.cfm?JobCode=179446914)**  
@@ -132,7 +123,13 @@
 - **[Lecturer in Christian Ministry and Director of the Certificate in Mini](https://www.higheredjobs.com/details.cfm?JobCode=179461255)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 29 more positions*
+- **[Lecturer or Senior Lecturer in Behaviour Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179444608)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Lecturer, Department of Psychology - College for Health, Community and](https://www.higheredjobs.com/details.cfm?JobCode=179451388)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 26 more positions*
 
 ---
 
