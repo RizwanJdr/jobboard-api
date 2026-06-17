@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-16 12:15 UTC  
-**Total Positions:** 57
+**Last Updated:** 2026-06-17 11:54 UTC  
+**Total Positions:** 66
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 3 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 51 |
+| ★★☆☆☆ | 60 |
 
 ---
 
@@ -37,7 +37,13 @@
 - **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (51)
+## ★★☆☆☆ Other Locations (60)
+
+- **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[2026-27 Psychology Temporary Lecturers](https://www.higheredjobs.com/details.cfm?JobCode=179473536)**  
+  📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Assistant/Associate/Full Professor PT - Psychology/Clinical Ps](https://www.higheredjobs.com/details.cfm?JobCode=178999356)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -46,6 +52,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179464055)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Professor of Religion](https://www.higheredjobs.com/details.cfm?JobCode=179473595)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct, Graduate Applied Behavior Analysis Program, Department of Tea](https://www.higheredjobs.com/details.cfm?JobCode=179462731)**  
@@ -70,6 +79,15 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179462137)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Psychology (Digital Health) - (2 Positions)](https://www.higheredjobs.com/details.cfm?JobCode=179473032)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Psychology and Counseling with Applied Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179474243)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179474413)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179455788)**  
@@ -108,28 +126,10 @@
 - **[Dual Credit Lecturer or Adjunct Instructor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179452588)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[In-Person Adjunct Assistant Professor, Addictions Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179449654)**  
+- **[Full Professor of Psychology (Digital Health)](https://www.higheredjobs.com/details.cfm?JobCode=179473031)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[LEO Lecturer I - Fall 2026 and Winter 2027](https://www.higheredjobs.com/details.cfm?JobCode=179471044)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Lecturer - Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179460809)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Lecturer Pool - Psychology and Child and Adolescent Development AY 202](https://www.higheredjobs.com/details.cfm?JobCode=179455834)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Lecturer in Christian Ministry and Director of the Certificate in Mini](https://www.higheredjobs.com/details.cfm?JobCode=179461255)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Lecturer, Department of Psychology - College for Health, Community and](https://www.higheredjobs.com/details.cfm?JobCode=179451388)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Multihire F0178, F0212, F0307 - Tenure-Track Assistant or Associate Pr](https://www.higheredjobs.com/details.cfm?JobCode=179454848)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 21 more positions*
+*...and 30 more positions*
 
 ---
 
