@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-17T11:53:55.933463+00:00",
-  "count": 66,
+  "updated": "2026-06-18T11:11:02.322504+00:00",
+  "count": 67,
   "jobs": [
+    {
+      "title": "Adjunct Lecturer, Psychology Department",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179474690",
+      "description": "Barnard College (New York City, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "Clinical Assistant Professor of Jewish Studies and Values",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179474930",
+      "description": "Yeshiva University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
     {
       "title": "Lecturer - Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179463534",
@@ -86,14 +102,6 @@
       "title": "Adjunct Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179464055",
       "description": "Southwest Minnesota State University (Marshall, MN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Adjunct Professor of Religion",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179473595",
-      "description": "Dickinson College (Carlisle, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -195,14 +203,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor, Academic Clinician Track, Pediatric Health and Behavior Program/Pediatric Headache Program, CHOP",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179446210",
-      "description": "University of Pennsylvania (Philadelphia, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant or Associate Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179422708",
       "description": "Heritage University (Toppenish, WA)",
@@ -291,14 +291,6 @@
       "score": 2
     },
     {
-      "title": "In-Person Adjunct Assistant Professor, Addictions Counseling",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179449654",
-      "description": "Ocean County College (Toms River, NJ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "LEO Lecturer I - Fall 2026 and Winter 2027",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179471044",
       "description": "University of Michigan (Ann Arbor, MI)",
@@ -371,11 +363,27 @@
       "score": 2
     },
     {
+      "title": "Open Rank-Non-Tenure (Assistant, Associate, Professor) of Instruction- Industrial and Organizational Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179474603",
+      "description": "University of Texas at Arlington (Arlington, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Post-doctoral Fellow / Senior Research Assistant (holding the functional title of Senior Psychology Assistant) in the Department of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179464930",
       "description": "University of Hong Kong (Hong Kong, Hong Kong)",
       "source": "HigherEdJobs",
       "location": "Hong Kong",
+      "score": 2
+    },
+    {
+      "title": "PostDoctoral Associate",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179459435",
+      "description": "University of Colorado Boulder (Boulder, CO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     },
     {
