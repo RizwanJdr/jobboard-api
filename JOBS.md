@@ -1,6 +1,6 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-18 11:11 UTC  
+**Last Updated:** 2026-06-19 11:27 UTC  
 **Total Positions:** 67
 
 ---
@@ -99,9 +99,6 @@
 - **[Assistant or Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179422708)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant/Associate Professor of Church Ministries](https://www.higheredjobs.com/details.cfm?JobCode=179446914)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179451155)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -133,6 +130,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Lecturer - Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179460809)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Lecturer Pool - Psychology and Child and Adolescent Development AY 202](https://www.higheredjobs.com/details.cfm?JobCode=179455834)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 *...and 29 more positions*
