@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-20 10:11 UTC  
-**Total Positions:** 66
+**Last Updated:** 2026-06-21 10:35 UTC  
+**Total Positions:** 64
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 5 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 58 |
+| ★★☆☆☆ | 56 |
 
 ---
 
@@ -43,7 +43,7 @@
 - **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (58)
+## ★★☆☆☆ Other Locations (56)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -76,9 +76,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor 9 Mo](https://www.higheredjobs.com/details.cfm?JobCode=179468856)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179448882)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179462137)**  
@@ -135,7 +132,10 @@
 - **[Lecturer Pool - Psychology and Child and Adolescent Development AY 202](https://www.higheredjobs.com/details.cfm?JobCode=179455834)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 28 more positions*
+- **[Lecturer in Christian Ministry and Director of the Certificate in Mini](https://www.higheredjobs.com/details.cfm?JobCode=179461255)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 26 more positions*
 
 ---
 
