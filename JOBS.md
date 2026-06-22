@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-21 10:35 UTC  
-**Total Positions:** 64
+**Last Updated:** 2026-06-22 12:54 UTC  
+**Total Positions:** 61
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 5 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 56 |
+| ★★☆☆☆ | 53 |
 
 ---
 
@@ -43,7 +43,7 @@
 - **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (56)
+## ★★☆☆☆ Other Locations (53)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -78,7 +78,7 @@
 - **[Assistant Professor 9 Mo](https://www.higheredjobs.com/details.cfm?JobCode=179468856)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179462137)**  
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179476563)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology (Digital Health) - (2 Positions)](https://www.higheredjobs.com/details.cfm?JobCode=179473032)**  
@@ -91,9 +91,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179455788)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant or Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179422708)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179451155)**  
@@ -135,7 +132,10 @@
 - **[Lecturer in Christian Ministry and Director of the Certificate in Mini](https://www.higheredjobs.com/details.cfm?JobCode=179461255)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 26 more positions*
+- **[Lecturer, Department of Psychology - College for Health, Community and](https://www.higheredjobs.com/details.cfm?JobCode=179451388)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 23 more positions*
 
 ---
 
