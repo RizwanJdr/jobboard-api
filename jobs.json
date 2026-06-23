@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T12:53:12.780998+00:00",
-  "count": 61,
+  "updated": "2026-06-23T10:38:31.442985+00:00",
+  "count": 58,
   "jobs": [
     {
       "title": "Adjunct Lecturer, Psychology Department",
@@ -24,6 +24,14 @@
       "description": "Saint Xavier University (Chicago, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
+      "score": 4
+    },
+    {
+      "title": "Post Doctorate Research Fellow - Parnes Clinic",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179478313",
+      "description": "Yeshiva University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
       "score": 4
     },
     {
@@ -156,8 +164,8 @@
     },
     {
       "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179476563",
-      "description": "The University of Virginia's College at Wise (Wise, VA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179479135",
+      "description": "University of Virginia (Wise, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -195,14 +203,6 @@
       "score": 2
     },
     {
-      "title": "Assistant/Associate Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179451155",
-      "description": "North Carolina A&T State University (Greensboro, NC)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant/Associate Tenure Track Professor-Clinical Psychology Doctoral Program",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=178986149",
       "description": "Long Island University (Brookville, NY)",
@@ -230,14 +230,6 @@
       "title": "Assistant/Associate/Full Professor, Tenure-Track and Program Director",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=178814791",
       "description": "Long Island University (Brookville, NY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Clinical Assistant Professor - Psychologist",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179451004",
-      "description": "Oklahoma State University Center for Health Sciences (Tulsa, OK)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -294,14 +286,6 @@
       "title": "Lecturer in Christian Ministry and Director of the Certificate in Ministry",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179461255",
       "description": "Stark College & Seminary (Corpus Christi, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Lecturer, Department of Psychology - College for Health, Community and Policy",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179451388",
-      "description": "University of Texas at San Antonio (San Antonio, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -387,14 +371,6 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Scholar Clinical",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179451364",
-      "description": "University of South Florida (Tampa, FL)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Professor, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179472664",
       "description": "Rose State College (Midwest City, OK)",
@@ -427,6 +403,22 @@
       "score": 2
     },
     {
+      "title": "Research Assistant Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179478744",
+      "description": "University of Hong Kong (Hong Kong, Hong Kong)",
+      "source": "HigherEdJobs",
+      "location": "Hong Kong",
+      "score": 2
+    },
+    {
+      "title": "Research Associate in Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179479209",
+      "description": "University of Virginia (Charlottesville, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Research Fellow in Global Mental Health Implementation Science",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179473623",
       "description": "Harvard University (Cambridge, MA)",
@@ -438,14 +430,6 @@
       "title": "Research Postdoctoral Psychology Fellow",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179465017",
       "description": "Indiana University - School of Medicine (Indianapolis, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Teaching Assistant Professor - Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179451156",
-      "description": "North Carolina A&T State University (Greensboro, NC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -472,14 +456,6 @@
       "description": "University of Hong Kong (Hong Kong, Hong Kong)",
       "source": "HigherEdJobs",
       "location": "Hong Kong",
-      "score": 2
-    },
-    {
-      "title": "Visiting Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179423701",
-      "description": "Wilkes University (Wilkes-Barre, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
       "score": 2
     },
     {
