@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-23T10:38:31.442985+00:00",
-  "count": 58,
+  "updated": "2026-06-24T10:24:59.081547+00:00",
+  "count": 61,
   "jobs": [
     {
       "title": "Adjunct Lecturer, Psychology Department",
@@ -8,6 +8,22 @@
       "description": "Barnard College (New York City, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "Assistant or Associate Professor, Christian History and Doctrine (9 Mo, TT)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179479635",
+      "description": "Samford University (Birmingham, AL)",
+      "source": "HigherEdJobs",
+      "location": "Birmingham",
+      "score": 4
+    },
+    {
+      "title": "Associate or Full Professor, Presbyterian Chair of Divinity (9 Mo, TT)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179479630",
+      "description": "Samford University (Birmingham, AL)",
+      "source": "HigherEdJobs",
+      "location": "Birmingham",
       "score": 4
     },
     {
@@ -235,6 +251,14 @@
       "score": 2
     },
     {
+      "title": "Associate Professor, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179479444",
+      "description": "Horry-Georgetown Technical College (Conway, SC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Clinical Director/Clinical Assistant Professor of MAP",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179453862",
       "description": "McNeese State University (Lake Charles, LA)",
@@ -254,14 +278,6 @@
       "title": "Full Professor of Psychology (Digital Health)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179473031",
       "description": "University of Rhode Island (Kingston, RI)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "LEO Lecturer I - Fall 2026 and Winter 2027",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179471044",
-      "description": "University of Michigan (Ann Arbor, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -326,6 +342,14 @@
       "title": "Open Rank-Non-Tenure (Assistant, Associate, Professor) of Instruction- Industrial and Organizational Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179474603",
       "description": "University of Texas at Arlington (Arlington, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Part-Time Lecturer in Psychology- Seminar in Cognitive Behavior Therapy",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179480219",
+      "description": "Tufts University (Medford, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2

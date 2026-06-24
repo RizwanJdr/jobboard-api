@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-23 10:39 UTC  
-**Total Positions:** 58
+**Last Updated:** 2026-06-24 10:25 UTC  
+**Total Positions:** 61
 
 ---
 
@@ -9,16 +9,22 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 6 |
+| ★★★★☆ | 8 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 49 |
+| ★★☆☆☆ | 50 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (6)
+## ★★★★☆ Large Muslim Communities (8)
 
 - **[Adjunct Lecturer, Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179474690)**  
   📍 New York | 🔗 HigherEdJobs
+
+- **[Assistant or Associate Professor, Christian History and Doctrine (9 Mo](https://www.higheredjobs.com/details.cfm?JobCode=179479635)**  
+  📍 Birmingham | 🔗 HigherEdJobs
+
+- **[Associate or Full Professor, Presbyterian Chair of Divinity (9 Mo, TT)](https://www.higheredjobs.com/details.cfm?JobCode=179479630)**  
+  📍 Birmingham | 🔗 HigherEdJobs
 
 - **[Clinical Assistant Professor of Jewish Studies and Values](https://www.higheredjobs.com/details.cfm?JobCode=179474930)**  
   📍 New York | 🔗 HigherEdJobs
@@ -46,7 +52,7 @@
 - **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (49)
+## ★★☆☆☆ Other Locations (50)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -108,6 +114,9 @@
 - **[Assistant/Associate/Full Professor, Tenure-Track and Program Director](https://www.higheredjobs.com/details.cfm?JobCode=178814791)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179479444)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Clinical Director/Clinical Assistant Professor of MAP](https://www.higheredjobs.com/details.cfm?JobCode=179453862)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -115,9 +124,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Full Professor of Psychology (Digital Health)](https://www.higheredjobs.com/details.cfm?JobCode=179473031)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[LEO Lecturer I - Fall 2026 and Winter 2027](https://www.higheredjobs.com/details.cfm?JobCode=179471044)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Lecturer - Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179460809)**  
@@ -138,7 +144,7 @@
 - **[One-Year Assistant Professor of Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179466745)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 19 more positions*
+*...and 20 more positions*
 
 ---
 
