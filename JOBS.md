@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-24 10:25 UTC  
-**Total Positions:** 61
+**Last Updated:** 2026-06-25 10:18 UTC  
+**Total Positions:** 66
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 8 |
+| ★★★★☆ | 7 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 50 |
+| ★★☆☆☆ | 56 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (8)
+## ★★★★☆ Large Muslim Communities (7)
 
 - **[Adjunct Lecturer, Psychology Department](https://www.higheredjobs.com/details.cfm?JobCode=179474690)**  
   📍 New York | 🔗 HigherEdJobs
@@ -25,9 +25,6 @@
 
 - **[Associate or Full Professor, Presbyterian Chair of Divinity (9 Mo, TT)](https://www.higheredjobs.com/details.cfm?JobCode=179479630)**  
   📍 Birmingham | 🔗 HigherEdJobs
-
-- **[Clinical Assistant Professor of Jewish Studies and Values](https://www.higheredjobs.com/details.cfm?JobCode=179474930)**  
-  📍 New York | 🔗 HigherEdJobs
 
 - **[Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179463534)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -52,7 +49,7 @@
 - **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (50)
+## ★★☆☆☆ Other Locations (56)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -81,7 +78,13 @@
 - **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179462617)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor (BAT)](https://www.higheredjobs.com/details.cfm?JobCode=179480794)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179461447)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor - Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179480738)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor 9 Mo](https://www.higheredjobs.com/details.cfm?JobCode=179468856)**  
@@ -100,6 +103,15 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179455788)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor-in-Residence, Psychology (Children's Mental Health](https://www.higheredjobs.com/details.cfm?JobCode=179481068)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor-in-Residence, Psychology (Forensic Psychology) [R0](https://www.higheredjobs.com/details.cfm?JobCode=179480440)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor-in-Residence, Psychology/Honors [R0152296]](https://www.higheredjobs.com/details.cfm?JobCode=179480245)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Tenure Track Professor-Clinical Psychology Doctora](https://www.higheredjobs.com/details.cfm?JobCode=178986149)**  
@@ -126,25 +138,10 @@
 - **[Full Professor of Psychology (Digital Health)](https://www.higheredjobs.com/details.cfm?JobCode=179473031)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Lecturer - Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179460809)**  
+- **[Lecturer](https://www.higheredjobs.com/details.cfm?JobCode=179480771)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Lecturer Pool - Psychology and Child and Adolescent Development AY 202](https://www.higheredjobs.com/details.cfm?JobCode=179455834)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Lecturer in Christian Ministry and Director of the Certificate in Mini](https://www.higheredjobs.com/details.cfm?JobCode=179461255)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Multihire F0178, F0212, F0307 - Tenure-Track Assistant or Associate Pr](https://www.higheredjobs.com/details.cfm?JobCode=179454848)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[NSUF0054 - Chair/Associate or Full Professor, Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179454847)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[One-Year Assistant Professor of Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179466745)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 20 more positions*
+*...and 26 more positions*
 
 ---
 

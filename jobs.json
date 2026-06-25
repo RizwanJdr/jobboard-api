@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T10:24:59.081547+00:00",
-  "count": 61,
+  "updated": "2026-06-25T10:17:26.460414+00:00",
+  "count": 66,
   "jobs": [
     {
       "title": "Adjunct Lecturer, Psychology Department",
@@ -24,14 +24,6 @@
       "description": "Samford University (Birmingham, AL)",
       "source": "HigherEdJobs",
       "location": "Birmingham",
-      "score": 4
-    },
-    {
-      "title": "Clinical Assistant Professor of Jewish Studies and Values",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179474930",
-      "description": "Yeshiva University (New York, NY)",
-      "source": "HigherEdJobs",
-      "location": "New York",
       "score": 4
     },
     {
@@ -163,9 +155,25 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor (BAT)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179480794",
+      "description": "Southern Illinois University Carbondale (Carbondale, IL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor - Clinical Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179461447",
       "description": "East Texas A&M University (Commerce, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor - Cognitive Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179480738",
+      "description": "Boise State University (Boise, ID)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -214,6 +222,30 @@
       "title": "Assistant Professor of Theology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179455788",
       "description": "Immaculata University (Immaculata, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor-in-Residence, Psychology (Children's Mental Health) [R0152299]",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179481068",
+      "description": "University of Nevada Las Vegas (Las Vegas, NV)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor-in-Residence, Psychology (Forensic Psychology) [R0152297]",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179480440",
+      "description": "University of Nevada Las Vegas (Las Vegas, NV)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor-in-Residence, Psychology/Honors [R0152296]",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179480245",
+      "description": "University of Nevada Las Vegas (Las Vegas, NV)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -283,9 +315,25 @@
       "score": 2
     },
     {
+      "title": "Lecturer",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179480771",
+      "description": "North Carolina State University (Raleigh, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Lecturer - Psychological Science",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179460809",
       "description": "University of North Georgia (Dahlonega, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer PT",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179481018",
+      "description": "Lake Forest College (Lake Forest, IL)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -302,22 +350,6 @@
       "title": "Lecturer in Christian Ministry and Director of the Certificate in Ministry",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179461255",
       "description": "Stark College & Seminary (Corpus Christi, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Multihire F0178, F0212, F0307 - Tenure-Track Assistant or Associate Professor in Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179454848",
-      "description": "Norfolk State University (Norfolk, VA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "NSUF0054 - Chair/Associate or Full Professor, Department of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179454847",
-      "description": "Norfolk State University (Norfolk, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -422,6 +454,14 @@
       "title": "Psychologist, Clinical Assistant/Associate Professor, Psychiatry, Adult Outpatient (OPD)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179476529",
       "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychology Instructor or Adjunct Assistant Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179481059",
+      "description": "St. John's University (Jamaica, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
