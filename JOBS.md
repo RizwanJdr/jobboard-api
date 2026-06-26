@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-25 10:18 UTC  
-**Total Positions:** 66
+**Last Updated:** 2026-06-26 10:26 UTC  
+**Total Positions:** 69
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 7 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 56 |
+| ★★☆☆☆ | 59 |
 
 ---
 
@@ -49,7 +49,7 @@
 - **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (56)
+## ★★☆☆☆ Other Locations (59)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -105,6 +105,12 @@
 - **[Assistant Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179455788)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor- AZ- Clinical Psychology (.6 FTE)](https://www.higheredjobs.com/details.cfm?JobCode=179482330)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor-in-Residence, Psychology (Careers in Psychology) [](https://www.higheredjobs.com/details.cfm?JobCode=179481323)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor-in-Residence, Psychology (Children's Mental Health](https://www.higheredjobs.com/details.cfm?JobCode=179481068)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -132,16 +138,10 @@
 - **[Clinical Director/Clinical Assistant Professor of MAP](https://www.higheredjobs.com/details.cfm?JobCode=179453862)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Dual Credit Lecturer or Adjunct Instructor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179452588)**  
+- **[Director of Research - Scsmh](https://www.higheredjobs.com/details.cfm?JobCode=179482312)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Full Professor of Psychology (Digital Health)](https://www.higheredjobs.com/details.cfm?JobCode=179473031)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Lecturer](https://www.higheredjobs.com/details.cfm?JobCode=179480771)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 26 more positions*
+*...and 29 more positions*
 
 ---
 
