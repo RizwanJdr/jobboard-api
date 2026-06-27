@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-26 10:26 UTC  
-**Total Positions:** 69
+**Last Updated:** 2026-06-27 09:32 UTC  
+**Total Positions:** 68
 
 ---
 
@@ -10,7 +10,7 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★☆ | 7 |
-| ★★★☆☆ | 3 |
+| ★★★☆☆ | 2 |
 | ★★☆☆☆ | 59 |
 
 ---
@@ -38,12 +38,9 @@
 - **[Visiting Lecturer](https://www.higheredjobs.com/details.cfm?JobCode=179459856)**  
   📍 New York | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (3)
+## ★★★☆☆ Moderate Communities (2)
 
 - **[Behavior Analysis Visiting Faculty](https://www.higheredjobs.com/details.cfm?JobCode=179455725)**  
-  📍 Melbourne | 🔗 HigherEdJobs
-
-- **[Instructor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179453369)**  
   📍 Melbourne | 🔗 HigherEdJobs
 
 - **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
@@ -90,7 +87,7 @@
 - **[Assistant Professor 9 Mo](https://www.higheredjobs.com/details.cfm?JobCode=179468856)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179479135)**  
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179482481)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology (Digital Health) - (2 Positions)](https://www.higheredjobs.com/details.cfm?JobCode=179473032)**  
@@ -120,6 +117,15 @@
 - **[Assistant Professor-in-Residence, Psychology/Honors [R0152296]](https://www.higheredjobs.com/details.cfm?JobCode=179480245)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Teaching Professor-Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179483228)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant or Associate Professor of Instruction in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179482493)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant/Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179483008)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant/Associate Tenure Track Professor-Clinical Psychology Doctora](https://www.higheredjobs.com/details.cfm?JobCode=178986149)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -130,15 +136,6 @@
   📍 Japan | 🔗 HigherEdJobs
 
 - **[Assistant/Associate/Full Professor, Tenure-Track and Program Director](https://www.higheredjobs.com/details.cfm?JobCode=178814791)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179479444)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Clinical Director/Clinical Assistant Professor of MAP](https://www.higheredjobs.com/details.cfm?JobCode=179453862)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Director of Research - Scsmh](https://www.higheredjobs.com/details.cfm?JobCode=179482312)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 *...and 29 more positions*
