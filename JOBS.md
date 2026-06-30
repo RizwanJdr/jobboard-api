@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-29 12:03 UTC  
-**Total Positions:** 65
+**Last Updated:** 2026-06-30 10:34 UTC  
+**Total Positions:** 66
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 8 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 56 |
+| ★★☆☆☆ | 57 |
 
 ---
 
@@ -46,7 +46,7 @@
 - **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (56)
+## ★★☆☆☆ Other Locations (57)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -63,10 +63,10 @@
 - **[Adjunct Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179464055)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct, Graduate Applied Behavior Analysis Program, Department of Tea](https://www.higheredjobs.com/details.cfm?JobCode=179462731)**  
+- **[Adjunct Professors and Mentors — Integrative Psych Institute](https://www.higheredjobs.com/details.cfm?JobCode=179483524)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Clinical Professor (Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179457431)**  
+- **[Adjunct, Graduate Applied Behavior Analysis Program, Department of Tea](https://www.higheredjobs.com/details.cfm?JobCode=179462731)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Director Counseling Practicum Clinic and Assistant Clinical ](https://www.higheredjobs.com/details.cfm?JobCode=179472159)**  
@@ -91,9 +91,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology (Digital Health) - (2 Positions)](https://www.higheredjobs.com/details.cfm?JobCode=179473032)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Psychology and Counseling with Applied Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179474243)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179474413)**  
@@ -135,10 +132,13 @@
 - **[Assistant/Associate/Full Professor, Tenure-Track and Program Director](https://www.higheredjobs.com/details.cfm?JobCode=178814791)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Associate Director Community Psychological Services Clinic, Clinical P](https://www.higheredjobs.com/details.cfm?JobCode=179485102)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179479444)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 26 more positions*
+*...and 27 more positions*
 
 ---
 
