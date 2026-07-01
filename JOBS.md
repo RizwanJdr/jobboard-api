@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-06-30 10:34 UTC  
-**Total Positions:** 66
+**Last Updated:** 2026-07-01 10:45 UTC  
+**Total Positions:** 73
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 8 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 57 |
+| ★★☆☆☆ | 64 |
 
 ---
 
@@ -46,7 +46,7 @@
 - **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (57)
+## ★★☆☆☆ Other Locations (64)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -96,7 +96,19 @@
 - **[Assistant Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179474413)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor, Clinical Psychology (Tenure Track, F0524A)](https://www.higheredjobs.com/details.cfm?JobCode=179486180)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor, Eastern Christian Theology Culture](https://www.higheredjobs.com/details.cfm?JobCode=179485772)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor, Human Factors Psychology (Tenure Track, F0646A)](https://www.higheredjobs.com/details.cfm?JobCode=179486122)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor- AZ- Clinical Psychology (.6 FTE)](https://www.higheredjobs.com/details.cfm?JobCode=179482330)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor-Educator, Psychology, College of Arts and Sciences](https://www.higheredjobs.com/details.cfm?JobCode=179485944)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor-in-Residence, Psychology (Careers in Psychology) [](https://www.higheredjobs.com/details.cfm?JobCode=179481323)**  
@@ -126,19 +138,7 @@
 - **[Assistant/Associate/Full Clinical Professor Pediatric Neuropsychologis](https://www.higheredjobs.com/details.cfm?JobCode=179458544)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant/Associate/Full Professor of Religion in Education](https://www.higheredjobs.com/details.cfm?JobCode=179459657)**  
-  📍 Japan | 🔗 HigherEdJobs
-
-- **[Assistant/Associate/Full Professor, Tenure-Track and Program Director](https://www.higheredjobs.com/details.cfm?JobCode=178814791)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Associate Director Community Psychological Services Clinic, Clinical P](https://www.higheredjobs.com/details.cfm?JobCode=179485102)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Associate Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179479444)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 27 more positions*
+*...and 34 more positions*
 
 ---
 
