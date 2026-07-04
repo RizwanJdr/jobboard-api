@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-03 10:09 UTC  
-**Total Positions:** 83
+**Last Updated:** 2026-07-04 09:27 UTC  
+**Total Positions:** 80
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 7 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 75 |
+| ★★☆☆☆ | 72 |
 
 ---
 
@@ -43,7 +43,7 @@
 - **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (75)
+## ★★☆☆☆ Other Locations (72)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -73,9 +73,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (BAT)](https://www.higheredjobs.com/details.cfm?JobCode=179480794)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179461447)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179480738)**  
@@ -135,7 +132,10 @@
 - **[Assistant Professor-in-Residence, Psychology/Honors [R0152296]](https://www.higheredjobs.com/details.cfm?JobCode=179480245)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 45 more positions*
+- **[Assistant Teaching Professor-Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179483228)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 42 more positions*
 
 ---
 
