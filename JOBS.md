@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-04 09:27 UTC  
-**Total Positions:** 80
+**Last Updated:** 2026-07-05 09:45 UTC  
+**Total Positions:** 83
 
 ---
 
@@ -10,8 +10,7 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★☆ | 7 |
-| ★★★☆☆ | 1 |
-| ★★☆☆☆ | 72 |
+| ★★☆☆☆ | 76 |
 
 ---
 
@@ -38,12 +37,7 @@
 - **[Postdoctoral Associate (Civic Science Fellowship) (Van Bavel Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179469966)**  
   📍 New York | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (1)
-
-- **[Part-Time Lecturer-ABA](https://www.higheredjobs.com/details.cfm?JobCode=179463051)**  
-  📍 Boston | 🔗 HigherEdJobs
-
-## ★★☆☆☆ Other Locations (72)
+## ★★☆☆☆ Other Locations (76)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -52,6 +46,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Assistant/Associate/Full Professor PT - Psychology/Clinical Ps](https://www.higheredjobs.com/details.cfm?JobCode=178999356)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Faculty Pool - Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179489568)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179141826)**  
@@ -63,13 +60,7 @@
 - **[Adjunct Professors and Mentors — Integrative Psych Institute](https://www.higheredjobs.com/details.cfm?JobCode=179483524)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct, Graduate Applied Behavior Analysis Program, Department of Tea](https://www.higheredjobs.com/details.cfm?JobCode=179462731)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Director Counseling Practicum Clinic and Assistant Clinical ](https://www.higheredjobs.com/details.cfm?JobCode=179472159)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179462617)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (BAT)](https://www.higheredjobs.com/details.cfm?JobCode=179480794)**  
@@ -94,6 +85,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology (Digital Health) - (2 Positions)](https://www.higheredjobs.com/details.cfm?JobCode=179473032)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Psychology (Social Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179489606)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology /Field Placement Coordinator](https://www.higheredjobs.com/details.cfm?JobCode=179487443)**  
@@ -135,7 +129,7 @@
 - **[Assistant Teaching Professor-Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179483228)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 42 more positions*
+*...and 46 more positions*
 
 ---
 

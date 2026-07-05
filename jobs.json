@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T09:26:52.381845+00:00",
-  "count": 80,
+  "updated": "2026-07-05T09:44:22.172074+00:00",
+  "count": 83,
   "jobs": [
     {
       "title": "Adjunct Lecturer - Educational and Counseling Psychology, Division of Counseling Psychology",
@@ -59,14 +59,6 @@
       "score": 4
     },
     {
-      "title": "Part-Time Lecturer-ABA",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179463051",
-      "description": "Northeastern University (Boston, MA)",
-      "source": "HigherEdJobs",
-      "location": "Boston",
-      "score": 3
-    },
-    {
       "title": "10-Month Assistant/Associate Professor of Clinical Psychology, FSPP",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179473596",
       "description": "National Louis University (Tampa, FL)",
@@ -86,6 +78,14 @@
       "title": "Adjunct Assistant/Associate/Full Professor PT - Psychology/Clinical Psychology Doctoral Program",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=178999356",
       "description": "Long Island University (Brookville, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Adjunct Faculty Pool - Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489568",
+      "description": "Richard Bland College (Petersburg, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -115,25 +115,9 @@
       "score": 2
     },
     {
-      "title": "Adjunct, Graduate Applied Behavior Analysis Program, Department of Teaching, Learning, Behavioral Studies",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179462731",
-      "description": "Saint Joseph's University (Philadelphia, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Director Counseling Practicum Clinic and Assistant Clinical Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179472159",
       "description": "Ball State University (Muncie, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179462617",
-      "description": "University of Wisconsin - Madison (Madison, WI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -198,6 +182,14 @@
       "title": "Assistant Professor of Psychology (Digital Health) - (2 Positions)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179473032",
       "description": "University of Rhode Island (Kingston, RI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychology (Social Psychology)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489606",
+      "description": "Amherst College (Amherst, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -467,6 +459,14 @@
       "score": 2
     },
     {
+      "title": "Part-time Lecturer - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489585",
+      "description": "The University of Texas at Dallas (Dallas, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Post Doctorate Research Fellow - Parnes Clinic",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179478313",
       "description": "Yeshiva University (Bronx, NY)",
@@ -587,6 +587,14 @@
       "score": 2
     },
     {
+      "title": "Regular Lecturer, Non-Tenure-Track, Old Testament, Department of Religion",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489610",
+      "description": "Baylor University (Waco, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Research Assistant Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179478744",
       "description": "University of Hong Kong (Hong Kong, Hong Kong)",
@@ -614,6 +622,22 @@
       "title": "Seton | Adjunct Professor for Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179484705",
       "description": "University of Mount Saint Vincent (Bronx, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Spiritual Direction Training Program Supervisor: Lecturer, Part-Time, Temporary A/Y 2026-2027",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489609",
+      "description": "Baylor University (Waco, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Spiritual Formation Program Covenant Group Mentor: Lecturer, Part-Time, Temporary A/Y 2026-2027",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489611",
+      "description": "Baylor University (Waco, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
