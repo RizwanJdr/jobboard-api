@@ -1,6 +1,6 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-05 09:45 UTC  
+**Last Updated:** 2026-07-06 11:41 UTC  
 **Total Positions:** 83
 
 ---
@@ -9,12 +9,12 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 7 |
-| ★★☆☆☆ | 76 |
+| ★★★★☆ | 6 |
+| ★★☆☆☆ | 77 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (7)
+## ★★★★☆ Large Muslim Communities (6)
 
 - **[Adjunct Lecturer - Educational and Counseling Psychology, Division of ](https://www.higheredjobs.com/details.cfm?JobCode=179483649)**  
   📍 New York | 🔗 HigherEdJobs
@@ -31,13 +31,10 @@
 - **[Associate or Full Professor, Presbyterian Chair of Divinity (9 Mo, TT)](https://www.higheredjobs.com/details.cfm?JobCode=179479630)**  
   📍 Birmingham | 🔗 HigherEdJobs
 
-- **[Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179463534)**  
-  📍 Chicago | 🔗 HigherEdJobs
-
 - **[Postdoctoral Associate (Civic Science Fellowship) (Van Bavel Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179469966)**  
   📍 New York | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (76)
+## ★★☆☆☆ Other Locations (77)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -52,9 +49,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179141826)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179464055)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professors and Mentors — Integrative Psych Institute](https://www.higheredjobs.com/details.cfm?JobCode=179483524)**  
@@ -129,7 +123,10 @@
 - **[Assistant Teaching Professor-Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179483228)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 46 more positions*
+- **[Assistant or Associate Professor of Instruction in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179482493)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 47 more positions*
 
 ---
 

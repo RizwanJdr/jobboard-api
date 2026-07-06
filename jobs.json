@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T09:44:22.172074+00:00",
+  "updated": "2026-07-06T11:40:30.791497+00:00",
   "count": 83,
   "jobs": [
     {
@@ -40,14 +40,6 @@
       "description": "Samford University (Birmingham, AL)",
       "source": "HigherEdJobs",
       "location": "Birmingham",
-      "score": 4
-    },
-    {
-      "title": "Lecturer - Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179463534",
-      "description": "Saint Xavier University (Chicago, IL)",
-      "source": "HigherEdJobs",
-      "location": "Chicago",
       "score": 4
     },
     {
@@ -94,14 +86,6 @@
       "title": "Adjunct Professor - Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179141826",
       "description": "Long Island University (Brooklyn, NY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Adjunct Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179464055",
-      "description": "Southwest Minnesota State University (Marshall, MN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -379,6 +363,14 @@
       "score": 2
     },
     {
+      "title": "Full Time Faculty Assistant or Associate Professor of Psychology (Remote)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489740",
+      "description": "UMass Global (Irvine, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "LEO Lecturer I for Fall 2026",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179487317",
       "description": "University of Michigan (Ann Arbor, MI)",
@@ -422,6 +414,14 @@
       "title": "One-Year Assistant Professor of Psychological Science",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179466745",
       "description": "Eastern Connecticut State University (Willimantic, CT)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "One-Year Visiting Assistant Professor, Behavior Analysis",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179490262",
+      "description": "James Madison University (Harrisonburg, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -472,14 +472,6 @@
       "description": "Yeshiva University (Bronx, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Post-doctoral Fellow / Senior Research Assistant (holding the functional title of Senior Psychology Assistant) in the Department of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179464930",
-      "description": "University of Hong Kong (Hong Kong, Hong Kong)",
-      "source": "HigherEdJobs",
-      "location": "Hong Kong",
       "score": 2
     },
     {
@@ -587,6 +579,14 @@
       "score": 2
     },
     {
+      "title": "Regular Lecturer, Non-Tenure-Track, Department of Psychology and Neuroscience",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489708",
+      "description": "Baylor University (Waco, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Regular Lecturer, Non-Tenure-Track, Old Testament, Department of Religion",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489610",
       "description": "Baylor University (Waco, TX)",
@@ -611,9 +611,9 @@
       "score": 2
     },
     {
-      "title": "Research Postdoctoral Psychology Fellow",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179465017",
-      "description": "Indiana University - School of Medicine (Indianapolis, IN)",
+      "title": "Robert F. and Patricia G. Ross Weis Professorship in Judaic Studies and History",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489696",
+      "description": "Franklin & Marshall College (Lancaster, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
