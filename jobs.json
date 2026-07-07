@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T11:40:30.791497+00:00",
+  "updated": "2026-07-07T10:28:38.215905+00:00",
   "count": 83,
   "jobs": [
     {
@@ -40,14 +40,6 @@
       "description": "Samford University (Birmingham, AL)",
       "source": "HigherEdJobs",
       "location": "Birmingham",
-      "score": 4
-    },
-    {
-      "title": "Postdoctoral Associate (Civic Science Fellowship) (Van Bavel Lab)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179469966",
-      "description": "New York University (New York, NY)",
-      "source": "HigherEdJobs",
-      "location": "New York",
       "score": 4
     },
     {
@@ -334,6 +326,14 @@
       "title": "Associate Director Community Psychological Services Clinic, Clinical Professor (Non-Tenured Track, F0465A)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179485102",
       "description": "Old Dominion University (Norfolk, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Associate Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179490698",
+      "description": "Independence Community College (Independence, KS)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2

@@ -1,6 +1,6 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-06 11:41 UTC  
+**Last Updated:** 2026-07-07 10:29 UTC  
 **Total Positions:** 83
 
 ---
@@ -9,12 +9,12 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 6 |
-| ★★☆☆☆ | 77 |
+| ★★★★☆ | 5 |
+| ★★☆☆☆ | 78 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (6)
+## ★★★★☆ Large Muslim Communities (5)
 
 - **[Adjunct Lecturer - Educational and Counseling Psychology, Division of ](https://www.higheredjobs.com/details.cfm?JobCode=179483649)**  
   📍 New York | 🔗 HigherEdJobs
@@ -31,10 +31,7 @@
 - **[Associate or Full Professor, Presbyterian Chair of Divinity (9 Mo, TT)](https://www.higheredjobs.com/details.cfm?JobCode=179479630)**  
   📍 Birmingham | 🔗 HigherEdJobs
 
-- **[Postdoctoral Associate (Civic Science Fellowship) (Van Bavel Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179469966)**  
-  📍 New York | 🔗 HigherEdJobs
-
-## ★★☆☆☆ Other Locations (77)
+## ★★☆☆☆ Other Locations (78)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -126,7 +123,7 @@
 - **[Assistant or Associate Professor of Instruction in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179482493)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 47 more positions*
+*...and 48 more positions*
 
 ---
 
