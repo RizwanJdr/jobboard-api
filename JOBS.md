@@ -1,6 +1,6 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-08 09:29 UTC  
+**Last Updated:** 2026-07-09 10:28 UTC  
 **Total Positions:** 88
 
 ---
@@ -78,6 +78,9 @@
 - **[Assistant Professor of Catholic Studies and Co-Director of the Habiger](https://www.higheredjobs.com/details.cfm?JobCode=179492370)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179493316)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor of Clinical Psychology (3481)](https://www.higheredjobs.com/details.cfm?JobCode=179486962)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -121,9 +124,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor-in-Residence, Psychology (Children's Mental Health](https://www.higheredjobs.com/details.cfm?JobCode=179481068)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor-in-Residence, Psychology (Forensic Psychology) [R0](https://www.higheredjobs.com/details.cfm?JobCode=179480440)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 *...and 52 more positions*

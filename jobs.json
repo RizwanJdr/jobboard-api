@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T09:28:43.848114+00:00",
+  "updated": "2026-07-09T10:27:40.289464+00:00",
   "count": 88,
   "jobs": [
     {
@@ -158,6 +158,14 @@
       "title": "Assistant Professor of Catholic Studies and Co-Director of the Habiger Institute",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179492370",
       "description": "University of St. Thomas (St. Paul, MN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Clinical Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179493316",
+      "description": "Appalachian State University (Boone, NC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -443,14 +451,6 @@
       "score": 2
     },
     {
-      "title": "One-Year Assistant Professor of Psychological Science",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179466745",
-      "description": "Eastern Connecticut State University (Willimantic, CT)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "One-Year Visiting Assistant Professor, Behavior Analysis",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179490262",
       "description": "James Madison University (Harrisonburg, VA)",
@@ -643,14 +643,6 @@
       "score": 2
     },
     {
-      "title": "Research Associate in Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179479209",
-      "description": "University of Virginia (Charlottesville, VA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Robert F. and Patricia G. Ross Weis Professorship in Judaic Studies and History",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489696",
       "description": "Franklin & Marshall College (Lancaster, PA)",
@@ -686,6 +678,14 @@
       "title": "Visiting Assistant Clinical Professor - Applied Psychology, Charlotte, NC",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179485336",
       "description": "Northeastern University (Charlotte, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor in Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179493351",
+      "description": "Lewis & Clark College (Portland, OR)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
