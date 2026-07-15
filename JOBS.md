@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-14 09:09 UTC  
-**Total Positions:** 101
+**Last Updated:** 2026-07-15 09:13 UTC  
+**Total Positions:** 106
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 9 |
-| ★★★☆☆ | 1 |
-| ★★☆☆☆ | 91 |
+| ★★★★☆ | 11 |
+| ★★★☆☆ | 2 |
+| ★★☆☆☆ | 93 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (9)
+## ★★★★☆ Large Muslim Communities (11)
 
 - **[Adjunct Assistant Teaching Professor, Research Methods Fall 2026](https://www.higheredjobs.com/details.cfm?JobCode=179492290)**  
   📍 UK | 🔗 HigherEdJobs
@@ -44,12 +44,21 @@
 - **[Executive Director of GPATS and Clinical Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179497044)**  
   📍 New York | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (1)
+- **[Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179498567)**  
+  📍 New York | 🔗 HigherEdJobs
+
+- **[Visiting Assistant Professor (Academic-Year Appointment), 2 Positions ](https://www.higheredjobs.com/details.cfm?JobCode=179498565)**  
+  📍 New York | 🔗 HigherEdJobs
+
+## ★★★☆☆ Moderate Communities (2)
+
+- **[Assistant Professor (Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179499338)**  
+  📍 Boston | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of the Practice and Director of Clinical](https://www.higheredjobs.com/details.cfm?JobCode=179495397)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (91)
+## ★★☆☆☆ Other Locations (93)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -69,13 +78,13 @@
 - **[Adjunct Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179141826)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Adjunct Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179498827)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Adjunct Professors and Mentors — Integrative Psych Institute](https://www.higheredjobs.com/details.cfm?JobCode=179483524)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct, Psychology (Behavioral Analysis)](https://www.higheredjobs.com/details.cfm?JobCode=179491366)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Applied Behavioral Science Lecturer](https://www.higheredjobs.com/details.cfm?JobCode=179494716)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Clinical Professor](https://www.higheredjobs.com/details.cfm?JobCode=179497609)**  
@@ -141,7 +150,7 @@
 - **[Assistant Professor, Eastern Christian Theology Culture](https://www.higheredjobs.com/details.cfm?JobCode=179485772)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 61 more positions*
+*...and 63 more positions*
 
 ---
 
