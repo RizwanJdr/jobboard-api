@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-15 09:13 UTC  
-**Total Positions:** 106
+**Last Updated:** 2026-07-16 09:20 UTC  
+**Total Positions:** 105
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 11 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 93 |
+| ★★☆☆☆ | 92 |
 
 ---
 
@@ -58,7 +58,7 @@
 - **[Assistant/Associate Professor of the Practice and Director of Clinical](https://www.higheredjobs.com/details.cfm?JobCode=179495397)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (93)
+## ★★☆☆☆ Other Locations (92)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -66,17 +66,11 @@
 - **[2026-27 Psychology Temporary Lecturers](https://www.higheredjobs.com/details.cfm?JobCode=179473536)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct Assistant/Associate/Full Professor PT - Psychology/Clinical Ps](https://www.higheredjobs.com/details.cfm?JobCode=178999356)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Adjunct Faculty Pool - Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179489568)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Lecturer: 19th-Century American Transcendentalism](https://www.higheredjobs.com/details.cfm?JobCode=179495883)**  
   📍 Cambridge | 🔗 HigherEdJobs
-
-- **[Adjunct Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179141826)**  
-  📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179498827)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -88,6 +82,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Clinical Professor](https://www.higheredjobs.com/details.cfm?JobCode=179497609)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179500880)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (BAT)](https://www.higheredjobs.com/details.cfm?JobCode=179480794)**  
@@ -150,7 +147,10 @@
 - **[Assistant Professor, Eastern Christian Theology Culture](https://www.higheredjobs.com/details.cfm?JobCode=179485772)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 63 more positions*
+- **[Assistant Professor, Human Factors Psychology (Tenure Track, F0646A)](https://www.higheredjobs.com/details.cfm?JobCode=179486122)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 62 more positions*
 
 ---
 
