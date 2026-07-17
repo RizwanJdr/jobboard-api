@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-16 09:20 UTC  
-**Total Positions:** 105
+**Last Updated:** 2026-07-17 09:13 UTC  
+**Total Positions:** 101
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 11 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 92 |
+| ★★☆☆☆ | 88 |
 
 ---
 
@@ -58,13 +58,7 @@
 - **[Assistant/Associate Professor of the Practice and Director of Clinical](https://www.higheredjobs.com/details.cfm?JobCode=179495397)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (92)
-
-- **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179473596)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[2026-27 Psychology Temporary Lecturers](https://www.higheredjobs.com/details.cfm?JobCode=179473536)**  
-  📍 Unknown | 🔗 HigherEdJobs
+## ★★☆☆☆ Other Locations (88)
 
 - **[Adjunct Faculty Pool - Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179489568)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -117,9 +111,6 @@
 - **[Assistant Professor of Psychology (Developmental Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179494028)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology (Digital Health) - (2 Positions)](https://www.higheredjobs.com/details.cfm?JobCode=179473032)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor of Psychology (Social Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179489606)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -130,9 +121,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Religion (Islam subfield; tenure track)](https://www.higheredjobs.com/details.cfm?JobCode=179497557)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179474413)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor, Clinical Psychological Science (T/TE)](https://www.higheredjobs.com/details.cfm?JobCode=179497175)**  
@@ -150,7 +138,19 @@
 - **[Assistant Professor, Human Factors Psychology (Tenure Track, F0646A)](https://www.higheredjobs.com/details.cfm?JobCode=179486122)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 62 more positions*
+- **[Assistant Professor- AZ- Clinical Psychology (.6 FTE)](https://www.higheredjobs.com/details.cfm?JobCode=179482330)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor- The School of Graduate Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179493440)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor-Educator, Psychology, College of Arts and Sciences](https://www.higheredjobs.com/details.cfm?JobCode=179485944)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor-in-Residence, Psychology (Careers in Psychology) [](https://www.higheredjobs.com/details.cfm?JobCode=179481323)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 58 more positions*
 
 ---
 
