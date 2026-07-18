@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T09:12:54.382288+00:00",
+  "updated": "2026-07-18T08:51:34.026573+00:00",
   "count": 101,
   "jobs": [
     {
@@ -14,14 +14,6 @@
       "title": "Adjunct Lecturer - Educational and Counseling Psychology, Division of Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179483649",
       "description": "State University of New York (SUNY) at Albany (Albany, NY)",
-      "source": "HigherEdJobs",
-      "location": "New York",
-      "score": 4
-    },
-    {
-      "title": "Adjunct Lecturer, Psychology Department",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179474690",
-      "description": "Barnard College (New York City, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
       "score": 4
@@ -67,14 +59,6 @@
       "score": 4
     },
     {
-      "title": "Executive Director of GPATS and Clinical Assistant Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179497044",
-      "description": "Yeshiva University (New York, NY)",
-      "source": "HigherEdJobs",
-      "location": "New York",
-      "score": 4
-    },
-    {
       "title": "Lecturer - Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179498567",
       "description": "State University of New York (SUNY) at Albany (Albany, NY)",
@@ -105,6 +89,22 @@
       "source": "HigherEdJobs",
       "location": "Boston",
       "score": 3
+    },
+    {
+      "title": "AY 26/27 Assistant Professor in Cognitive Psychology - Tenure Track",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179502746",
+      "description": "University of Notre Dame (Notre Dame, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "AY 26/27 Assistant Professor in Developmental Psychology - Tenure Track",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179502747",
+      "description": "University of Notre Dame (Notre Dame, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
     },
     {
       "title": "Adjunct Faculty Pool - Professor of Psychology",
@@ -222,6 +222,14 @@
       "title": "Assistant Professor of Clinical Psychology, PsyD Program (2907, 2908)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179487005",
       "description": "Idaho State University (Pocatello, ID)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Instruction, Department of Psychology, College for Health, Community and Policy (HCAP)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179502805",
+      "description": "University of Texas at San Antonio (San Antonio, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -547,14 +555,6 @@
       "score": 2
     },
     {
-      "title": "Open Rank-Non-Tenure (Assistant, Associate, Professor) of Instruction- Industrial and Organizational Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179474603",
-      "description": "University of Texas at Arlington (Arlington, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Part Time Lecturer in Department of Psychological Science/College of Liberal Arts",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179501229",
       "description": "University of Texas Rio Grande Valley (Edinburg, TX)",
@@ -592,6 +592,14 @@
       "description": "Yeshiva University (Bronx, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoc Employee-The Building Blocks of Cognition Laboratory - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179503096",
+      "description": "University of California Berkeley (Berkeley, CA)",
+      "source": "HigherEdJobs",
+      "location": "Berkeley",
       "score": 2
     },
     {
@@ -659,14 +667,6 @@
       "score": 2
     },
     {
-      "title": "Psychologist, Clinical Assistant/Associate Professor, Psychiatry, Adult Outpatient (OPD)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179476529",
-      "description": "Stony Brook University (Stony Brook, NY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Psychologist/ Clinical Assistant Professor, Psychology - 994961",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179501126",
       "description": "Nova Southeastern University (Fort Lauderdale-Davie, FL)",
@@ -686,14 +686,6 @@
       "title": "Psychology Department Lecturer Pool",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179485194",
       "description": "University of California Santa Cruz (Santa Cruz, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Psychology Instructor or Adjunct Assistant Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179481059",
-      "description": "St. John's University (Jamaica, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -798,6 +790,14 @@
       "title": "Visiting Assistant Professor in Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179494299",
       "description": "Texas Lutheran University (Seguin, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179503643",
+      "description": "Springfield College (Springfield, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
