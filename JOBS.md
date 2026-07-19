@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-18 08:52 UTC  
-**Total Positions:** 101
+**Last Updated:** 2026-07-19 09:10 UTC  
+**Total Positions:** 103
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 9 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 90 |
+| ★★☆☆☆ | 92 |
 
 ---
 
@@ -52,12 +52,18 @@
 - **[Assistant/Associate Professor of the Practice and Director of Clinical](https://www.higheredjobs.com/details.cfm?JobCode=179495397)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (90)
+## ★★☆☆☆ Other Locations (92)
+
+- **[(Fall 2026) In-Person Adjunct Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179503987)**  
+  📍 Unknown | 🔗 HigherEdJobs
 
 - **[AY 26/27 Assistant Professor in Cognitive Psychology - Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179502746)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[AY 26/27 Assistant Professor in Developmental Psychology - Tenure Trac](https://www.higheredjobs.com/details.cfm?JobCode=179502747)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Faculty - Research Methods and Statistics](https://www.higheredjobs.com/details.cfm?JobCode=179503754)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Faculty Pool - Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179489568)**  
@@ -138,13 +144,7 @@
 - **[Assistant Professor, Eastern Christian Theology Culture](https://www.higheredjobs.com/details.cfm?JobCode=179485772)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Human Factors Psychology (Tenure Track, F0646A)](https://www.higheredjobs.com/details.cfm?JobCode=179486122)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor- AZ- Clinical Psychology (.6 FTE)](https://www.higheredjobs.com/details.cfm?JobCode=179482330)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 60 more positions*
+*...and 62 more positions*
 
 ---
 
