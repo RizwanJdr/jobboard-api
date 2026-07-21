@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20T10:16:42.351200+00:00",
-  "count": 103,
+  "updated": "2026-07-21T09:31:13.942089+00:00",
+  "count": 111,
   "jobs": [
     {
       "title": "Adjunct Assistant Teaching Professor, Research Methods Fall 2026",
@@ -56,6 +56,14 @@
       "description": "Samford University (Birmingham, AL)",
       "source": "HigherEdJobs",
       "location": "Birmingham",
+      "score": 4
+    },
+    {
+      "title": "Junior Research Scientist in the Division of Science (Psychology) - Dr. Jon Sprouse",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179504450",
+      "description": "New York University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
       "score": 4
     },
     {
@@ -172,8 +180,8 @@
     },
     {
       "title": "Assistant Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179500880",
-      "description": "University of Michigan (Ann Arbor, MI)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179504376",
+      "description": "University of Mississippi (University, MS)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -275,6 +283,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor of Psychology - Clinical/Counseling",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179504496",
+      "description": "Aurora University (Aurora, IL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor of Psychology /Field Placement Coordinator",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179487443",
       "description": "Chestnut Hill College (Philadelphia, PA)",
@@ -334,6 +350,30 @@
       "title": "Assistant Professor, Human Factors Psychology (Tenure Track, F0646A)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179486122",
       "description": "Old Dominion University (Norfolk, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Psychological Generalist",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179504945",
+      "description": "University of St. Thomas (St. Paul, MN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179504787",
+      "description": "St. Thomas Aquinas College (Sparkill, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Social Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179505040",
+      "description": "University of St. Thomas (St. Paul, MN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -483,6 +523,14 @@
       "score": 2
     },
     {
+      "title": "Instructional Assistant Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179504377",
+      "description": "University of Mississippi (University, MS)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "LEO Lecturer I for Fall 2026",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179487317",
       "description": "University of Michigan (Ann Arbor, MI)",
@@ -571,6 +619,14 @@
       "score": 2
     },
     {
+      "title": "PSY AY 27/28 Director of the Behavioral Health Research Unit",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179504247",
+      "description": "University of Notre Dame (Notre Dame, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Part Time Lecturer in Department of Psychological Science/College of Liberal Arts",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179501229",
       "description": "University of Texas Rio Grande Valley (Edinburg, TX)",
@@ -582,6 +638,14 @@
       "title": "Part-Time Co-Terminus Associate Professor of Pediatrics",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179499937",
       "description": "Rutgers, The State University of New Jersey (New Brunswick, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Part-Time Instructor in Applied Behavior Analysis",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179504397",
+      "description": "University of Kentucky (Lexington, KY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
