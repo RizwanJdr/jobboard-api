@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-21 09:32 UTC  
-**Total Positions:** 111
+**Last Updated:** 2026-07-22 09:31 UTC  
+**Total Positions:** 118
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 10 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 99 |
+| ★★☆☆☆ | 106 |
 
 ---
 
@@ -55,7 +55,7 @@
 - **[Assistant/Associate Professor of the Practice and Director of Clinical](https://www.higheredjobs.com/details.cfm?JobCode=179495397)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (99)
+## ★★☆☆☆ Other Locations (106)
 
 - **[(Fall 2026) In-Person Adjunct Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179503987)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -64,6 +64,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[AY 26/27 Assistant Professor in Developmental Psychology - Tenure Trac](https://www.higheredjobs.com/details.cfm?JobCode=179502747)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Faculty - Applied Behavioral Analysis (Remote)](https://www.higheredjobs.com/details.cfm?JobCode=179505143)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Faculty - Research Methods and Statistics](https://www.higheredjobs.com/details.cfm?JobCode=179503754)**  
@@ -102,6 +105,9 @@
 - **[Assistant Professor in Applied Psychology, Tenure-Track](https://www.higheredjobs.com/details.cfm?JobCode=179488345)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor in Islamic Studies](https://www.higheredjobs.com/details.cfm?JobCode=179505343)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor of Catholic Studies and Co-Director of the Habiger](https://www.higheredjobs.com/details.cfm?JobCode=179492370)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -132,22 +138,16 @@
 - **[Assistant Professor of Psychology /Field Placement Coordinator](https://www.higheredjobs.com/details.cfm?JobCode=179487443)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor of Psychology Education](https://www.higheredjobs.com/details.cfm?JobCode=179505587)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor of Psychology or Human Services (Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179497462)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Religion (Islam subfield; tenure track)](https://www.higheredjobs.com/details.cfm?JobCode=179497557)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Clinical Psychological Science (T/TE)](https://www.higheredjobs.com/details.cfm?JobCode=179497175)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor, Clinical Psychology (Tenure Track, F0524A)](https://www.higheredjobs.com/details.cfm?JobCode=179486180)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor, Doctorate of Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179487978)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 69 more positions*
+*...and 76 more positions*
 
 ---
 
