@@ -1,6 +1,6 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-22 09:31 UTC  
+**Last Updated:** 2026-07-23 09:28 UTC  
 **Total Positions:** 118
 
 ---
@@ -38,13 +38,13 @@
 - **[Associate or Full Professor, Presbyterian Chair of Divinity (9 Mo, TT)](https://www.higheredjobs.com/details.cfm?JobCode=179479630)**  
   📍 Birmingham | 🔗 HigherEdJobs
 
-- **[Junior Research Scientist in the Division of Science (Psychology) - Dr](https://www.higheredjobs.com/details.cfm?JobCode=179504450)**  
-  📍 New York | 🔗 HigherEdJobs
-
 - **[Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179498567)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Visiting Assistant Professor (Academic-Year Appointment), 2 Positions ](https://www.higheredjobs.com/details.cfm?JobCode=179498565)**  
+  📍 New York | 🔗 HigherEdJobs
+
+- **[Visiting Assistant Professor - Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179507188)**  
   📍 New York | 🔗 HigherEdJobs
 
 ## ★★★☆☆ Moderate Communities (2)
