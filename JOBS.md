@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-23 09:28 UTC  
-**Total Positions:** 118
+**Last Updated:** 2026-07-24 09:25 UTC  
+**Total Positions:** 119
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 10 |
+| ★★★★☆ | 9 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 106 |
+| ★★☆☆☆ | 108 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (10)
+## ★★★★☆ Large Muslim Communities (9)
 
 - **[Adjunct Assistant Teaching Professor, Research Methods Fall 2026](https://www.higheredjobs.com/details.cfm?JobCode=179492290)**  
   📍 UK | 🔗 HigherEdJobs
@@ -32,11 +32,8 @@
 - **[Assistant Professor, Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179493638)**  
   📍 Chicago | 🔗 HigherEdJobs
 
-- **[Assistant or Associate Professor, Christian History and Doctrine (9 Mo](https://www.higheredjobs.com/details.cfm?JobCode=179479635)**  
-  📍 Birmingham | 🔗 HigherEdJobs
-
-- **[Associate or Full Professor, Presbyterian Chair of Divinity (9 Mo, TT)](https://www.higheredjobs.com/details.cfm?JobCode=179479630)**  
-  📍 Birmingham | 🔗 HigherEdJobs
+- **[Assistant Teaching Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179508028)**  
+  📍 New York | 🔗 HigherEdJobs
 
 - **[Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179498567)**  
   📍 New York | 🔗 HigherEdJobs
@@ -55,7 +52,7 @@
 - **[Assistant/Associate Professor of the Practice and Director of Clinical](https://www.higheredjobs.com/details.cfm?JobCode=179495397)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (106)
+## ★★☆☆☆ Other Locations (108)
 
 - **[(Fall 2026) In-Person Adjunct Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179503987)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -144,10 +141,10 @@
 - **[Assistant Professor of Psychology or Human Services (Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179497462)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Religion (Islam subfield; tenure track)](https://www.higheredjobs.com/details.cfm?JobCode=179497557)**  
+- **[Assistant Professor of Religion](https://www.higheredjobs.com/details.cfm?JobCode=179508157)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 76 more positions*
+*...and 78 more positions*
 
 ---
 
