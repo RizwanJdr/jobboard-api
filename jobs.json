@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T09:03:31.824836+00:00",
+  "updated": "2026-07-26T09:18:38.356132+00:00",
   "count": 116,
   "jobs": [
     {
@@ -190,6 +190,14 @@
       "title": "Assistant Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179504376",
       "description": "University of Mississippi (University, MS)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor (Clinical, Counseling, or School Psychology)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179509859",
+      "description": "Washburn University (Topeka, KS)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -435,14 +443,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor- AZ- Clinical Psychology (.6 FTE)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179482330",
-      "description": "Midwestern University - Arizona (Glendale, AZ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor- The School of Graduate Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179493440",
       "description": "Pacific University (Forest Grove, OR)",
@@ -454,14 +454,6 @@
       "title": "Assistant Professor-Educator, Psychology, College of Arts and Sciences",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179485944",
       "description": "University of Cincinnati (Cincinnati, OH)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor-in-Residence, Psychology (Careers in Psychology) [R0152300]",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179481323",
-      "description": "University of Nevada Las Vegas (Las Vegas, NV)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -622,6 +614,14 @@
       "title": "Lecturer, Psychological Sciences",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179494093",
       "description": "University of San Diego (San Diego, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Lecturer/Assistant/Associate Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179509655",
+      "description": "Troy University (Troy, AL)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
