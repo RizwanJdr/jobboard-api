@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-26 09:19 UTC  
-**Total Positions:** 116
+**Last Updated:** 2026-07-27 10:48 UTC  
+**Total Positions:** 111
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 10 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 104 |
+| ★★☆☆☆ | 99 |
 
 ---
 
@@ -55,7 +55,7 @@
 - **[Assistant/Associate Professor of the Practice and Director of Clinical](https://www.higheredjobs.com/details.cfm?JobCode=179495397)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (104)
+## ★★☆☆☆ Other Locations (99)
 
 - **[(Fall 2026) In-Person Adjunct Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179503987)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -147,7 +147,7 @@
 - **[Assistant Professor of Psychology- Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179509319)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 74 more positions*
+*...and 69 more positions*
 
 ---
 
