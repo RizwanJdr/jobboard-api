@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-29 09:43 UTC  
-**Total Positions:** 115
+**Last Updated:** 2026-07-30 09:34 UTC  
+**Total Positions:** 117
 
 ---
 
@@ -9,19 +9,13 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★★ | 1 |
-| ★★★★☆ | 9 |
-| ★★★☆☆ | 3 |
-| ★★☆☆☆ | 102 |
+| ★★★★☆ | 10 |
+| ★★★☆☆ | 2 |
+| ★★☆☆☆ | 105 |
 
 ---
 
-## ★★★★★ Muslim-Majority Regions (1)
-
-- **[Associate Research Scientist in the Division of Science (Psychology) -](https://www.higheredjobs.com/details.cfm?JobCode=179511495)**  
-  📍 UAE | 🔗 HigherEdJobs
-
-## ★★★★☆ Large Muslim Communities (9)
+## ★★★★☆ Large Muslim Communities (10)
 
 - **[Adjunct Assistant Teaching Professor, Research Methods Fall 2026](https://www.higheredjobs.com/details.cfm?JobCode=179492290)**  
   📍 UK | 🔗 HigherEdJobs
@@ -38,6 +32,9 @@
 - **[Assistant Teaching Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179508028)**  
   📍 New York | 🔗 HigherEdJobs
 
+- **[Associate Research Scientist in the Division of Science (Psychology) -](https://www.higheredjobs.com/details.cfm?JobCode=179512227)**  
+  📍 New York | 🔗 HigherEdJobs
+
 - **[Full-Time, Non-Tenure Track Assistant Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179509005)**  
   📍 New York | 🔗 HigherEdJobs
 
@@ -50,10 +47,7 @@
 - **[Visiting Assistant Professor - Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179507188)**  
   📍 New York | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (3)
-
-- **[Assistant Professor (Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179499338)**  
-  📍 Boston | 🔗 HigherEdJobs
+## ★★★☆☆ Moderate Communities (2)
 
 - **[Assistant Professor of Christianity in Late Antiquity, Department of T](https://www.higheredjobs.com/details.cfm?JobCode=179510429)**  
   📍 Los Angeles | 🔗 HigherEdJobs
@@ -61,7 +55,7 @@
 - **[Assistant/Associate Professor of the Practice and Director of Clinical](https://www.higheredjobs.com/details.cfm?JobCode=179495397)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (102)
+## ★★☆☆☆ Other Locations (105)
 
 - **[(Fall 2026) In-Person Adjunct Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179503987)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -90,10 +84,10 @@
 - **[Adjunct Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179498827)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct Professors and Mentors — Integrative Psych Institute](https://www.higheredjobs.com/details.cfm?JobCode=179483524)**  
+- **[Adjunct, Psychology (Behavioral Analysis)](https://www.higheredjobs.com/details.cfm?JobCode=179491366)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct, Psychology (Behavioral Analysis)](https://www.higheredjobs.com/details.cfm?JobCode=179491366)**  
+- **[Adjunct: Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179512465)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Clinical Professor](https://www.higheredjobs.com/details.cfm?JobCode=179497609)**  
@@ -103,6 +97,12 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (Clinical, Counseling, or School Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179509859)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor (Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179512540)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor - ABA](https://www.higheredjobs.com/details.cfm?JobCode=179512546)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179491826)**  
@@ -132,7 +132,7 @@
 - **[Assistant Professor of Instruction, Department of Psychology, College ](https://www.higheredjobs.com/details.cfm?JobCode=179502805)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179486210)**  
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179511992)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology (Developmental Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179494028)**  
@@ -147,13 +147,7 @@
 - **[Assistant Professor of Psychology /Field Placement Coordinator](https://www.higheredjobs.com/details.cfm?JobCode=179487443)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology Education](https://www.higheredjobs.com/details.cfm?JobCode=179505587)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Psychology or Human Services (Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179497462)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 72 more positions*
+*...and 75 more positions*
 
 ---
 
