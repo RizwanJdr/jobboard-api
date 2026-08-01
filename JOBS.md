@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-07-31 09:49 UTC  
-**Total Positions:** 121
+**Last Updated:** 2026-08-01 09:11 UTC  
+**Total Positions:** 114
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 10 |
+| ★★★★☆ | 9 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 109 |
+| ★★☆☆☆ | 103 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (10)
+## ★★★★☆ Large Muslim Communities (9)
 
 - **[Adjunct Assistant Teaching Professor, Research Methods Fall 2026](https://www.higheredjobs.com/details.cfm?JobCode=179492290)**  
   📍 UK | 🔗 HigherEdJobs
@@ -30,9 +30,6 @@
   📍 Chicago | 🔗 HigherEdJobs
 
 - **[Assistant Teaching Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179508028)**  
-  📍 New York | 🔗 HigherEdJobs
-
-- **[Associate Research Scientist in the Division of Science (Psychology) -](https://www.higheredjobs.com/details.cfm?JobCode=179512227)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Full-Time, Non-Tenure Track Assistant Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179509005)**  
@@ -55,7 +52,7 @@
 - **[Assistant/Associate Professor of the Practice and Director of Clinical](https://www.higheredjobs.com/details.cfm?JobCode=179495397)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (109)
+## ★★☆☆☆ Other Locations (103)
 
 - **[(Fall 2026) In-Person Adjunct Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179503987)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -69,9 +66,6 @@
 - **[AY 26/27 Assistant Professor in Developmental Psychology - Tenure Trac](https://www.higheredjobs.com/details.cfm?JobCode=179502747)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct Faculty - Applied Behavioral Analysis (Remote)](https://www.higheredjobs.com/details.cfm?JobCode=179505143)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Adjunct Faculty - Research Methods and Statistics](https://www.higheredjobs.com/details.cfm?JobCode=179503754)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -83,6 +77,9 @@
 
 - **[Adjunct Lecturer: 19th-Century American Transcendentalism](https://www.higheredjobs.com/details.cfm?JobCode=179495883)**  
   📍 Cambridge | 🔗 HigherEdJobs
+
+- **[Adjunct Professor - Addictions Counseling 900439](https://www.higheredjobs.com/details.cfm?JobCode=179514674)**  
+  📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179498827)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -109,6 +106,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179491826)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor - Tenure-Track, Open-Area](https://www.higheredjobs.com/details.cfm?JobCode=179514411)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Applied Psychology, Tenure-Track](https://www.higheredjobs.com/details.cfm?JobCode=179488345)**  
@@ -144,10 +144,7 @@
 - **[Assistant Professor of Psychology (Social Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179489606)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology - Clinical/Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179504496)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 79 more positions*
+*...and 73 more positions*
 
 ---
 
