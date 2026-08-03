@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-02 09:13 UTC  
-**Total Positions:** 104
+**Last Updated:** 2026-08-03 10:49 UTC  
+**Total Positions:** 99
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 9 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 93 |
+| ★★☆☆☆ | 88 |
 
 ---
 
@@ -52,7 +52,7 @@
 - **[Assistant/Associate Professor of the Practice and Director of Clinical](https://www.higheredjobs.com/details.cfm?JobCode=179495397)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (93)
+## ★★☆☆☆ Other Locations (88)
 
 - **[(Fall 2026) In-Person Adjunct Assistant Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179503987)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -74,9 +74,6 @@
 
 - **[Adjunct Faculty, Office for Public Good Strategy and Research (OPG)](https://www.higheredjobs.com/details.cfm?JobCode=179514356)**  
   📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Lecturer: 19th-Century American Transcendentalism](https://www.higheredjobs.com/details.cfm?JobCode=179495883)**  
-  📍 Cambridge | 🔗 HigherEdJobs
 
 - **[Adjunct Professor - Addictions Counseling 900439](https://www.higheredjobs.com/details.cfm?JobCode=179514674)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -111,9 +108,6 @@
 - **[Assistant Professor - Tenure-Track, Open-Area](https://www.higheredjobs.com/details.cfm?JobCode=179514411)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in Applied Psychology, Tenure-Track](https://www.higheredjobs.com/details.cfm?JobCode=179488345)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor in Islamic Studies](https://www.higheredjobs.com/details.cfm?JobCode=179505343)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -144,7 +138,13 @@
 - **[Assistant Professor of Psychology Education](https://www.higheredjobs.com/details.cfm?JobCode=179505587)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 63 more positions*
+- **[Assistant Professor of Psychology or Human Services (Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179497462)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Psychology, College of Arts, Sciences Education](https://www.higheredjobs.com/details.cfm?JobCode=179514644)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 58 more positions*
 
 ---
 
