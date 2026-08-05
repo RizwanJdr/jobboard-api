@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T09:41:02.402929+00:00",
-  "count": 104,
+  "updated": "2026-08-05T09:39:47.766938+00:00",
+  "count": 112,
   "jobs": [
     {
       "title": "Adjunct Assistant Teaching Professor, Research Methods Fall 2026",
@@ -16,14 +16,6 @@
       "description": "Chicago State University (Chicago, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
-      "score": 4
-    },
-    {
-      "title": "Assistant Professor of Religion in Christian Theology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179486672",
-      "description": "Hope College (Holland, MI)",
-      "source": "HigherEdJobs",
-      "location": "Netherlands",
       "score": 4
     },
     {
@@ -56,6 +48,22 @@
       "description": "State University of New York (SUNY) at Albany (Albany, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "Postdoctoral Associate (Computational Cognitive Science) (Ho Lab)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517128",
+      "description": "New York University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "Religion - Assistant Professor of Religion in Christian Theology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179486672",
+      "description": "Hope College (Holland, MI)",
+      "source": "HigherEdJobs",
+      "location": "Netherlands",
       "score": 4
     },
     {
@@ -139,17 +147,17 @@
       "score": 2
     },
     {
-      "title": "Adjunct Faculty Pool - Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489568",
-      "description": "Richard Bland College (Petersburg, VA)",
+      "title": "Adjunct Faculty, Office for Public Good Strategy and Research (OPG)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179514356",
+      "description": "University of Denver (Denver, CO)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
     },
     {
-      "title": "Adjunct Faculty, Office for Public Good Strategy and Research (OPG)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179514356",
-      "description": "University of Denver (Denver, CO)",
+      "title": "Adjunct Lecturer - Theology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179518370",
+      "description": "Benedictine University (Lisle, IL)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -166,6 +174,14 @@
       "title": "Adjunct Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179498827",
       "description": "Montclair State University (Bloomfield, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Adjunct Professor of Religion",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179518200",
+      "description": "Lane College (Jackson, TN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -331,6 +347,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor of Psychology (Personality and Individual Differences)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517739",
+      "description": "Appalachian State University (Boone, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor of Psychology (Social Psychology)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489606",
       "description": "Amherst College (Amherst, MA)",
@@ -427,6 +451,22 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor, Clinical Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517341",
+      "description": "University of San Diego (San Diego, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Cognitive Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517352",
+      "description": "University of San Diego (San Diego, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor, Counseling",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179505875",
       "description": "Rivier University (Nashua, NH)",
@@ -452,8 +492,8 @@
     },
     {
       "title": "Assistant Professor, Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179504787",
-      "description": "St. Thomas Aquinas College (Sparkill, NY)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517223",
+      "description": "Bradley University (Peoria, IL)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -515,9 +555,9 @@
       "score": 2
     },
     {
-      "title": "Associate Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179490698",
-      "description": "Independence Community College (Independence, KS)",
+      "title": "Associate Lecturer/Lecturer/Senior Lecturer of Psychology- School of Behavioral and Social Sciences (Continuous Recruitment)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517107",
+      "description": "University of Wisconsin - Stevens Point (Stevens Point, WI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -526,6 +566,14 @@
       "title": "Associate Professor or Professor and Head",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179511013",
       "description": "Mississippi State University (Mississippi State, MS)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Associate/Assistant Professor - Tenure System",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517974",
+      "description": "Michigan State University (East Lansing, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -566,6 +614,14 @@
       "title": "Curriculum Developer- Applied Behavioral Analysis Courses",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179509385",
       "description": "Crestpoint University (Phoenix, AZ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Director of the Center for Jewish Life and Lecturer in Jewish Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179518392",
+      "description": "Hamilton College (Clinton, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -670,14 +726,6 @@
       "title": "PSY AY 27/28 Director of the Behavioral Health Research Unit",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179504247",
       "description": "University of Notre Dame (Notre Dame, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Part-time Lecturer - Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179489585",
-      "description": "The University of Texas at Dallas (Dallas, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -814,6 +862,22 @@
       "title": "Tenure Track Assistant Professor of Cognitive and Behavioral Science",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179497710",
       "description": "Washington and Lee University (Lexington, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Tenure-Track Assistant Professor Position in Health Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517833",
+      "description": "Reed College (Portland, OR)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Visiting Assistant Professor in Behavioral Science Related to Environmental and Water Resources",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517947",
+      "description": "Delaware State University (Dover, DE)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2

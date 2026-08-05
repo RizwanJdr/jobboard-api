@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-04 09:42 UTC  
-**Total Positions:** 104
+**Last Updated:** 2026-08-05 09:40 UTC  
+**Total Positions:** 112
 
 ---
 
@@ -9,22 +9,19 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 9 |
+| ★★★★☆ | 10 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 92 |
+| ★★☆☆☆ | 99 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (9)
+## ★★★★☆ Large Muslim Communities (10)
 
 - **[Adjunct Assistant Teaching Professor, Research Methods Fall 2026](https://www.higheredjobs.com/details.cfm?JobCode=179492290)**  
   📍 UK | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology and Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179494312)**  
   📍 Chicago | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Religion in Christian Theology](https://www.higheredjobs.com/details.cfm?JobCode=179486672)**  
-  📍 Netherlands | 🔗 HigherEdJobs
 
 - **[Assistant Professor, Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179493638)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -37,6 +34,12 @@
 
 - **[Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179513322)**  
   📍 New York | 🔗 HigherEdJobs
+
+- **[Postdoctoral Associate (Computational Cognitive Science) (Ho Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179517128)**  
+  📍 New York | 🔗 HigherEdJobs
+
+- **[Religion - Assistant Professor of Religion in Christian Theology](https://www.higheredjobs.com/details.cfm?JobCode=179486672)**  
+  📍 Netherlands | 🔗 HigherEdJobs
 
 - **[Visiting Assistant Professor (Academic-Year Appointment), 2 Positions ](https://www.higheredjobs.com/details.cfm?JobCode=179498565)**  
   📍 New York | 🔗 HigherEdJobs
@@ -55,7 +58,7 @@
 - **[Postdoctoral Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179516317)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (92)
+## ★★☆☆☆ Other Locations (99)
 
 - **[(Fall 2026) In-Person Psychology Adjunct Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179503987)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -72,16 +75,19 @@
 - **[Adjunct Faculty - Research Methods and Statistics](https://www.higheredjobs.com/details.cfm?JobCode=179503754)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct Faculty Pool - Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179489568)**  
+- **[Adjunct Faculty, Office for Public Good Strategy and Research (OPG)](https://www.higheredjobs.com/details.cfm?JobCode=179514356)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct Faculty, Office for Public Good Strategy and Research (OPG)](https://www.higheredjobs.com/details.cfm?JobCode=179514356)**  
+- **[Adjunct Lecturer - Theology](https://www.higheredjobs.com/details.cfm?JobCode=179518370)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor - Addictions Counseling 900439](https://www.higheredjobs.com/details.cfm?JobCode=179514674)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179498827)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Professor of Religion](https://www.higheredjobs.com/details.cfm?JobCode=179518200)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct, Psychology (Behavioral Analysis)](https://www.higheredjobs.com/details.cfm?JobCode=179491366)**  
@@ -144,10 +150,7 @@
 - **[Assistant Professor of Psychology (Developmental)](https://www.higheredjobs.com/details.cfm?JobCode=179516342)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology (Social Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179489606)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 62 more positions*
+*...and 69 more positions*
 
 ---
 
