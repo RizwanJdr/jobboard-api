@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-07 08:18 UTC  
-**Total Positions:** 115
+**Last Updated:** 2026-08-08 07:53 UTC  
+**Total Positions:** 116
 
 ---
 
@@ -9,18 +9,21 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 8 |
+| ★★★★☆ | 9 |
 | ★★★☆☆ | 3 |
 | ★★☆☆☆ | 104 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (8)
+## ★★★★☆ Large Muslim Communities (9)
 
 - **[Assistant Professor of Psychology and Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179494312)**  
   📍 Chicago | 🔗 HigherEdJobs
 
 - **[Assistant Teaching Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179508028)**  
+  📍 New York | 🔗 HigherEdJobs
+
+- **[Associate Research Scientist Part Time Non-exempt (Marantz/Pelli Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179521050)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Full-Time, Non-Tenure Track Assistant Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179509005)**  
@@ -64,9 +67,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[AY 26/27 Assistant Professor in Developmental Psychology - Tenure Trac](https://www.higheredjobs.com/details.cfm?JobCode=179502747)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Faculty - Research Methods and Statistics](https://www.higheredjobs.com/details.cfm?JobCode=179503754)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Faculty, Office for Public Good Strategy and Research (OPG)](https://www.higheredjobs.com/details.cfm?JobCode=179514356)**  
@@ -142,6 +142,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Cognitive or Social Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179519405)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Instruction, Department of Psychology, College ](https://www.higheredjobs.com/details.cfm?JobCode=179502805)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 *...and 74 more positions*

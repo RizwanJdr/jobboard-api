@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T08:17:31.920008+00:00",
-  "count": 115,
+  "updated": "2026-08-08T07:52:11.919379+00:00",
+  "count": 116,
   "jobs": [
     {
       "title": "Assistant Professor of Psychology and Counseling",
@@ -14,6 +14,14 @@
       "title": "Assistant Teaching Professor, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179508028",
       "description": "Northeastern University (New York City, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "Associate Research Scientist Part Time Non-exempt (Marantz/Pelli Lab)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179521050",
+      "description": "New York University (New York, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
       "score": 4
@@ -118,14 +126,6 @@
       "title": "AY 26/27 Assistant Professor in Developmental Psychology - Tenure Track",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179502747",
       "description": "University of Notre Dame (Notre Dame, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Adjunct Faculty - Research Methods and Statistics",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179503754",
-      "description": "Naropa University (Boulder, CO)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -667,6 +667,14 @@
       "score": 2
     },
     {
+      "title": "Instructor/Assistant Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179520289",
+      "description": "Rhode Island College (Providence, RI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "LEO Lecturer I - Fall 2026 and Winter 2027",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179507658",
       "description": "University of Michigan (Ann Arbor, MI)",
@@ -684,10 +692,10 @@
     },
     {
       "title": "Lecturer",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179507681",
-      "description": "University of Wisconsin - Madison (Madison, WI)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179520643",
+      "description": "Princeton University (Princeton, NJ)",
       "source": "HigherEdJobs",
-      "location": "Unknown",
+      "location": "Princeton",
       "score": 2
     },
     {
@@ -718,14 +726,6 @@
       "title": "Neuropsychologist, Clinical Assistant/Associate/Full Professor, Neurology, Neuropsychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179513969",
       "description": "Stony Brook University (Stony Brook, NY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "One-Year Visiting Assistant Professor, Behavior Analysis",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179490262",
-      "description": "James Madison University (Harrisonburg, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -792,6 +792,14 @@
       "description": "Rutgers, The State University of New Jersey (New Brunswick, NJ)",
       "source": "HigherEdJobs",
       "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Research Associate",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179521420",
+      "description": "Princeton University (Princeton, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Princeton",
       "score": 2
     },
     {
