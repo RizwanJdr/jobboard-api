@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-08 07:53 UTC  
-**Total Positions:** 116
+**Last Updated:** 2026-08-09 07:56 UTC  
+**Total Positions:** 117
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 9 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 104 |
+| ★★☆☆☆ | 105 |
 
 ---
 
@@ -55,7 +55,7 @@
 - **[Postdoctoral Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179516317)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (104)
+## ★★☆☆☆ Other Locations (105)
 
 - **[(Fall 2026) In-Person Psychology Adjunct Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179503987)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -67,6 +67,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[AY 26/27 Assistant Professor in Developmental Psychology - Tenure Trac](https://www.higheredjobs.com/details.cfm?JobCode=179502747)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Assistant Instructor - Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179522147)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Faculty, Office for Public Good Strategy and Research (OPG)](https://www.higheredjobs.com/details.cfm?JobCode=179514356)**  
@@ -87,7 +90,7 @@
 - **[Adjunct Professor of Religion](https://www.higheredjobs.com/details.cfm?JobCode=179518200)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct, Psychology (Behavioral Analysis)](https://www.higheredjobs.com/details.cfm?JobCode=179491366)**  
+- **[Adjunct Professor, Psychology (Applicant Pool 2025-2026)](https://www.higheredjobs.com/details.cfm?JobCode=179521931)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct: Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179512465)**  
@@ -114,9 +117,6 @@
 - **[Assistant Professor - ABA](https://www.higheredjobs.com/details.cfm?JobCode=179512546)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179491826)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor - Tenure-Track, Open-Area](https://www.higheredjobs.com/details.cfm?JobCode=179514411)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -141,13 +141,13 @@
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179493316)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor of Clinical Psychology - Clinical (PsyD Program)](https://www.higheredjobs.com/details.cfm?JobCode=179521967)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor of Cognitive or Social Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179519405)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Instruction, Department of Psychology, College ](https://www.higheredjobs.com/details.cfm?JobCode=179502805)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 74 more positions*
+*...and 75 more positions*
 
 ---
 
