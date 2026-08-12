@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T08:11:16.924099+00:00",
-  "count": 106,
+  "updated": "2026-08-12T08:22:16.659071+00:00",
+  "count": 103,
   "jobs": [
     {
       "title": "Assistant Teaching Professor, Psychology",
@@ -30,14 +30,6 @@
       "title": "Lecturer - Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179513322",
       "description": "State University of New York (SUNY) at Albany (Albany, NY)",
-      "source": "HigherEdJobs",
-      "location": "New York",
-      "score": 4
-    },
-    {
-      "title": "Postdoctoral Associate (Computational Cognitive Science) (Ho Lab)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517128",
-      "description": "New York University (New York, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
       "score": 4
@@ -75,14 +67,6 @@
       "score": 3
     },
     {
-      "title": "Assistant/Associate Professor of the Practice and Director of Clinical Training",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179495397",
-      "description": "Boston College (Boston, MA)",
-      "source": "HigherEdJobs",
-      "location": "Boston",
-      "score": 3
-    },
-    {
       "title": "Postdoctoral Fellow",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179516317",
       "description": "Emerson College (Boston, MA)",
@@ -94,6 +78,14 @@
       "title": "10-Month Assistant/Associate Professor of Clinical Psychology, FSPP",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179511239",
       "description": "National Louis University (Tampa, FL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "ASST PROFESSOR",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179523714",
+      "description": "University of Michigan (Ann Arbor, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -267,14 +259,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor in Religious Studies (996)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179510356",
-      "description": "Davidson College (Davidson, NC)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor of Behavioral Forensics (Psychology Law)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179519965",
       "description": "Ball State University (Muncie, IN)",
@@ -310,6 +294,14 @@
       "title": "Assistant Professor of Psychological Science Neuroscience Apply",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179522923",
       "description": "Pomona College (Claremont, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychological Science, Tenure Track",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179523888",
+      "description": "Vassar College (Poughkeepsie, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -523,14 +515,6 @@
       "score": 2
     },
     {
-      "title": "Assistant or Associate Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179495567",
-      "description": "Heritage University (Toppenish, WA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant/Associate Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179519152",
       "description": "Benedictine College (Atchison, KS)",
@@ -627,25 +611,17 @@
       "score": 2
     },
     {
+      "title": "Fall 2026/Spring 2027 Psych Adjunct Assistant Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179523691",
+      "description": "St. John&#x27;s University (Jamaica, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Instructor/Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179520289",
       "description": "Rhode Island College (Providence, RI)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "LEO Lecturer I - Fall 2026 and Winter 2027",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179507658",
-      "description": "University of Michigan (Ann Arbor, MI)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "LEO Lecturer I for Psychology Discussion and Lab Sections",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179510715",
-      "description": "University of Michigan (Ann Arbor, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -779,14 +755,6 @@
       "score": 2
     },
     {
-      "title": "Psychology CFS-Professorial Faculty (3 positions)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179491998",
-      "description": "Brigham Young University (Provo, UT)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Regional Learning Center - Psychology - Lecturer",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179506139",
       "description": "Columbus State Community College (Columbus, OH)",
@@ -822,6 +790,14 @@
       "title": "Tenure Track Assistant Professor of Cognitive and Behavioral Science",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179497710",
       "description": "Washington and Lee University (Lexington, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Tenure Track: Assistant Professor (Lifespan Development)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179523786",
+      "description": "Texas A&M University (College Station, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
