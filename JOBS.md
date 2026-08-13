@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-12 08:23 UTC  
-**Total Positions:** 103
+**Last Updated:** 2026-08-13 08:25 UTC  
+**Total Positions:** 111
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 7 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 94 |
+| ★★☆☆☆ | 102 |
 
 ---
 
@@ -46,7 +46,7 @@
 - **[Postdoctoral Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179516317)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (94)
+## ★★☆☆☆ Other Locations (102)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -67,6 +67,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Lecturer - Theology](https://www.higheredjobs.com/details.cfm?JobCode=179518370)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Professor](https://www.higheredjobs.com/details.cfm?JobCode=179524341)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor - Addictions Counseling 900439](https://www.higheredjobs.com/details.cfm?JobCode=179514674)**  
@@ -108,6 +111,9 @@
 - **[Assistant Professor - Tenure-Track, Open-Area](https://www.higheredjobs.com/details.cfm?JobCode=179514411)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor - Theology](https://www.higheredjobs.com/details.cfm?JobCode=179523971)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor In Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179518617)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -129,16 +135,10 @@
 - **[Assistant Professor of Instruction, Department of Psychology, College ](https://www.higheredjobs.com/details.cfm?JobCode=179502805)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychological Science Neuroscience Apply](https://www.higheredjobs.com/details.cfm?JobCode=179522923)**  
+- **[Assistant Professor of Psychological Science & Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179522923)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychological Science, Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179523888)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179513509)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 64 more positions*
+*...and 72 more positions*
 
 ---
 
