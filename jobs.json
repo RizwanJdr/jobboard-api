@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T08:24:44.080816+00:00",
-  "count": 111,
+  "updated": "2026-08-14T08:20:03.034297+00:00",
+  "count": 114,
   "jobs": [
     {
       "title": "Assistant Teaching Professor, Psychology",
@@ -131,6 +131,14 @@
       "score": 2
     },
     {
+      "title": "Adjunct Lecturer, Graduate Counseling Programs",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179525820",
+      "description": "Regis College (Weston, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Adjunct Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179524341",
       "description": "Long Island University (Brookville, NY)",
@@ -150,14 +158,6 @@
       "title": "Adjunct Professor - MFT (80648)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179519128",
       "description": "Iona University (Bronxville, NY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Adjunct Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179498827",
-      "description": "Montclair State University (Bloomfield, NJ)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -539,6 +539,22 @@
       "score": 2
     },
     {
+      "title": "Assistant/Associate Professor Psychological Science",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179525745",
+      "description": "University of North Georgia (Dahlonega, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate Professor of Psychological Science",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179525746",
+      "description": "University of North Georgia (Oakwood, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant/Associate Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179519152",
       "description": "Benedictine College (Atchison, KS)",
@@ -656,6 +672,14 @@
       "description": "Princeton University (Princeton, NJ)",
       "source": "HigherEdJobs",
       "location": "Princeton",
+      "score": 2
+    },
+    {
+      "title": "Lecturer of Psychological Science",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179525747",
+      "description": "University of North Georgia (Oakwood, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     },
     {

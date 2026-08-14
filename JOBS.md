@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-13 08:25 UTC  
-**Total Positions:** 111
+**Last Updated:** 2026-08-14 08:21 UTC  
+**Total Positions:** 114
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 7 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 102 |
+| ★★☆☆☆ | 105 |
 
 ---
 
@@ -46,7 +46,7 @@
 - **[Postdoctoral Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179516317)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (102)
+## ★★☆☆☆ Other Locations (105)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -69,6 +69,9 @@
 - **[Adjunct Lecturer - Theology](https://www.higheredjobs.com/details.cfm?JobCode=179518370)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Adjunct Lecturer, Graduate Counseling Programs](https://www.higheredjobs.com/details.cfm?JobCode=179525820)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Adjunct Professor](https://www.higheredjobs.com/details.cfm?JobCode=179524341)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -76,9 +79,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor - MFT (80648)](https://www.higheredjobs.com/details.cfm?JobCode=179519128)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179498827)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Religion](https://www.higheredjobs.com/details.cfm?JobCode=179518200)**  
@@ -138,7 +138,7 @@
 - **[Assistant Professor of Psychological Science & Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179522923)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 72 more positions*
+*...and 75 more positions*
 
 ---
 
