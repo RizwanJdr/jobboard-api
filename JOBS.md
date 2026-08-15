@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-14 08:21 UTC  
-**Total Positions:** 114
+**Last Updated:** 2026-08-15 07:37 UTC  
+**Total Positions:** 113
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 7 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 105 |
+| ★★☆☆☆ | 104 |
 
 ---
 
@@ -46,7 +46,7 @@
 - **[Postdoctoral Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179516317)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (105)
+## ★★☆☆☆ Other Locations (104)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -87,10 +87,10 @@
 - **[Adjunct: Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179512465)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Clinical Professor](https://www.higheredjobs.com/details.cfm?JobCode=179497609)**  
+- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179504376)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179504376)**  
+- **[Assistant Professor (1444)](https://www.higheredjobs.com/details.cfm?JobCode=179527427)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (Clinical, Counseling, or School Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179509859)**  
@@ -138,7 +138,7 @@
 - **[Assistant Professor of Psychological Science & Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179522923)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 75 more positions*
+*...and 74 more positions*
 
 ---
 
