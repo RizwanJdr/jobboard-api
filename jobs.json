@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T07:34:59.814367+00:00",
-  "count": 113,
+  "updated": "2026-08-16T07:35:31.045579+00:00",
+  "count": 118,
   "jobs": [
     {
       "title": "Assistant Teaching Professor, Psychology",
@@ -43,14 +43,6 @@
       "score": 4
     },
     {
-      "title": "Visiting Assistant Professor (Academic-Year Appointment), 2 Positions - Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179498565",
-      "description": "State University of New York (SUNY) at Albany (Albany, NY)",
-      "source": "HigherEdJobs",
-      "location": "New York",
-      "score": 4
-    },
-    {
       "title": "Visiting Assistant Professor - Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179507188",
       "description": "State University of New York (SUNY) at Albany (Albany, NY)",
@@ -67,25 +59,9 @@
       "score": 3
     },
     {
-      "title": "Postdoctoral Fellow",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179516317",
-      "description": "Emerson College (Boston, MA)",
-      "source": "HigherEdJobs",
-      "location": "Boston",
-      "score": 3
-    },
-    {
       "title": "10-Month Assistant/Associate Professor of Clinical Psychology, FSPP",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179511239",
       "description": "National Louis University (Tampa, FL)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "ASST PROFESSOR",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179523714",
-      "description": "University of Michigan (Ann Arbor, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -379,6 +355,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor of Psychology, Tenure-Track, Fall 2027",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179528469",
+      "description": "Chapman University (Orange, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor of Psychology- Tenure Track",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179509319",
       "description": "Albany State University (Albany, GA)",
@@ -398,6 +382,14 @@
       "title": "Assistant Professor of Religion",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179508157",
       "description": "Amherst College (Amherst, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Religion, Tenure Track",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179528245",
+      "description": "Vassar College (Poughkeepsie, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -507,17 +499,17 @@
       "score": 2
     },
     {
-      "title": "Assistant or Associate Professor of Biblical Studies",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179498866",
-      "description": "BSK Theological Seminary (Lexington, KY)",
+      "title": "Assistant or Associate Professor of Graduate Psychology/Director of Clinical Training for PsyD",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179511600",
+      "description": "Northwest University (Kirkland, WA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
     },
     {
-      "title": "Assistant or Associate Professor of Graduate Psychology/Director of Clinical Training for PsyD",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179511600",
-      "description": "Northwest University (Kirkland, WA)",
+      "title": "Assistant, Associate, or Full Professor of Old Testament Language and Literature",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179528885",
+      "description": "Western Seminary (Portland, OR)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -563,6 +555,14 @@
       "score": 2
     },
     {
+      "title": "Associate Professor of Global Intercultural Engagement - School of Divinity",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179528367",
+      "description": "Liberty University (Lynchburg, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Associate Professor or Professor and Head",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179511013",
       "description": "Mississippi State University (Mississippi State, MS)",
@@ -582,6 +582,14 @@
       "title": "Asssistant Professor APCE Contract Renewable",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179513789",
       "description": "University of Northern Colorado (Greeley, CO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Asst Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179528281",
+      "description": "University of Michigan (Ann Arbor, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -755,6 +763,14 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Fellow",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179528198",
+      "description": "Augusta University (Augusta, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Research Associate",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179521420",
       "description": "Princeton University (Princeton, NJ)",
@@ -843,6 +859,14 @@
       "score": 2
     },
     {
+      "title": "Tenure Track/Tenured: Open Rank (Quantitative Computational Methods)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179528380",
+      "description": "Texas A&M University (College Station, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Tenure Track: Assistant Professor (Lifespan Development)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179523786",
       "description": "Texas A&M University (College Station, TX)",
@@ -875,6 +899,14 @@
       "score": 2
     },
     {
+      "title": "Tenure-Track/Tenured: Assistant or Associate Professor (Clinical Psychology)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179528379",
+      "description": "Texas A&M University (College Station, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Tenured-Track Professorship in Buddhist Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179526764",
       "description": "Harvard University (Cambridge, MA)",
@@ -886,6 +918,14 @@
       "title": "The Counseling Center - Postdoctoral Psychology Fellow",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179526970",
       "description": "University of North Carolina Wilmington (Wilmington, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "University of Michigan Psychology- Generative AI- Assistant/Associate Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179528884",
+      "description": "University of Michigan (Ann Arbor, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2

@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-15 07:37 UTC  
-**Total Positions:** 113
+**Last Updated:** 2026-08-16 07:36 UTC  
+**Total Positions:** 118
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 7 |
-| ★★★☆☆ | 2 |
-| ★★☆☆☆ | 104 |
+| ★★★★☆ | 6 |
+| ★★★☆☆ | 1 |
+| ★★☆☆☆ | 111 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (7)
+## ★★★★☆ Large Muslim Communities (6)
 
 - **[Assistant Teaching Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179508028)**  
   📍 New York | 🔗 HigherEdJobs
@@ -32,26 +32,17 @@
 - **[Religion - Assistant Professor of Religion in Christian Theology](https://www.higheredjobs.com/details.cfm?JobCode=179486672)**  
   📍 Netherlands | 🔗 HigherEdJobs
 
-- **[Visiting Assistant Professor (Academic-Year Appointment), 2 Positions ](https://www.higheredjobs.com/details.cfm?JobCode=179498565)**  
-  📍 New York | 🔗 HigherEdJobs
-
 - **[Visiting Assistant Professor - Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179507188)**  
   📍 New York | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (2)
+## ★★★☆☆ Moderate Communities (1)
 
 - **[Assistant Professor of Christianity in Late Antiquity, Department of T](https://www.higheredjobs.com/details.cfm?JobCode=179510429)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-- **[Postdoctoral Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179516317)**  
-  📍 Boston | 🔗 HigherEdJobs
-
-## ★★☆☆☆ Other Locations (104)
+## ★★☆☆☆ Other Locations (111)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[ASST PROFESSOR](https://www.higheredjobs.com/details.cfm?JobCode=179523714)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[AY 26/27 Assistant Professor in Cognitive Psychology - Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179502746)**  
@@ -138,7 +129,10 @@
 - **[Assistant Professor of Psychological Science & Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179522923)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 74 more positions*
+- **[Assistant Professor of Psychological Science, Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179523888)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 81 more positions*
 
 ---
 
