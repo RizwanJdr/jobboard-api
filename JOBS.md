@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-16 07:36 UTC  
-**Total Positions:** 118
+**Last Updated:** 2026-08-17 07:56 UTC  
+**Total Positions:** 119
 
 ---
 
@@ -9,13 +9,16 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 6 |
+| ★★★★☆ | 7 |
 | ★★★☆☆ | 1 |
 | ★★☆☆☆ | 111 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (6)
+## ★★★★☆ Large Muslim Communities (7)
+
+- **[Assistant Professor (Tenure Track) - Psychology (27-28)](https://www.higheredjobs.com/details.cfm?JobCode=179529464)**  
+  📍 Chicago | 🔗 HigherEdJobs
 
 - **[Assistant Teaching Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179508028)**  
   📍 New York | 🔗 HigherEdJobs
@@ -117,6 +120,9 @@
 - **[Assistant Professor of Behavioral Forensics (Psychology Law)](https://www.higheredjobs.com/details.cfm?JobCode=179519965)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179529343)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor of Clinical Psychology - Clinical (PsyD Program)](https://www.higheredjobs.com/details.cfm?JobCode=179521967)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -127,9 +133,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychological Science & Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179522923)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Psychological Science, Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179523888)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 *...and 81 more positions*
