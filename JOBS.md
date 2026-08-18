@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-17 07:56 UTC  
-**Total Positions:** 119
+**Last Updated:** 2026-08-18 07:43 UTC  
+**Total Positions:** 114
 
 ---
 
@@ -9,21 +9,18 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 7 |
+| ★★★★☆ | 6 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 111 |
+| ★★☆☆☆ | 107 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (7)
+## ★★★★☆ Large Muslim Communities (6)
 
 - **[Assistant Professor (Tenure Track) - Psychology (27-28)](https://www.higheredjobs.com/details.cfm?JobCode=179529464)**  
   📍 Chicago | 🔗 HigherEdJobs
 
 - **[Assistant Teaching Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179508028)**  
-  📍 New York | 🔗 HigherEdJobs
-
-- **[Associate Research Scientist Part Time Non-exempt (Marantz/Pelli Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179521050)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Full-Time, Non-Tenure Track Assistant Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179509005)**  
@@ -43,7 +40,7 @@
 - **[Assistant Professor of Christianity in Late Antiquity, Department of T](https://www.higheredjobs.com/details.cfm?JobCode=179510429)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (111)
+## ★★☆☆☆ Other Locations (107)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -135,7 +132,7 @@
 - **[Assistant Professor of Psychological Science & Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179522923)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 81 more positions*
+*...and 77 more positions*
 
 ---
 
