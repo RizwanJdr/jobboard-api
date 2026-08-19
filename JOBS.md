@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-18 07:43 UTC  
-**Total Positions:** 114
+**Last Updated:** 2026-08-19 07:44 UTC  
+**Total Positions:** 115
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 6 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 107 |
+| ★★☆☆☆ | 108 |
 
 ---
 
@@ -40,15 +40,12 @@
 - **[Assistant Professor of Christianity in Late Antiquity, Department of T](https://www.higheredjobs.com/details.cfm?JobCode=179510429)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (107)
+## ★★☆☆☆ Other Locations (108)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[AY 26/27 Assistant Professor in Cognitive Psychology - Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179502746)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[AY 26/27 Assistant Professor in Developmental Psychology - Tenure Trac](https://www.higheredjobs.com/details.cfm?JobCode=179502747)**  
+- **[2026-27 Lecturer Pool Department of Psychology (Counseling Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179523616)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Assistant Instructor - Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179522147)**  
@@ -126,13 +123,16 @@
 - **[Assistant Professor of Cognitive or Social Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179519405)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Instruction, Department of Psychology, College ](https://www.higheredjobs.com/details.cfm?JobCode=179502805)**  
+- **[Assistant Professor of Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179530489)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychological Science & Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179522923)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 77 more positions*
+- **[Assistant Professor of Psychological Science, Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179523888)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 78 more positions*
 
 ---
 
