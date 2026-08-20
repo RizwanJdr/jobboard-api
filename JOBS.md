@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-19 07:44 UTC  
-**Total Positions:** 115
+**Last Updated:** 2026-08-20 07:47 UTC  
+**Total Positions:** 119
 
 ---
 
@@ -11,13 +11,13 @@
 |-----------------------|-------|
 | ★★★★☆ | 6 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 108 |
+| ★★☆☆☆ | 112 |
 
 ---
 
 ## ★★★★☆ Large Muslim Communities (6)
 
-- **[Assistant Professor (Tenure Track) - Psychology (27-28)](https://www.higheredjobs.com/details.cfm?JobCode=179529464)**  
+- **[Assistant Professor (Tenure Track) - Psychology, Industrial-Organizati](https://www.higheredjobs.com/details.cfm?JobCode=179529464)**  
   📍 Chicago | 🔗 HigherEdJobs
 
 - **[Assistant Teaching Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179508028)**  
@@ -40,7 +40,7 @@
 - **[Assistant Professor of Christianity in Late Antiquity, Department of T](https://www.higheredjobs.com/details.cfm?JobCode=179510429)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (108)
+## ★★☆☆☆ Other Locations (112)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -67,6 +67,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor - MFT (80648)](https://www.higheredjobs.com/details.cfm?JobCode=179519128)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Professor in Classics](https://www.higheredjobs.com/details.cfm?JobCode=177911109)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Religion](https://www.higheredjobs.com/details.cfm?JobCode=179518200)**  
@@ -96,6 +99,9 @@
 - **[Assistant Professor - ABA](https://www.higheredjobs.com/details.cfm?JobCode=179512546)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor - Media Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179531210)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor - Tenure-Track, Open-Area](https://www.higheredjobs.com/details.cfm?JobCode=179514411)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -103,6 +109,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor In Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179518617)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor Of Developmental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179531192)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor and Internship Coordinator in Counseling and Clini](https://www.higheredjobs.com/details.cfm?JobCode=179515767)**  
@@ -123,16 +132,7 @@
 - **[Assistant Professor of Cognitive or Social Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179519405)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179530489)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Psychological Science & Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179522923)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Psychological Science, Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179523888)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 78 more positions*
+*...and 82 more positions*
 
 ---
 
