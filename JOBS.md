@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-20 07:47 UTC  
-**Total Positions:** 119
+**Last Updated:** 2026-08-21 07:49 UTC  
+**Total Positions:** 133
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 6 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 112 |
+| ★★☆☆☆ | 126 |
 
 ---
 
@@ -40,7 +40,7 @@
 - **[Assistant Professor of Christianity in Late Antiquity, Department of T](https://www.higheredjobs.com/details.cfm?JobCode=179510429)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (112)
+## ★★☆☆☆ Other Locations (126)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -81,6 +81,9 @@
 - **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179504376)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor (# 375565)](https://www.higheredjobs.com/details.cfm?JobCode=179532719)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor (1444)](https://www.higheredjobs.com/details.cfm?JobCode=179527427)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -108,6 +111,9 @@
 - **[Assistant Professor - Theology](https://www.higheredjobs.com/details.cfm?JobCode=179523971)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor In Clinical Health Psychology, Psychology - 530025](https://www.higheredjobs.com/details.cfm?JobCode=179532737)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor In Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179518617)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -126,13 +132,7 @@
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179529343)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Clinical Psychology - Clinical (PsyD Program)](https://www.higheredjobs.com/details.cfm?JobCode=179521967)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Cognitive or Social Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179519405)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 82 more positions*
+*...and 96 more positions*
 
 ---
 
