@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-21 07:49 UTC  
-**Total Positions:** 133
+**Last Updated:** 2026-08-22 07:37 UTC  
+**Total Positions:** 139
 
 ---
 
@@ -9,18 +9,21 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 6 |
+| ★★★★☆ | 7 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 126 |
+| ★★☆☆☆ | 131 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (6)
+## ★★★★☆ Large Muslim Communities (7)
 
 - **[Assistant Professor (Tenure Track) - Psychology, Industrial-Organizati](https://www.higheredjobs.com/details.cfm?JobCode=179529464)**  
   📍 Chicago | 🔗 HigherEdJobs
 
 - **[Assistant Teaching Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179508028)**  
+  📍 New York | 🔗 HigherEdJobs
+
+- **[Assistant/Associate Professor of Nursing Religious Student Success Coo](https://www.higheredjobs.com/details.cfm?JobCode=179533476)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Full-Time, Non-Tenure Track Assistant Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179509005)**  
@@ -40,7 +43,7 @@
 - **[Assistant Professor of Christianity in Late Antiquity, Department of T](https://www.higheredjobs.com/details.cfm?JobCode=179510429)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (126)
+## ★★☆☆☆ Other Locations (131)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -55,6 +58,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Lecturer - Theology](https://www.higheredjobs.com/details.cfm?JobCode=179518370)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Lecturer, Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179534110)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Lecturer, Graduate Counseling Programs](https://www.higheredjobs.com/details.cfm?JobCode=179525820)**  
@@ -78,7 +84,7 @@
 - **[Adjunct: Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179512465)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179504376)**  
+- **[Assistant / Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179534137)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (# 375565)](https://www.higheredjobs.com/details.cfm?JobCode=179532719)**  
@@ -111,28 +117,25 @@
 - **[Assistant Professor - Theology](https://www.higheredjobs.com/details.cfm?JobCode=179523971)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor In Clinical Health Psychology, Psychology - 530025](https://www.higheredjobs.com/details.cfm?JobCode=179532737)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor In Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179518617)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor Of Developmental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179531192)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor Of Psychology - Biological Bases Of Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179533443)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor and Internship Coordinator in Counseling and Clini](https://www.higheredjobs.com/details.cfm?JobCode=179515767)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in Islamic Studies](https://www.higheredjobs.com/details.cfm?JobCode=179505343)**  
+- **[Assistant Professor in Clinical/Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179534194)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Behavioral Forensics (Psychology Law)](https://www.higheredjobs.com/details.cfm?JobCode=179519965)**  
+- **[Assistant Professor in Developmental Psychopathology (# 375608)](https://www.higheredjobs.com/details.cfm?JobCode=179533200)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179529343)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 96 more positions*
+*...and 101 more positions*
 
 ---
 
