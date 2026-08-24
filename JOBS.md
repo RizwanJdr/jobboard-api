@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-23 07:38 UTC  
-**Total Positions:** 136
+**Last Updated:** 2026-08-24 08:00 UTC  
+**Total Positions:** 135
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 7 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 128 |
+| ★★☆☆☆ | 127 |
 
 ---
 
@@ -43,7 +43,7 @@
 - **[Assistant Professor of Christianity in Late Antiquity, Department of T](https://www.higheredjobs.com/details.cfm?JobCode=179510429)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (128)
+## ★★☆☆☆ Other Locations (127)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -135,7 +135,7 @@
 - **[Assistant Professor in Developmental Psychopathology (# 375608)](https://www.higheredjobs.com/details.cfm?JobCode=179533200)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 98 more positions*
+*...and 97 more positions*
 
 ---
 
