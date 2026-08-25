@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-24 08:00 UTC  
-**Total Positions:** 135
+**Last Updated:** 2026-08-25 07:49 UTC  
+**Total Positions:** 132
 
 ---
 
@@ -9,19 +9,16 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 7 |
+| ★★★★☆ | 5 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 127 |
+| ★★☆☆☆ | 126 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (7)
+## ★★★★☆ Large Muslim Communities (5)
 
 - **[Assistant Professor (Tenure Track) - Psychology, Industrial-Organizati](https://www.higheredjobs.com/details.cfm?JobCode=179529464)**  
   📍 Chicago | 🔗 HigherEdJobs
-
-- **[Assistant Teaching Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179508028)**  
-  📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Nursing Religious Student Success Coo](https://www.higheredjobs.com/details.cfm?JobCode=179533476)**  
   📍 New York | 🔗 HigherEdJobs
@@ -35,15 +32,12 @@
 - **[Religion - Assistant Professor of Religion in Christian Theology](https://www.higheredjobs.com/details.cfm?JobCode=179486672)**  
   📍 Netherlands | 🔗 HigherEdJobs
 
-- **[Visiting Assistant Professor - Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179507188)**  
-  📍 New York | 🔗 HigherEdJobs
-
 ## ★★★☆☆ Moderate Communities (1)
 
 - **[Assistant Professor of Christianity in Late Antiquity, Department of T](https://www.higheredjobs.com/details.cfm?JobCode=179510429)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (127)
+## ★★☆☆☆ Other Locations (126)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -55,9 +49,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Faculty, Office for Public Good Strategy and Research (OPG)](https://www.higheredjobs.com/details.cfm?JobCode=179514356)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Lecturer - Theology](https://www.higheredjobs.com/details.cfm?JobCode=179518370)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Lecturer, Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179534110)**  
@@ -135,7 +126,10 @@
 - **[Assistant Professor in Developmental Psychopathology (# 375608)](https://www.higheredjobs.com/details.cfm?JobCode=179533200)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 97 more positions*
+- **[Assistant Professor of Behavioral Forensics (Psychology Law)](https://www.higheredjobs.com/details.cfm?JobCode=179519965)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 96 more positions*
 
 ---
 
