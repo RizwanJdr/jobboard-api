@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-25 07:49 UTC  
-**Total Positions:** 132
+**Last Updated:** 2026-08-26 07:51 UTC  
+**Total Positions:** 135
 
 ---
 
@@ -9,21 +9,18 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 5 |
+| ★★★★☆ | 4 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 126 |
+| ★★☆☆☆ | 130 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (5)
+## ★★★★☆ Large Muslim Communities (4)
 
 - **[Assistant Professor (Tenure Track) - Psychology, Industrial-Organizati](https://www.higheredjobs.com/details.cfm?JobCode=179529464)**  
   📍 Chicago | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Nursing Religious Student Success Coo](https://www.higheredjobs.com/details.cfm?JobCode=179533476)**  
-  📍 New York | 🔗 HigherEdJobs
-
-- **[Full-Time, Non-Tenure Track Assistant Teaching Professor](https://www.higheredjobs.com/details.cfm?JobCode=179509005)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179513322)**  
@@ -37,7 +34,7 @@
 - **[Assistant Professor of Christianity in Late Antiquity, Department of T](https://www.higheredjobs.com/details.cfm?JobCode=179510429)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (126)
+## ★★☆☆☆ Other Locations (130)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -96,6 +93,9 @@
 - **[Assistant Professor (TT), Industrial and Organizational Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179516681)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor (Tenure-Track) - Clinical/Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179536041)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor - ABA](https://www.higheredjobs.com/details.cfm?JobCode=179512546)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -126,10 +126,7 @@
 - **[Assistant Professor in Developmental Psychopathology (# 375608)](https://www.higheredjobs.com/details.cfm?JobCode=179533200)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Behavioral Forensics (Psychology Law)](https://www.higheredjobs.com/details.cfm?JobCode=179519965)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 96 more positions*
+*...and 100 more positions*
 
 ---
 
