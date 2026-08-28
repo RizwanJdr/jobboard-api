@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-27 18:11 UTC  
-**Total Positions:** 151
+**Last Updated:** 2026-08-28 19:22 UTC  
+**Total Positions:** 155
 
 ---
 
@@ -10,8 +10,7 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★☆ | 7 |
-| ★★★☆☆ | 1 |
-| ★★☆☆☆ | 143 |
+| ★★☆☆☆ | 148 |
 
 ---
 
@@ -38,12 +37,7 @@
 - **[Religion - Assistant Professor of Religion in Christian Theology](https://www.higheredjobs.com/details.cfm?JobCode=179486672)**  
   📍 Netherlands | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (1)
-
-- **[Assistant Professor of Christianity in Late Antiquity, Department of T](https://www.higheredjobs.com/details.cfm?JobCode=179510429)**  
-  📍 Los Angeles | 🔗 HigherEdJobs
-
-## ★★☆☆☆ Other Locations (143)
+## ★★☆☆☆ Other Locations (148)
 
 - **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -58,9 +52,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Lecturer, Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179534110)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Lecturer, Graduate Counseling Programs](https://www.higheredjobs.com/details.cfm?JobCode=179525820)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor](https://www.higheredjobs.com/details.cfm?JobCode=179524341)**  
@@ -135,7 +126,10 @@
 - **[Assistant Professor and Internship Coordinator in Counseling and Clini](https://www.higheredjobs.com/details.cfm?JobCode=179515767)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 113 more positions*
+- **[Assistant Professor in Developmental Psychopathology (# 375608)](https://www.higheredjobs.com/details.cfm?JobCode=179533200)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 118 more positions*
 
 ---
 
