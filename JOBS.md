@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-28 19:22 UTC  
-**Total Positions:** 155
+**Last Updated:** 2026-08-29 13:06 UTC  
+**Total Positions:** 152
 
 ---
 
@@ -10,7 +10,7 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★☆ | 7 |
-| ★★☆☆☆ | 148 |
+| ★★☆☆☆ | 145 |
 
 ---
 
@@ -37,10 +37,7 @@
 - **[Religion - Assistant Professor of Religion in Christian Theology](https://www.higheredjobs.com/details.cfm?JobCode=179486672)**  
   📍 Netherlands | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (148)
-
-- **[10-Month Assistant/Associate Professor of Clinical Psychology, FSPP](https://www.higheredjobs.com/details.cfm?JobCode=179511239)**  
-  📍 Unknown | 🔗 HigherEdJobs
+## ★★☆☆☆ Other Locations (145)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Counseling Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179523616)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -102,10 +99,7 @@
 - **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179539726)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Media Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179531210)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor - Psychology, General (EXS)](https://www.higheredjobs.com/details.cfm?JobCode=179539088)**  
+- **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179539088)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Tenure-Track, Open-Area](https://www.higheredjobs.com/details.cfm?JobCode=179514411)**  
@@ -126,10 +120,16 @@
 - **[Assistant Professor and Internship Coordinator in Counseling and Clini](https://www.higheredjobs.com/details.cfm?JobCode=179515767)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor in Counseling Psychology (9 Month Salary)](https://www.higheredjobs.com/details.cfm?JobCode=179541735)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor in Developmental Psychopathology (# 375608)](https://www.higheredjobs.com/details.cfm?JobCode=179533200)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 118 more positions*
+- **[Assistant Professor in Human Neuroscience in the Department of Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179539086)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 115 more positions*
 
 ---
 
