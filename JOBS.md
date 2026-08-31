@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-30 12:43 UTC  
-**Total Positions:** 150
+**Last Updated:** 2026-08-31 14:59 UTC  
+**Total Positions:** 146
 
 ---
 
@@ -9,13 +9,13 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 7 |
+| ★★★★☆ | 6 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 142 |
+| ★★☆☆☆ | 139 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (7)
+## ★★★★☆ Large Muslim Communities (6)
 
 - **[Assistant Professor (Tenure Track) - Psychology, Industrial-Organizati](https://www.higheredjobs.com/details.cfm?JobCode=179529464)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -24,9 +24,6 @@
   📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Nursing Religious Student Success Coo](https://www.higheredjobs.com/details.cfm?JobCode=179533476)**  
-  📍 New York | 🔗 HigherEdJobs
-
-- **[Lecturer - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179513322)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Postdoctoral Associate (Cimpian Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179536879)**  
@@ -43,7 +40,7 @@
 - **[Open Rank Clinical Professor Director for the Center for Catholic Educ](https://www.higheredjobs.com/details.cfm?JobCode=179542162)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (142)
+## ★★☆☆☆ Other Locations (139)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Counseling Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179523616)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -99,6 +96,9 @@
 - **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179539726)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor - Media Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179531210)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179539088)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -132,10 +132,7 @@
 - **[Assistant Professor in Sport Psychology (9 Month Salary)](https://www.higheredjobs.com/details.cfm?JobCode=179541728)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in the Clinical Science Program in the Department ](https://www.higheredjobs.com/details.cfm?JobCode=179539087)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 112 more positions*
+*...and 109 more positions*
 
 ---
 
