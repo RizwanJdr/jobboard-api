@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-08-31 14:59 UTC  
-**Total Positions:** 146
+**Last Updated:** 2026-09-01 12:30 UTC  
+**Total Positions:** 145
 
 ---
 
@@ -11,11 +11,14 @@
 |-----------------------|-------|
 | ★★★★☆ | 6 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 139 |
+| ★★☆☆☆ | 138 |
 
 ---
 
 ## ★★★★☆ Large Muslim Communities (6)
+
+- **[Adjunct Instructor - Research Methods II](https://www.higheredjobs.com/details.cfm?JobCode=179543350)**  
+  📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant Professor (Tenure Track) - Psychology, Industrial-Organizati](https://www.higheredjobs.com/details.cfm?JobCode=179529464)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -32,15 +35,12 @@
 - **[Postdoctoral Associate (Pylkkanen Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179537254)**  
   📍 New York | 🔗 HigherEdJobs
 
-- **[Religion - Assistant Professor of Religion in Christian Theology](https://www.higheredjobs.com/details.cfm?JobCode=179486672)**  
-  📍 Netherlands | 🔗 HigherEdJobs
-
 ## ★★★☆☆ Moderate Communities (1)
 
 - **[Open Rank Clinical Professor Director for the Center for Catholic Educ](https://www.higheredjobs.com/details.cfm?JobCode=179542162)**  
   📍 Los Angeles | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (139)
+## ★★☆☆☆ Other Locations (138)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Counseling Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179523616)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -51,16 +51,10 @@
 - **[Adjunct Assistant Instructor - Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179522147)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Adjunct Faculty, Office for Public Good Strategy and Research (OPG)](https://www.higheredjobs.com/details.cfm?JobCode=179514356)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Adjunct Lecturer, Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179534110)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor](https://www.higheredjobs.com/details.cfm?JobCode=179524341)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Professor - Addictions Counseling 900439](https://www.higheredjobs.com/details.cfm?JobCode=179514674)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor - MFT (80648)](https://www.higheredjobs.com/details.cfm?JobCode=179519128)**  
@@ -76,6 +70,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant / Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179534137)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179543443)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (# 375565)](https://www.higheredjobs.com/details.cfm?JobCode=179532719)**  
@@ -96,13 +93,7 @@
 - **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179539726)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Media Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179531210)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179539088)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor - Tenure-Track, Open-Area](https://www.higheredjobs.com/details.cfm?JobCode=179514411)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Theology](https://www.higheredjobs.com/details.cfm?JobCode=179523971)**  
@@ -132,7 +123,16 @@
 - **[Assistant Professor in Sport Psychology (9 Month Salary)](https://www.higheredjobs.com/details.cfm?JobCode=179541728)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 109 more positions*
+- **[Assistant Professor in the Clinical Science Program in the Department ](https://www.higheredjobs.com/details.cfm?JobCode=179539087)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Behavioral Forensics (Psychology Law)](https://www.higheredjobs.com/details.cfm?JobCode=179519965)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Behavioral Science](https://www.higheredjobs.com/details.cfm?JobCode=179536265)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 108 more positions*
 
 ---
 
