@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-02T12:01:53.767363+00:00",
-  "count": 153,
+  "updated": "2026-09-03T12:01:49.493330+00:00",
+  "count": 161,
   "jobs": [
+    {
+      "title": "Assistant/Associate Professor - Social and Behavioral Sciences",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545606",
+      "description": "Prince Mohammad Bin Fahd University (Al-Khobar, Saudi Arabia)",
+      "source": "HigherEdJobs",
+      "location": "Saudi Arabia",
+      "score": 5
+    },
     {
       "title": "Adjunct Instructor - Research Methods II",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179543350",
@@ -147,14 +155,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179543443",
-      "description": "New Mexico State University (Las Cruces, NM)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor (# 375565)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179532719",
       "description": "University of Minnesota (Twin Cities, MN)",
@@ -203,8 +203,24 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor (Tenure-Track) - Philosophy and Religious Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179544829",
+      "description": "University of Wisconsin - Whitewater (Whitewater, WI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor - Clinical Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179539726",
+      "description": "Texas Tech University (Lubbock, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor - Human Factors",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545987",
       "description": "Texas Tech University (Lubbock, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -404,8 +420,8 @@
     },
     {
       "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179544343",
-      "description": "Shepherd University (Shepherdstown, WV)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179544922",
+      "description": "University of Virginia (Charlottesville, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -524,8 +540,8 @@
     },
     {
       "title": "Assistant Professor of Theology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179527452",
-      "description": "Divine Word College (Epworth, IA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179544488",
+      "description": "Southern Methodist University (Dallas, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -564,8 +580,8 @@
     },
     {
       "title": "Assistant Professor, Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179543172",
-      "description": "Emory University (Atlanta, GA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545003",
+      "description": "Stanford University (Stanford, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -782,6 +798,14 @@
       "title": "BCAS - Assistant/Associate Professor in Quantitative Psychology - 530295",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179532838",
       "description": "The University of Alabama (Tuscaloosa, AL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Clinical Assistant Professor - Psychologist GF1739",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545832",
+      "description": "Oklahoma State University (Stillwater, OK)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1024,6 +1048,46 @@
       "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
       "location": "Cambridge",
+      "score": 2
+    },
+    {
+      "title": "Psychologist, Clinical Assistant/Associate Professor, Psychiatry, Child Adolescent Outpatient (OPD)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545953",
+      "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychology, Tenure Track Assistant Professor (Clinical)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545691",
+      "description": "University of Southern Mississippi, The (Hattiesburg, MS)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychology, Tenure Track Assistant Professor (Counseling)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545697",
+      "description": "University of Southern Mississippi, The (Hattiesburg, MS)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychology, Tenure Track Assistant Professor (Experimental)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545692",
+      "description": "University of Southern Mississippi, The (Hattiesburg, MS)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Research Associate",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545769",
+      "description": "University of Colorado Boulder (Boulder, CO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     },
     {

@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-02 12:02 UTC  
-**Total Positions:** 153
+**Last Updated:** 2026-09-03 12:02 UTC  
+**Total Positions:** 161
 
 ---
 
@@ -9,11 +9,17 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
+| ★★★★★ | 1 |
 | ★★★★☆ | 6 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 145 |
+| ★★☆☆☆ | 152 |
 
 ---
+
+## ★★★★★ Muslim-Majority Regions (1)
+
+- **[Assistant/Associate Professor - Social and Behavioral Sciences](https://www.higheredjobs.com/details.cfm?JobCode=179545606)**  
+  📍 Saudi Arabia | 🔗 HigherEdJobs
 
 ## ★★★★☆ Large Muslim Communities (6)
 
@@ -43,7 +49,7 @@
 - **[Postdoctoral Research Associate](https://www.higheredjobs.com/details.cfm?JobCode=179544174)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (145)
+## ★★☆☆☆ Other Locations (152)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Counseling Psychology)](https://www.higheredjobs.com/details.cfm?JobCode=179523616)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -75,9 +81,6 @@
 - **[Assistant / Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179534137)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179543443)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor (# 375565)](https://www.higheredjobs.com/details.cfm?JobCode=179532719)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -96,7 +99,13 @@
 - **[Assistant Professor (Tenure-Track) - Clinical/Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179536041)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor (Tenure-Track) - Philosophy and Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179544829)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179539726)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor - Human Factors](https://www.higheredjobs.com/details.cfm?JobCode=179545987)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Media Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179531210)**  
@@ -132,10 +141,7 @@
 - **[Assistant Professor in Human Neuroscience in the Department of Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179539086)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in Sport Psychology (9 Month Salary)](https://www.higheredjobs.com/details.cfm?JobCode=179541728)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 115 more positions*
+*...and 122 more positions*
 
 ---
 
