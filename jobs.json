@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04T12:03:12.901511+00:00",
-  "count": 163,
+  "updated": "2026-09-05T11:12:28.399223+00:00",
+  "count": 167,
   "jobs": [
     {
       "title": "Assistant/Associate Professor - Social and Behavioral Sciences",
@@ -27,6 +27,14 @@
       "score": 4
     },
     {
+      "title": "Assistant Professor - Cognitive Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179547799",
+      "description": "State University of New York at Cortland (Cortland, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
+    {
       "title": "Assistant or Associate Professor - Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179538455",
       "description": "State University of New York (SUNY) at Albany (Albany, NY)",
@@ -38,6 +46,22 @@
       "title": "Assistant/Associate Professor of Nursing Religious Student Success Coordinator",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179533476",
       "description": "University of Mount Saint Vincent (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "Lecturer Position in Developmental Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179548363",
+      "description": "Simon Fraser University (Burnaby, BC, Canada)",
+      "source": "HigherEdJobs",
+      "location": "Canada",
+      "score": 4
+    },
+    {
+      "title": "Postdoctoral Associate (Carrasco Lab)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179547114",
+      "description": "New York University (New York, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
       "score": 4
@@ -83,20 +107,20 @@
       "score": 3
     },
     {
+      "title": "Postdoctoral Research Fellow",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179548311",
+      "description": "Northeastern University (Boston, MA)",
+      "source": "HigherEdJobs",
+      "location": "Boston",
+      "score": 3
+    },
+    {
       "title": "Professor of Practice",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179547192",
       "description": "Boston College (Chestnut Hill, MA)",
       "source": "HigherEdJobs",
       "location": "Boston",
       "score": 3
-    },
-    {
-      "title": "2026-27 Lecturer Pool Department of Psychology (Counseling Psychology)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179523616",
-      "description": "California State University, Bakersfield (Bakersfield, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
     },
     {
       "title": "2026-27 Lecturer Pool Department of Psychology (Undergraduate)",
@@ -150,14 +174,6 @@
       "title": "Adjunct Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179539241",
       "description": "Ramapo College of New Jersey (Mahwah, NJ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Adjunct Professor of Religion",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179518200",
-      "description": "Lane College (Jackson, TN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -243,8 +259,8 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor - Psychological Science and Counseling - PsyD Program",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179544222",
+      "title": "Assistant Professor - Philosophy and Religion",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179547959",
       "description": "Austin Peay State University (Clarksville, TN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -451,8 +467,8 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor of Psychology Child Development - Cognitive Neuroscience (27/28)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179542542",
+      "title": "Assistant Professor of Psychology Child Development - Child Development (27/28)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179531721",
       "description": "Cal Poly, San Luis Obispo (San Luis Obispo, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -515,6 +531,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor of Religion and Culture",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179547096",
+      "description": "Southwestern University (Georgetown, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor of Religion, Technology, and Digital Media, Department for the Study of Religions (R0008840)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179542947",
       "description": "Wake Forest University (Winston Salem, NC)",
@@ -571,6 +595,22 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor, Psychological Science, Clinical",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179544294",
+      "description": "Austin Peay State University (Clarksville, TN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor, Psychological Science, Experimental",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179547592",
+      "description": "Austin Peay State University (Clarksville, TN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545003",
       "description": "Stanford University (Stanford, CA)",
@@ -590,6 +630,14 @@
       "title": "Assistant Professor, Tenure-track, in Catholic Systematic Theology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179536100",
       "description": "University of Notre Dame (Notre Dame, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor- Counseling Psychology-PsyD",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179544222",
+      "description": "Austin Peay State University (Clarksville, TN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -662,6 +710,14 @@
       "title": "Assistant or Associate Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179547044",
       "description": "University of Maine at Presque Isle (Presque Isle, ME)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant or Associate Professor of Psychology & Child Development - Cognitive Neuroscience (27/28)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179542542",
+      "description": "Cal Poly, San Luis Obispo (San Luis Obispo, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -747,25 +803,9 @@
       "score": 2
     },
     {
-      "title": "Associate Lecturer/Lecturer/Senior Lecturer of Psychology- School of Behavioral and Social Sciences (Continuous Recruitment)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517107",
-      "description": "University of Wisconsin - Stevens Point (Stevens Point, WI)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Associate Professor of Global Intercultural Engagement - School of Divinity",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179528367",
       "description": "Liberty University (Lynchburg, VA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Associate/Assistant Professor - Tenure System",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517974",
-      "description": "Michigan State University (East Lansing, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -814,6 +854,14 @@
       "title": "Clinical Associate Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179535394",
       "description": "University of Southern Indiana (Evansville, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Department of Psychology - Assistant Professor in Biological Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179548138",
+      "description": "California State University, San Bernardino (San Bernardino, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1219,14 +1267,6 @@
       "score": 2
     },
     {
-      "title": "Tenure-Track Assistant Professor Position in Health Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517833",
-      "description": "Reed College (Portland, OR)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Tenure-Track Professor in Clinical Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179529251",
       "description": "Harvard University (Cambridge, MA)",
@@ -1286,14 +1326,6 @@
       "title": "Visiting Assistant Professor Of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179547022",
       "description": "St. John Fisher University (Rochester, NY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Visiting Assistant Professor in Behavioral Science Related to Environmental and Water Resources",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179517947",
-      "description": "Delaware State University (Dover, DE)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
