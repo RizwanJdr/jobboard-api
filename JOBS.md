@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-07 13:27 UTC  
-**Total Positions:** 155
+**Last Updated:** 2026-09-08 12:04 UTC  
+**Total Positions:** 153
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 9 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 140 |
+| ★★☆☆☆ | 138 |
 
 ---
 
@@ -67,12 +67,9 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (140)
+## ★★☆☆☆ Other Locations (138)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Assistant Instructor - Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179522147)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor](https://www.higheredjobs.com/details.cfm?JobCode=179524341)**  
@@ -114,9 +111,6 @@
 - **[Assistant Professor - Human Factors](https://www.higheredjobs.com/details.cfm?JobCode=179545987)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Media Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179531210)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor - Philosophy and Religion](https://www.higheredjobs.com/details.cfm?JobCode=179547959)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -156,10 +150,16 @@
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179529343)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Clinical Psychology - Clinical (PsyD Program)](https://www.higheredjobs.com/details.cfm?JobCode=179521967)**  
+- **[Assistant Professor of Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179542052)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 110 more positions*
+- **[Assistant Professor of Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179530489)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Psychological Science & Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179522923)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 108 more positions*
 
 ---
 
