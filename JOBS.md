@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-08 12:04 UTC  
-**Total Positions:** 153
+**Last Updated:** 2026-09-09 12:15 UTC  
+**Total Positions:** 156
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 9 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 138 |
+| ★★☆☆☆ | 141 |
 
 ---
 
@@ -67,7 +67,7 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (138)
+## ★★☆☆☆ Other Locations (141)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -111,6 +111,9 @@
 - **[Assistant Professor - Human Factors](https://www.higheredjobs.com/details.cfm?JobCode=179545987)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor - Media Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179531210)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor - Philosophy and Religion](https://www.higheredjobs.com/details.cfm?JobCode=179547959)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -124,6 +127,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor Of Psychology - Biological Bases Of Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179533443)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor in Addiction Psychiatry at the Philadelphia VAMC -](https://www.higheredjobs.com/details.cfm?JobCode=179549438)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Counseling Psychology (9 Month Salary)](https://www.higheredjobs.com/details.cfm?JobCode=179541735)**  
@@ -153,13 +159,7 @@
 - **[Assistant Professor of Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179542052)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179530489)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Psychological Science & Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179522923)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 108 more positions*
+*...and 111 more positions*
 
 ---
 
