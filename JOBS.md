@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-09 12:15 UTC  
-**Total Positions:** 156
+**Last Updated:** 2026-09-10 12:10 UTC  
+**Total Positions:** 161
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 9 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 141 |
+| ★★☆☆☆ | 146 |
 
 ---
 
@@ -67,7 +67,7 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (141)
+## ★★☆☆☆ Other Locations (146)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -94,6 +94,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (1444)](https://www.higheredjobs.com/details.cfm?JobCode=179527427)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor (Social Health Psychology) - Department of Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179550996)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (Tenure Track) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179544260)**  
@@ -156,10 +159,7 @@
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179529343)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179542052)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 111 more positions*
+*...and 116 more positions*
 
 ---
 
