@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-13 12:39 UTC  
-**Total Positions:** 160
+**Last Updated:** 2026-09-14 13:49 UTC  
+**Total Positions:** 152
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 2 |
 | ★★★★☆ | 9 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 144 |
+| ★★☆☆☆ | 136 |
 
 ---
 
@@ -70,7 +70,7 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (144)
+## ★★☆☆☆ Other Locations (136)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -99,9 +99,6 @@
 - **[Assistant Professor (# 375565)](https://www.higheredjobs.com/details.cfm?JobCode=179532719)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor (1444)](https://www.higheredjobs.com/details.cfm?JobCode=179527427)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor (Social Health Psychology) - Department of Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179550996)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -127,9 +124,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Philosophy and Religion](https://www.higheredjobs.com/details.cfm?JobCode=179547959)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179539088)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor Of Developmental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179531192)**  
@@ -162,7 +156,13 @@
 - **[Assistant Professor of Behavioral Science](https://www.higheredjobs.com/details.cfm?JobCode=179536265)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 114 more positions*
+- **[Assistant Professor of Biblical Studies - Ashland Theological Seminary](https://www.higheredjobs.com/details.cfm?JobCode=179533766)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179553068)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 106 more positions*
 
 ---
 
