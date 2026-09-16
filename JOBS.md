@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-15 12:35 UTC  
-**Total Positions:** 159
+**Last Updated:** 2026-09-16 12:32 UTC  
+**Total Positions:** 156
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 3 |
-| ★★★★☆ | 9 |
+| ★★★★☆ | 8 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 142 |
+| ★★☆☆☆ | 140 |
 
 ---
 
@@ -27,7 +27,7 @@
 - **[Associate Professor/Professor of Practice in Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179555814)**  
   📍 Egypt | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (9)
+## ★★★★☆ Large Muslim Communities (8)
 
 - **[Adjunct Instructor - Research Methods II](https://www.higheredjobs.com/details.cfm?JobCode=179543350)**  
   📍 New York | 🔗 HigherEdJobs
@@ -38,6 +38,9 @@
 - **[Assistant Professor - Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179547799)**  
   📍 New York | 🔗 HigherEdJobs
 
+- **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179556624)**  
+  📍 New York | 🔗 HigherEdJobs
+
 - **[Assistant or Associate Professor - Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179538455)**  
   📍 New York | 🔗 HigherEdJobs
 
@@ -46,12 +49,6 @@
 
 - **[Lecturer Position in Developmental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179548363)**  
   📍 Canada | 🔗 HigherEdJobs
-
-- **[Postdoctoral Associate (Carrasco Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179547114)**  
-  📍 New York | 🔗 HigherEdJobs
-
-- **[Postdoctoral Associate (Cimpian Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179536879)**  
-  📍 New York | 🔗 HigherEdJobs
 
 - **[Postdoctoral Associate (Pylkkanen Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179537254)**  
   📍 New York | 🔗 HigherEdJobs
@@ -73,7 +70,7 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (142)
+## ★★☆☆☆ Other Locations (140)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -102,7 +99,7 @@
 - **[Assistant / Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179534137)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179556344)**  
+- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179556798)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (# 375565)](https://www.higheredjobs.com/details.cfm?JobCode=179532719)**  
@@ -135,9 +132,6 @@
 - **[Assistant Professor - Philosophy and Religion](https://www.higheredjobs.com/details.cfm?JobCode=179547959)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179539088)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor Of Developmental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179531192)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -165,7 +159,10 @@
 - **[Assistant Professor in the Clinical Science Program in the Department ](https://www.higheredjobs.com/details.cfm?JobCode=179539087)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 112 more positions*
+- **[Assistant Professor of Behavioral Science](https://www.higheredjobs.com/details.cfm?JobCode=179536265)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 110 more positions*
 
 ---
 
