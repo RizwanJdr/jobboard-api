@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-16 12:32 UTC  
-**Total Positions:** 156
+**Last Updated:** 2026-09-17 12:31 UTC  
+**Total Positions:** 165
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 3 |
-| ★★★★☆ | 8 |
+| ★★★★☆ | 7 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 140 |
+| ★★☆☆☆ | 150 |
 
 ---
 
@@ -27,13 +27,10 @@
 - **[Associate Professor/Professor of Practice in Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179555814)**  
   📍 Egypt | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (8)
+## ★★★★☆ Large Muslim Communities (7)
 
 - **[Adjunct Instructor - Research Methods II](https://www.higheredjobs.com/details.cfm?JobCode=179543350)**  
   📍 New York | 🔗 HigherEdJobs
-
-- **[Assistant Professor (Tenure Track) - Psychology, Industrial-Organizati](https://www.higheredjobs.com/details.cfm?JobCode=179529464)**  
-  📍 Chicago | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179547799)**  
   📍 New York | 🔗 HigherEdJobs
@@ -70,7 +67,7 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (140)
+## ★★☆☆☆ Other Locations (150)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -102,9 +99,6 @@
 - **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179556798)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor (# 375565)](https://www.higheredjobs.com/details.cfm?JobCode=179532719)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor (Social Health Psychology) - Department of Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179550996)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -126,6 +120,9 @@
 - **[Assistant Professor - Cognition and Cognitive Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179545989)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor - Cognitive and Brain Sciences (# 375565)](https://www.higheredjobs.com/details.cfm?JobCode=179532719)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor - Human Factors](https://www.higheredjobs.com/details.cfm?JobCode=179545987)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -139,6 +136,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Addiction Psychiatry at the Philadelphia VAMC -](https://www.higheredjobs.com/details.cfm?JobCode=179549438)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor in Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179558244)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Counseling Psychology (9 Month Salary)](https://www.higheredjobs.com/details.cfm?JobCode=179541735)**  
@@ -159,10 +159,7 @@
 - **[Assistant Professor in the Clinical Science Program in the Department ](https://www.higheredjobs.com/details.cfm?JobCode=179539087)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Behavioral Science](https://www.higheredjobs.com/details.cfm?JobCode=179536265)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 110 more positions*
+*...and 120 more positions*
 
 ---
 
