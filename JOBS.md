@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-17 12:31 UTC  
-**Total Positions:** 165
+**Last Updated:** 2026-09-18 12:10 UTC  
+**Total Positions:** 173
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 3 |
-| ★★★★☆ | 7 |
+| ★★★★☆ | 8 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 150 |
+| ★★☆☆☆ | 157 |
 
 ---
 
@@ -27,10 +27,13 @@
 - **[Associate Professor/Professor of Practice in Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179555814)**  
   📍 Egypt | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (7)
+## ★★★★☆ Large Muslim Communities (8)
 
 - **[Adjunct Instructor - Research Methods II](https://www.higheredjobs.com/details.cfm?JobCode=179543350)**  
   📍 New York | 🔗 HigherEdJobs
+
+- **[Assistant Professor (Tenure Track) - Religious Studies (27-28)](https://www.higheredjobs.com/details.cfm?JobCode=179559026)**  
+  📍 Chicago | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179547799)**  
   📍 New York | 🔗 HigherEdJobs
@@ -67,12 +70,15 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (150)
+## ★★☆☆☆ Other Locations (157)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[27-30 Tenure-Track Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552048)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[3-Year Visiting Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179559890)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Academic Clinician Assistant Professor, Healthy Minds Healthy Kids-CHO](https://www.higheredjobs.com/details.cfm?JobCode=179555356)**  
@@ -114,6 +120,9 @@
 - **[Assistant Professor (Tenure-Track) - Philosophy and Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179544829)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor - Clinical Neuropsychologist - AC Track](https://www.higheredjobs.com/details.cfm?JobCode=179560180)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179539726)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -121,6 +130,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Cognitive and Brain Sciences (# 375565)](https://www.higheredjobs.com/details.cfm?JobCode=179532719)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179560012)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Human Factors](https://www.higheredjobs.com/details.cfm?JobCode=179545987)**  
@@ -147,19 +159,10 @@
 - **[Assistant Professor in Developmental Psychopathology (# 375608)](https://www.higheredjobs.com/details.cfm?JobCode=179533200)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in High-Level Human Cognition](https://www.higheredjobs.com/details.cfm?JobCode=179551261)**  
+- **[Assistant Professor in Geropsychology/Psychology of Aging](https://www.higheredjobs.com/details.cfm?JobCode=179559874)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in Human Neuroscience in the Department of Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179539086)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor in Sport Psychology (9 Month Salary)](https://www.higheredjobs.com/details.cfm?JobCode=179541728)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor in the Clinical Science Program in the Department ](https://www.higheredjobs.com/details.cfm?JobCode=179539087)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 120 more positions*
+*...and 127 more positions*
 
 ---
 
