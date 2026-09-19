@@ -1,6 +1,6 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-18 12:10 UTC  
+**Last Updated:** 2026-09-19 11:52 UTC  
 **Total Positions:** 173
 
 ---
@@ -38,14 +38,14 @@
 - **[Assistant Professor - Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179547799)**  
   📍 New York | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179556624)**  
-  📍 New York | 🔗 HigherEdJobs
-
 - **[Assistant or Associate Professor - Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179538455)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Nursing Religious Student Success Coo](https://www.higheredjobs.com/details.cfm?JobCode=179533476)**  
   📍 New York | 🔗 HigherEdJobs
+
+- **[Assistant/Associate Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179560680)**  
+  📍 Chicago | 🔗 HigherEdJobs
 
 - **[Lecturer Position in Developmental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179548363)**  
   📍 Canada | 🔗 HigherEdJobs
@@ -85,9 +85,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Faculty Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179555669)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Professor in Classics](https://www.higheredjobs.com/details.cfm?JobCode=177911109)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Forensic Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179544382)**  
@@ -141,7 +138,7 @@
 - **[Assistant Professor - Philosophy and Religion](https://www.higheredjobs.com/details.cfm?JobCode=179547959)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor Of Developmental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179531192)**  
+- **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179561108)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor Of Psychology - Biological Bases Of Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179533443)**  
@@ -160,6 +157,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Geropsychology/Psychology of Aging](https://www.higheredjobs.com/details.cfm?JobCode=179559874)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor in High-Level Human Cognition](https://www.higheredjobs.com/details.cfm?JobCode=179551261)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 *...and 127 more positions*
