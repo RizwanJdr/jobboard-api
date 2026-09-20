@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-19 11:52 UTC  
-**Total Positions:** 173
+**Last Updated:** 2026-09-20 12:11 UTC  
+**Total Positions:** 166
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 3 |
 | ★★★★☆ | 8 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 157 |
+| ★★☆☆☆ | 150 |
 
 ---
 
@@ -70,7 +70,7 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (157)
+## ★★☆☆☆ Other Locations (150)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -126,9 +126,6 @@
 - **[Assistant Professor - Cognition and Cognitive Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179545989)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Cognitive and Brain Sciences (# 375565)](https://www.higheredjobs.com/details.cfm?JobCode=179532719)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179560012)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -162,7 +159,10 @@
 - **[Assistant Professor in High-Level Human Cognition](https://www.higheredjobs.com/details.cfm?JobCode=179551261)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 127 more positions*
+- **[Assistant Professor in Human Neuroscience in the Department of Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179539086)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 120 more positions*
 
 ---
 
