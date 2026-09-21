@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-20 12:11 UTC  
-**Total Positions:** 166
+**Last Updated:** 2026-09-21 13:49 UTC  
+**Total Positions:** 162
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 3 |
 | ★★★★☆ | 8 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 150 |
+| ★★☆☆☆ | 146 |
 
 ---
 
@@ -41,9 +41,6 @@
 - **[Assistant or Associate Professor - Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179538455)**  
   📍 New York | 🔗 HigherEdJobs
 
-- **[Assistant/Associate Professor of Nursing Religious Student Success Coo](https://www.higheredjobs.com/details.cfm?JobCode=179533476)**  
-  📍 New York | 🔗 HigherEdJobs
-
 - **[Assistant/Associate Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179560680)**  
   📍 Chicago | 🔗 HigherEdJobs
 
@@ -52,6 +49,9 @@
 
 - **[Postdoctoral Associate (Pylkkanen Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179537254)**  
   📍 New York | 🔗 HigherEdJobs
+
+- **[Tenure-Track Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179562639)**  
+  📍 London | 🔗 HigherEdJobs
 
 ## ★★★☆☆ Moderate Communities (5)
 
@@ -70,7 +70,7 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (150)
+## ★★☆☆☆ Other Locations (146)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -138,9 +138,6 @@
 - **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179561108)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor Of Psychology - Biological Bases Of Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179533443)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor in Addiction Psychiatry at the Philadelphia VAMC -](https://www.higheredjobs.com/details.cfm?JobCode=179549438)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -148,9 +145,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Counseling Psychology (9 Month Salary)](https://www.higheredjobs.com/details.cfm?JobCode=179541735)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor in Developmental Psychopathology (# 375608)](https://www.higheredjobs.com/details.cfm?JobCode=179533200)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Geropsychology/Psychology of Aging](https://www.higheredjobs.com/details.cfm?JobCode=179559874)**  
@@ -162,7 +156,13 @@
 - **[Assistant Professor in Human Neuroscience in the Department of Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179539086)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 120 more positions*
+- **[Assistant Professor in Sport Psychology (9 Month Salary)](https://www.higheredjobs.com/details.cfm?JobCode=179541728)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor in the Clinical Science Program in the Department ](https://www.higheredjobs.com/details.cfm?JobCode=179539087)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 116 more positions*
 
 ---
 
