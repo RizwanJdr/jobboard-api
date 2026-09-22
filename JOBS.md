@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-21 13:49 UTC  
-**Total Positions:** 162
+**Last Updated:** 2026-09-22 12:31 UTC  
+**Total Positions:** 163
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★★ | 3 |
 | ★★★★☆ | 8 |
-| ★★★☆☆ | 5 |
+| ★★★☆☆ | 6 |
 | ★★☆☆☆ | 146 |
 
 ---
@@ -53,10 +53,13 @@
 - **[Tenure-Track Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179562639)**  
   📍 London | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (5)
+## ★★★☆☆ Moderate Communities (6)
 
 - **[Assistant Professor, Department of Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179547210)**  
   📍 Los Angeles | 🔗 HigherEdJobs
+
+- **[Maureen and Craig Sullivan University Professor](https://www.higheredjobs.com/details.cfm?JobCode=179563305)**  
+  📍 Boston | 🔗 HigherEdJobs
 
 - **[Open Rank Clinical Professor Director for the Center for Catholic Educ](https://www.higheredjobs.com/details.cfm?JobCode=179542162)**  
   📍 Los Angeles | 🔗 HigherEdJobs
@@ -96,9 +99,6 @@
 - **[Adjunct Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552375)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant / Associate Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179534137)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179556798)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -136,6 +136,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179561108)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor In Hebrew Bible And Jewish Religion](https://www.higheredjobs.com/details.cfm?JobCode=179563519)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Addiction Psychiatry at the Philadelphia VAMC -](https://www.higheredjobs.com/details.cfm?JobCode=179549438)**  
