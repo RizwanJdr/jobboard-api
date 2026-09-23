@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-22 12:31 UTC  
-**Total Positions:** 163
+**Last Updated:** 2026-09-23 12:41 UTC  
+**Total Positions:** 174
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 3 |
 | ★★★★☆ | 8 |
 | ★★★☆☆ | 6 |
-| ★★☆☆☆ | 146 |
+| ★★☆☆☆ | 157 |
 
 ---
 
@@ -73,7 +73,7 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (146)
+## ★★☆☆☆ Other Locations (157)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -99,7 +99,7 @@
 - **[Adjunct Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552375)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179556798)**  
+- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179563554)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (Social Health Psychology) - Department of Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179550996)**  
@@ -159,13 +159,13 @@
 - **[Assistant Professor in Human Neuroscience in the Department of Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179539086)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor in Psychological Science (Open Area)](https://www.higheredjobs.com/details.cfm?JobCode=179564822)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor in Sport Psychology (9 Month Salary)](https://www.higheredjobs.com/details.cfm?JobCode=179541728)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in the Clinical Science Program in the Department ](https://www.higheredjobs.com/details.cfm?JobCode=179539087)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 116 more positions*
+*...and 127 more positions*
 
 ---
 
