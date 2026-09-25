@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-24 12:39 UTC  
-**Total Positions:** 182
+**Last Updated:** 2026-09-25 12:41 UTC  
+**Total Positions:** 180
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 3 |
-| ★★★★☆ | 8 |
+| ★★★★☆ | 7 |
 | ★★★☆☆ | 6 |
-| ★★☆☆☆ | 165 |
+| ★★☆☆☆ | 164 |
 
 ---
 
@@ -27,7 +27,7 @@
 - **[Associate Professor/Professor of Practice in Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179555814)**  
   📍 Egypt | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (8)
+## ★★★★☆ Large Muslim Communities (7)
 
 - **[Adjunct Instructor - Research Methods II](https://www.higheredjobs.com/details.cfm?JobCode=179543350)**  
   📍 New York | 🔗 HigherEdJobs
@@ -46,9 +46,6 @@
 
 - **[Lecturer Position in Developmental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179548363)**  
   📍 Canada | 🔗 HigherEdJobs
-
-- **[Postdoctoral Associate (Pylkkanen Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179537254)**  
-  📍 New York | 🔗 HigherEdJobs
 
 - **[Tenure-Track Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179562639)**  
   📍 London | 🔗 HigherEdJobs
@@ -73,7 +70,7 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (165)
+## ★★☆☆☆ Other Locations (164)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -109,9 +106,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (Tenure Track) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179544260)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor (Tenure-Track) - Clinical/Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179536041)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (Tenure-Track) - Philosophy and Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179544829)**  
@@ -165,7 +159,10 @@
 - **[Assistant Professor in Human Neuroscience in the Department of Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179539086)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 135 more positions*
+- **[Assistant Professor in Psychological Science (Open Area)](https://www.higheredjobs.com/details.cfm?JobCode=179564822)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 134 more positions*
 
 ---
 
