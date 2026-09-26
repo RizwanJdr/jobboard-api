@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-25 12:41 UTC  
-**Total Positions:** 180
+**Last Updated:** 2026-09-26 12:09 UTC  
+**Total Positions:** 182
 
 ---
 
@@ -11,8 +11,8 @@
 |-----------------------|-------|
 | ★★★★★ | 3 |
 | ★★★★☆ | 7 |
-| ★★★☆☆ | 6 |
-| ★★☆☆☆ | 164 |
+| ★★★☆☆ | 5 |
+| ★★☆☆☆ | 167 |
 
 ---
 
@@ -50,7 +50,7 @@
 - **[Tenure-Track Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179562639)**  
   📍 London | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (6)
+## ★★★☆☆ Moderate Communities (5)
 
 - **[Assistant Professor, Department of Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179547210)**  
   📍 Los Angeles | 🔗 HigherEdJobs
@@ -64,13 +64,10 @@
 - **[Postdoctoral Research Associate](https://www.higheredjobs.com/details.cfm?JobCode=179544174)**  
   📍 Boston | 🔗 HigherEdJobs
 
-- **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179548311)**  
-  📍 Boston | 🔗 HigherEdJobs
-
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (164)
+## ★★☆☆☆ Other Locations (167)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -85,6 +82,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Faculty Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179555669)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Faculty, Lecturer of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179567780)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Forensic Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179544382)**  
@@ -159,10 +159,7 @@
 - **[Assistant Professor in Human Neuroscience in the Department of Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179539086)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in Psychological Science (Open Area)](https://www.higheredjobs.com/details.cfm?JobCode=179564822)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 134 more positions*
+*...and 137 more positions*
 
 ---
 
