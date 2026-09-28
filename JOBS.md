@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-27 12:54 UTC  
-**Total Positions:** 170
+**Last Updated:** 2026-09-28 15:13 UTC  
+**Total Positions:** 166
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 3 |
 | ★★★★☆ | 6 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 156 |
+| ★★☆☆☆ | 152 |
 
 ---
 
@@ -64,7 +64,7 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (156)
+## ★★☆☆☆ Other Locations (152)
 
 - **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -106,9 +106,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Clinical Neuropsychologist - AC Track](https://www.higheredjobs.com/details.cfm?JobCode=179560180)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179539726)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Clinical Psychology (Applied AI)](https://www.higheredjobs.com/details.cfm?JobCode=179564991)**  
@@ -156,7 +153,10 @@
 - **[Assistant Professor in Sport Psychology (9 Month Salary)](https://www.higheredjobs.com/details.cfm?JobCode=179541728)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 126 more positions*
+- **[Assistant Professor of Christian Ministry](https://www.higheredjobs.com/details.cfm?JobCode=179561067)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 122 more positions*
 
 ---
 
