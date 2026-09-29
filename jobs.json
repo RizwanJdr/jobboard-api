@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T15:12:21.917632+00:00",
-  "count": 166,
+  "updated": "2026-09-29T13:54:26.816956+00:00",
+  "count": 171,
   "jobs": [
     {
       "title": "Assistant, Associate or Full Professor in Community Psychology",
@@ -35,6 +35,14 @@
       "score": 4
     },
     {
+      "title": "Assistant Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179570403",
+      "description": "Columbia University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
+    {
       "title": "Assistant Professor (Tenure Track) - Religious Studies (27-28)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179559026",
       "description": "DePaul University (Chicago, IL)",
@@ -48,6 +56,14 @@
       "description": "State University of New York at Cortland (Cortland, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "Assistant Professor of Divinity (New Testament/Greek), (9 Mo, TT)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179570758",
+      "description": "Samford University (Birmingham, AL)",
+      "source": "HigherEdJobs",
+      "location": "Birmingham",
       "score": 4
     },
     {
@@ -88,14 +104,6 @@
       "description": "Boston College (Boston, MA)",
       "source": "HigherEdJobs",
       "location": "Boston",
-      "score": 3
-    },
-    {
-      "title": "Open Rank Clinical Professor Director for the Center for Catholic Education",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179542162",
-      "description": "Loyola Marymount University (Los Angeles, CA)",
-      "source": "HigherEdJobs",
-      "location": "Los Angeles",
       "score": 3
     },
     {
@@ -171,6 +179,14 @@
       "score": 2
     },
     {
+      "title": "Adjunct Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179570464",
+      "description": "Flagler College (St. Augustine, FL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Adjunct Professor, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179552375",
       "description": "Temple College (Temple, TX)",
@@ -179,9 +195,9 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179563554",
-      "description": "The University of Memphis (Memphis, TN)",
+      "title": "Adjunct Professor-Psychopharmacology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179569622",
+      "description": "Seton Hall University (South Orange, NJ)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -219,9 +235,25 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor - Behavior Analysis",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179569879",
+      "description": "Utah State University (Logan, UT)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor - Clinical Neuropsychologist - AC Track",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179560180",
       "description": "University of Pennsylvania (Philadelphia, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor - Clinical Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179569604",
+      "description": "University of North Carolina Wilmington (Wilmington, NC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -307,14 +339,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor in Counseling Psychology (9 Month Salary)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179541735",
-      "description": "Florida State University (Tallahassee, FL)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor in Geropsychology/Psychology of Aging",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179559874",
       "description": "University of Michigan - Dearborn (Dearborn, MI)",
@@ -334,14 +358,6 @@
       "title": "Assistant Professor in Psychological Science (Open Area)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179564822",
       "description": "Northern Kentucky University (Highland Heights, KY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor in Sport Psychology (9 Month Salary)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179541728",
-      "description": "Florida State University (Tallahassee, FL)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -379,6 +395,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor of Instruction",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179571065",
+      "description": "Texas State University (San Marcos, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor of Instruction - Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179563085",
       "description": "University of Northern Iowa (Cedar Falls, IA)",
@@ -403,17 +427,9 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor of Psychological Sciences",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179541629",
-      "description": "University of Missouri - St. Louis (St. Louis, MO)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179566757",
-      "description": "University of Texas at Austin (Austin, TX)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179570365",
+      "description": "California State University, Monterey Bay (Seaside, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -548,8 +564,8 @@
     },
     {
       "title": "Assistant Professor of Theology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179544488",
-      "description": "Southern Methodist University (Dallas, TX)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179570689",
+      "description": "Mount Marty University (Yankton, SD)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -763,14 +779,6 @@
       "score": 2
     },
     {
-      "title": "Assistant/Associate Professor in Psychology/Leadership (tenure-track) Multiple Positions",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179541954",
-      "description": "Virginia Military Institute (Lexington, VA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant/Associate Professor of Psychological Science",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179566194",
       "description": "University of Lynchburg (Lynchburg, VA)",
@@ -798,14 +806,6 @@
       "title": "Assistant/Associate Professor, New Testament Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179557980",
       "description": "Mercer University (Atlanta, GA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant/Associate/Full Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179541730",
-      "description": "Grove City College (Grove City, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -923,6 +923,14 @@
       "score": 2
     },
     {
+      "title": "Lecturer AY - Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179569469",
+      "description": "California State University, Monterey Bay (Seaside, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Lecturer in Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179543915",
       "description": "Indiana University South Bend (South Bend, IN)",
@@ -1035,6 +1043,14 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Associate (Multiple Vacancies)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179569493",
+      "description": "Rutgers, The State University of New Jersey (New Brunswick, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Fellow",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179567934",
       "description": "Augusta University (Augusta, GA)",
@@ -1043,11 +1059,11 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Fellow - Social and Behavioral Sciences",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179568477",
-      "description": "Harvard University (Cambridge, MA)",
+      "title": "Postdoctoral Fellow (2025)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179570492",
+      "description": "Tulane University (New Orleans, LA)",
       "source": "HigherEdJobs",
-      "location": "Cambridge",
+      "location": "Unknown",
       "score": 2
     },
     {
@@ -1115,6 +1131,14 @@
       "score": 2
     },
     {
+      "title": "Professor in Moral Theology (Open Rank) for the School of Theology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179570691",
+      "description": "St. Mary's Seminary & University (Baltimore, MD)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Professor of Theology, Open Rank",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179566516",
       "description": "Sacred Heart Seminary and School of Theology (Hales Corners, WI)",
@@ -1133,6 +1157,14 @@
     {
       "title": "Psychiatrist, Clinical Assistant/Associate Professor, Psychiatry, Child Adolescent Inpatient Unit (Part-Time/Weekends/Vacation Coverage/Holidays)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179567142",
+      "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychologist, Clinical Assistant Professor, Psychiatry, Consultation Liaison Service",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179570227",
       "description": "Stony Brook University (Stony Brook, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -1270,6 +1302,14 @@
       "title": "Tenure Track Assistant Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179555337",
       "description": "Georgia Institute of Technology (Atlanta, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Tenure Track, Assistant Professor Mental Health Counseling and Counseling Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179569603",
+      "description": "University at Buffalo (Buffalo, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
