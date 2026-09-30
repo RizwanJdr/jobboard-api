@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-09-29 13:55 UTC  
-**Total Positions:** 171
+**Last Updated:** 2026-09-30 13:31 UTC  
+**Total Positions:** 180
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 3 |
 | ★★★★☆ | 8 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 156 |
+| ★★☆☆☆ | 165 |
 
 ---
 
@@ -67,10 +67,7 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (156)
-
-- **[2026-27 Lecturer Pool Department of Psychology (Undergraduate)](https://www.higheredjobs.com/details.cfm?JobCode=179542154)**  
-  📍 Unknown | 🔗 HigherEdJobs
+## ★★☆☆☆ Other Locations (165)
 
 - **[27-30 Tenure-Track Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552048)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -126,7 +123,7 @@
 - **[Assistant Professor - Cognition and Cognitive Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179545989)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179560012)**  
+- **[Assistant Professor - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179571593)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Human Factors](https://www.higheredjobs.com/details.cfm?JobCode=179545987)**  
@@ -159,7 +156,10 @@
 - **[Assistant Professor in Psychological Science (Open Area)](https://www.higheredjobs.com/details.cfm?JobCode=179564822)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 126 more positions*
+- **[Assistant Professor of Christian Ministry](https://www.higheredjobs.com/details.cfm?JobCode=179561067)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 135 more positions*
 
 ---
 
