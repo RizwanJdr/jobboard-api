@@ -1,6 +1,6 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-02 13:44 UTC  
+**Last Updated:** 2026-10-03 12:24 UTC  
 **Total Positions:** 182
 
 ---
@@ -9,25 +9,22 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★★ | 3 |
-| ★★★★☆ | 6 |
+| ★★★★★ | 2 |
+| ★★★★☆ | 8 |
 | ★★★☆☆ | 3 |
-| ★★☆☆☆ | 170 |
+| ★★☆☆☆ | 169 |
 
 ---
 
-## ★★★★★ Muslim-Majority Regions (3)
+## ★★★★★ Muslim-Majority Regions (2)
 
 - **[Assistant, Associate or Full Professor in Community Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552822)**  
   📍 Egypt | 🔗 HigherEdJobs
 
-- **[Assistant/Associate Professor - Social and Behavioral Sciences](https://www.higheredjobs.com/details.cfm?JobCode=179545606)**  
-  📍 Saudi Arabia | 🔗 HigherEdJobs
-
 - **[Associate Professor/Professor of Practice in Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179555814)**  
   📍 Egypt | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (6)
+## ★★★★☆ Large Muslim Communities (8)
 
 - **[Assistant Professor (Tenure Track) - Religious Studies (27-28)](https://www.higheredjobs.com/details.cfm?JobCode=179559026)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -38,11 +35,17 @@
 - **[Assistant Professor of Divinity (New Testament/Greek), (9 Mo, TT)](https://www.higheredjobs.com/details.cfm?JobCode=179570758)**  
   📍 Birmingham | 🔗 HigherEdJobs
 
+- **[Assistant Professor of Hebrew Bible](https://www.higheredjobs.com/details.cfm?JobCode=179576212)**  
+  📍 New York | 🔗 HigherEdJobs
+
 - **[Assistant/Associate Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179560680)**  
   📍 Chicago | 🔗 HigherEdJobs
 
 - **[Lecturer Position in Developmental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179548363)**  
   📍 Canada | 🔗 HigherEdJobs
+
+- **[Preaching Professor and Director of the Robert Smith Jr. Preaching Ins](https://www.higheredjobs.com/details.cfm?JobCode=179576569)**  
+  📍 Birmingham | 🔗 HigherEdJobs
 
 - **[Tenure-Track Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179562639)**  
   📍 London | 🔗 HigherEdJobs
@@ -58,7 +61,7 @@
 - **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (170)
+## ★★☆☆☆ Other Locations (169)
 
 - **[27-30 Tenure-Track Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552048)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -93,10 +96,10 @@
 - **[Assistant Professor (Teaching) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179556231)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor (Tenure-Track) - Philosophy and Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179544829)**  
+- **[Assistant Professor - Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179569879)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179569879)**  
+- **[Assistant Professor - CRT](https://www.higheredjobs.com/details.cfm?JobCode=179576186)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Clinical Neuropsychologist - AC Track](https://www.higheredjobs.com/details.cfm?JobCode=179560180)**  
@@ -150,7 +153,7 @@
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179571219)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 140 more positions*
+*...and 139 more positions*
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T13:43:10.344634+00:00",
+  "updated": "2026-10-03T12:23:09.345420+00:00",
   "count": 182,
   "jobs": [
     {
@@ -8,14 +8,6 @@
       "description": "American University in Cairo (Cairo, Egypt)",
       "source": "HigherEdJobs",
       "location": "Egypt",
-      "score": 5
-    },
-    {
-      "title": "Assistant/Associate Professor - Social and Behavioral Sciences",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545606",
-      "description": "Prince Mohammad Bin Fahd University (Al-Khobar, Saudi Arabia)",
-      "source": "HigherEdJobs",
-      "location": "Saudi Arabia",
       "score": 5
     },
     {
@@ -51,6 +43,14 @@
       "score": 4
     },
     {
+      "title": "Assistant Professor of Hebrew Bible",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179576212",
+      "description": "New York University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
+    {
       "title": "Assistant/Associate Professor of Theology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179560680",
       "description": "Concordia University Chicago (River Forest, IL)",
@@ -64,6 +64,14 @@
       "description": "Simon Fraser University (Burnaby, BC, Canada)",
       "source": "HigherEdJobs",
       "location": "Canada",
+      "score": 4
+    },
+    {
+      "title": "Preaching Professor and Director of the Robert Smith Jr. Preaching Institute, Associate or Full Professor (9 Mo, TT)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179576569",
+      "description": "Samford University (Birmingham, AL)",
+      "source": "HigherEdJobs",
+      "location": "Birmingham",
       "score": 4
     },
     {
@@ -187,17 +195,17 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor (Tenure-Track) - Philosophy and Religious Studies",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179544829",
-      "description": "University of Wisconsin - Whitewater (Whitewater, WI)",
+      "title": "Assistant Professor - Behavior Analysis",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179569879",
+      "description": "Utah State University (Logan, UT)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
     },
     {
-      "title": "Assistant Professor - Behavior Analysis",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179569879",
-      "description": "Utah State University (Logan, UT)",
+      "title": "Assistant Professor - CRT",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179576186",
+      "description": "Emory University (Atlanta, GA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -388,8 +396,16 @@
     },
     {
       "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179575751",
-      "description": "California State University, San Marcos (San Marcos, CA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179576662",
+      "description": "Warren Wilson College (Asheville, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychology (339)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179575709",
+      "description": "Allegheny College (Meadville, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -446,6 +462,14 @@
       "title": "Assistant Professor of Psychology (Physiological/Biological Psychology or Behavioral/Cognitive Neuroscience)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179559820",
       "description": "Kennesaw State University (Kennesaw, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychology - General - #001172",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179576894",
+      "description": "Western Carolina University (Cullowhee, NC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -771,6 +795,14 @@
       "score": 2
     },
     {
+      "title": "Assistant/Associate Professor of Psychology (Clinical) - #192788",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179576893",
+      "description": "Western Carolina University (Cullowhee, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant/Associate Professor of Religion; Mariam Coltrane Schramm Endowed Professor of Religion & Christian Education",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179563577",
       "description": "Pfeiffer University (Misenheimer, NC)",
@@ -835,25 +867,9 @@
       "score": 2
     },
     {
-      "title": "BCAS - Assistant Professor In Clinical Health Psychology, Psychology - 530025",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179532737",
-      "description": "The University of Alabama (Tuscaloosa, AL)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "BCAS - Assistant Professor in Clinical Psychology Law - 530298",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179532829",
-      "description": "The University of Alabama (Tuscaloosa, AL)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Clinical Assistant Professor - Psychologist GF1739",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545832",
-      "description": "Oklahoma State University (Stillwater, OK)",
+      "title": "Associate/Assistant Professor - Psychology (Counseling)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179576532",
+      "description": "Texas A&M University-Victoria (Victoria, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -947,6 +963,14 @@
       "score": 2
     },
     {
+      "title": "Lecturer - Psychedelics Education - Berkeley School of Education",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179576909",
+      "description": "University of California Berkeley (Berkeley, CA)",
+      "source": "HigherEdJobs",
+      "location": "Berkeley",
+      "score": 2
+    },
+    {
       "title": "Lecturer - Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179573592",
       "description": "Texas Tech University (Lubbock, TX)",
@@ -1005,14 +1029,6 @@
     {
       "title": "Open Rank Professor of Psychology -- Cognitive Psychology (Neuroscience) (Tenure Track or Tenured)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179561183",
-      "description": "University of Oklahoma (Norman, OK)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Open Rank Professor of Psychology -- Quantitative Psychology (Tenure Track or Tenured)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179561894",
       "description": "University of Oklahoma (Norman, OK)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -1235,30 +1251,6 @@
       "score": 2
     },
     {
-      "title": "Psychology, Tenure Track Assistant Professor (Clinical)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545691",
-      "description": "University of Southern Mississippi, The (Hattiesburg, MS)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Psychology, Tenure Track Assistant Professor (Counseling)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545697",
-      "description": "University of Southern Mississippi, The (Hattiesburg, MS)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Psychology, Tenure Track Assistant Professor (Experimental)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545692",
-      "description": "University of Southern Mississippi, The (Hattiesburg, MS)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Psychology/Surgical Psychology - Clinical Assistant or Associate Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179564735",
       "description": "University of Florida (Jacksonville, FL)",
@@ -1414,6 +1406,14 @@
       "title": "Tenured: Associate Professor or Professor in Global Catholicism and Dolores '85 and Mark Kelly '83 Endowed Chair in Religious Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179558920",
       "description": "Texas A&M University (College Station, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "University Chair Full Professorship in Systematic Theology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179577146",
+      "description": "University of Notre Dame (Notre Dame, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
