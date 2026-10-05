@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-04 13:07 UTC  
-**Total Positions:** 177
+**Last Updated:** 2026-10-05 15:47 UTC  
+**Total Positions:** 168
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 2 |
-| ★★★★☆ | 8 |
-| ★★★☆☆ | 3 |
-| ★★☆☆☆ | 164 |
+| ★★★★☆ | 6 |
+| ★★★☆☆ | 1 |
+| ★★☆☆☆ | 159 |
 
 ---
 
@@ -24,13 +24,10 @@
 - **[Associate Professor/Professor of Practice in Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179555814)**  
   📍 Egypt | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (8)
+## ★★★★☆ Large Muslim Communities (6)
 
 - **[Assistant Professor (Tenure Track) - Religious Studies (27-28)](https://www.higheredjobs.com/details.cfm?JobCode=179559026)**  
   📍 Chicago | 🔗 HigherEdJobs
-
-- **[Assistant Professor - Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179547799)**  
-  📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Divinity (New Testament/Greek), (9 Mo, TT)](https://www.higheredjobs.com/details.cfm?JobCode=179570758)**  
   📍 Birmingham | 🔗 HigherEdJobs
@@ -41,27 +38,18 @@
 - **[Assistant/Associate Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179560680)**  
   📍 Chicago | 🔗 HigherEdJobs
 
-- **[Lecturer Position in Developmental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179548363)**  
-  📍 Canada | 🔗 HigherEdJobs
-
 - **[Preaching Professor and Director of the Robert Smith Jr. Preaching Ins](https://www.higheredjobs.com/details.cfm?JobCode=179576569)**  
   📍 Birmingham | 🔗 HigherEdJobs
 
 - **[Tenure-Track Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179562639)**  
   📍 London | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (3)
-
-- **[Assistant Professor, Department of Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179547210)**  
-  📍 Los Angeles | 🔗 HigherEdJobs
+## ★★★☆☆ Moderate Communities (1)
 
 - **[Maureen and Craig Sullivan University Professor](https://www.higheredjobs.com/details.cfm?JobCode=179563305)**  
   📍 Boston | 🔗 HigherEdJobs
 
-- **[Professor of Practice](https://www.higheredjobs.com/details.cfm?JobCode=179547192)**  
-  📍 Boston | 🔗 HigherEdJobs
-
-## ★★☆☆☆ Other Locations (164)
+## ★★☆☆☆ Other Locations (159)
 
 - **[27-30 Tenure-Track Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552048)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -117,9 +105,6 @@
 - **[Assistant Professor - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179571593)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Philosophy and Religion](https://www.higheredjobs.com/details.cfm?JobCode=179547959)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor - Psychologist](https://www.higheredjobs.com/details.cfm?JobCode=179574264)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -153,7 +138,10 @@
 - **[Assistant Professor of Clinical Psychology or related field such as ps](https://www.higheredjobs.com/details.cfm?JobCode=179572929)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 134 more positions*
+- **[Assistant Professor of Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179562106)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 129 more positions*
 
 ---
 
