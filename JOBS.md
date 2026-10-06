@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-05 15:47 UTC  
-**Total Positions:** 168
+**Last Updated:** 2026-10-06 14:04 UTC  
+**Total Positions:** 174
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 2 |
-| ★★★★☆ | 6 |
+| ★★★★☆ | 8 |
 | ★★★☆☆ | 1 |
-| ★★☆☆☆ | 159 |
+| ★★☆☆☆ | 163 |
 
 ---
 
@@ -24,7 +24,7 @@
 - **[Associate Professor/Professor of Practice in Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179555814)**  
   📍 Egypt | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (6)
+## ★★★★☆ Large Muslim Communities (8)
 
 - **[Assistant Professor (Tenure Track) - Religious Studies (27-28)](https://www.higheredjobs.com/details.cfm?JobCode=179559026)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -38,6 +38,12 @@
 - **[Assistant/Associate Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179560680)**  
   📍 Chicago | 🔗 HigherEdJobs
 
+- **[Associate or Full Professor of Sephardic Studies](https://www.higheredjobs.com/details.cfm?JobCode=179578600)**  
+  📍 New York | 🔗 HigherEdJobs
+
+- **[Postdoctoral Associate (Mattar Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179578969)**  
+  📍 New York | 🔗 HigherEdJobs
+
 - **[Preaching Professor and Director of the Robert Smith Jr. Preaching Ins](https://www.higheredjobs.com/details.cfm?JobCode=179576569)**  
   📍 Birmingham | 🔗 HigherEdJobs
 
@@ -49,10 +55,7 @@
 - **[Maureen and Craig Sullivan University Professor](https://www.higheredjobs.com/details.cfm?JobCode=179563305)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (159)
-
-- **[27-30 Tenure-Track Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552048)**  
-  📍 Unknown | 🔗 HigherEdJobs
+## ★★☆☆☆ Other Locations (163)
 
 - **[3-Year Visiting Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179559890)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -141,7 +144,10 @@
 - **[Assistant Professor of Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179562106)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 129 more positions*
+- **[Assistant Professor of Health Disparities/Health Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179555304)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 133 more positions*
 
 ---
 
