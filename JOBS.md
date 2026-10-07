@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-06 14:04 UTC  
-**Total Positions:** 174
+**Last Updated:** 2026-10-07 14:23 UTC  
+**Total Positions:** 183
 
 ---
 
@@ -11,8 +11,8 @@
 |-----------------------|-------|
 | ★★★★★ | 2 |
 | ★★★★☆ | 8 |
-| ★★★☆☆ | 1 |
-| ★★☆☆☆ | 163 |
+| ★★★☆☆ | 2 |
+| ★★☆☆☆ | 171 |
 
 ---
 
@@ -50,12 +50,18 @@
 - **[Tenure-Track Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179562639)**  
   📍 London | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (1)
+## ★★★☆☆ Moderate Communities (2)
 
 - **[Maureen and Craig Sullivan University Professor](https://www.higheredjobs.com/details.cfm?JobCode=179563305)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (163)
+- **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
+  📍 Boston | 🔗 HigherEdJobs
+
+## ★★☆☆☆ Other Locations (171)
+
+- **[27-30 Tenure-Track Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552048)**  
+  📍 Unknown | 🔗 HigherEdJobs
 
 - **[3-Year Visiting Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179559890)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -129,6 +135,9 @@
 - **[Assistant Professor in High-Level Human Cognition](https://www.higheredjobs.com/details.cfm?JobCode=179551261)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor in Psychiatry and Health Behavior- Clinical/Resear](https://www.higheredjobs.com/details.cfm?JobCode=179579490)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor in Psychological Science (Open Area)](https://www.higheredjobs.com/details.cfm?JobCode=179564822)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -141,13 +150,7 @@
 - **[Assistant Professor of Clinical Psychology or related field such as ps](https://www.higheredjobs.com/details.cfm?JobCode=179572929)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179562106)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Health Disparities/Health Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179555304)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 133 more positions*
+*...and 141 more positions*
 
 ---
 
