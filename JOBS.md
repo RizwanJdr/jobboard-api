@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-07 14:23 UTC  
-**Total Positions:** 183
+**Last Updated:** 2026-10-08 14:30 UTC  
+**Total Positions:** 187
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 2 |
-| ★★★★☆ | 8 |
+| ★★★★☆ | 9 |
 | ★★★☆☆ | 2 |
-| ★★☆☆☆ | 171 |
+| ★★☆☆☆ | 174 |
 
 ---
 
@@ -24,7 +24,7 @@
 - **[Associate Professor/Professor of Practice in Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179555814)**  
   📍 Egypt | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (8)
+## ★★★★☆ Large Muslim Communities (9)
 
 - **[Assistant Professor (Tenure Track) - Religious Studies (27-28)](https://www.higheredjobs.com/details.cfm?JobCode=179559026)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -40,6 +40,9 @@
 
 - **[Associate or Full Professor of Sephardic Studies](https://www.higheredjobs.com/details.cfm?JobCode=179578600)**  
   📍 New York | 🔗 HigherEdJobs
+
+- **[HSOM Psychiatry and Behavioral Neurobiology - Postdoctoral Fellow - PF](https://www.higheredjobs.com/details.cfm?JobCode=179580617)**  
+  📍 Birmingham | 🔗 HigherEdJobs
 
 - **[Postdoctoral Associate (Mattar Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179578969)**  
   📍 New York | 🔗 HigherEdJobs
@@ -58,12 +61,12 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (171)
-
-- **[27-30 Tenure-Track Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552048)**  
-  📍 Unknown | 🔗 HigherEdJobs
+## ★★☆☆☆ Other Locations (174)
 
 - **[3-Year Visiting Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179559890)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[AY 26/27 Assistant Research Professor](https://www.higheredjobs.com/details.cfm?JobCode=179580837)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Academic Clinician Assistant Professor, Healthy Minds Healthy Kids-CHO](https://www.higheredjobs.com/details.cfm?JobCode=179555356)**  
@@ -85,6 +88,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179572772)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor (Psychology/Psy.D. Program)-9 month appointment](https://www.higheredjobs.com/details.cfm?JobCode=179580584)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (Social Health Psychology) - Department of Psychol](https://www.higheredjobs.com/details.cfm?JobCode=179550996)**  
@@ -147,10 +153,7 @@
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179571219)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Clinical Psychology or related field such as ps](https://www.higheredjobs.com/details.cfm?JobCode=179572929)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 141 more positions*
+*...and 144 more positions*
 
 ---
 
