@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T14:15:55.449477+00:00",
-  "count": 198,
+  "updated": "2026-10-10T13:28:50.297408+00:00",
+  "count": 206,
   "jobs": [
     {
       "title": "Assistant, Associate or Full Professor in Community Psychology",
@@ -16,6 +16,14 @@
       "description": "American University in Cairo (Cairo, Egypt)",
       "source": "HigherEdJobs",
       "location": "Egypt",
+      "score": 5
+    },
+    {
+      "title": "Psychology Professor, Tenured/Tenure Track, Open-Rank",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179583694",
+      "description": "New York University Abu Dhabi (Abu Dhabi, United Arab Emirates)",
+      "source": "HigherEdJobs",
+      "location": "UAE",
       "score": 5
     },
     {
@@ -102,6 +110,22 @@
       "title": "Maureen and Craig Sullivan University Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179563305",
       "description": "Boston College (Boston, MA)",
+      "source": "HigherEdJobs",
+      "location": "Boston",
+      "score": 3
+    },
+    {
+      "title": "Open Rank (Assistant, Associate, or Full) Tenure-Track Professor in AI-mediated Telepresence",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179584092",
+      "description": "Northeastern University (Boston, MA)",
+      "source": "HigherEdJobs",
+      "location": "Boston",
+      "score": 3
+    },
+    {
+      "title": "Part-Time Lecturer - Philosophy and Religion",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179584023",
+      "description": "Northeastern University (Boston, MA)",
       "source": "HigherEdJobs",
       "location": "Boston",
       "score": 3
@@ -403,6 +427,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor of Developmental Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179582937",
+      "description": "SUNY Oneonta (Oneonta, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor of Health Disparities/Health Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179555304",
       "description": "California State University, Long Beach (Long Beach, CA)",
@@ -478,14 +510,6 @@
       "title": "Assistant Professor of Psychology (Clinical)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179568167",
       "description": "University of Texas at Austin (Austin, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor of Psychology (Clinical/Counseling)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179550989",
-      "description": "Kennesaw State University (Kennesaw, GA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -628,8 +652,8 @@
     },
     {
       "title": "Assistant Professor, Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179579027",
-      "description": "Xavier University (Cincinnati, OH)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179584101",
+      "description": "Seattle University (Seattle, WA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -660,7 +684,7 @@
     },
     {
       "title": "Assistant Professor, Psychology – Quantitative, Computational, and Data Science (# JPF10334)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179523795",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179583525",
       "description": "University of California, Irvine (Irvine, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -755,17 +779,17 @@
       "score": 2
     },
     {
-      "title": "Assistant Teaching Professor Of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179551083",
-      "description": "University of Tampa (Tampa, FL)",
+      "title": "Assistant Teaching Professor in Christian Spirituality and Mysticism",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179579178",
+      "description": "Santa Clara University (Santa Clara, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
     },
     {
-      "title": "Assistant Teaching Professor in Christian Spirituality and Mysticism",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179579178",
-      "description": "Santa Clara University (Santa Clara, CA)",
+      "title": "Assistant or Associate Professor of Counseling",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179583623",
+      "description": "Indiana Wesleyan University (Marion, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -782,6 +806,14 @@
       "title": "Assistant or Associate Professor of Ministry Practices",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179560705",
       "description": "United Theological Seminary of the Twin Cities (Saint Paul, MN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant or Associate Professor of Theology/Biblical Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179584086",
+      "description": "Northwest University (Kirkland, WA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -948,7 +980,7 @@
     },
     {
       "title": "Clinical Assistant Professor - Pediatrics (Developmental Psychology)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179582144",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179583431",
       "description": "University of Kansas Medical Center (Kansas City, KS)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -1267,6 +1299,14 @@
       "score": 2
     },
     {
+      "title": "Professor Term (Open Rank) and Director of the Noble H. Kelley Psychological Services Center (PSC) - R109499",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179583503",
+      "description": "University of Louisville (Louisville, KY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Professor in Moral Theology (Open Rank) for the School of Theology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179570691",
       "description": "St. Mary's Seminary & University (Baltimore, MD)",
@@ -1318,6 +1358,14 @@
       "title": "Psychiatrist, Clinical Assistant/Associate Professor, Psychiatry, Child Adolescent Inpatient Unit (Part-Time/Weekends/Vacation Coverage/Holidays)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179567142",
       "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychological Science Lecturer",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179583789",
+      "description": "South Texas College (McAllen, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1526,6 +1574,22 @@
       "title": "Tenured: Associate Professor or Professor in Global Catholicism and Dolores '85 and Mark Kelly '83 Endowed Chair in Religious Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179558920",
       "description": "Texas A&M University (College Station, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Theology and Philosophy, Visiting Assistant Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179584370",
+      "description": "University of Saint Joseph (West Hartford, CT)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Two-year Postdoctoral Fellowship in Jewish Theology and Culture",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179584029",
+      "description": "University of Notre Dame (Notre Dame, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2

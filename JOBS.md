@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-09 14:16 UTC  
-**Total Positions:** 198
+**Last Updated:** 2026-10-10 13:29 UTC  
+**Total Positions:** 206
 
 ---
 
@@ -9,20 +9,23 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★★ | 2 |
+| ★★★★★ | 3 |
 | ★★★★☆ | 10 |
-| ★★★☆☆ | 2 |
-| ★★☆☆☆ | 184 |
+| ★★★☆☆ | 4 |
+| ★★☆☆☆ | 189 |
 
 ---
 
-## ★★★★★ Muslim-Majority Regions (2)
+## ★★★★★ Muslim-Majority Regions (3)
 
 - **[Assistant, Associate or Full Professor in Community Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552822)**  
   📍 Egypt | 🔗 HigherEdJobs
 
 - **[Associate Professor/Professor of Practice in Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179555814)**  
   📍 Egypt | 🔗 HigherEdJobs
+
+- **[Psychology Professor, Tenured/Tenure Track, Open-Rank](https://www.higheredjobs.com/details.cfm?JobCode=179583694)**  
+  📍 UAE | 🔗 HigherEdJobs
 
 ## ★★★★☆ Large Muslim Communities (10)
 
@@ -56,15 +59,21 @@
 - **[Tenure-Track Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179562639)**  
   📍 London | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (2)
+## ★★★☆☆ Moderate Communities (4)
 
 - **[Maureen and Craig Sullivan University Professor](https://www.higheredjobs.com/details.cfm?JobCode=179563305)**  
+  📍 Boston | 🔗 HigherEdJobs
+
+- **[Open Rank (Assistant, Associate, or Full) Tenure-Track Professor in AI](https://www.higheredjobs.com/details.cfm?JobCode=179584092)**  
+  📍 Boston | 🔗 HigherEdJobs
+
+- **[Part-Time Lecturer - Philosophy and Religion](https://www.higheredjobs.com/details.cfm?JobCode=179584023)**  
   📍 Boston | 🔗 HigherEdJobs
 
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (184)
+## ★★☆☆☆ Other Locations (189)
 
 - **[27-30 Tenure-Track Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552048)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -156,7 +165,7 @@
 - **[Assistant Professor in Psychological Science (Open Area)](https://www.higheredjobs.com/details.cfm?JobCode=179564822)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 154 more positions*
+*...and 159 more positions*
 
 ---
 
