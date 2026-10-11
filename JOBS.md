@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-10 13:29 UTC  
-**Total Positions:** 206
+**Last Updated:** 2026-10-11 13:54 UTC  
+**Total Positions:** 197
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 3 |
 | ★★★★☆ | 10 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 189 |
+| ★★☆☆☆ | 180 |
 
 ---
 
@@ -73,10 +73,7 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (189)
-
-- **[27-30 Tenure-Track Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552048)**  
-  📍 Unknown | 🔗 HigherEdJobs
+## ★★☆☆☆ Other Locations (180)
 
 - **[3-Year Visiting Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179559890)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -94,9 +91,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179570464)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Professor, Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552375)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor-Psychopharmacology](https://www.higheredjobs.com/details.cfm?JobCode=179569622)**  
@@ -156,16 +150,22 @@
 - **[Assistant Professor in Geropsychology/Psychology of Aging](https://www.higheredjobs.com/details.cfm?JobCode=179559874)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in High-Level Human Cognition](https://www.higheredjobs.com/details.cfm?JobCode=179551261)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor in Psychiatry and Health Behavior- Clinical/Resear](https://www.higheredjobs.com/details.cfm?JobCode=179579490)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Psychological Science (Open Area)](https://www.higheredjobs.com/details.cfm?JobCode=179564822)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 159 more positions*
+- **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179583101)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Christian Ministry](https://www.higheredjobs.com/details.cfm?JobCode=179561067)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179571219)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 150 more positions*
 
 ---
 
