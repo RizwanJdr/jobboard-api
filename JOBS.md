@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-11 13:54 UTC  
-**Total Positions:** 197
+**Last Updated:** 2026-10-12 16:38 UTC  
+**Total Positions:** 195
 
 ---
 
@@ -9,17 +9,14 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★★ | 3 |
+| ★★★★★ | 2 |
 | ★★★★☆ | 10 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 180 |
+| ★★☆☆☆ | 179 |
 
 ---
 
-## ★★★★★ Muslim-Majority Regions (3)
-
-- **[Assistant, Associate or Full Professor in Community Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179552822)**  
-  📍 Egypt | 🔗 HigherEdJobs
+## ★★★★★ Muslim-Majority Regions (2)
 
 - **[Associate Professor/Professor of Practice in Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179555814)**  
   📍 Egypt | 🔗 HigherEdJobs
@@ -73,10 +70,13 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (180)
+## ★★☆☆☆ Other Locations (179)
 
 - **[3-Year Visiting Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179559890)**  
   📍 Unknown | 🔗 HigherEdJobs
+
+- **[AI Postdoctoral Research Fellow - Natural and Artificial Minds](https://www.higheredjobs.com/details.cfm?JobCode=179584914)**  
+  📍 Princeton | 🔗 HigherEdJobs
 
 - **[AY 26/27 Assistant Research Professor](https://www.higheredjobs.com/details.cfm?JobCode=179580837)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -118,9 +118,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Clinical Psychology (Applied AI)](https://www.higheredjobs.com/details.cfm?JobCode=179564991)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor - Cognition and Cognitive Neuroscience](https://www.higheredjobs.com/details.cfm?JobCode=179545989)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179582090)**  
@@ -165,7 +162,7 @@
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179571219)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 150 more positions*
+*...and 149 more positions*
 
 ---
 

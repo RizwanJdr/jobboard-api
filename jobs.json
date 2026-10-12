@@ -1,15 +1,7 @@
 {
-  "updated": "2026-10-11T13:53:06.500934+00:00",
-  "count": 197,
+  "updated": "2026-10-12T16:37:48.052243+00:00",
+  "count": 195,
   "jobs": [
-    {
-      "title": "Assistant, Associate or Full Professor in Community Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179552822",
-      "description": "American University in Cairo (Cairo, Egypt)",
-      "source": "HigherEdJobs",
-      "location": "Egypt",
-      "score": 5
-    },
     {
       "title": "Associate Professor/Professor of Practice in Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179555814",
@@ -147,6 +139,14 @@
       "score": 2
     },
     {
+      "title": "AI Postdoctoral Research Fellow - Natural and Artificial Minds",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179584914",
+      "description": "Princeton University (Princeton, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Princeton",
+      "score": 2
+    },
+    {
       "title": "AY 26/27 Assistant Research Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179580837",
       "description": "University of Notre Dame (Notre Dame, IN)",
@@ -254,14 +254,6 @@
       "title": "Assistant Professor - Clinical Psychology (Applied AI)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179564991",
       "description": "University of South Florida (Tampa, FL)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor - Cognition and Cognitive Neuroscience",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179545989",
-      "description": "Texas Tech University (Lubbock, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -542,14 +534,6 @@
       "title": "Assistant Professor of Psychology AF7760",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179562591",
       "description": "Oklahoma State University (Stillwater, OK)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor of Social Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179553054",
-      "description": "University of Arkansas (Fayetteville, AR)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
