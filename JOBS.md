@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-13 14:55 UTC  
-**Total Positions:** 200
+**Last Updated:** 2026-10-14 12:47 UTC  
+**Total Positions:** 210
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 2 |
 | ★★★★☆ | 10 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 184 |
+| ★★☆☆☆ | 194 |
 
 ---
 
@@ -70,7 +70,7 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (184)
+## ★★☆☆☆ Other Locations (194)
 
 - **[3-Year Visiting Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179559890)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -141,9 +141,6 @@
 - **[Assistant Professor In Hebrew Bible And Jewish Religion](https://www.higheredjobs.com/details.cfm?JobCode=179563519)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor Of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179585320)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor in Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179582397)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -162,7 +159,10 @@
 - **[Assistant Professor of Christian Ministry](https://www.higheredjobs.com/details.cfm?JobCode=179561067)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 154 more positions*
+- **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179571219)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 164 more positions*
 
 ---
 
