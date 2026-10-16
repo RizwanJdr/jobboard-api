@@ -1,6 +1,6 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-15 12:34 UTC  
+**Last Updated:** 2026-10-16 12:13 UTC  
 **Total Positions:** 214
 
 ---
@@ -96,10 +96,7 @@
 - **[Assistant Professor (Psychology/Psy.D. Program)-9 month appointment](https://www.higheredjobs.com/details.cfm?JobCode=179580584)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor (Teaching) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179556231)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor - Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179569879)**  
+- **[Assistant Professor - Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179589144)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - CRT](https://www.higheredjobs.com/details.cfm?JobCode=179576186)**  
@@ -123,6 +120,9 @@
 - **[Assistant Professor - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179571593)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor - Experimental Analysis of Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179589142)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor - Psychologist](https://www.higheredjobs.com/details.cfm?JobCode=179574264)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -130,9 +130,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Psychology & Special Education](https://www.higheredjobs.com/details.cfm?JobCode=179581758)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor - School Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179556344)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor In Hebrew Bible And Jewish Religion](https://www.higheredjobs.com/details.cfm?JobCode=179563519)**  
@@ -160,6 +157,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179583101)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Christian Ministry](https://www.higheredjobs.com/details.cfm?JobCode=179561067)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 *...and 168 more positions*
