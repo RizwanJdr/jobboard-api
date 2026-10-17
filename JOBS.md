@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-16 12:13 UTC  
-**Total Positions:** 214
+**Last Updated:** 2026-10-17 11:31 UTC  
+**Total Positions:** 213
 
 ---
 
@@ -11,8 +11,8 @@
 |-----------------------|-------|
 | ★★★★★ | 1 |
 | ★★★★☆ | 11 |
-| ★★★☆☆ | 4 |
-| ★★☆☆☆ | 198 |
+| ★★★☆☆ | 5 |
+| ★★☆☆☆ | 196 |
 
 ---
 
@@ -23,13 +23,13 @@
 
 ## ★★★★☆ Large Muslim Communities (11)
 
-- **[Assistant Professor (Tenure Track) - Religious Studies (27-28)](https://www.higheredjobs.com/details.cfm?JobCode=179559026)**  
-  📍 Chicago | 🔗 HigherEdJobs
-
 - **[Assistant Professor of Divinity (New Testament/Greek), (9 Mo, TT)](https://www.higheredjobs.com/details.cfm?JobCode=179570758)**  
   📍 Birmingham | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Hebrew Bible](https://www.higheredjobs.com/details.cfm?JobCode=179576212)**  
+  📍 New York | 🔗 HigherEdJobs
+
+- **[Assistant Professor, Clinical Psychology Ph.D. Program (Health Emphasi](https://www.higheredjobs.com/details.cfm?JobCode=179590316)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179582756)**  
@@ -56,7 +56,10 @@
 - **[Tenure-Track Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179562639)**  
   📍 London | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (4)
+## ★★★☆☆ Moderate Communities (5)
+
+- **[Assistant Professor Faculty Position in the Department of Psychologica](https://www.higheredjobs.com/details.cfm?JobCode=179590090)**  
+  📍 Boston | 🔗 HigherEdJobs
 
 - **[Maureen and Craig Sullivan University Professor](https://www.higheredjobs.com/details.cfm?JobCode=179563305)**  
   📍 Boston | 🔗 HigherEdJobs
@@ -70,7 +73,7 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (198)
+## ★★☆☆☆ Other Locations (196)
 
 - **[3-Year Visiting Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179559890)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -85,6 +88,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179570464)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Professor, Psychology (Applicant Pool 2026-2027)](https://www.higheredjobs.com/details.cfm?JobCode=179590485)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor-Psychopharmacology](https://www.higheredjobs.com/details.cfm?JobCode=179569622)**  
@@ -159,10 +165,7 @@
 - **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179583101)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Christian Ministry](https://www.higheredjobs.com/details.cfm?JobCode=179561067)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 168 more positions*
+*...and 166 more positions*
 
 ---
 
