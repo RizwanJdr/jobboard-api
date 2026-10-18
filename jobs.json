@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T11:30:09.296749+00:00",
-  "count": 213,
+  "updated": "2026-10-18T11:59:33.870186+00:00",
+  "count": 204,
   "jobs": [
     {
       "title": "Psychology Professor, Tenured/Tenure Track, Open-Rank",
@@ -38,14 +38,6 @@
       "title": "Assistant/Associate Professor of Counseling",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179582756",
       "description": "National Louis University (Chicago, IL)",
-      "source": "HigherEdJobs",
-      "location": "Chicago",
-      "score": 4
-    },
-    {
-      "title": "Assistant/Associate Professor of Theology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179560680",
-      "description": "Concordia University Chicago (River Forest, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
       "score": 4
@@ -139,14 +131,6 @@
       "score": 3
     },
     {
-      "title": "3-Year Visiting Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179559890",
-      "description": "Berea College (Berea, KY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "AI Postdoctoral Research Fellow - Natural and Artificial Minds",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179584914",
       "description": "Princeton University (Princeton, NJ)",
@@ -227,14 +211,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor - Clinical Neuropsychologist - AC Track",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179560180",
-      "description": "University of Pennsylvania (Philadelphia, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor - Clinical Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179569604",
       "description": "University of North Carolina Wilmington (Wilmington, NC)",
@@ -278,6 +254,14 @@
       "title": "Assistant Professor - Experimental Analysis of Behavior",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179589142",
       "description": "University of North Carolina Wilmington (Wilmington, NC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor - Psychiatry and Behavioral Sciences (Onco-Psychology))",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179591361",
+      "description": "University of Kansas Medical Center (Kansas City, KS)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -334,14 +318,6 @@
       "title": "Assistant Professor in Clinical Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179582397",
       "description": "University of Scranton (Scranton, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor in Geropsychology/Psychology of Aging",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179559874",
-      "description": "University of Michigan - Dearborn (Dearborn, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -459,14 +435,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor of Psychological Science: Clinical Psychologist",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179559970",
-      "description": "University of Vermont (Burlington, VT)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179589230",
       "description": "Southern Arkansas University (Magnolia, AR)",
@@ -518,14 +486,6 @@
       "title": "Assistant Professor of Psychology (Open Area)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179561484",
       "description": "Randolph College (Lynchburg, VA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor of Psychology (Physiological/Biological Psychology or Behavioral/Cognitive Neuroscience)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179559820",
-      "description": "Kennesaw State University (Kennesaw, GA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -707,14 +667,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor- Quantitative Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179560200",
-      "description": "Illinois State University (Normal, IL)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor-Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179580457",
       "description": "Bowling Green State University (Bowling Green, OH)",
@@ -744,14 +696,6 @@
       "description": "University of Wisconsin - Green Bay (Green Bay, WI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Teaching Professor - Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179559523",
-      "description": "Miami University (Oxford, OH)",
-      "source": "HigherEdJobs",
-      "location": "Oxford",
       "score": 2
     },
     {
@@ -918,14 +862,6 @@
       "title": "Associate Professor or Professor - Barbara Reardon Heaney Chair in Catholic Intellectual Life and Culture",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179577325",
       "description": "Creighton University (Omaha, NE)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Associate Professor or Professor and Chair - Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179559936",
-      "description": "North Carolina A&T State University (Greensboro, NC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1494,14 +1430,6 @@
       "title": "Quarterly Lecturer - Department of Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179579150",
       "description": "Santa Clara University (Santa Clara, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Research Assistant Professor in Public Mental Health",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179560182",
-      "description": "University of Pennsylvania (Philadelphia, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
