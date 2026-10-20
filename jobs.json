@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T14:30:43.971307+00:00",
-  "count": 193,
+  "updated": "2026-10-20T12:37:48.587071+00:00",
+  "count": 196,
   "jobs": [
     {
       "title": "Psychology Professor, Tenured/Tenure Track, Open-Rank",
@@ -27,14 +27,6 @@
       "score": 4
     },
     {
-      "title": "Assistant Professor, Clinical Psychology Ph.D. Program (Health Emphasis)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179590316",
-      "description": "Yeshiva University (New York, NY)",
-      "source": "HigherEdJobs",
-      "location": "New York",
-      "score": 4
-    },
-    {
       "title": "Assistant/Associate Professor of Counseling",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179582756",
       "description": "National Louis University (Chicago, IL)",
@@ -56,6 +48,14 @@
       "description": "New York University (New York, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "College of Arts and Sciences - Professor and Chair - Tenured - Department of Psychology - F2938P",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179591099",
+      "description": "University of Alabama at Birmingham (Birmingham, AL)",
+      "source": "HigherEdJobs",
+      "location": "Birmingham",
       "score": 4
     },
     {
@@ -390,14 +390,6 @@
       "title": "Assistant Professor of Instruction - Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179563085",
       "description": "University of Northern Iowa (Cedar Falls, IA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor of Jewish Studies",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179579522",
-      "description": "Santa Clara University (Santa Clara, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -907,6 +899,14 @@
       "score": 2
     },
     {
+      "title": "Clinical Assistant Professor/Instructor of Psychology (two openings)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179592277",
+      "description": "Drury University (Springfield, MO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Clinical Instructor - Clinical Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179567323",
       "description": "University of Michigan (Ann Arbor, MI)",
@@ -1051,6 +1051,14 @@
       "score": 2
     },
     {
+      "title": "Non-Tenure: Visiting Lecturer",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179592507",
+      "description": "Texas A&M University (College Station, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Open Rank Faculty Position (Associate or Full Professor) in Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179574643",
       "description": "The University of Texas at Dallas (Dallas, TX)",
@@ -1070,14 +1078,6 @@
       "title": "Open Rank Tenured/Tenure-Track Professor of Clinical Psychology AF7754",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179562589",
       "description": "Oklahoma State University (Stillwater, OK)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Open Rank in Aging Dementia Research",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179585402",
-      "description": "Texas State University (San Marcos, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1160,6 +1160,22 @@
       "description": "Princeton University (Princeton, NJ)",
       "source": "HigherEdJobs",
       "location": "Princeton",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Research Associate in the Social Science of Human Values",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179591204",
+      "description": "Princeton University (Princeton, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Princeton",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Research Associate, Adaptive Learning Agents and Computational Cognitive Science",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179591024",
+      "description": "The University of Arizona (Tucson, AZ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     },
     {
@@ -1366,6 +1382,14 @@
       "title": "Research Psychologist",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179590074",
       "description": "UMass Chan Medical School (Worcester, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Research Scientist (# 376625)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179592505",
+      "description": "University of Minnesota (Twin Cities, MN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2

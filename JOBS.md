@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-19 14:31 UTC  
-**Total Positions:** 193
+**Last Updated:** 2026-10-20 12:38 UTC  
+**Total Positions:** 196
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 10 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 177 |
+| ★★☆☆☆ | 180 |
 
 ---
 
@@ -29,9 +29,6 @@
 - **[Assistant Professor of Hebrew Bible](https://www.higheredjobs.com/details.cfm?JobCode=179576212)**  
   📍 New York | 🔗 HigherEdJobs
 
-- **[Assistant Professor, Clinical Psychology Ph.D. Program (Health Emphasi](https://www.higheredjobs.com/details.cfm?JobCode=179590316)**  
-  📍 New York | 🔗 HigherEdJobs
-
 - **[Assistant/Associate Professor of Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179582756)**  
   📍 Chicago | 🔗 HigherEdJobs
 
@@ -40,6 +37,9 @@
 
 - **[Clinical Assistant Professor - Counseling for Mental Health and Wellne](https://www.higheredjobs.com/details.cfm?JobCode=179587272)**  
   📍 New York | 🔗 HigherEdJobs
+
+- **[College of Arts and Sciences - Professor and Chair - Tenured - Departm](https://www.higheredjobs.com/details.cfm?JobCode=179591099)**  
+  📍 Birmingham | 🔗 HigherEdJobs
 
 - **[HSOM Psychiatry and Behavioral Neurobiology - Postdoctoral Fellow - PF](https://www.higheredjobs.com/details.cfm?JobCode=179580617)**  
   📍 Birmingham | 🔗 HigherEdJobs
@@ -70,7 +70,7 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (177)
+## ★★☆☆☆ Other Locations (180)
 
 - **[AI Postdoctoral Research Fellow - Natural and Artificial Minds](https://www.higheredjobs.com/details.cfm?JobCode=179584914)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -162,7 +162,7 @@
 - **[Assistant Professor of Criminology](https://www.higheredjobs.com/details.cfm?JobCode=179582156)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 147 more positions*
+*...and 150 more positions*
 
 ---
 
