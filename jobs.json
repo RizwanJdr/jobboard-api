@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T12:37:48.587071+00:00",
-  "count": 196,
+  "updated": "2026-10-21T12:49:30.037364+00:00",
+  "count": 203,
   "jobs": [
     {
       "title": "Psychology Professor, Tenured/Tenure Track, Open-Rank",
@@ -22,6 +22,14 @@
       "title": "Assistant Professor of Hebrew Bible",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179576212",
       "description": "New York University (New York, NY)",
+      "source": "HigherEdJobs",
+      "location": "New York",
+      "score": 4
+    },
+    {
+      "title": "Assistant Professor, Clinical Psychology Ph.D. Program (Health Emphasis)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179590316",
+      "description": "Yeshiva University (New York, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
       "score": 4
@@ -109,6 +117,22 @@
     {
       "title": "Open Rank (Assistant, Associate, or Full) Tenure-Track Professor in AI-mediated Telepresence",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179584092",
+      "description": "Northeastern University (Boston, MA)",
+      "source": "HigherEdJobs",
+      "location": "Boston",
+      "score": 3
+    },
+    {
+      "title": "Part Time Lecturer - Applied Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179593372",
+      "description": "Northeastern University (Boston, MA)",
+      "source": "HigherEdJobs",
+      "location": "Boston",
+      "score": 3
+    },
+    {
+      "title": "Part Time Lecturer - Applied Psychology - Applied Behavior Analysis (ABA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179593370",
       "description": "Northeastern University (Boston, MA)",
       "source": "HigherEdJobs",
       "location": "Boston",
@@ -206,14 +230,6 @@
       "title": "Assistant Professor - CRT",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179576186",
       "description": "Emory University (Atlanta, GA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor - Clinical Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179569604",
-      "description": "University of North Carolina Wilmington (Wilmington, NC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -571,6 +587,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor, Master's of Counseling Psychology Program",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179593391",
+      "description": "Felician University (Lodi, NJ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179584101",
       "description": "Seattle University (Seattle, WA)",
@@ -734,6 +758,22 @@
       "title": "Assistant/Associate Professor in One Health - Healthy and Resilient Living Systems - College of HHS",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179578708",
       "description": "Purdue University (West Lafayette, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate Professor of Clinical Child/Pediatric Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179592304",
+      "description": "University of Florida (Gainesville, FL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant/Associate Professor of Clinical Health Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179592305",
+      "description": "University of Florida (Gainesville, FL)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1012,8 +1052,8 @@
     },
     {
       "title": "Lecturer of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179574783",
-      "description": "Perimeter College (Atlanta Area, GA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179592870",
+      "description": "Texas Tech University (Lubbock, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1118,6 +1158,22 @@
       "title": "Postdoctoral Fellow (2025)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179570492",
       "description": "Tulane University (New Orleans, LA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Fellow - SUNY PRODiG Plus - Department of Psychology, College of Arts Sciences",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179593721",
+      "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Fellow in Social and Psychological Wellbeing and Aging at the University of Pennsylvania",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179593755",
+      "description": "University of Pennsylvania (Philadelphia, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
