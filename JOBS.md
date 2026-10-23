@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-22 12:53 UTC  
-**Total Positions:** 202
+**Last Updated:** 2026-10-23 12:31 UTC  
+**Total Positions:** 198
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 1 |
-| ★★★★☆ | 12 |
+| ★★★★☆ | 11 |
 | ★★★☆☆ | 6 |
-| ★★☆☆☆ | 183 |
+| ★★☆☆☆ | 180 |
 
 ---
 
@@ -21,7 +21,7 @@
 - **[Psychology Professor, Tenured/Tenure Track, Open-Rank](https://www.higheredjobs.com/details.cfm?JobCode=179583694)**  
   📍 UAE | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (12)
+## ★★★★☆ Large Muslim Communities (11)
 
 - **[Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179594382)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -33,9 +33,6 @@
   📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179594807)**  
-  📍 New York | 🔗 HigherEdJobs
-
-- **[Assistant Professor, Clinical Psychology Ph.D. Program (Health Emphasi](https://www.higheredjobs.com/details.cfm?JobCode=179590316)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179582756)**  
@@ -79,7 +76,7 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (183)
+## ★★☆☆☆ Other Locations (180)
 
 - **[AI Postdoctoral Research Fellow - Natural and Artificial Minds](https://www.higheredjobs.com/details.cfm?JobCode=179584914)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -99,7 +96,7 @@
 - **[Adjunct Professor-Psychopharmacology](https://www.higheredjobs.com/details.cfm?JobCode=179569622)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179572772)**  
+- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179595948)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor (Psychology/Psy.D. Program)-9 month appointment](https://www.higheredjobs.com/details.cfm?JobCode=179580584)**  
@@ -150,9 +147,6 @@
 - **[Assistant Professor in Psychological Clinical Science](https://www.higheredjobs.com/details.cfm?JobCode=179587880)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in Psychological Science (Open Area)](https://www.higheredjobs.com/details.cfm?JobCode=179564822)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179583101)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -171,7 +165,10 @@
 - **[Assistant Professor of Industrial/Organizational Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179581747)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 153 more positions*
+- **[Assistant Professor of Psychology (10 months - Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179586466)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 150 more positions*
 
 ---
 
