@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-23 12:31 UTC  
-**Total Positions:** 198
+**Last Updated:** 2026-10-24 11:55 UTC  
+**Total Positions:** 203
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 11 |
 | ★★★☆☆ | 6 |
-| ★★☆☆☆ | 180 |
+| ★★☆☆☆ | 185 |
 
 ---
 
@@ -32,7 +32,7 @@
 - **[Assistant Professor of Hebrew Bible](https://www.higheredjobs.com/details.cfm?JobCode=179576212)**  
   📍 New York | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179594807)**  
+- **[Assistant Professor, Clinical Psychology Ph.D. Program (Health Emphasi](https://www.higheredjobs.com/details.cfm?JobCode=179590316)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179582756)**  
@@ -76,7 +76,10 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (180)
+## ★★☆☆☆ Other Locations (185)
+
+- **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
+  📍 Unknown | 🔗 HigherEdJobs
 
 - **[AI Postdoctoral Research Fellow - Natural and Artificial Minds](https://www.higheredjobs.com/details.cfm?JobCode=179584914)**  
   📍 Princeton | 🔗 HigherEdJobs
@@ -85,6 +88,12 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Faculty, Lecturer of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179567780)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Professor (Residential) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179596803)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Professor - Christianity](https://www.higheredjobs.com/details.cfm?JobCode=179596817)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179570464)**  
@@ -96,8 +105,8 @@
 - **[Adjunct Professor-Psychopharmacology](https://www.higheredjobs.com/details.cfm?JobCode=179569622)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179595948)**  
-  📍 Unknown | 🔗 HigherEdJobs
+- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179596444)**  
+  📍 Oxford | 🔗 HigherEdJobs
 
 - **[Assistant Professor (Psychology/Psy.D. Program)-9 month appointment](https://www.higheredjobs.com/details.cfm?JobCode=179580584)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -106,9 +115,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - CRT](https://www.higheredjobs.com/details.cfm?JobCode=179576186)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor - Clinical Psychology (Applied AI)](https://www.higheredjobs.com/details.cfm?JobCode=179564991)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Continental Philosophy/Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179587932)**  
@@ -132,6 +138,9 @@
 - **[Assistant Professor - Psychology & Special Education](https://www.higheredjobs.com/details.cfm?JobCode=179581758)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor Psychology (Tenure-Track)](https://www.higheredjobs.com/details.cfm?JobCode=179597468)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor in Addiction Science](https://www.higheredjobs.com/details.cfm?JobCode=179587799)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -150,25 +159,16 @@
 - **[Assistant Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179583101)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179597349)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179571219)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Clinical Psychology or related field such as ps](https://www.higheredjobs.com/details.cfm?JobCode=179572929)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Criminology](https://www.higheredjobs.com/details.cfm?JobCode=179582156)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Developmental Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179582937)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Industrial/Organizational Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179581747)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Psychology (10 months - Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179586466)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 150 more positions*
+*...and 155 more positions*
 
 ---
 
