@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-25 12:27 UTC  
-**Total Positions:** 199
+**Last Updated:** 2026-10-26 14:04 UTC  
+**Total Positions:** 189
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 1 |
-| ★★★★☆ | 11 |
+| ★★★★☆ | 10 |
 | ★★★☆☆ | 6 |
-| ★★☆☆☆ | 181 |
+| ★★☆☆☆ | 172 |
 
 ---
 
@@ -21,7 +21,7 @@
 - **[Psychology Professor, Tenured/Tenure Track, Open-Rank](https://www.higheredjobs.com/details.cfm?JobCode=179583694)**  
   📍 UAE | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (11)
+## ★★★★☆ Large Muslim Communities (10)
 
 - **[Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179594382)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -30,9 +30,6 @@
   📍 Birmingham | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Hebrew Bible](https://www.higheredjobs.com/details.cfm?JobCode=179576212)**  
-  📍 New York | 🔗 HigherEdJobs
-
-- **[Assistant Professor, Clinical Psychology Ph.D. Program (Health Emphasi](https://www.higheredjobs.com/details.cfm?JobCode=179590316)**  
   📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179582756)**  
@@ -76,7 +73,7 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (181)
+## ★★☆☆☆ Other Locations (172)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -85,9 +82,6 @@
   📍 Princeton | 🔗 HigherEdJobs
 
 - **[AY 26/27 Assistant Research Professor](https://www.higheredjobs.com/details.cfm?JobCode=179580837)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Faculty, Lecturer of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179567780)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor (Residential) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179596803)**  
@@ -168,7 +162,10 @@
 - **[Assistant Professor of Clinical Psychology or related field such as ps](https://www.higheredjobs.com/details.cfm?JobCode=179572929)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 151 more positions*
+- **[Assistant Professor of Criminology](https://www.higheredjobs.com/details.cfm?JobCode=179582156)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 142 more positions*
 
 ---
 
