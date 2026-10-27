@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-26 14:04 UTC  
-**Total Positions:** 189
+**Last Updated:** 2026-10-27 13:05 UTC  
+**Total Positions:** 192
 
 ---
 
@@ -9,17 +9,11 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★★ | 1 |
 | ★★★★☆ | 10 |
 | ★★★☆☆ | 6 |
-| ★★☆☆☆ | 172 |
+| ★★☆☆☆ | 176 |
 
 ---
-
-## ★★★★★ Muslim-Majority Regions (1)
-
-- **[Psychology Professor, Tenured/Tenure Track, Open-Rank](https://www.higheredjobs.com/details.cfm?JobCode=179583694)**  
-  📍 UAE | 🔗 HigherEdJobs
 
 ## ★★★★☆ Large Muslim Communities (10)
 
@@ -73,7 +67,7 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (172)
+## ★★☆☆☆ Other Locations (176)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -109,6 +103,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - CRT](https://www.higheredjobs.com/details.cfm?JobCode=179576186)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179598638)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Continental Philosophy/Religious Studies](https://www.higheredjobs.com/details.cfm?JobCode=179587932)**  
@@ -162,10 +159,7 @@
 - **[Assistant Professor of Clinical Psychology or related field such as ps](https://www.higheredjobs.com/details.cfm?JobCode=179572929)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Criminology](https://www.higheredjobs.com/details.cfm?JobCode=179582156)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 142 more positions*
+*...and 146 more positions*
 
 ---
 
