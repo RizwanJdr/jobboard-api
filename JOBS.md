@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-27 13:05 UTC  
-**Total Positions:** 192
+**Last Updated:** 2026-10-28 13:56 UTC  
+**Total Positions:** 204
 
 ---
 
@@ -9,11 +9,17 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
+| ★★★★★ | 1 |
 | ★★★★☆ | 10 |
-| ★★★☆☆ | 6 |
-| ★★☆☆☆ | 176 |
+| ★★★☆☆ | 7 |
+| ★★☆☆☆ | 186 |
 
 ---
+
+## ★★★★★ Muslim-Majority Regions (1)
+
+- **[Psychology Professor, Tenured/Tenure Track, Open-Rank](https://www.higheredjobs.com/details.cfm?JobCode=179583694)**  
+  📍 UAE | 🔗 HigherEdJobs
 
 ## ★★★★☆ Large Muslim Communities (10)
 
@@ -47,9 +53,12 @@
 - **[Preaching Professor and Director of the Robert Smith Jr. Preaching Ins](https://www.higheredjobs.com/details.cfm?JobCode=179576569)**  
   📍 Birmingham | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (6)
+## ★★★☆☆ Moderate Communities (7)
 
 - **[Assistant Professor Faculty Position in the Department of Psychologica](https://www.higheredjobs.com/details.cfm?JobCode=179590090)**  
+  📍 Boston | 🔗 HigherEdJobs
+
+- **[Associate or Full Professor of Counseling Psychology, Wheelock College](https://www.higheredjobs.com/details.cfm?JobCode=179600559)**  
   📍 Boston | 🔗 HigherEdJobs
 
 - **[Open Rank (Assistant, Associate, or Full) Tenure-Track Professor in AI](https://www.higheredjobs.com/details.cfm?JobCode=179584092)**  
@@ -67,7 +76,7 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (176)
+## ★★☆☆☆ Other Locations (186)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -76,6 +85,9 @@
   📍 Princeton | 🔗 HigherEdJobs
 
 - **[AY 26/27 Assistant Research Professor](https://www.higheredjobs.com/details.cfm?JobCode=179580837)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179599703)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor (Residential) - Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179596803)**  
@@ -156,10 +168,7 @@
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179571219)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Clinical Psychology or related field such as ps](https://www.higheredjobs.com/details.cfm?JobCode=179572929)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 146 more positions*
+*...and 156 more positions*
 
 ---
 
