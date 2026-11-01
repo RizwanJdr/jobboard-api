@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-10-31 13:30 UTC  
-**Total Positions:** 205
+**Last Updated:** 2026-11-01 14:11 UTC  
+**Total Positions:** 191
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 10 |
 | ★★★☆☆ | 7 |
-| ★★☆☆☆ | 187 |
+| ★★☆☆☆ | 173 |
 
 ---
 
@@ -76,7 +76,7 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (187)
+## ★★☆☆☆ Other Locations (173)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -123,9 +123,6 @@
 - **[Assistant Professor - Experimental Analysis of Behavior](https://www.higheredjobs.com/details.cfm?JobCode=179589142)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Psychologist](https://www.higheredjobs.com/details.cfm?JobCode=179574264)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor - Psychology & Special Education](https://www.higheredjobs.com/details.cfm?JobCode=179581758)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -168,7 +165,10 @@
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179601914)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 157 more positions*
+- **[Assistant Professor of Cognitive Psychology - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179599021)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 143 more positions*
 
 ---
 
