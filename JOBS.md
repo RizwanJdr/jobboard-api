@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-11-01 14:11 UTC  
-**Total Positions:** 191
+**Last Updated:** 2026-11-02 16:57 UTC  
+**Total Positions:** 179
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 10 |
 | ★★★☆☆ | 7 |
-| ★★☆☆☆ | 173 |
+| ★★☆☆☆ | 161 |
 
 ---
 
@@ -76,7 +76,7 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (173)
+## ★★☆☆☆ Other Locations (161)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -168,7 +168,7 @@
 - **[Assistant Professor of Cognitive Psychology - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179599021)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 143 more positions*
+*...and 131 more positions*
 
 ---
 
