@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-11-02 16:57 UTC  
-**Total Positions:** 179
+**Last Updated:** 2026-11-03 14:56 UTC  
+**Total Positions:** 173
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 1 |
-| ★★★★☆ | 10 |
+| ★★★★☆ | 8 |
 | ★★★☆☆ | 7 |
-| ★★☆☆☆ | 161 |
+| ★★☆☆☆ | 157 |
 
 ---
 
@@ -21,13 +21,10 @@
 - **[Psychology Professor, Tenured/Tenure Track, Open-Rank](https://www.higheredjobs.com/details.cfm?JobCode=179583694)**  
   📍 UAE | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (10)
+## ★★★★☆ Large Muslim Communities (8)
 
 - **[Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179594382)**  
   📍 Chicago | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Hebrew Bible](https://www.higheredjobs.com/details.cfm?JobCode=179576212)**  
-  📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant Professor, Clinical Psychology Ph.D. Program (Health Emphasi](https://www.higheredjobs.com/details.cfm?JobCode=179590316)**  
   📍 New York | 🔗 HigherEdJobs
@@ -49,9 +46,6 @@
 
 - **[Postdoctoral Associate (Mattar Lab)](https://www.higheredjobs.com/details.cfm?JobCode=179578969)**  
   📍 New York | 🔗 HigherEdJobs
-
-- **[Preaching Professor and Director of the Robert Smith Jr. Preaching Ins](https://www.higheredjobs.com/details.cfm?JobCode=179576569)**  
-  📍 Birmingham | 🔗 HigherEdJobs
 
 ## ★★★☆☆ Moderate Communities (7)
 
@@ -76,7 +70,7 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (161)
+## ★★☆☆☆ Other Locations (157)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -106,9 +100,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179589144)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor - CRT](https://www.higheredjobs.com/details.cfm?JobCode=179576186)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179598638)**  
@@ -168,7 +159,10 @@
 - **[Assistant Professor of Cognitive Psychology - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179599021)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 131 more positions*
+- **[Assistant Professor of Criminology](https://www.higheredjobs.com/details.cfm?JobCode=179582156)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 127 more positions*
 
 ---
 
