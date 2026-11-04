@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-11-03 14:56 UTC  
-**Total Positions:** 173
+**Last Updated:** 2026-11-04 15:17 UTC  
+**Total Positions:** 176
 
 ---
 
@@ -12,7 +12,7 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 8 |
 | ★★★☆☆ | 7 |
-| ★★☆☆☆ | 157 |
+| ★★☆☆☆ | 160 |
 
 ---
 
@@ -70,7 +70,7 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (157)
+## ★★☆☆☆ Other Locations (160)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -123,6 +123,9 @@
 - **[Assistant Professor Psychological Science](https://www.higheredjobs.com/details.cfm?JobCode=179604072)**  
   📍 Unknown | 🔗 HigherEdJobs
 
+- **[Assistant Professor Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179605695)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
 - **[Assistant Professor Psychology (Tenure-Track)](https://www.higheredjobs.com/details.cfm?JobCode=179597468)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -159,10 +162,7 @@
 - **[Assistant Professor of Cognitive Psychology - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179599021)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Criminology](https://www.higheredjobs.com/details.cfm?JobCode=179582156)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 127 more positions*
+*...and 130 more positions*
 
 ---
 
