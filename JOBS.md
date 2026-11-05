@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-11-04 15:17 UTC  
-**Total Positions:** 176
+**Last Updated:** 2026-11-05 15:18 UTC  
+**Total Positions:** 179
 
 ---
 
@@ -12,13 +12,13 @@
 | ★★★★★ | 1 |
 | ★★★★☆ | 8 |
 | ★★★☆☆ | 7 |
-| ★★☆☆☆ | 160 |
+| ★★☆☆☆ | 163 |
 
 ---
 
 ## ★★★★★ Muslim-Majority Regions (1)
 
-- **[Psychology Professor, Tenured/Tenure Track, Open-Rank](https://www.higheredjobs.com/details.cfm?JobCode=179583694)**  
+- **[Psychology Professor, Tenured/Tenure -Track, Open-Rank](https://www.higheredjobs.com/details.cfm?JobCode=179583694)**  
   📍 UAE | 🔗 HigherEdJobs
 
 ## ★★★★☆ Large Muslim Communities (8)
@@ -70,7 +70,7 @@
 - **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (160)
+## ★★☆☆☆ Other Locations (163)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -91,6 +91,12 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor, Psychology (Applicant Pool 2026-2027)](https://www.higheredjobs.com/details.cfm?JobCode=179590485)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Clinical Professor/Assistant Clinical Lecturer](https://www.higheredjobs.com/details.cfm?JobCode=179607907)**  
+  📍 Oxford | 🔗 HigherEdJobs
+
+- **[Assistant Director of Health Curriculum Advising and Lecturer](https://www.higheredjobs.com/details.cfm?JobCode=179607490)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179603672)**  
@@ -156,13 +162,7 @@
 - **[Assistant Professor of Applied Behavior Analysis - Department of Psych](https://www.higheredjobs.com/details.cfm?JobCode=179601802)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179601914)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Assistant Professor of Cognitive Psychology - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179599021)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 130 more positions*
+*...and 133 more positions*
 
 ---
 
