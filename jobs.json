@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T14:54:11.047268+00:00",
-  "count": 175,
+  "updated": "2026-11-07T13:50:28.382786+00:00",
+  "count": 176,
   "jobs": [
     {
       "title": "Psychology Professor, Tenured/Tenure -Track, Open-Rank",
@@ -30,6 +30,14 @@
       "title": "Assistant/Associate Professor of Counseling",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179582756",
       "description": "National Louis University (Chicago, IL)",
+      "source": "HigherEdJobs",
+      "location": "Chicago",
+      "score": 4
+    },
+    {
+      "title": "Assistant/Associate Professor of Theology (Position Two)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179610209",
+      "description": "Concordia University Chicago (River Forest, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
       "score": 4
@@ -101,14 +109,6 @@
     {
       "title": "Part-Time Lecturer - Philosophy and Religion",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179584023",
-      "description": "Northeastern University (Boston, MA)",
-      "source": "HigherEdJobs",
-      "location": "Boston",
-      "score": 3
-    },
-    {
-      "title": "Postdoctoral Research Fellow",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179579733",
       "description": "Northeastern University (Boston, MA)",
       "source": "HigherEdJobs",
       "location": "Boston",
@@ -315,14 +315,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor in Psychiatry and Health Behavior- Clinical/Research Psychologist",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179579490",
-      "description": "Augusta University (Augusta, GA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor in Psychological Clinical Science",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179587880",
       "description": "Southern Methodist University (Dallas, TX)",
@@ -404,8 +396,8 @@
     },
     {
       "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179605390",
-      "description": "St. Thomas Aquinas College (Sparkill, NY)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179609413",
+      "description": "Southwestern College (Chula Vista, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -478,6 +470,14 @@
       "title": "Assistant Professor of Theology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179599058",
       "description": "King's College (Wilkes Barre, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of the Practice of American Jewish Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179609446",
+      "description": "Vanderbilt University (Nashville, TN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -819,6 +819,14 @@
       "score": 2
     },
     {
+      "title": "Clinical Assistant Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179610399",
+      "description": "University of Evansville (Evansville, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Clinical Assistant Professor/Instructor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179592277",
       "description": "Drury University (Springfield, MO)",
@@ -846,6 +854,14 @@
       "title": "Clinical Neuropsychologist - Associate or Full Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179599905",
       "description": "University of Virginia (Charlottesville, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Clinical Postdoctoral Fellowship - Thompson Center for Autism and Neurodevelopment",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179609415",
+      "description": "University of Missouri (Columbia, MO)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -947,6 +963,22 @@
       "score": 2
     },
     {
+      "title": "Full-time Assistant Professor or Professor of Practice in Applied Behavior Analysis - Remote",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179610065",
+      "description": "National University (Online/Remote, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Great Books in the Early Biblical Tradition (Assistant Professor)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179609958",
+      "description": "University of Texas at Austin (Austin, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Great Books in the Early Biblical Tradition (Associate/Full Professor)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179600862",
       "description": "University of Texas at Austin (Austin, TX)",
@@ -1006,14 +1038,6 @@
       "title": "Lecturer, Religious Studies and Classics (Career-Track)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179603210",
       "description": "The University of Arizona (Tucson, AZ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "MINDSET Postdoctoral Scholar",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179598399",
-      "description": "Penn State (University Park, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1163,9 +1187,25 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Research Associate, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179609646",
+      "description": "The University of Arizona (Tucson, AZ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Researcher - Disability Employment Policy",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179587521",
       "description": "Syracuse University (Syracuse, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Scholar",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179609404",
+      "description": "Penn State (University Park, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1187,33 +1227,17 @@
       "score": 2
     },
     {
-      "title": "Professor of Psychology (Open Rank, Tenure Track)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179580294",
-      "description": "Ouachita Baptist University (Arkadelphia, AR)",
+      "title": "Professorship in World Christianity (Open Search)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179610403",
+      "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
-      "location": "Unknown",
+      "location": "Cambridge",
       "score": 2
     },
     {
       "title": "Psychology Assistant Professor | Tenure Track Fall 2027| I02580",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179586212",
       "description": "Slippery Rock University (Slippery Rock, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Psychology: Assistant Professor - Fall 2027",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179580123",
-      "description": "Georgia Gwinnett College (Lawrenceville, GA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Quarterly Lecturer - Department of Counseling Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179579150",
-      "description": "Santa Clara University (Santa Clara, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1270,14 +1294,6 @@
       "title": "Tenure - Track Assistant Professor of Theology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179597875",
       "description": "Assumption University (Worcester, MA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Tenure-Track Assistant Professor Specializing in the Study of Early Christianity",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179580375",
-      "description": "Vanderbilt University (Nashville, TN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1390,14 +1406,6 @@
       "title": "Women's Health Psychologist Open Rank-Instructor, Sr. Instructor, Assistant Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179598372",
       "description": "University of Colorado Anschutz Medical Campus (Aurora, CO)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "World Religion: Lecturer - Fall 2027",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179580117",
-      "description": "Georgia Gwinnett College (Lawrenceville, GA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2

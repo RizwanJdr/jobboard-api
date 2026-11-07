@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-11-06 14:55 UTC  
-**Total Positions:** 175
+**Last Updated:** 2026-11-07 13:51 UTC  
+**Total Positions:** 176
 
 ---
 
@@ -10,9 +10,9 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★★ | 1 |
-| ★★★★☆ | 6 |
-| ★★★☆☆ | 7 |
-| ★★☆☆☆ | 161 |
+| ★★★★☆ | 7 |
+| ★★★☆☆ | 6 |
+| ★★☆☆☆ | 162 |
 
 ---
 
@@ -21,7 +21,7 @@
 - **[Psychology Professor, Tenured/Tenure -Track, Open-Rank](https://www.higheredjobs.com/details.cfm?JobCode=179583694)**  
   📍 UAE | 🔗 HigherEdJobs
 
-## ★★★★☆ Large Muslim Communities (6)
+## ★★★★☆ Large Muslim Communities (7)
 
 - **[Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179594382)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -30,6 +30,9 @@
   📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Counseling](https://www.higheredjobs.com/details.cfm?JobCode=179582756)**  
+  📍 Chicago | 🔗 HigherEdJobs
+
+- **[Assistant/Associate Professor of Theology (Position Two)](https://www.higheredjobs.com/details.cfm?JobCode=179610209)**  
   📍 Chicago | 🔗 HigherEdJobs
 
 - **[Clinical Assistant Professor - Counseling for Mental Health and Wellne](https://www.higheredjobs.com/details.cfm?JobCode=179587272)**  
@@ -41,7 +44,7 @@
 - **[HSOM Psychiatry and Behavioral Neurobiology - Postdoctoral Fellow - PF](https://www.higheredjobs.com/details.cfm?JobCode=179580617)**  
   📍 Birmingham | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (7)
+## ★★★☆☆ Moderate Communities (6)
 
 - **[Assistant Professor Faculty Position in the Department of Psychologica](https://www.higheredjobs.com/details.cfm?JobCode=179590090)**  
   📍 Boston | 🔗 HigherEdJobs
@@ -61,10 +64,7 @@
 - **[Part-Time Lecturer - Philosophy and Religion](https://www.higheredjobs.com/details.cfm?JobCode=179584023)**  
   📍 Boston | 🔗 HigherEdJobs
 
-- **[Postdoctoral Research Fellow](https://www.higheredjobs.com/details.cfm?JobCode=179579733)**  
-  📍 Boston | 🔗 HigherEdJobs
-
-## ★★☆☆☆ Other Locations (161)
+## ★★☆☆☆ Other Locations (162)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -141,9 +141,6 @@
 - **[Assistant Professor in Counseling Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179601400)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor in Psychiatry and Health Behavior- Clinical/Resear](https://www.higheredjobs.com/details.cfm?JobCode=179579490)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor in Psychological Clinical Science](https://www.higheredjobs.com/details.cfm?JobCode=179587880)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -156,7 +153,10 @@
 - **[Assistant Professor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179597349)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 131 more positions*
+- **[Assistant Professor of Applied Behavior Analysis - Department of Psych](https://www.higheredjobs.com/details.cfm?JobCode=179601802)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 132 more positions*
 
 ---
 
