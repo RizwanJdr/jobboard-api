@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T14:10:49.747356+00:00",
-  "count": 168,
+  "updated": "2026-11-09T17:19:14.857122+00:00",
+  "count": 154,
   "jobs": [
     {
       "title": "Psychology Professor, Tenured/Tenure -Track, Open-Rank",
@@ -24,14 +24,6 @@
       "description": "Yeshiva University (New York, NY)",
       "source": "HigherEdJobs",
       "location": "New York",
-      "score": 4
-    },
-    {
-      "title": "Assistant/Associate Professor of Counseling",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179582756",
-      "description": "National Louis University (Chicago, IL)",
-      "source": "HigherEdJobs",
-      "location": "Chicago",
       "score": 4
     },
     {
@@ -203,25 +195,9 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor - Counseling Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179582090",
-      "description": "Utah State University (Logan, UT)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor - Experimental Analysis of Behavior",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179589142",
       "description": "University of North Carolina Wilmington (Wilmington, NC)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor - Psychology & Special Education",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179581758",
-      "description": "East Texas A&M University (Commerce, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -299,14 +275,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor in Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179583101",
-      "description": "Southern Utah University (Cedar City, UT)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor in Psychology, Tenure Track, Fall 2027",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179608560",
       "description": "Arcadia University (Glenside, PA)",
@@ -342,30 +310,6 @@
       "title": "Assistant Professor of Cognitive Psychology - Department of Psychology # 27-21",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179599021",
       "description": "California State University, Northridge (Northridge, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor of Criminology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179582156",
-      "description": "Wilkes University (Wilkes-Barre, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor of Developmental Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179582937",
-      "description": "SUNY Oneonta (Oneonta, NY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor of Industrial/Organizational Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179581747",
-      "description": "University of Wisconsin - Stout (Menomonie, WI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -502,14 +446,6 @@
       "title": "Assistant Professor, Department of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179606483",
       "description": "John Carroll University (University Heights, OH)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor, Health Psychology (# JPF10335)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179567281",
-      "description": "University of California, Irvine (Irvine, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -699,14 +635,6 @@
       "score": 2
     },
     {
-      "title": "Associate Professor - Behavior Change, Decision Science, and Policy (# JPF10374)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179567140",
-      "description": "University of California, Irvine (Irvine, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Associate Professor or Professor of Psychology and Division Chair of Social and Behavioral Sciences",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179599920",
       "description": "Texas A&M University - Texarkana (Texarkana, TX)",
@@ -739,14 +667,6 @@
       "score": 2
     },
     {
-      "title": "Associate/Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179581959",
-      "description": "Lincoln University (Jefferson City, MO)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Associate/Full Professor: Psychological Science",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179599440",
       "description": "Oregon State University (Corvallis, OR)",
@@ -758,14 +678,6 @@
       "title": "Clinical Assistant Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179587178",
       "description": "Indiana University Bloomington (Bloomington, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Clinical Assistant Professor - Pediatrics (Behavioral Psychology)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179582143",
-      "description": "University of Kansas Medical Center (Kansas City, KS)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -979,14 +891,6 @@
       "score": 2
     },
     {
-      "title": "Lecturer, Psychological Sciences",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179582444",
-      "description": "Auburn University (Auburn, AL)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Lecturer, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179606459",
       "description": "Columbus State Community College (Columbus, OH)",
@@ -1091,27 +995,11 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Fellow-Survivor Psychologist",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179593063",
-      "description": "Emory University (Atlanta, GA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Postdoctoral Research Associate",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179590904",
       "description": "Princeton University (Princeton, NJ)",
       "source": "HigherEdJobs",
       "location": "Princeton",
-      "score": 2
-    },
-    {
-      "title": "Postdoctoral Research Associate - Psychology Neuroscience",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179583006",
-      "description": "Baylor University (Waco, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
       "score": 2
     },
     {
