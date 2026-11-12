@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-11-11 15:01 UTC  
-**Total Positions:** 162
+**Last Updated:** 2026-11-12 15:53 UTC  
+**Total Positions:** 166
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 5 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 152 |
+| ★★☆☆☆ | 156 |
 
 ---
 
@@ -49,13 +49,10 @@
 - **[Part Time Lecturer - Applied Psychology - Applied Behavior Analysis (A](https://www.higheredjobs.com/details.cfm?JobCode=179593370)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (152)
+## ★★☆☆☆ Other Locations (156)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
-
-- **[AI Postdoctoral Research Fellow - Natural and Artificial Minds](https://www.higheredjobs.com/details.cfm?JobCode=179584914)**  
-  📍 Princeton | 🔗 HigherEdJobs
 
 - **[AY 26/27 Distinguished Professorship in Developmental Science](https://www.higheredjobs.com/details.cfm?JobCode=179613169)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -135,13 +132,16 @@
 - **[Assistant Professor of Cognitive Psychology - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179599021)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179612350)**  
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179614775)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology (10 months - Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179586466)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 122 more positions*
+- **[Assistant Professor of Psychology (Applied Behavior Analysis)](https://www.higheredjobs.com/details.cfm?JobCode=179594676)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 126 more positions*
 
 ---
 

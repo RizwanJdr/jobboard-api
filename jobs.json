@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T15:00:02.265156+00:00",
-  "count": 162,
+  "updated": "2026-11-12T15:52:50.854895+00:00",
+  "count": 166,
   "jobs": [
     {
       "title": "Assistant Professor in Cognitive Psychology",
@@ -88,14 +88,6 @@
       "description": "Georgia Institute of Technology (Atlanta, GA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "AI Postdoctoral Research Fellow - Natural and Artificial Minds",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179584914",
-      "description": "Princeton University (Princeton, NJ)",
-      "source": "HigherEdJobs",
-      "location": "Princeton",
       "score": 2
     },
     {
@@ -308,8 +300,8 @@
     },
     {
       "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179612350",
-      "description": "Henderson State University (Arkadelphia, AR)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179614775",
+      "description": "Springfield College (Springfield, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -380,8 +372,8 @@
     },
     {
       "title": "Assistant Professor of Religion",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179585122",
-      "description": "Ohio Northern University (Ada, OH)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179614776",
+      "description": "Springfield College (Springfield, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -491,9 +483,25 @@
       "score": 2
     },
     {
+      "title": "Assistant Teaching Professor in Christian Spirituality and Mysticism",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179615115",
+      "description": "Santa Clara University (Santa Clara, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Teaching Professor in Clinical & Applied Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179612753",
       "description": "University of Massachusetts Lowell (Lowell, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Teaching Professor in Clinical Psychology or Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179613629",
+      "description": "Tufts University (Medford, MA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -566,14 +574,6 @@
       "title": "Assistant/Associate Professor and Program Director of Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179599283",
       "description": "Ball State University (Muncie, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant/Associate Professor in Addictive Disorders Recovery Studies",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179613837",
-      "description": "Texas Tech University (Lubbock, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -875,14 +875,6 @@
       "score": 2
     },
     {
-      "title": "LEO Lecturer I (COGSCI 200)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179613045",
-      "description": "University of Michigan (Ann Arbor, MI)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "LEO Lecturer I (COGSCI 446)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179613047",
       "description": "University of Michigan (Ann Arbor, MI)",
@@ -1131,6 +1123,14 @@
       "score": 2
     },
     {
+      "title": "Presidential Postdoctoral Fellowship (PPF) Position in Psychology and Law",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179613450",
+      "description": "Arizona State University - West Campus (Phoenix, AZ)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179605757",
       "description": "Purdue University (West Lafayette, IN)",
@@ -1163,11 +1163,27 @@
       "score": 2
     },
     {
+      "title": "Quarterly Lecturer: Religious Studies (2026-2027 Pool)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179615113",
+      "description": "Santa Clara University (Santa Clara, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Research Assistant Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179597422",
       "description": "University of Hong Kong (Hong Kong, Hong Kong)",
       "source": "HigherEdJobs",
       "location": "Hong Kong",
+      "score": 2
+    },
+    {
+      "title": "Research Associate, Anesthesiology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179613779",
+      "description": "University of Virginia (Charlottesville, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     },
     {
@@ -1206,6 +1222,22 @@
       "title": "Staff Research Scientist - (Research Professional 6) (# 376767)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179599620",
       "description": "University of Minnesota (Twin Cities, MN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "TT ASSISTANT PROFESSOR of Psychology & Counseling/ UMKC School of Education, Social Work & Psychological Sciences/ Psychology & Counseling",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179614274",
+      "description": "University of Missouri - Kansas City (Kansas City, MO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "TT Assistant Professor of Clinical Psychology / Umkc School of Education, Social Work & Psychological Sciences/ Psychology & Counseling",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179614273",
+      "description": "University of Missouri - Kansas City (Kansas City, MO)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
