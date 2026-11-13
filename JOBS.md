@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-11-12 15:53 UTC  
-**Total Positions:** 166
+**Last Updated:** 2026-11-13 15:15 UTC  
+**Total Positions:** 169
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 5 |
 | ★★★☆☆ | 5 |
-| ★★☆☆☆ | 156 |
+| ★★☆☆☆ | 159 |
 
 ---
 
@@ -49,7 +49,7 @@
 - **[Part Time Lecturer - Applied Psychology - Applied Behavior Analysis (A](https://www.higheredjobs.com/details.cfm?JobCode=179593370)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (156)
+## ★★☆☆☆ Other Locations (159)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -132,7 +132,7 @@
 - **[Assistant Professor of Cognitive Psychology - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179599021)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179614775)**  
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179615604)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology (10 months - Tenure Track)](https://www.higheredjobs.com/details.cfm?JobCode=179586466)**  
@@ -141,7 +141,7 @@
 - **[Assistant Professor of Psychology (Applied Behavior Analysis)](https://www.higheredjobs.com/details.cfm?JobCode=179594676)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 126 more positions*
+*...and 129 more positions*
 
 ---
 

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T15:52:50.854895+00:00",
-  "count": 166,
+  "updated": "2026-11-13T15:14:03.956835+00:00",
+  "count": 169,
   "jobs": [
     {
       "title": "Assistant Professor in Cognitive Psychology",
@@ -300,8 +300,8 @@
     },
     {
       "title": "Assistant Professor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179614775",
-      "description": "Springfield College (Springfield, MA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179615604",
+      "description": "Holy Family University (Philadelphia, PA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -355,9 +355,25 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor of Psychology -- Tenure Track",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179592277",
+      "description": "Drury University (Springfield, MO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor of Psychology and Neuroscience (Clinical)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179613403",
       "description": "Temple University (Philadelphia, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychology or Human Services (Tenure Track)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179615832",
+      "description": "Gordon State College (Barnesville, GA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -427,14 +443,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor, Cognitive Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179585494",
-      "description": "Wilkes University (Wilkes-Barre, PA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor, Department of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179606483",
       "description": "John Carroll University (University Heights, OH)",
@@ -470,6 +478,14 @@
       "title": "Assistant Professor, Tenure- Track",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179594750",
       "description": "University of Indianapolis (Indianapolis, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor-Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179616147",
+      "description": "Bowling Green State University (Bowling Green, OH)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -643,14 +659,6 @@
       "score": 2
     },
     {
-      "title": "Associate Professor or Professor of Psychology and Division Chair of Social and Behavioral Sciences",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179599920",
-      "description": "Texas A&M University - Texarkana (Texarkana, TX)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Associate Professor, Academic Clinician, Division of Integrated Behavioral Health- Cancer Center- CHOP",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179586885",
       "description": "University of Pennsylvania (Philadelphia, PA)",
@@ -694,14 +702,6 @@
       "title": "Clinical Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179610399",
       "description": "University of Evansville (Evansville, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Clinical Assistant Professor/Instructor of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179592277",
-      "description": "Drury University (Springfield, MO)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -875,6 +875,14 @@
       "score": 2
     },
     {
+      "title": "LEO Lecturer I (COGSCI 200)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179613045",
+      "description": "University of Michigan (Ann Arbor, MI)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "LEO Lecturer I (COGSCI 446)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179613047",
       "description": "University of Michigan (Ann Arbor, MI)",
@@ -963,6 +971,14 @@
       "score": 2
     },
     {
+      "title": "Post Doctorate Research Fellow - Parnes Clinic",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179616268",
+      "description": "Yeshiva University (Bronx, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Associate",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179613558",
       "description": "Stony Brook University (Stony Brook, NY)",
@@ -982,6 +998,14 @@
       "title": "Postdoctoral Associate, Jewish Studies Program",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179599501",
       "description": "Cornell University (Ithaca, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Fellow",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179615439",
+      "description": "Augusta University (Augusta, GA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1043,6 +1067,14 @@
       "score": 2
     },
     {
+      "title": "Postdoctoral Fellowship in Community-Based Implementation Research",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179615487",
+      "description": "University of Pennsylvania (Philadelphia, PA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Postdoctoral Research Associate",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179590904",
       "description": "Princeton University (Princeton, NJ)",
@@ -1069,14 +1101,6 @@
     {
       "title": "Postdoctoral Research Associate, Adaptive Learning Agents and Computational Cognitive Science",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179591024",
-      "description": "The University of Arizona (Tucson, AZ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Postdoctoral Research Associate, Department of Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179585538",
       "description": "The University of Arizona (Tucson, AZ)",
       "source": "HigherEdJobs",
       "location": "Unknown",
