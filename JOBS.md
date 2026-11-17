@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-11-16 16:54 UTC  
-**Total Positions:** 151
+**Last Updated:** 2026-11-17 16:48 UTC  
+**Total Positions:** 147
 
 ---
 
@@ -9,19 +9,16 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 4 |
-| ★★★☆☆ | 5 |
-| ★★☆☆☆ | 142 |
+| ★★★★☆ | 3 |
+| ★★★☆☆ | 4 |
+| ★★☆☆☆ | 140 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (4)
+## ★★★★☆ Large Muslim Communities (3)
 
 - **[Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179594382)**  
   📍 Chicago | 🔗 HigherEdJobs
-
-- **[Assistant Professor, Clinical Psychology Ph.D. Program (Health Emphasi](https://www.higheredjobs.com/details.cfm?JobCode=179590316)**  
-  📍 New York | 🔗 HigherEdJobs
 
 - **[Assistant/Associate Professor of Theology (Position Two)](https://www.higheredjobs.com/details.cfm?JobCode=179610209)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -29,10 +26,7 @@
 - **[College of Arts and Sciences - Professor and Chair - Tenured - Departm](https://www.higheredjobs.com/details.cfm?JobCode=179591099)**  
   📍 Birmingham | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (5)
-
-- **[Assistant Professor Faculty Position in the Department of Psychologica](https://www.higheredjobs.com/details.cfm?JobCode=179590090)**  
-  📍 Boston | 🔗 HigherEdJobs
+## ★★★☆☆ Moderate Communities (4)
 
 - **[Assistant Professor in Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179610637)**  
   📍 Melbourne | 🔗 HigherEdJobs
@@ -46,7 +40,7 @@
 - **[Part Time Lecturer - Applied Psychology - Applied Behavior Analysis (A](https://www.higheredjobs.com/details.cfm?JobCode=179593370)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (142)
+## ★★☆☆☆ Other Locations (140)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -61,9 +55,6 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Professor - Christianity](https://www.higheredjobs.com/details.cfm?JobCode=179596817)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-- **[Adjunct Professor, Psychology (Applicant Pool 2026-2027)](https://www.higheredjobs.com/details.cfm?JobCode=179590485)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Clinical Professor/Assistant Clinical Lecturer](https://www.higheredjobs.com/details.cfm?JobCode=179607907)**  
@@ -94,6 +85,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor in Sport Psychology (9 Month Salary)](https://www.higheredjobs.com/details.cfm?JobCode=179613307)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor in the Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179617495)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179597349)**  
@@ -138,7 +132,7 @@
 - **[Assistant Professor of Theology](https://www.higheredjobs.com/details.cfm?JobCode=179599058)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 112 more positions*
+*...and 110 more positions*
 
 ---
 
