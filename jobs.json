@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T16:47:20.231393+00:00",
-  "count": 147,
+  "updated": "2026-11-18T16:18:31.046272+00:00",
+  "count": 153,
   "jobs": [
     {
       "title": "Assistant Professor in Cognitive Psychology",
@@ -16,14 +16,6 @@
       "description": "Concordia University Chicago (River Forest, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
-      "score": 4
-    },
-    {
-      "title": "College of Arts and Sciences - Professor and Chair - Tenured - Department of Psychology - F2938P",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179591099",
-      "description": "University of Alabama at Birmingham (Birmingham, AL)",
-      "source": "HigherEdJobs",
-      "location": "Birmingham",
       "score": 4
     },
     {
@@ -219,6 +211,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor of Jewish Studies and Director of the Arnold Center for Israel Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179619298",
+      "description": "College of Charleston (Charleston, SC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179615604",
       "description": "Holy Family University (Philadelphia, PA)",
@@ -238,6 +238,14 @@
       "title": "Assistant Professor of Psychology - Behavioral Neuroscience",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179600231",
       "description": "Westmont College (Santa Barbara, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychology - Psychological Clinical Science",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179619722",
+      "description": "Southern Methodist University (Dallas, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -292,8 +300,8 @@
     },
     {
       "title": "Assistant Professor of Theology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179599058",
-      "description": "King's College (Wilkes Barre, PA)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179619711",
+      "description": "Southern Methodist University (Dallas, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -387,6 +395,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Teaching Professor / Program Director in Jewish Studies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179619714",
+      "description": "Southern Methodist University (Dallas, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Teaching Professor in Christian Spirituality and Mysticism",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179615115",
       "description": "Santa Clara University (Santa Clara, CA)",
@@ -406,6 +422,14 @@
       "title": "Assistant Teaching Professor in Clinical Psychology or Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179613629",
       "description": "Tufts University (Medford, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Teaching Professor of Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179619727",
+      "description": "Southern Methodist University (Dallas, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -499,14 +523,6 @@
       "score": 2
     },
     {
-      "title": "Assistant/Associate Professor, Department of Psychology & Counseling",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179598070",
-      "description": "Alcorn State University (Lorman, MS)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant/Associate Professor, Psychology Prothro-Yeager College of Humanities & Social Sciences",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179595954",
       "description": "Midwestern State University (Wichita Falls, TX)",
@@ -523,9 +539,25 @@
       "score": 2
     },
     {
+      "title": "Associate Professor, Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179619621",
+      "description": "Seattle University (Seattle, WA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Associate or Full Professor and Chair of the Department of Psychology Communication",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179604145",
       "description": "Texas A M International University (Laredo, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Associate or Full Professor in Psychological Science",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179619723",
+      "description": "Southern Methodist University (Dallas, TX)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -566,6 +598,14 @@
       "title": "Clinical Assistant or Associate Professor of Clinical Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179603086",
       "description": "University of Idaho (Moscow, ID)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Clinical Instructor - Clinical Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179619291",
+      "description": "University of Michigan (Ann Arbor, MI)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -931,22 +971,6 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Research Associate in the Social Science of Human Values",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179591204",
-      "description": "Princeton University (Princeton, NJ)",
-      "source": "HigherEdJobs",
-      "location": "Princeton",
-      "score": 2
-    },
-    {
-      "title": "Postdoctoral Research Associate, Adaptive Learning Agents and Computational Cognitive Science",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179591024",
-      "description": "The University of Arizona (Tucson, AZ)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Postdoctoral Research Associate, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179609646",
       "description": "The University of Arizona (Tucson, AZ)",
@@ -1003,6 +1027,22 @@
       "score": 2
     },
     {
+      "title": "Psychologist, Clinical Assistant Professor, Psychiatry, Consultation Liaison Service",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179619986",
+      "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psychologist, Clinical Assistant/Associate Professor, Psychiatry, Child Adolescent Outpatient (OPD)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179619321",
+      "description": "Stony Brook University (Stony Brook, NY)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Psychology: Visiting Assistant Professor in Clinical/Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179616590",
       "description": "University of Wisconsin - Eau Claire (Eau Claire, WI)",
@@ -1014,6 +1054,14 @@
       "title": "Quarterly Lecturer: Religious Studies (2026-2027 Pool)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179615113",
       "description": "Santa Clara University (Santa Clara, CA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Renewable Contract Teaching Assistant Professor of Psychology - 531163",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179619610",
+      "description": "The University of Alabama (Tuscaloosa, AL)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1131,11 +1179,11 @@
       "score": 2
     },
     {
-      "title": "Tenured Associate Professor of Human Factors MSHF Program Chair, Worldwide Campus (Remote Role)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179599102",
-      "description": "Embry-Riddle Aeronautical University (Online/Remote, FL)",
+      "title": "Tenure-Track or Tenured Professor in Medieval Islamic Cultures and Societies",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179617472",
+      "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
-      "location": "Unknown",
+      "location": "Cambridge",
       "score": 2
     },
     {
