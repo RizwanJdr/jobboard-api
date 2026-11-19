@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T16:18:31.046272+00:00",
-  "count": 153,
+  "updated": "2026-11-19T16:27:30.215861+00:00",
+  "count": 167,
   "jobs": [
     {
       "title": "Assistant Professor in Cognitive Psychology",
@@ -14,6 +14,14 @@
       "title": "Assistant/Associate Professor of Theology (Position Two)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179610209",
       "description": "Concordia University Chicago (River Forest, IL)",
+      "source": "HigherEdJobs",
+      "location": "Chicago",
+      "score": 4
+    },
+    {
+      "title": "Instructional Professor of Psychology in MAPSS (Open Rank)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179621176",
+      "description": "University of Chicago (Chicago, IL)",
       "source": "HigherEdJobs",
       "location": "Chicago",
       "score": 4
@@ -75,6 +83,14 @@
       "score": 2
     },
     {
+      "title": "Adjunct Lecturer, Applied Behavior Analysis",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179620993",
+      "description": "Regis College (Weston, MA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Adjunct Professor (Residential) - Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179596803",
       "description": "Houston Christian University (Houston, TX)",
@@ -86,6 +102,14 @@
       "title": "Adjunct Professor - Christianity",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179596817",
       "description": "Houston Christian University (Houston, TX)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Advanced Associate/Full Professor in Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179620918",
+      "description": "Arizona State University - West Campus (Phoenix, AZ)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -134,6 +158,14 @@
       "title": "Assistant Professor Psychological Science",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179604072",
       "description": "University of North Georgia (Dahlonega, GA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179605695",
+      "description": "St. Ambrose University (Davenport, IA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -211,6 +243,14 @@
       "score": 2
     },
     {
+      "title": "Assistant Professor of Forensic Psychology",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179620533",
+      "description": "Western Illinois University (Macomb, IL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant Professor of Jewish Studies and Director of the Arnold Center for Israel Studies",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179619298",
       "description": "College of Charleston (Charleston, SC)",
@@ -230,6 +270,22 @@
       "title": "Assistant Professor of Psychology (Applied Behavior Analysis)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179594676",
       "description": "Louisiana State University in Shreveport (Shreveport, LA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychology (Applied)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179621155",
+      "description": "Metropolitan State University of Denver (Denver, CO)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Assistant Professor of Psychology (Developmental)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179621158",
+      "description": "Metropolitan State University of Denver (Denver, CO)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -451,6 +507,14 @@
       "score": 2
     },
     {
+      "title": "Assistant or Associate Professor of Psychology (Statistics and Research)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179620985",
+      "description": "Judson University (Elgin, IL)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant, Associate, or Full (Open Rank) Professor, Clinical PSY",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179606771",
       "description": "Western Kentucky University (Bowling Green, KY)",
@@ -523,6 +587,14 @@
       "score": 2
     },
     {
+      "title": "Assistant/Associate Professor, Department of Psychology & Counseling",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179598070",
+      "description": "Alcorn State University (Lorman, MS)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Assistant/Associate Professor, Psychology Prothro-Yeager College of Humanities & Social Sciences",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179595954",
       "description": "Midwestern State University (Wichita Falls, TX)",
@@ -579,6 +651,14 @@
       "score": 2
     },
     {
+      "title": "Clinical Assistant Professor - Psychologist GF1739",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179621527",
+      "description": "Oklahoma State University (Stillwater, OK)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Clinical Assistant Professor of Behavioral Health Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179617874",
       "description": "Carroll University (Waukesha, WI)",
@@ -628,7 +708,7 @@
     },
     {
       "title": "Clinical Psychology Postdoctoral Psychology Fellow- GF1738",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179603089",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179621576",
       "description": "Oklahoma State University (Stillwater, OK)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -756,8 +836,8 @@
     },
     {
       "title": "Lecturer",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179612554",
-      "description": "University of Colorado Denver (Denver, CO)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179620891",
+      "description": "Coastal Carolina University (Conway, SC)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -844,7 +924,7 @@
     },
     {
       "title": "Post Doc Research Associate",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179603910",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179619839",
       "description": "Purdue University (West Lafayette, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
@@ -920,6 +1000,14 @@
       "description": "Georgia Institute of Technology (Atlanta, GA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Postdoctoral Fellow in Computational Social Science, Innovation and Cultural Evolution",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179620812",
+      "description": "Harvard University (Cambridge, MA)",
+      "source": "HigherEdJobs",
+      "location": "Cambridge",
       "score": 2
     },
     {
@@ -1043,6 +1131,14 @@
       "score": 2
     },
     {
+      "title": "Psychology- Visiting Assistant Professor (Social Psychology)",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179620679",
+      "description": "Colby College (Waterville, ME)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Psychology: Visiting Assistant Professor in Clinical/Counseling Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179616590",
       "description": "University of Wisconsin - Eau Claire (Eau Claire, WI)",
@@ -1075,6 +1171,14 @@
       "score": 2
     },
     {
+      "title": "Research Associate",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179621140",
+      "description": "Virginia Commonwealth University (Richmond, VA)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
       "title": "Research Associate, Anesthesiology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179613779",
       "description": "University of Virginia (Charlottesville, VA)",
@@ -1088,6 +1192,14 @@
       "description": "Harvard University (Cambridge, MA)",
       "source": "HigherEdJobs",
       "location": "Cambridge",
+      "score": 2
+    },
+    {
+      "title": "Research Scientist",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179620486",
+      "description": "Howard University (Washington, DC)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
       "score": 2
     },
     {
