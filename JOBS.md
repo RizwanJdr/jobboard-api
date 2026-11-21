@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-11-20 16:00 UTC  
-**Total Positions:** 167
+**Last Updated:** 2026-11-21 15:13 UTC  
+**Total Positions:** 164
 
 ---
 
@@ -10,8 +10,8 @@
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
 | ★★★★☆ | 3 |
-| ★★★☆☆ | 4 |
-| ★★☆☆☆ | 160 |
+| ★★★☆☆ | 2 |
+| ★★☆☆☆ | 159 |
 
 ---
 
@@ -26,7 +26,7 @@
 - **[Instructional Professor of Psychology in MAPSS (Open Rank)](https://www.higheredjobs.com/details.cfm?JobCode=179621176)**  
   📍 Chicago | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (4)
+## ★★★☆☆ Moderate Communities (2)
 
 - **[Assistant Professor in Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179610637)**  
   📍 Melbourne | 🔗 HigherEdJobs
@@ -34,13 +34,7 @@
 - **[Associate or Full Professor of Counseling Psychology, Wheelock College](https://www.higheredjobs.com/details.cfm?JobCode=179600559)**  
   📍 Boston | 🔗 HigherEdJobs
 
-- **[Part Time Lecturer - Applied Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179593372)**  
-  📍 Boston | 🔗 HigherEdJobs
-
-- **[Part Time Lecturer - Applied Psychology - Applied Behavior Analysis (A](https://www.higheredjobs.com/details.cfm?JobCode=179593370)**  
-  📍 Boston | 🔗 HigherEdJobs
-
-## ★★☆☆☆ Other Locations (160)
+## ★★☆☆☆ Other Locations (159)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -123,7 +117,7 @@
 - **[Assistant Professor of Jewish Studies and Director of the Arnold Cente](https://www.higheredjobs.com/details.cfm?JobCode=179619298)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179615604)**  
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179622614)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology (Applied Behavior Analysis)](https://www.higheredjobs.com/details.cfm?JobCode=179594676)**  
@@ -132,7 +126,7 @@
 - **[Assistant Professor of Psychology (Applied)](https://www.higheredjobs.com/details.cfm?JobCode=179621155)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 130 more positions*
+*...and 129 more positions*
 
 ---
 
