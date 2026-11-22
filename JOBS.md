@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-11-21 15:13 UTC  
-**Total Positions:** 164
+**Last Updated:** 2026-11-22 15:10 UTC  
+**Total Positions:** 160
 
 ---
 
@@ -9,16 +9,13 @@
 
 | Muslim-Friendly Score | Count |
 |-----------------------|-------|
-| ★★★★☆ | 3 |
-| ★★★☆☆ | 2 |
-| ★★☆☆☆ | 159 |
+| ★★★★☆ | 2 |
+| ★★★☆☆ | 4 |
+| ★★☆☆☆ | 154 |
 
 ---
 
-## ★★★★☆ Large Muslim Communities (3)
-
-- **[Assistant Professor in Cognitive Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179594382)**  
-  📍 Chicago | 🔗 HigherEdJobs
+## ★★★★☆ Large Muslim Communities (2)
 
 - **[Assistant/Associate Professor of Theology (Position Two)](https://www.higheredjobs.com/details.cfm?JobCode=179610209)**  
   📍 Chicago | 🔗 HigherEdJobs
@@ -26,15 +23,21 @@
 - **[Instructional Professor of Psychology in MAPSS (Open Rank)](https://www.higheredjobs.com/details.cfm?JobCode=179621176)**  
   📍 Chicago | 🔗 HigherEdJobs
 
-## ★★★☆☆ Moderate Communities (2)
+## ★★★☆☆ Moderate Communities (4)
 
 - **[Assistant Professor in Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179610637)**  
   📍 Melbourne | 🔗 HigherEdJobs
 
+- **[Associate Professor/Professor and Director, Northeastern University Bi](https://www.higheredjobs.com/details.cfm?JobCode=179624523)**  
+  📍 Boston | 🔗 HigherEdJobs
+
 - **[Associate or Full Professor of Counseling Psychology, Wheelock College](https://www.higheredjobs.com/details.cfm?JobCode=179600559)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (159)
+- **[Postdoctoral Research Associate](https://www.higheredjobs.com/details.cfm?JobCode=179624528)**  
+  📍 Boston | 🔗 HigherEdJobs
+
+## ★★☆☆☆ Other Locations (154)
 
 - **[(Non-Tenure-Track) Lecturer Position in the School of Psychological an](https://www.higheredjobs.com/details.cfm?JobCode=179596245)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -120,13 +123,13 @@
 - **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179622614)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology (Applied Behavior Analysis)](https://www.higheredjobs.com/details.cfm?JobCode=179594676)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor of Psychology (Applied)](https://www.higheredjobs.com/details.cfm?JobCode=179621155)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 129 more positions*
+- **[Assistant Professor of Psychology (Developmental)](https://www.higheredjobs.com/details.cfm?JobCode=179621158)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 124 more positions*
 
 ---
 

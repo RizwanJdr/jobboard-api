@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-21T15:12:39.725648+00:00",
-  "count": 164,
+  "updated": "2026-11-22T15:09:41.758897+00:00",
+  "count": 160,
   "jobs": [
-    {
-      "title": "Assistant Professor in Cognitive Psychology",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179594382",
-      "description": "Northeastern Illinois University (Chicago, IL)",
-      "source": "HigherEdJobs",
-      "location": "Chicago",
-      "score": 4
-    },
     {
       "title": "Assistant/Associate Professor of Theology (Position Two)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179610209",
@@ -35,9 +27,25 @@
       "score": 3
     },
     {
+      "title": "Associate Professor/Professor and Director, Northeastern University Biomedical Imaging Center",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179624523",
+      "description": "Northeastern University (Boston, MA)",
+      "source": "HigherEdJobs",
+      "location": "Boston",
+      "score": 3
+    },
+    {
       "title": "Associate or Full Professor of Counseling Psychology, Wheelock College of Education and Human Development",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179600559",
       "description": "Boston University (Boston, MA)",
+      "source": "HigherEdJobs",
+      "location": "Boston",
+      "score": 3
+    },
+    {
+      "title": "Postdoctoral Research Associate",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179624528",
+      "description": "Northeastern University (Boston, MA)",
       "source": "HigherEdJobs",
       "location": "Boston",
       "score": 3
@@ -267,14 +275,6 @@
       "score": 2
     },
     {
-      "title": "Assistant Professor of Psychology (Applied Behavior Analysis)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179594676",
-      "description": "Louisiana State University in Shreveport (Shreveport, LA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Assistant Professor of Psychology (Applied)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179621155",
       "description": "Metropolitan State University of Denver (Denver, CO)",
@@ -326,14 +326,6 @@
       "title": "Assistant Professor of Psychology or Human Services (Tenure Track)",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179615832",
       "description": "Gordon State College (Barnesville, GA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor of Psychology, Non-Tenure Track - College of Arts and Sciences",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179594345",
-      "description": "Ashland University (Ashland, OH)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -414,14 +406,6 @@
       "title": "Assistant Professor, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179606281",
       "description": "Contra Costa Community College District (Martinez, CA)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Assistant Professor, Tenure- Track",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179594750",
-      "description": "University of Indianapolis (Indianapolis, IN)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1011,14 +995,6 @@
       "score": 2
     },
     {
-      "title": "Postdoctoral Research Associate in Religion and the Work of Repair",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179594418",
-      "description": "University of Notre Dame (Notre Dame, IN)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
       "title": "Postdoctoral Research Associate, Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179609646",
       "description": "The University of Arizona (Tucson, AZ)",
@@ -1070,6 +1046,14 @@
       "title": "Professor",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179605757",
       "description": "Purdue University (West Lafayette, IN)",
+      "source": "HigherEdJobs",
+      "location": "Unknown",
+      "score": 2
+    },
+    {
+      "title": "Psych Adjunct Instructor/Adjunct Assistant Professor",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179624542",
+      "description": "St. John&#x27;s University (Jamaica, NY)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
@@ -1160,14 +1144,6 @@
       "description": "University of Virginia (Charlottesville, VA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Research Fellow in Global Mental Health Implementation Science",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179594057",
-      "description": "Harvard University (Cambridge, MA)",
-      "source": "HigherEdJobs",
-      "location": "Cambridge",
       "score": 2
     },
     {
@@ -1294,14 +1270,6 @@
       "title": "Visiting Assistant Professor of Psychology",
       "url": "https://www.higheredjobs.com/details.cfm?JobCode=179623656",
       "description": "Union College - Schenectady, NY (Schenectady, NY)",
-      "source": "HigherEdJobs",
-      "location": "Unknown",
-      "score": 2
-    },
-    {
-      "title": "Visiting Professor in Catholic Theological Ethics (Two-Year Appointment, Non-Tenure Track)",
-      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179594595",
-      "description": "Franciscan School of Theology (San Diego, CA)",
       "source": "HigherEdJobs",
       "location": "Unknown",
       "score": 2
