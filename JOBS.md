@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-11-24 18:46 UTC  
-**Total Positions:** 148
+**Last Updated:** 2026-11-25 17:54 UTC  
+**Total Positions:** 153
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 2 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 142 |
+| ★★☆☆☆ | 147 |
 
 ---
 
@@ -37,7 +37,7 @@
 - **[Postdoctoral Research Associate](https://www.higheredjobs.com/details.cfm?JobCode=179624528)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (142)
+## ★★☆☆☆ Other Locations (147)
 
 - **[ASSISTANT PROFESSOR PSYCHOLOGY (Tenure-Track)](https://www.higheredjobs.com/details.cfm?JobCode=179622105)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -49,6 +49,9 @@
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Adjunct Lecturer, Applied Behavior Analysis](https://www.higheredjobs.com/details.cfm?JobCode=179620993)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Adjunct Professor - Psychology 900116](https://www.higheredjobs.com/details.cfm?JobCode=179625950)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Advanced Associate/Full Professor in Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179620918)**  
@@ -108,7 +111,7 @@
 - **[Assistant Professor of Jewish Studies and Director of the Arnold Cente](https://www.higheredjobs.com/details.cfm?JobCode=179619298)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179622614)**  
+- **[Assistant Professor of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179626028)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor of Psychology (Applied)](https://www.higheredjobs.com/details.cfm?JobCode=179621155)**  
@@ -126,10 +129,7 @@
 - **[Assistant Professor of Psychology - Developmental/Clinical](https://www.higheredjobs.com/details.cfm?JobCode=179624047)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Psychology - Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179604382)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
-*...and 112 more positions*
+*...and 117 more positions*
 
 ---
 
