@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-11-25 17:54 UTC  
-**Total Positions:** 153
+**Last Updated:** 2026-11-26 17:39 UTC  
+**Total Positions:** 156
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 2 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 147 |
+| ★★☆☆☆ | 150 |
 
 ---
 
@@ -37,7 +37,7 @@
 - **[Postdoctoral Research Associate](https://www.higheredjobs.com/details.cfm?JobCode=179624528)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (147)
+## ★★☆☆☆ Other Locations (150)
 
 - **[ASSISTANT PROFESSOR PSYCHOLOGY (Tenure-Track)](https://www.higheredjobs.com/details.cfm?JobCode=179622105)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -69,7 +69,7 @@
 - **[Assistant Director of Health Curriculum Advising and Lecturer](https://www.higheredjobs.com/details.cfm?JobCode=179607490)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179616582)**  
+- **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179627848)**  
   📍 Unknown | 🔗 HigherEdJobs
 
 - **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179598638)**  
@@ -129,7 +129,7 @@
 - **[Assistant Professor of Psychology - Developmental/Clinical](https://www.higheredjobs.com/details.cfm?JobCode=179624047)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 117 more positions*
+*...and 120 more positions*
 
 ---
 
