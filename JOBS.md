@@ -1,7 +1,7 @@
 # 🎓 Math PhD Job Listings
 
-**Last Updated:** 2026-11-26 17:39 UTC  
-**Total Positions:** 156
+**Last Updated:** 2026-11-27 17:21 UTC  
+**Total Positions:** 151
 
 ---
 
@@ -11,7 +11,7 @@
 |-----------------------|-------|
 | ★★★★☆ | 2 |
 | ★★★☆☆ | 4 |
-| ★★☆☆☆ | 150 |
+| ★★☆☆☆ | 145 |
 
 ---
 
@@ -37,7 +37,7 @@
 - **[Postdoctoral Research Associate](https://www.higheredjobs.com/details.cfm?JobCode=179624528)**  
   📍 Boston | 🔗 HigherEdJobs
 
-## ★★☆☆☆ Other Locations (150)
+## ★★☆☆☆ Other Locations (145)
 
 - **[ASSISTANT PROFESSOR PSYCHOLOGY (Tenure-Track)](https://www.higheredjobs.com/details.cfm?JobCode=179622105)**  
   📍 Unknown | 🔗 HigherEdJobs
@@ -72,9 +72,6 @@
 - **[Assistant Professor](https://www.higheredjobs.com/details.cfm?JobCode=179627848)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor - Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179598638)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor - Psychology (Tenure-track)](https://www.higheredjobs.com/details.cfm?JobCode=179602958)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -102,9 +99,6 @@
 - **[Assistant Professor of Clinical Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179608997)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-- **[Assistant Professor of Cognitive Psychology - Department of Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179599021)**  
-  📍 Unknown | 🔗 HigherEdJobs
-
 - **[Assistant Professor of Forensic Psychology](https://www.higheredjobs.com/details.cfm?JobCode=179620533)**  
   📍 Unknown | 🔗 HigherEdJobs
 
@@ -129,7 +123,13 @@
 - **[Assistant Professor of Psychology - Developmental/Clinical](https://www.higheredjobs.com/details.cfm?JobCode=179624047)**  
   📍 Unknown | 🔗 HigherEdJobs
 
-*...and 120 more positions*
+- **[Assistant Professor of Psychology - Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179604382)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+- **[Assistant Professor of Psychology -- Tenure Track](https://www.higheredjobs.com/details.cfm?JobCode=179592277)**  
+  📍 Unknown | 🔗 HigherEdJobs
+
+*...and 115 more positions*
 
 ---
 
